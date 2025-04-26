@@ -1,0 +1,5 @@
+---
+permalink: Destruction of a different instrument on each track, each one exploring…
+---
+<span style="color:#000ff;">Destruction of a different instrument on each track, each one exploring a detested feature of myself, with matching samples and ambient noise accompaniment to tell the story of each character flaw and its roots. The collection of recordings come together to make a concise audio analogy of my experience with self harm and attempted suicide. The final track will feature a piano being destroyed, followed by the previous instruments and harsh noise, building to crescendo, then silence, and the sound of a single melody being played on the broken piano.</span>
+<span style="color:#000ff;">The repulsive and reckless nature of destroying an instrument goes a long way to evoke a negative response in the pit of the stomach of the listener, allowing them to truly listen to the accompanying samples and noise with relevant emotional context.</span>

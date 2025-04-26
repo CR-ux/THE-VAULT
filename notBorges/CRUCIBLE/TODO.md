@@ -1,0 +1,25 @@
+---
+permalink: TODO
+---
+- [ ] FINAL APP REPORT - end of month
+- [x] LAUNDRY
+- [ ] Low table for record player 
+- [ ] Art for walls: cut up photos from phlegm magazine; commission goth print from Megan; 
+- [ ] Small Frames 
+- [ ] Surgical tape 
+- [x] Surgical spirit 
+- [ ] APPLY FOR PERFORMANCE FESTIVALS USING LINK https://contemporaryperformance.com/festivals/
+- [x] BLACK DUCT TAPE / thick tape for edi performance 
+- [x] Submit EOI app 
+- [x] Pick up decapeptyl 
+- [x] Gilla tix
+- [x] Get more coffee 
+- [x] Extension cable at least 3plug 
+- [x] Body moisturiser 
+- [x] Eyeliner 
+- [x] Coffee
+- [x] Medical adhesive remover
+- [x] Invoice to homografia 
+- [x] APPLY FOR ACT FESTIVAL 
+- [ ] Monitors 
+- [ ] WIKIPEDIA PAGE

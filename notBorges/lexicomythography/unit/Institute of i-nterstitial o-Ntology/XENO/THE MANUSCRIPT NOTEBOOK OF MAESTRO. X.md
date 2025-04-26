@@ -1,0 +1,23 @@
+---
+permalink: THE MANUSCRIPT NOTEBOOK OF MAESTRO. X
+---
+**-THE METAPHYSICAL HORROR ARC** 
+- Maestro X = Perigee --> Xeno N. 
+- ~~Prologue - Perigee helping to develop their own corneal implant in Myo's Treehouse lab, which itself has no roof, "so they can see the stars"~~
+	- ~~Perhaps by this point, the 'honeymoon (Bee connection)' period of Selena and Myo has clearly ended, and He spends the majority of his time in the treehouse in the backgarden, which is actually just unfinished, but he has devised a narrative of 'looking at the stars' *(We are all in the Gutter, but some of us are looking at the stars)* to give the facade of wanting something that was born of his own laziness/insufficiency~~ 
+- Opening - *Queering Mahler's Symphonies* - a Red Herring podcast which actually provides the 'finishing' of Mahler's Tenth - Derived from their corneal implant; but their self-doubt (and subconscious mistrust of their Father's motivations behind the eye implant) leads them to believe they must 'hide' this composition within the more accesible framework of a Podcast on the finished Nine Symphonies {which themselves are correlated to the Ligeities of the Ennead; NEAR}
+	- 'Maestro (Mo.) X' is a concert pianist and conductor, who is not yet out as Intersex, but lives as a 'closeted nonbinary person' - showing this shifted evolution of reality, where nonbinary people are accepted and social transition is revered over physical characteristics and hormonal/surgical transition (a reversal of transmedicalism)
+- The Wiltergarten of Trifurcated Paths - Two narrative paths which both converge on the Surgical Theatre Performance with VHS tape loops 
+	- Path A - Grant for podcast is accepted, Wiltergarten's identity is not unveilled, but Perigee adopts a legal name change to Xeno N. 
+	- Path B - grant for podcast is rejected, Wiltergarten's identity is unveiled, but Perigee only adopts the *moniker* Xeno N for their performances.
+	- Path C (convergence, written in second person, jarring and uncomfortably intimate, implicates the reader as observer) - The operating theatre performance that causes the collapse of Xeno's body to a single eye, resulting in either:
+		- Only Left Eye remaining
+		- Only Right Eye remaining
+- Wiltergarten's Gordian Gnotation - 23 pitch microtonal scale discovered by Endivean analysis of Wiltergarten's Medieval Manuscripts / Staves 
+	- This discovery also allows Xeno to unveil (whether communicated or not) Wiltergarten's Intersex Identity, which She/They tried to express through the 'hidden' cipher within the tuning system, during a time when Intersex Identity was neither recognised nor validated.
+		- Xeno is a direct 'Descendent' of Wiltergarten, and is perhaps also Intersex.
+	- Myo's obsessive legacy of Twenty Three is continued, through the medium of microtonality (as opposed to Tarot & chromosomal analysis)
+- My Name is Gnot Perigree, My Name is- Xeno N. 
+	- Xeno - stranger, foreigner (foreign body- corneal implant, transgender body, IVG conception)
+- CopняKoпя - Corneal implant, made form Endivean technology, a more refined FFF, only person to have it in the world.
+- 'Sacrifice' of Right Hand (or Left, depending on Forking Path)

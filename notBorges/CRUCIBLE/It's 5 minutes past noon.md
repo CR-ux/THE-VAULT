@@ -1,0 +1,45 @@
+---
+permalink: It's 5 minutes past noon
+---
+<span style="color:#000ff;">It's far too soon</span> 
+<span style="color:#000ff;">To be smelling your clothes</span> 
+<span style="color:#000ff;">You only left</span> 
+<span style="color:#000ff;">A space in my chest</span> 
+<span style="color:#000ff;">Three hours ago</span> 
+<span style="color:#000ff;">Now I can't stop inhaling through my nose</span> 
+<span style="color:#000ff;">In case the smell of you goes</span> 
+<span style="color:#000ff;">So pungent</span> 
+<span style="color:#000ff;">And repugnant</span> 
+<span style="color:#000ff;">How I love it so</span> 
+<span style="color:#000ff;">There's no way of knowing</span> 
+<span style="color:#000ff;">If my spots are showing</span> 
+<span style="color:#000ff;">When I'm out the house</span> 
+<span style="color:#000ff;">I would really like to be going</span> 
+<span style="color:#000ff;">Now to be back there somehow</span> 
+<span style="color:#000ff;">In my old house</span> 
+<span style="color:#000ff;">In our old house</span> 
+<span style="color:#000ff;">It's 5 minutes to 2</span> 
+<span style="color:#000ff;">Three days just flew</span> 
+<span style="color:#000ff;">Right by</span> 
+<span style="color:#000ff;">It barely rains in July</span> 
+<span style="color:#000ff;">But when you took to the skies</span> 
+<span style="color:#000ff;">They opened, and so did my eyes</span> 
+<span style="color:#000ff;">Every repulsive thing I'd said or done to you</span> 
+<span style="color:#000ff;">Was put on display in frames all hanging in my room</span> 
+<span style="color:#000ff;">That somehow still smells of you</span> 
+<span style="color:#000ff;">Wish I had some money</span> 
+<span style="color:#000ff;">So I could fly home too</span> 
+<span style="color:#000ff;">Wherever it is it's with you</span> 
+<span style="color:#000ff;">I started talking to myself today</span> 
+<span style="color:#000ff;">Because I still have things to say</span>
+<span style="color:#000ff;">But no-one really gets the way</span> 
+<span style="color:#000ff;">My mind is turned inside out</span> 
+<span style="color:#000ff;">And back to front and upside down</span> 
+<span style="color:#000ff;">Except for you you always knew</span> 
+<span style="color:#000ff;">How to stop me coming unglued</span> 
+<span style="color:#000ff;">Even past tense hurts so much</span> 
+<span style="color:#000ff;">My fingers will wilt if I don't touch</span> 
+<span style="color:#000ff;">The space where your ribs kiss your spine</span> 
+<span style="color:#000ff;">All the falling pink stars align</span> 
+<span style="color:#000ff;">And you're the other side of the dome</span> 
+<span style="color:#000ff;">And I'm screaming I miss you, my love, my only home</span>

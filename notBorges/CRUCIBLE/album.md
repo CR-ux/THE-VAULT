@@ -1,0 +1,11 @@
+---
+permalink: album
+---
+- esmeralda 
+- melt the igloo?
+- the girl i am 
+- falling, leaves 
+- F is for?
+- double yellow lines 
+- big death energy 
+- Tinky Winky

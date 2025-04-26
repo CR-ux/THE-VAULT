@@ -1,0 +1,11 @@
+---
+permalink: <% tp.file.title %>
+---
+- the medium is the wreckage / constantly failing
+	- RADIO SHOW
+- VISIONS FROM THE CROW IN THE PINSTRIPE SUIT 
+- *Red, Ring, Parallel*
+	- EPISTOLARY ACCOUNT OF TIME IN HOSPITAL - 'FOUND'- ANONYMOUS
+- NOTES PAGES FROM PREVIOUS PHONES
+- "DEAD" MALE SELF. 
+	- UNFINISHED DIARY ENTRIES , SCANNED, RAW, PERHAPS BURNED 

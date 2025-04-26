@@ -1,0 +1,11 @@
+---
+permalink: Today 15
+---
+- [x] Scrabble reg 
+- [x] Nationwide photo setup 
+- [ ] Bathroom trash 
+- [ ] Set up scrabble discord 
+- [ ] Shower before mon arrives 
+- [x] Dishes 
+- [ ] Send Jem 30 back 
+- [x] Add spend to budget March

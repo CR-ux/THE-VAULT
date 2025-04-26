@@ -1,0 +1,10 @@
+---
+permalink: Æ-Æcademy of Æschertology
+---
+**VI:** 
+			**LayerÆ:** Selena Elk[^S] (Transfeminine, Hermetic Memory ability) and Myon Endive(Cis male, Quantum Prophecy ability)  are in (mostly email) correspondence, Selena is pregnant with "Perigee" via IVG {parthenogenesis tie-in} but stranded in an outer hebridean island (during pandemic outbreak of Phage 23) at a stone circle thar her hermetic memory 'showed' her, in order to reconnect with her erased celtic ancestral lineage.  the two are writing numerous papers on Antisocial Anthropology, Agender Studies, Aesthetic Hermeneutics (in noeneoclassical art), Tarot (the two of them develop a Hexagonal Tarot Spread based in my Alchemical knot theory) , Noeneoshamanism, Geonoemonics, and Bughouse Modal Chess Theory. Myon’s development of a bioinformatic algorithm  for determining a genome’s current “state” inadvertently leads to the invention of the “Fare Well Device” which is essentially a D (Delta) shaped Vice, attached to any other object, which through mitred bombardment with a sufficiently high enough P-value of nanomechanical “observers”, causes the collapse of its wave function of future potentiality and previous inventor’s intent, into a single object, which may be very different to the object’s mode of perception prior. Once subjected to the intentiocausality collapse however, the object is a “neotyped” object, in that before this device’s invention, no [[Thing]] could ever be contained in its potential. Myo's interest in Art Critique leads him to use the device for the first time on David's painting 'Minerva Fighting Mars', which collapses it to its original 'intent', a harrowing picture of Mars succumbing to bulimia before a date with Minerva (not pictured at all[^a]), and S&M re-name the painting "Minerva Fighting Herself"[^f]. 
+# Chronography
+
+[^a]: [[MARS FIGHTING MINERVA An Exploration of Gendered Deities and Oil Painting Through The Lens Of The Woman In The Wallpaper's 'Red, Ring, Parallel' (Year Unknown)]] - S & M Endive. 2025.
+[^f]: [[MIKKÆLANGELOVS DAVID - painter of Minerva Fighting Herself]] - notBorges, 1994.
+[^S]: [[SELENA]], [[THE LAB CODEX OF MYO ENDIVE]], 2022.

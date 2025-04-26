@@ -1,0 +1,4 @@
+---
+permalink: Best
+---
+see [[FIRST]]

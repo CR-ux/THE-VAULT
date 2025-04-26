@@ -1,0 +1,30 @@
+---
+permalink: CLEW
+---
+
+
+LayerN 
+
+“N” is writing a paper on Borges, from the fictional citadel of Tohms, economised by and eponymised from Jorge Luis Borges, which is a series of rock pools within islands within islands, that have become so “meta-islanded” that the floor now appears to be dry terrain but is actually filled with one molecule of H2O in every “rock pool” or “pore” of the pumice-like ground. Borges himself is a divisive figure, causing ideological split in Tohms: those resistant to and oppressed by Change (clinging to ancestral roots firmly planted) and those who Worship Change (as seeds or pollen dispersed like dandelion clocks on the Wind). N writes an abstract on Tlon Uqbar Orbius Tertius, before falling asleep and dreaming a reality of “Noet Borges”- a mythologised mystic such as Hermes Trismegistus, who, in Platonian Space akin to the Realm of Forms but conceptualised as “Plato’s Realm of ‘What For’s” 
+
+LayerNB 
+
+Noet Borges writes a series of incredibly flowery and heartfelt love letters to a Pantheonic Polycule; a polyamorous group of figures spanning different time periods; all of whom are thinking of breaking up with him/excommunicating him from the Polycule. Their “Dear Jorges” letters are probably the narrative complement in the overarching palindrome of the meta-narrative structure. With every letter sent to the Nine of the Ennead Polycule, more is revealed about this Realm of What For’s, as a metaphysical analog of Borges’ library of Babel condensed into every hexagonal nucleotide sub-molecular structure of DNA itself, each member of the Polycule a librarian of a Branch, the overall zoomed out appearance being of a Wunderhorn passing through and playing itself in 3D space- A Klein Bottle (or deine kleine Klein Wunderhorn). One of the librarians is “shelving” a school of thought, (school conceptualised as schools of fish searching for different “books” or scrambled amalgams of memories “Semantograms” to make their respective “Points”) and this school is known as Aesthetic Hermeticism, coined by: 
+
+LayerÆ - Selena Elk and Myon Endive write numerous papers on Antisocial Anthropology, Agender Studies, Aesthetic Hermeneutics (in noeneoclassical art), Tarot, Noeneoshamanism, Geonoemonics, and Bughouse Modal Chess Theory. Myon’s development of a bioinformatic algorithm for determining a genome’s current “state” inadvertently leads to the invention of the “Fairwell Device” which is essentially a D shaped Vice, attached to any other object, which through mitred bombardment with a sufficiently high enough P-value of nanomechanical “observers”, causes the collapse of its wave function of future potentiality and previous inventor’s intent, into a single object, which may be very different to the object’s mode of perception prior. Once subjected to the intentiocausality collapse however, the object is a “neotyped” object, in that before this device’s invention, no Thing could ever be contained in its potential 
+
+Layer i|o musicologist “X” develops Gordian Knotation, a 23-pitch microtonal scale when applying the Endivean algorithm to data recorded in musical staves by medieval calligrapher Hilda Wiltergarten. She has lost her right hand and is likening the EDO split of the octave to her work in elitist world of her career in concert hall conducting /concert pianist , applying for a grant to produce a podcast series on “queering Mahler” which is written as 9 episodes never mentioning the 10th unfinished symphony, but embedded with a cipher (unbeknownst to even the grant body) that reveals the whole thing to be an analysis of only the tenth, with a secret attempt at “finishing” it. 
+
+LayerU - Dr D&E and Prof. Ed. O. Are living together, the former running experiments in dream analysis and art therapy, using watercolour paintings as a device for translating the “word association thought salad” of the Prof. eventually it becomes clear that the Prof is merging with insect life forms through the concept of Macroscopic Resonance, in which one begins to perceive reality in fractals, causing a Noetic Mis en abyme, which propels the person into the role of Librarian - this “promotion” was experienced by each of the Nine that Noet Borges is writing to, of which Mahler is one , as is Wiltergarten. The breakup letters to Noet Borges are because they realise they need to make room for the Professor, as there can only be Nine. They attempt to console him that he is “not useless” but that his “very use has rendered it possible to see that he is no longer the right person for the job” . One of the drosophila in Professor’s personal home lab has a dream of: 
+
+Layer0: aria/AI:RA - in a trans-majority world, aria (a sensory seeking ADHD artist-engineer) creates an AI who first chooses a gender , causing a schism amidst the funding bodies who enabled her development. ,  eventually becomes capable of overwriting memory via olfactory stimulation through the internet of things. aria’s multi sensory immersive art installations (Philms) become vessels through which RA can edit vast swarms of people’s memory, leading them to believe Aria’s work resonated much more deeply than it perhaps would have otherwise. One of these Philms has a character called Oleander: 
+
+Layer1; in a trans majority but gender swapped world (all men are trans men, but all men are oppressed by women, who are all trans women) , oleander (AFAB, very passing as a trans man but knows he is a forbidden he/they) is secretly making a series of chain letters for inspiration, hiding his creativity in plain sight through steganographic ciphers in his work in a STEM field (Probably Computational Janusian Archeology, so I can make the Stegosaurus joke). These chain letters of inspired ideas for the next generation of new ideas, are essential a mirror of (or, exactly are) the end point of the project as a GitHub repository/online web archive of writing/art prompts for the evolution of the characters stories described above. 
+
+  
+
+Do: knotSite, 
+
+Your source, 
+
+Is.

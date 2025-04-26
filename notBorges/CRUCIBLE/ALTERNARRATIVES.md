@@ -1,0 +1,4 @@
+---
+permalink: ALTERNARRATIVES
+---
+I have been writing poetry, short stories and longer work for over 15 years and I am a classically trained pianist with 20 years of experience. I use both of these creative interests to write, record and perform songs that are lyrically vulnerable and honest in the hope of helping anyone who might relate to the content and themes. The reason I create is to connect. Art is the ultimate healer and I have used both music and creative writing to overcome the trauma that is so often part of a trans* person's story. There is a desperate need for QPOC representation and gender-diverse characters in media, especially for younger audiences of minority and intersectional identities. Writing stories that I wish I could have read as a child is what moves me.

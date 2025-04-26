@@ -1,0 +1,58 @@
+---
+permalink: say what you mean
+---
+
+say, what do you mean?
+
+say what?
+Do you mean "say what you mean"?
+
+I've been meaning to say what we have meant to me.
+I meant to say: I had this horrific dream where I was eating at the top of this restaurant that was as tall as the Tower of Babel but even more likely to be toppled by God; 
+
+I mean to say how mean you were to me. Not in the dream, but I {do}n't know-- 
+Deserving isn't what I mean to say, I'm far beyond any meaningful words we could have said, to try {to | and} make meaning from all our tangled, warbled, memory intersections-
+I'm mean to say:
+That it's quite possible, really, that I mean to say it, at least, in the least mean and realest way possible; quiet, that it is - 
+
+I am. I am meaning. 
+
+That's what I say. 
+And whether I remember it or not, I will, all ways, be Meaning. 
+Something.  
+
+Remembering your hair in the morning,
+Remembering you rubbing your fingers in concentric birds nest circles {to drop small offerings of sesame seeds | rock salt on the plate you topped with food for me about to make me very happily in pain| with lube or your spit between them about to make me very happily} I have been so very much {in pain} before you topped {the{m|e}}
+
+
+Quite a Lot, actually, 
+or maybe {t}his {as}sa{u}lt{ed} pill{a}(r|ged) {dissolving knot | not tiny | not even | bite-sized | left, without {an} Other} wife 
+
+And finally, I am. 
+the Sky
+Finally, I, Filth, Source: [[BORN TO BE THE SKY]] MEANing. I [[MEAN]]: [[The Great Wh{{{o}r}{chest}{Ra}}e]] , [[Chest]], [[notBorges/aria-dne/Chess And all the Stitches of the Cloth(Es)]] which clothe
+What I Say. 
+
+And I am, most meaningfully, 
+Saying what I mean - as in, 
+I am speaking my Worth, in all its confusing, verbose languages 
+of endlessness | {endless|empti}|nesses}
+
+an emptiness of characters to forgive  
+
+
+for giving 
+for giving is a fallacy 
+for giving everything was never enough 
+for giving me the ending i foresaw, forewarned, foreshadowed [[KELPIE n. (in Celtic folklore) a water spirit capable of transfiguration…]]
+
+for giving has taken every thing
+{in},
+a way 
+{out}
+
+
+:::Characters:::
+- forgive the characters
+ - forgive 
+ - "forgiving the characters" is defined in the lexicomythographer's dictionary as an urging, gentle reminder {like a lover blowing air onto one's eyelids to wake them} to ackowledge and account for the insufficiency of language {or characters} as a{n opened letter | door | adoring wreck | medium, burned upon her own | mistaken | message} medium of communic{Æ}t{i|o}n, {U}nderstanding that simply trying to express the ineffable sense of loneliness we all feel is actually the only way we, each of us, has to not feel so alone [['to forgive the characters'. a lexicomythographic prodverb]]

@@ -1,0 +1,44 @@
+---
+permalink: <% tp.file.title %>
+---
+ONE:
+THE LANDING NET 
+*of arachnian selch rows to falls* 
+
+or
+
+
+ARIA|DNE
+
+Arborescent Research Institute for Ancestry of Dialectical Noeneonymous Epistemiology
+
+
+
+THREE:
+
+CODER: C. PETAL
+CREATIVE: CARPVS MORTVVM / lonely carp
+CONTEMPLATIVE: Anonymous (deceased)
+
+
+
+
+
+
+
+
+- GENOMICIST
+- BIOINFORMATICIAN 
+- SOFTWARE ENGINEER
+	- AI CHARACTER MADE BY THE ENGINEER
+- LINGUIST / COMPETITIVE SCRABBLE PLAYER
+- PHILOSOPHER
+- PSYCHIATRIST / DOCTOR 
+- ROLLERCOASTER DESIGNER 
+- CONCERT PIANIST 
+- MUSIC THEORIST 
+- MATHEMATICIAN / GEOMETER 
+- QUANTUM / PARTICLE PHYSICIST 
+- MI5 agent
+
+

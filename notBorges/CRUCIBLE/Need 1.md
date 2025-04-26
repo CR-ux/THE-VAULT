@@ -1,0 +1,11 @@
+---
+permalink: Need 1
+---
+- [ ] Record player 
+- [ ] Mini skirts
+- [ ] Ear piercing
+- [ ] New glasses 
+- [ ] Lightbulbs 
+- [x] Jewellery 
+- [x] Eyeliner 
+- [x] Fairy lights

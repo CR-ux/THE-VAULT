@@ -1,0 +1,5 @@
+---
+permalink: <% tp.file.title %>
+---
+
+
