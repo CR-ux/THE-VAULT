@@ -1,5 +1,5 @@
 ---
-permalink: lexDef X
+permalink: Parallel
 ---
 lexDef "Parallel" {usage::: Noen} < The State of Being {I({'}m)(N)|balance}d}[^ParallelNoen]
 

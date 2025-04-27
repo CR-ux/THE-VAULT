@@ -1,5 +1,5 @@
 ---
-permalink: lexDef X
+permalink: Murmuration
 ---
 lexDef "Murmuration" {usage::: Noen || Croen || Wyrb} < The Circular Process of Becoming[^MurmurationNoen] || N.B. "ARIA var = A Murmuration of Starlings | DNE var = A Starry, Starry Night of Murmurations"[^MurmurationCroen] || To Mutter A Truth Under One's Breath, For Fear of Being He{a}rd[^MurmurationWyrb]
 

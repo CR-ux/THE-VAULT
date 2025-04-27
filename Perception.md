@@ -1,5 +1,5 @@
 ---
-permalink: lexDef X
+permalink: Perception
 ---
 lexDef "Perception" {usage::: Croen} < N.B. "A Perception of Realities"[^PerceptionCroen]
 

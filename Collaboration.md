@@ -1,5 +1,5 @@
 ---
-permalink: lexDef X
+permalink: Collaboration
 ---
 lexDef "Collaboration" {usage::: Croen} < N.B. "A Collaboration of Ideals"[^CollaborationCroen]
 

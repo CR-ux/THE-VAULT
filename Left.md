@@ -1,5 +1,5 @@
 ---
-permalink: lexDef X
+permalink: Left
 ---
 lexDef "Left" {usage::: Wyrb} < To Be Remaindered.[^LeftWyrb]
 

@@ -1,5 +1,5 @@
 ---
-permalink: lexDef X
+permalink: Tautology
 ---
 lexDef "Tautology" {usage::: Noen || Croen} < ARIA var = formal, logical truth, in which a proposition necessarily affirms itself, or a phrase or expression in which the same thing is said twice in different words. | DNE var = a statement that is true by necessity or by virtue of its logical form, or a tool of emphasis that bludgeons the receiver with a repeating sentiment in order to ensure the transmission of the statement in question is expressed again and again and again and again and again and again[^a].[^TautologyNoen] || N.B. "ARIA var = A Tautology of Toroids | DNE var = A Typhoon of Tautologies"[^TautologyCroen]
 

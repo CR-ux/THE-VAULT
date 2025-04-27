@@ -1,5 +1,5 @@
 ---
-permalink: lexDef X
+permalink: Hurricane
 ---
 lexDef "Hurricane" {usage::: Wyrb} < To Expedite a Fratricide[^HurricaneWyrb]
 

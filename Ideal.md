@@ -1,5 +1,5 @@
 ---
-permalink: lexDef X
+permalink: Ideal
 ---
 lexDef "Ideal" {usage::: Croen} < N.B. "An Ideal of Ordeals"[^IdealCroen]
 

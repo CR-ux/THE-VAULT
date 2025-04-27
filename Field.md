@@ -1,5 +1,5 @@
 ---
-permalink: lexDef X
+permalink: Field
 ---
 ---
 permalink: lexDef X

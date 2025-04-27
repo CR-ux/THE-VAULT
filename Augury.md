@@ -1,6 +1,6 @@
 
 ---
-permalink: lexDef X
+permalink: Augury
 ---
 lexDef "Augury" {usage::: Noen || Wyrb || Croen} < {REDACTED}[^AuguryNoen] || {REDACTED}[^AuguryWyrb] || N.B. "{REDACTED}"[^AuguryCroen]
 

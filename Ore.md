@@ -1,5 +1,5 @@
 ---
-permalink: lexDef X
+permalink: Ore
 ---
 lexDef "Ore" {usage::: Noen} < The Prima Materia of the Macrocosm[^OreNoen]
 
