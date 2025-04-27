@@ -152,7 +152,7 @@ Bibliogrætiography
 [^y]: lexDef "Augury" {usage::: Noen || Croen} < Meaning Drawn From The Flight And Cries Of Birds. Another Term for the y-axis, or 'Bird's Eye View'[^AuguryNoen] || A collection of Winged Consciousnesses. N.B. The Collective Landscape Perceived by a Murmuration of Birds.[^AuguryCroen]
 
 [^AuguryNoen]: [[Why?]], The Woman In The Wallpaper feat. notBorges, Date Unknown
-[^AuguryCroen]: [[Murmuration]], Hildr Wiltergarten, 1616. 
+[^AuguryCroen]: [[notBorges/CRUCIBLE/MURMURATION]], Hildr Wiltergarten, 1616. 
 [^Rizq]: "Rizq" { usage::: Noen || prodverb } > A {Given|Taken} {Name|Theological Concept|Divine Gift}.[^source]
 [^source]: Do [[Knot]] Site, Your Source: [Is.](The concept of rizq is so beautiful. Even when you eat a piece of fruit, it was always written for you. From the moment it grew from a tree, it went through all these people and travelled all this way until it was in your hands. It was always meant to be yours.)
 [^NBNB]: [[NotBorges]]
