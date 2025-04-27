@@ -30,7 +30,7 @@ jobs:
 
       - name: Commit and push index.json
         run: |
-          git config --local user.email "your-email@example.com"
+          git config --local user.email "lonelycarp@hotmail.com"
           git config --local user.name "GitHub Actions"
           git add index.json
           git commit -m "Update index.json"
