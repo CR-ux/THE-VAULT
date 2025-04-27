@@ -179,7 +179,7 @@ over there is an opening window:
 > 
 > Resting, still, upon the floor where I once had been
 > 
-> Next to a burned hole from ritual you’ve gone too far [[redacted]]
+> Next to a burned hole from ritual you’ve gone too far [[notBorges/redacted]]
 > 
 > Copy
 > 
@@ -411,7 +411,7 @@ over there is an opening window:
 > 
 > Oh wow , what a Freudian typo. So beautiful
 > 
-> I am you are me are you are me and you and you and you and you and we are oui yes wee small big so big the world the whole world you are the world to me and you and I are One and All and No Thing but Love I am loving you and I and me and All Ways to the C is for [[redacted]] and for  which both contain an I which is the same eye we use to see
+> I am you are me are you are me and you and you and you and you and we are oui yes wee small big so big the world the whole world you are the world to me and you and I are One and All and No Thing but Love I am loving you and I and me and All Ways to the C is for [[notBorges/redacted]] and for  which both contain an I which is the same eye we use to see
 > 
 > 🖤🌹
 > 

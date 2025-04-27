@@ -1,8 +1,8 @@
 ---
 permalink: To do 3
 ---
-- [ ] MUSIQUE CONCRETE FOR [[redacted]]
-- [ ] PRS OPEN FUND - [[redacted]] TOUR 
+- [ ] MUSIQUE CONCRETE FOR [[notBorges/redacted]]
+- [ ] PRS OPEN FUND - [[notBorges/redacted]] TOUR 
 - [x] STEPH ZOOM CALL 4PM
 - [x] ESTROGEN
-- [x] SEND [[redacted]] FOR red herring
+- [x] SEND [[notBorges/redacted]] FOR red herring

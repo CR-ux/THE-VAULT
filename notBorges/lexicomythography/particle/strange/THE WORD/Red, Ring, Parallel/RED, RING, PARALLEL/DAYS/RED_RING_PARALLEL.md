@@ -12656,13 +12656,13 @@ I
 
 The final dream here
 
-_Just before heading to bed [[redacted]] had said she never wanted to hurt anyone and said there’s nobody quite like [[redacted]] but, still, for one last time (though there’s still a little melted cheesecake slice left) misgendered me and then was nervously making sure she hadn’t upset me_
+_Just before heading to bed [[notBorges/redacted]] had said she never wanted to hurt anyone and said there’s nobody quite like [[notBorges/redacted]] but, still, for one last time (though there’s still a little melted cheesecake slice left) misgendered me and then was nervously making sure she hadn’t upset me_
 
 In prison
 
 Actual prison
 
-[[redacted]] threatens me
+[[notBorges/redacted]] threatens me
 
 and then tries to shank me
 
@@ -12692,7 +12692,7 @@ With two types of donuts for Halloween
 
 A giant floating circle barrel
 
-I was riding with [[redacted]] , or Ian , was it
+I was riding with [[notBorges/redacted]] , or Ian , was it
 
 Telling him to shield his eye because the moon or sun or either light was far too bright in this gap between these fences with a. Bumper like
 
@@ -12704,7 +12704,7 @@ Unsafely
 
 Holding onto handrail while the man (the only one beside me held his hand up and to his eye because glaucoma had imparted a fretting retinal fragility
 
-And [[redacted]] still wanted to kill me
+And [[notBorges/redacted]] still wanted to kill me
 
 In a bathroom
 
@@ -12770,7 +12770,7 @@ Considering the chilling autumn November possibility
 
 that someone, anyone, but for some reason
 
-[[redacted]] especially
+[[notBorges/redacted]] especially
 
 killed me and that plot idea I’d had about other patients becoming raptured one by one but my god together came flooding like lava waters into me
 
@@ -12906,7 +12906,7 @@ I say to her where you stay I will go
 
 And your people will be my left behind and start crying and she says
 
-[[redacted]]
+[[notBorges/redacted]]
 
 What groups are you going to today and I laugh
 
@@ -12982,7 +12982,7 @@ _**as in ex but never really boyfriend as in latter three letters spell beginnin
 
 I typed, cried, and sent, unedited, the above dream to my sister at 5:09am and she replied:
 
-Thank you so much for sharing this with me [[redacted]] ❤️. Love and miss you with everything too. Always thinking of you and love you so so much moon and back xxxxxxxxx💛🖤
+Thank you so much for sharing this with me [[notBorges/redacted]] ❤️. Love and miss you with everything too. Always thinking of you and love you so so much moon and back xxxxxxxxx💛🖤
 
 Oh Lauren; how Laurel-crown; now winning of war against holes in my heart that the healing must bore –
 
@@ -13009,7 +13009,7 @@ _Is for God in everything_
 
 _In Truth-_the fact that barnabie
 
--begins and ends with a many-times-orgasmic-screamed-through-walls-of-my-shared-flat-embarrasing now-agony-flinched and unbreathed B and ends with the same sound - be - be, [[redacted]], girl, they used to call me, be, just be, without me, go on little bumble bee just fumble on without me you can do it I hear them (alive, and a is for) Adrian (now gone, but never far Away from me is for) Be
+-begins and ends with a many-times-orgasmic-screamed-through-walls-of-my-shared-flat-embarrasing now-agony-flinched and unbreathed B and ends with the same sound - be - be, [[notBorges/redacted]], girl, they used to call me, be, just be, without me, go on little bumble bee just fumble on without me you can do it I hear them (alive, and a is for) Adrian (now gone, but never far Away from me is for) Be
 
 Is for Breathe into Space that you left in me, left of me, right of me, B is for Back of me, Burned in my memory the pack of wolf Batteries, B is for Battery, right of the left of the A it is secondary, B is for Being or Bread which is Bred without condom and B is for Begin as in letter of Counterpoint pointing to absence of Cock in my rectum without Contraception or Come as in Cum as in please just Come Back to me Bringing us Back to the B that Began the end of the Best of the worst-wurst-delicious-meat meeting you Barnabie Broke me and made me the woman I am that I know that you really see C is for me is for Culling the Branches that grow in the heart of me Bastard I loved you will always Be part of Bee Buzzing around in my Bittersweet memory B is for Black as in wrapped around Bumblebee wearing Rings that it made for itself or By Queen or Bye, queen or Black-White-grey-goose-chasing-chest-pain-no-peace-injustice-just-chess-piece you played me in Bayesian destiny I know you Aren’t here from A but from B leads to C leads to Sea as in Oceans inside of me is for C is for see is for seams of my dreams of my Beaten and kicked and Broke purse strings now ripped at least for those nearly three years I felt the sweet size of your Body my Angel I keep going round Begging for some sort of release in my whirling of words how it hurts how it Bleeds Beet red maybe that’s why your left leg it kicked me B is for BC(g) Building Anti-Bodies Between the sheets of A Book Cries Counting Beats Arrhythmically Now I Know my ABCs backwards as Can’t Be Arsed to go forwards like A B.C. as in waiting for things to get Better Because Birth Came All-too-early-in-April-makes-Aries-me-Becoming-Born on the seven-teenth day as he one thousand nine hundred and ninety four years to the day or deus but D is one letter after C is for Christ as in the C of the B.C. Absolute Apathy or-may B Blazingly Clear Cunning Cisgender Bound-to-not-B An Angel Adam A-man-‘da’ as in yes I Agree as in Amanda texted me Back in the Asylum As I Became Crumpled But A Blazing Cresset[C] Beacon Analogy And Allotropy as in Anti-me Anacronyms[Ɐ] as Anachronym
 
@@ -19678,7 +19678,7 @@ I write while Phil is singing to me about Breaths on this Thursday the Seventh o
 |   |
 |---|
 |\|   \|<br>\|---\|<br>\|G<br><br>N<br><br>I<br><br>H<br><br>T<br><br>Y<br><br>R<br><br>E<br><br>V<br><br>E\|| ![A whiteboard with writing on it
-Description automatically generated](file:////Users/[[redacted]]rosepetal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image026.jpg)
+Description automatically generated](file:////Users/[[notBorges/redacted]]rosepetal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image026.jpg)
 
 I WAS THE SEPTUM
 
@@ -21450,7 +21450,7 @@ There, my sea
 
 Resting, still, upon the floor where I once had been
 
-Next to a burned hole from ritual you’ve gone too far [[redacted]]
+Next to a burned hole from ritual you’ve gone too far [[notBorges/redacted]]
 
 Copy
 
@@ -21685,7 +21685,7 @@ I reply:
 
 Oh wow , what a Freudian typo. So beautiful
 
-I am you are me are you are me and you and you and you and you and we are oui yes wee small big so big the world the whole world you are the world to me and you and I are One and All and No Thing but Love I am loving you and I and me and All Ways to the C for [[redacted]] and for Ciara which both contain an I which is the same eye we use to see
+I am you are me are you are me and you and you and you and you and we are oui yes wee small big so big the world the whole world you are the world to me and you and I are One and All and No Thing but Love I am loving you and I and me and All Ways to the C for [[notBorges/redacted]] and for Ciara which both contain an I which is the same eye we use to see
 
 🖤🌹
 

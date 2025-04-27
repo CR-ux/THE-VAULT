@@ -21,9 +21,9 @@ The train pulled into the station once and I was waiting on the actual track a f
 The track goes underground deep
 There is always some Jealously going on 
 
-Once I did it with [[redacted]] 
-This Dream i did it withnsonebody [[redacted]] slept with maybe his boyfriend 
-The energy came from [[redacted]] in the other room 
+Once I did it with [[notBorges/redacted]] 
+This Dream i did it withnsonebody [[notBorges/redacted]] slept with maybe his boyfriend 
+The energy came from [[notBorges/redacted]] in the other room 
 And I heard them talking about me 
-[[redacted]] is usually there
+[[notBorges/redacted]] is usually there
 

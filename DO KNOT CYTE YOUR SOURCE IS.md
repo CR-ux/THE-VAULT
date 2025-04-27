@@ -1,0 +1,4 @@
+---
+permalink: DO KNOT CYTE YOUR SOURCE IS
+---
+![[LEXICOMYTHOGRAPHY.pdf]]
