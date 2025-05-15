@@ -24,7 +24,7 @@ Foreword,
 
 
 
-![[lexDict, Noen Edition VI]]
+[[lexDict, Noen Edition VI]]
 
 
 Epigraph

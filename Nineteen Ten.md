@@ -1,7 +1,7 @@
 
 
 GENESIS[^door]  
-19:10 But the men inside reached out and pulled Lot back into the house and shut the door.
+19:10 But the men inside reached out and pulled Lot[^l] back into the house and shut the door.
 
 EXODUS[^wash]  
 19:10 And the Lord said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes.
@@ -16,7 +16,7 @@ DEUTERONOMY[^blood]
 19:10 That innocent blood be not shed in thy land, which the Lord thy God giveth thee for an inheritance, and so blood be upon thee.
 
 JOSHUA[^lot]  
-19:10 And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid.
+19:10 And the third lot[^l] came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid.
 
 JUDGES[^departed]  
 19:10 But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him.
@@ -58,3 +58,4 @@ LUKE[^lost]
 [^honeycomb]: [[Honey]]
 [^servant]: [[Prodverb]]
 [^lost]: [[Look]]
+[^l]: [[Lot]]
