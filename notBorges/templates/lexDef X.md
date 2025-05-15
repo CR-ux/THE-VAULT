@@ -1,6 +1,3 @@
----
-permalink: lexDef X
----
 <%*
 
 let word = await tp.system.prompt("Enter the lexeme (the word)");
