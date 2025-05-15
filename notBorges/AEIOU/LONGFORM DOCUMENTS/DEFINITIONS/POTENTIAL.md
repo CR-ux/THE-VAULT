@@ -1,0 +1,9 @@
+---
+permalink: POTENTIAL
+---
+
+
+
+Action potential 
+
+

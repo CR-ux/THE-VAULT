@@ -1,0 +1,14 @@
+---
+permalink: KATABASIS TO DO
+---
+- [ ] Harp on “where is there to be found the scent”
+- [ ] Add percussion to intro section (ride cymbal on UNDER, UNDER, UNDER) - make this section punch as the Aeneid sample ends
+- [ ] Vox harmony to Drum drum drum  on tartarus
+- [ ] YWIMB: snare rim on “velcro fastened pulling hair”
+- [ ] AMF: AU gradual pitch shift down on strings intro
+- [x] More Vox harmony on ‘under every leaf’ at intro 
+- [x] More Vox harmony on ‘drink from the river, forget’ after intro
+- [x] AMF needs something else (or a rework?)
+- [x] Orchestral accompaniment to choral vox 
+- [x] Orchestral building in LETHE, more water sounds
+- [x] Add some drone to beginning of AMF (low organ note?) - push song forward, add low drone, add quickening intermittent church bells before song starts - need something to represent death

@@ -1,0 +1,3 @@
+---
+permalink: Human design America
+---

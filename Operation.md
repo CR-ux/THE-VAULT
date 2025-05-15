@@ -1,0 +1,6 @@
+---
+permalink: Operation
+---
+lexDef "Operation" {usage::: Ripture} < " Callie had three operations on her face and neck that she found traumatic.  She has been conscious of marked mood swings and suicidal thinking. She has a key worker  with her local community mental health team. Last February and April, she was diagnosed  with ADHD and autism, respectively. Previously, she was diagnosed as being emotionally  unstable. She has never been happy with the diagnosis of borderline personality disorder,  as she does not think it explains her presentation. Lately, the smallest things can set her  off emotionally. She does some work that involves burning a hole in the canvas. Some  material she used had plastic at the back, and she burned her carpet, almost burning her  flat down. She has a complicated history with all of the difficulties attendant on growing up as a trans-female."[^OperationRipture]
+
+[^OperationRipture]: [[SHAONWYRM]], The lesserNoen [[lexClerics]]. The Ever-Present-Origin.

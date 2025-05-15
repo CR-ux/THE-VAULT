@@ -1,0 +1,27 @@
+---
+permalink: working titles
+---
+- [ ] {knot} WORKING[^work] TITLES 
+	- [ ] {red} {act}ing , Par{e}a{d}llel
+	- [ ] The Woman In The Wallpaper
+	- [ ] Not Looking Through The Hole In The Wall 
+	- [ ] The Making of The Hole In The Wall *by the Stone Crone that turned into Three Plaited Yew Trees which would eventually become the  Site/Sight of the transformation of Hildr Wiltergarten into a Funnel Spider When Neither Burning at the Stake nor Hanging Could Take Her Life From Her*
+	- [ ] RE:*Institut für Sexualwissenschaft*
+	- [ ] st{o}p . a ./post durat{i|o}nal peace of every unrested nesting thing
+		- [ ] wretching 
+		- [ ] the W is silent 
+	- [ ] codexode.codec
+	- [ ] esoegododecalligraphemexometagenomediaxialexogonomonstro.site
+	- [ ] The programming language should have at least a simple compiler 
+		- [ ] ComPolymerase I, II, III
+			- [ ] Symbolic
+			- [ ] Semantic
+			- [ ] Somatic
+	- [ ] Æi|oU
+	- [ ] fict{i|o}nal jo{U}rnal of metapoetrics 
+	- [ ] To ‘N’: KS’HÆLt Ops, spot Leah’s Knot 
+	- [ ] Tendot-Tonk-a-knot.net 
+	- [ ] 10.tonk: a knot.net
+	- [ ] Zyxin-N/i.xyz
+
+- [x] [^work]: not working knot working not working knot thing working nothing's working ✅ 2024-12-03

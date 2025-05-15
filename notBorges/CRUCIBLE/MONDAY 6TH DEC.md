@@ -1,0 +1,47 @@
+---
+permalink: MONDAY 6TH DEC
+---
+£1500+£1500 = £3000
+£1743 - vinyl 
+
+1,743 + 300 VAT = £2000
+
+£500 - CD 
+£90 - 500 stickers !
+£X - discography flash drives?
+£100 - xmas gifts (max)
+Vinyl player?
+
+Change Patreon tiers for CD at merch level and keep vinyl
+Send all patrons a sticker and xmas card 
+
+ 
+TIERS:
+- SONG JOURNAL 
+- RADIO SHOW 
+- CD TIER £15 (signed CD)
+- VINYL TIER £30 (signed vinyl)
+- SPELLBOX TIER (spell box of choice)
+
+
+- [x] MUSIC VIDEO FOR ONE OF TRACKS 4 - 7 FROM ALBUM LAUNCH FOOTAGE
+- [x] CHANGE SPIT IT OUT WEBSITE PAGES delete and just link own website
+- [x] EDIT TOGETHER RADIO SHOW  - 4 HOURS 
+- [x] GET FINAL QUOTE + VAT AND ACCEPT FOR VINYL RUN
+- [x] PAY VINYL INVOICE
+- [x] SEND LEA INVOICE FOR £1500 - COUNCIL GRANT
+- [x] CALL DEEPGROOVES AND TALK TO LOGISTICS MANAGER 
+- [x] STICKERS
+
+TUESDAY 7TH DEC
+
+- [x] GET MECHANICAL LICENSE FOR VINYL
+- [x] DEEPGROOVES ACCOUNT CREATION
+
+WEDS
+- [x] MEET PAKO TO DISCUSS DJ SET AT SNEAKY’S 5pm
+- [x] DEEPGROOVES SUBMIT PROJECT TIMES
+- [x] EDIT TRACKS ON ALBUM FOR 24/24 SPLIT - 1 HOUR
+- [x] APPLY TO SUMMERHALL FOR FRINGE SHOW - 2 HOURS
+
+THURS

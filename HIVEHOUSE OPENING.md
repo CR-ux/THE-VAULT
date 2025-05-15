@@ -1,0 +1,3 @@
+---
+permalink: HIVEHOUSE OPENING
+---

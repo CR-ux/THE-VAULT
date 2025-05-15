@@ -1,0 +1,21 @@
+---
+permalink: SUNDAY 24th OCTOBER
+---
+- [ ] **BY 4PM:** CLEANING 
+	- [ ] Laundry 
+	- [ ] Dishes
+- [ ] **BY 6PM:** SHOWS PAGE ON WEBSITE 
+	- [ ] DJ halloween set @ banshee 
+	- [ ] Lighthouse books poetry set 
+	- [ ] Panel at assembly Roxy
+	- [ ] Album launch
+	- [ ] Sneaky’s set 
+- [x] **BY MIDDAY:** UPLOAD ALBUM TO WEBSITE AS DIGITAL PURCHASE & PREORDER LINK
+- [x] PATREON POST - FULL ALBUM 
+	- [x] All lyrics 
+	- [x] Preamble 
+- [x] INSTA POST - Preamble from Patreon 
+	- [x] Selfie?
+	- [x] Video? 
+
+- [x] UPLOAD KATABASIS TO DISTROKID

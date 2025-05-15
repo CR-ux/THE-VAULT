@@ -1,0 +1,11 @@
+---
+permalink: Forbear
+---
+lexDef "Forbear" {usage::: Noen || Croen || Wyrb} < [[var]] of '[[Forebear]]' [^ForbearNoen] || N.B. "ARIA var = A Forbear of Bare Firs | DNE var = A Forbearing of Forebears"[^ForbearCroen] || To  To Dedicate a Uselessly Convoluted Work, or Sequence of Variants of Works, To An Antrhopomorphised Creature, Or An Ursomorphisation[^ursa] Of A Man You[^uu] Loved, And Told Too Soon, Who Would Rather Momentarily Hold The Force Of The Moment of the Forces That Hold You Downward, In The Gravity Of Childish Games Of Foreplay; To Lift You Legless, Legs Splayed Happily, To Temporarily, Pre-Coitally Roleplay As Your Father, In The Bedtime Story Of Your Bedroom, To Alight That Floor You Left Yourself Buried In, To Suffocate In Swallowed Words Recorded[^rec] In Their Fleeting Birdsong, Instead of Hold The Weight of All The Waking You, or Provide Any Sort Of Real Protection Or Care.[^ForbearWyrb] 
+
+[^ForbearNoen]: For [[Bear]], [[Barely]]. [[Bearly There]].
+[^ForbearCroen]: [[we are never going on a bear hunt ever again]], Bear (The Middling) 
+[^ForbearWyrb]: 'It Started Some Time Before All This. And Then I Had To Go Into That Coffee Shop. They Make Really Good Coffee. But I Can't Go There So Much Anymore. Or The Other Place. Because Of The Other Face. At Least You Never Kicked Me Though. What A State All This Caffeine Withdrawal Has Left Me In.' - A Character Study By Professor Ed. O. And Dr. Dot Code.
+[^ursa]: Contrast with [[Aromorphosis]]. See *Ursa Major, Ursa Minor, Yours, A Minor, You're So Majorly Bare For Barely Any One Any More*, part of a series of seminal essays by The Woman in The Wallpaper (now immolated in a fire which we don't talk about Now).
+[^uu]: You is for U, and Ends with U, And Started: "Y", as in, "Why?", as in, at the End of "Why", just before the Question that ended it. 
+[^rec]: I Downloaded the Merlin App to identify the Bird calls I heard all those mournings walking alone through the grounds of the psychiatric hospital but it didn't work, and I had to learn my own, undocumented path to [[Augury]] Alone. Now I'm not so sure the Flights and Cries of all these Birds above me ever meant a single thing. 

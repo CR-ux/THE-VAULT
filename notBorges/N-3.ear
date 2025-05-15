@@ -1,0 +1,112 @@
+{
+  "nodes": [
+    {
+      "id": "lexicomythography/particle/top/N.ear.md",
+      "width": 500,
+      "height": 500,
+      "y": 600,
+      "x": 0,
+      "type": "file",
+      "file": "lexicomythography/particle/top/N.ear.md",
+      "color": "1"
+    },
+    {
+      "id": "lexicomythography/particle/top/The Æn{i}d.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 600,
+      "type": "file",
+      "file": "lexicomythography/particle/top/The Æn{i}d.md"
+    },
+    {
+      "id": "lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/Chess And all the Stitches of the Cloth(Es).md",
+      "width": 500,
+      "height": 500,
+      "x": 2000,
+      "y": 0,
+      "type": "file",
+      "file": "lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/Chess And all the Stitches of the Cloth(Es).md"
+    },
+    {
+      "id": "trifurcated.png",
+      "width": 500,
+      "height": 500,
+      "x": 2000,
+      "y": 600,
+      "type": "file",
+      "file": "trifurcated.png"
+    },
+    {
+      "id": "IMG_2858.jpg",
+      "width": 500,
+      "height": 500,
+      "x": 2000,
+      "y": 1200,
+      "type": "file",
+      "file": "IMG_2858.jpg"
+    },
+    {
+      "id": "AEIOU/ARIADNE/LEXICOMYTHOGRAPHY/LEXICOMYTHOGRAPHY.md",
+      "width": 500,
+      "height": 500,
+      "x": -1000,
+      "y": 300,
+      "type": "file",
+      "file": "AEIOU/ARIADNE/LEXICOMYTHOGRAPHY/LEXICOMYTHOGRAPHY.md"
+    },
+    {
+      "id": "lexicomythography/particle/strange/In the bothy.md",
+      "width": 500,
+      "height": 500,
+      "x": -1000,
+      "y": 900,
+      "type": "file",
+      "file": "lexicomythography/particle/strange/In the bothy.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lexicomythography/particle/top/N.ear.md-lexicomythography/particle/top/The Æn{i}d.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "lexicomythography/particle/top/N.ear.md",
+      "toNode": "lexicomythography/particle/top/The Æn{i}d.md"
+    },
+    {
+      "id": "lexicomythography/particle/top/The Æn{i}d.md-lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/Chess And all the Stitches of the Cloth(Es).md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "lexicomythography/particle/top/The Æn{i}d.md",
+      "toNode": "lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/Chess And all the Stitches of the Cloth(Es).md"
+    },
+    {
+      "id": "lexicomythography/particle/top/The Æn{i}d.md-trifurcated.png",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "lexicomythography/particle/top/The Æn{i}d.md",
+      "toNode": "trifurcated.png"
+    },
+    {
+      "id": "lexicomythography/particle/top/The Æn{i}d.md-IMG_2858.jpg",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "lexicomythography/particle/top/The Æn{i}d.md",
+      "toNode": "IMG_2858.jpg"
+    },
+    {
+      "id": "lexicomythography/particle/top/N.ear.md-AEIOU/ARIADNE/LEXICOMYTHOGRAPHY/LEXICOMYTHOGRAPHY.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "AEIOU/ARIADNE/LEXICOMYTHOGRAPHY/LEXICOMYTHOGRAPHY.md",
+      "toNode": "lexicomythography/particle/top/N.ear.md"
+    },
+    {
+      "id": "lexicomythography/particle/top/N.ear.md-lexicomythography/particle/strange/In the bothy.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "lexicomythography/particle/strange/In the bothy.md",
+      "toNode": "lexicomythography/particle/top/N.ear.md"
+    }
+  ]
+}

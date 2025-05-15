@@ -1,0 +1,514 @@
+# Index of .md Files with No Spaces (Single-word or Single-letter)
+_Generated from . on Sun  4 May 2025 15:52:51 BST_
+
+- `./Forbear.md`
+- `./Ordeal.md`
+- `./Knight.md`
+- `./Monster.md`
+- `./Basket.md`
+- `./Open.md`
+- `./Gate.md`
+- `./Murmuration.md`
+- `./Collaboration.md`
+- `./Entry.md`
+- `./Zeno.md`
+- `./Massacre.md`
+- `./So.md`
+- `./Sunny.md`
+- `./Burn.md`
+- `./God.md`
+- `./Museme.md`
+- `./Venalism.md`
+- `./Pause.md`
+- `./Suffering.md`
+- `./Hide.md`
+- `./Warp.md`
+- `./Book.md`
+- `./GLOSSOLADDENDA.md`
+- `./lexClerics.md`
+- `./Epigraph.md`
+- `./Divine.md`
+- `./Forgive.md`
+- `./Bestow.md`
+- `./Template.md`
+- `./Island.md`
+- `./Live.md`
+- `./Family.md`
+- `./Xeno.md`
+- `./Assignment.md`
+- `./Breath.md`
+- `./Character.md`
+- `./Noen.md`
+- `./Letter.md`
+- `./Beauty.md`
+- `./Train.md`
+- `./Ariadne.md`
+- `./Elusion.md`
+- `./Trunk.md`
+- `./Hive.md`
+- `./Loss.md`
+- `./Undeniable.md`
+- `./Physics.md`
+- `./Harvesting.md`
+- `./Larva.md`
+- `./VIXI.md`
+- `./Tear.md`
+- `./Meaning.md`
+- `./Aesthetic.md`
+- `./Edition.md`
+- `./Point.md`
+- `./Harp.md`
+- `./Augury.md`
+- `./Vyrb.md`
+- `./Loom.md`
+- `./Found.md`
+- `./Entrance.md`
+- `./Oar.md`
+- `./Sylvia.md`
+- `./Veil.md`
+- `./Motif.md`
+- `./Cacophony.md`
+- `./Darkness.md`
+- `./patreon.com/notborges.md`
+- `./Etouq.md`
+- `./Sentence.md`
+- `./Reality.md`
+- `./Press.md`
+- `./Residue.md`
+- `./Regret.md`
+- `./Impossible.md`
+- `./Malignancy.md`
+- `./Pupil.md`
+- `./Utter.md`
+- `./Change.md`
+- `./Knot.md`
+- `./Untitled.md`
+- `./Song.md`
+- `./Unknown.md`
+- `./lexCode.md`
+- `./Ring.md`
+- `./Glossator.md`
+- `./Draw.md`
+- `./Word.md`
+- `./Wake.md`
+- `./Trinity.md`
+- `./Dendrite.md`
+- `./Confusion.md`
+- `./Source.md`
+- `./Residualchemystician.md`
+- `./Thing.md`
+- `./Worry.md`
+- `./THERE.md`
+- `./Push.md`
+- `./Battle.md`
+- `./Dan.md`
+- `./Read.md`
+- `./Metacognition.md`
+- `./lexType.md`
+- `./Distillation.md`
+- `./Wheel.md`
+- `./Bellows.md`
+- `./Elvis.md`
+- `./Ore.md`
+- `./Perception.md`
+- `./Interrogation.md`
+- `./Prayer.md`
+- `./Space.md`
+- `./Patience.md`
+- `./Drown.md`
+- `./Seer.md`
+- `./Maceration.md`
+- `./Quantum.md`
+- `./Becoming.md`
+- `./Aglet.md`
+- `./TEC.md`
+- `./Drosophila.md`
+- `./Scream.md`
+- `./Set.md`
+- `./Aperture.md`
+- `./Isla.md`
+- `./Libra.md`
+- `./Parallel.md`
+- `./Name.md`
+- `./Recursion.md`
+- `./Forest.md`
+- `./Shadow.md`
+- `./Museum.md`
+- `./Origin.md`
+- `./Beetroot.md`
+- `./Aromorphosis.md`
+- `./Near.md`
+- `./Artery.md`
+- `./Borges.md`
+- `./Bruise.md`
+- `./README.md`
+- `./Teacher.md`
+- `./Pomegranate.md`
+- `./Answer.md`
+- `./Library.md`
+- `./Toward.md`
+- `./SynCroen.md`
+- `./Squander.md`
+- `./Left.md`
+- `./Begin.md`
+- `./Abomination.md`
+- `./Father.md`
+- `./Weft.md`
+- `./Mirror.md`
+- `./Fabric.md`
+- `./Poem.md`
+- `./Death.md`
+- `./NineTrine.md`
+- `./Garden.md`
+- `./Barnabie.md`
+- `./Croen.md`
+- `./GLOSSOLALIARY.md`
+- `./Memory.md`
+- `./Wave.md`
+- `./Vision.md`
+- `./Moor.md`
+- `./Hearth.md`
+- `./Tautology.md`
+- `./Theme.md`
+- `./Asphyxia.md`
+- `./Bearing.md`
+- `./Ritual.md`
+- `./Beget.md`
+- `./Fathom.md`
+- `./Chess.md`
+- `./notBorges/Lexicomythography.md`
+- `./notBorges/Correspondence.md`
+- `./notBorges/the children's gospel music songbook/Nb.md`
+- `./notBorges/layer.md`
+- `./notBorges/SELENA.md`
+- `./notBorges/NII.md`
+- `./notBorges/map.md`
+- `./notBorges/peak.md`
+- `./notBorges/WII.md`
+- `./notBorges/Untitled.md`
+- `./notBorges/CRUCIBLE/Elf.md`
+- `./notBorges/CRUCIBLE/EXANTHEMA.md`
+- `./notBorges/CRUCIBLE/LUPUS.md`
+- `./notBorges/CRUCIBLE/Lilitu.md`
+- `./notBorges/CRUCIBLE/Socks.md`
+- `./notBorges/CRUCIBLE/SHAONWYRM.md`
+- `./notBorges/CRUCIBLE/MURMURATION.md`
+- `./notBorges/CRUCIBLE/PERSONAL/Todos/MEDS.md`
+- `./notBorges/CRUCIBLE/an.md`
+- `./notBorges/CRUCIBLE/Qualities.md`
+- `./notBorges/CRUCIBLE/Bills.md`
+- `./notBorges/CRUCIBLE/Ice.md`
+- `./notBorges/CRUCIBLE/Process.md`
+- `./notBorges/CRUCIBLE/ICARUS.md`
+- `./notBorges/CRUCIBLE/Groceries.md`
+- `./notBorges/CRUCIBLE/Picking.md`
+- `./notBorges/CRUCIBLE/KATABASIS.md`
+- `./notBorges/CRUCIBLE/Photo.md`
+- `./notBorges/CRUCIBLE/Need.md`
+- `./notBorges/CRUCIBLE/album.md`
+- `./notBorges/CRUCIBLE/Sugar.md`
+- `./notBorges/CRUCIBLE/Ache.md`
+- `./notBorges/CRUCIBLE/LIFE.md`
+- `./notBorges/CRUCIBLE/ADMIN.md`
+- `./notBorges/CRUCIBLE/Meds.md`
+- `./notBorges/CRUCIBLE/Friday.md`
+- `./notBorges/CRUCIBLE/TODAY.md`
+- `./notBorges/CRUCIBLE/Seconds.md`
+- `./notBorges/CRUCIBLE/Effect.md`
+- `./notBorges/CRUCIBLE/soundtrack.md`
+- `./notBorges/CRUCIBLE/Nick.md`
+- `./notBorges/CRUCIBLE/If.md`
+- `./notBorges/CRUCIBLE/Inventory.md`
+- `./notBorges/CRUCIBLE/Phlebotomy.md`
+- `./notBorges/CRUCIBLE/Florapurves.md`
+- `./notBorges/CRUCIBLE/Accom.md`
+- `./notBorges/CRUCIBLE/Intro.md`
+- `./notBorges/CRUCIBLE/MONTH.md`
+- `./notBorges/CRUCIBLE/Ruth.md`
+- `./notBorges/CRUCIBLE/HHHH.md`
+- `./notBorges/CRUCIBLE/SCHEDULE.md`
+- `./notBorges/CRUCIBLE/GFM.md`
+- `./notBorges/CRUCIBLE/TONIGHT.md`
+- `./notBorges/CRUCIBLE/I.md`
+- `./notBorges/CRUCIBLE/GRowing.md`
+- `./notBorges/CRUCIBLE/METAMVRMVRPHOSIS.md`
+- `./notBorges/CRUCIBLE/Falling.md`
+- `./notBorges/CRUCIBLE/TODO.md`
+- `./notBorges/CRUCIBLE/Mixer.md`
+- `./notBorges/CRUCIBLE/TOUR.md`
+- `./notBorges/CRUCIBLE/PROMOTERS.md`
+- `./notBorges/CRUCIBLE/TAROT.md`
+- `./notBorges/CRUCIBLE/PROJECTS.md`
+- `./notBorges/CRUCIBLE/CAREER.md`
+- `./notBorges/CRUCIBLE/Electricity.md`
+- `./notBorges/CRUCIBLE/README.md`
+- `./notBorges/CRUCIBLE/AZOTH.md`
+- `./notBorges/CRUCIBLE/Esmeralda.md`
+- `./notBorges/CRUCIBLE/ALTERNARRATIVES.md`
+- `./notBorges/CRUCIBLE/Ollie.md`
+- `./notBorges/CRUCIBLE/Meditate.md`
+- `./notBorges/CRUCIBLE/Lidl.md`
+- `./notBorges/CRUCIBLE/Research.md`
+- `./notBorges/CRUCIBLE/Comfort.md`
+- `./notBorges/CRUCIBLE/LETHE.md`
+- `./notBorges/CRUCIBLE/Lying.md`
+- `./notBorges/CRUCIBLE/TROVES.md`
+- `./notBorges/CRUCIBLE/Time.md`
+- `./notBorges/CRUCIBLE/Distortion.md`
+- `./notBorges/CRUCIBLE/Assessment.md`
+- `./notBorges/CRUCIBLE/TENDRITE.md`
+- `./notBorges/CRUCIBLE/TATTOOS.md`
+- `./notBorges/CRUCIBLE/Pearl.md`
+- `./notBorges/CRUCIBLE/SHOUTY.md`
+- `./notBorges/CRUCIBLE/Tine.md`
+- `./notBorges/CRUCIBLE/Maurice.md`
+- `./notBorges/CRUCIBLE/Surgery.md`
+- `./notBorges/CRUCIBLE/Countries.md`
+- `./notBorges/CRUCIBLE/AFA.md`
+- `./notBorges/CRUCIBLE/Ap.md`
+- `./notBorges/CRUCIBLE/Elemental.md`
+- `./notBorges/CRUCIBLE/Fugue.md`
+- `./notBorges/CRUCIBLE/Now.md`
+- `./notBorges/CRUCIBLE/QUESTIONS.md`
+- `./notBorges/CRUCIBLE/Dream.md`
+- `./notBorges/CRUCIBLE/Ct.md`
+- `./notBorges/CRUCIBLE/Docs.md`
+- `./notBorges/CRUCIBLE/CREATIVE/Branding/script.md`
+- `./notBorges/CRUCIBLE/CREATIVE/Branding/REBRAND.md`
+- `./notBorges/CRUCIBLE/CREATIVE/Musical Concepts/CYCLES/RELEASES.md`
+- `./notBorges/CRUCIBLE/CREATIVE/Musical Concepts/CYCLES/Sparrow.md`
+- `./notBorges/CRUCIBLE/CREATIVE/Musical Concepts/CYCLES/REBRAND.md`
+- `./notBorges/CRUCIBLE/CREATIVE/Musical Concepts/MONIKERS.md`
+- `./notBorges/CRUCIBLE/CREATIVE/Musical Concepts/PATREON.md`
+- `./notBorges/CRUCIBLE/IMPACTX.md`
+- `./notBorges/CRUCIBLE/Musicology.md`
+- `./notBorges/CRUCIBLE/DENTIST.md`
+- `./notBorges/CRUCIBLE/COVENANT.md`
+- `./notBorges/CRUCIBLE/Wow.md`
+- `./notBorges/CRUCIBLE/Adrian.md`
+- `./notBorges/CRUCIBLE/PODCASTS.md`
+- `./notBorges/CRUCIBLE/Solder.md`
+- `./notBorges/CRUCIBLE/A.md`
+- `./notBorges/CRUCIBLE/Gp.md`
+- `./notBorges/CRUCIBLE/ASAP.md`
+- `./notBorges/CRUCIBLE/CGI.md`
+- `./notBorges/CRUCIBLE/Nicola.md`
+- `./notBorges/CRUCIBLE/NEEDSWANTS.md`
+- `./notBorges/CRUCIBLE/DAG.md`
+- `./notBorges/CRUCIBLE/Drexciya.md`
+- `./notBorges/CRUCIBLE/AQUELARRE.md`
+- `./notBorges/Dreaming.md`
+- `./notBorges/love.md`
+- `./notBorges/Footnotes.md`
+- `./notBorges/The.md`
+- `./notBorges/NIII.md`
+- `./notBorges/Genesis.md`
+- `./notBorges/WIII.md`
+- `./notBorges/BISHOP.md`
+- `./notBorges/METABASIS.md`
+- `./notBorges/redacted.md`
+- `./notBorges/cgms/Untitled.md`
+- `./notBorges/README.md/Bibliography.md`
+- `./notBorges/README.md/Untitled.md`
+- `./notBorges/BODY.md`
+- `./notBorges/PAWN.md`
+- `./notBorges/notBorges/Boat.md`
+- `./notBorges/notBorges/LAST.md`
+- `./notBorges/notBorges/ENDYMION.md`
+- `./notBorges/notBorges/THRESHOLD.md`
+- `./notBorges/notBorges/HERALD.md`
+- `./notBorges/notBorges/I.md`
+- `./notBorges/notBorges/TRAVEL.md`
+- `./notBorges/notBorges/README.md`
+- `./notBorges/notBorges/index.md`
+- `./notBorges/notBorges/CODE.md`
+- `./notBorges/CARPVS/NB.md`
+- `./notBorges/CARPVS/lexicomythography/unit/Ãcademy of Ãschertology/ARTICLES, REFS/I.md`
+- `./notBorges/CARPVS/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/I.md`
+- `./notBorges/moat.md`
+- `./notBorges/evolve.md`
+- `./notBorges/HTML import/publish.md`
+- `./notBorges/templates/runPerma.md`
+- `./notBorges/templates/permalink.md`
+- `./notBorges/Campaigns/Bearly/Bearly.md`
+- `./notBorges/Campaigns/ae/ae.md`
+- `./notBorges/Campaigns/Bear/Bear.md`
+- `./notBorges/Campaigns/we are never going on a bear hunt ever again/04. Events/æ.md`
+- `./notBorges/Campaigns/we are never going on a bear hunt ever again/02. Sessions/U/U.md`
+- `./notBorges/Campaigns/we are never going on a bear hunt ever again/02. Sessions/i.md`
+- `./notBorges/Campaigns/we are never going on a bear hunt ever again/02. Sessions/æ/æ.md`
+- `./notBorges/CODE.md`
+- `./notBorges/aria-dne/LAST.md`
+- `./notBorges/aria-dne/NI.md`
+- `./notBorges/aria-dne/ENDYMION.md`
+- `./notBorges/aria-dne/THRESHOLD.md`
+- `./notBorges/aria-dne/HERALD.md`
+- `./notBorges/aria-dne/I.md`
+- `./notBorges/aria-dne/Birthdays.md`
+- `./notBorges/aria-dne/TRAVEL.md`
+- `./notBorges/aria-dne/README.md`
+- `./notBorges/aria-dne/CODE.md`
+- `./notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/INTERFACE/LANDING NET/ABSTRACT.md`
+- `./notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/STRUCTURE OF RELATIONSHIPS/LAYERS.md`
+- `./notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/CONTRIBUTORS.md`
+- `./notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/APPS/App Dev/xLibre.md`
+- `./notBorges/AEIOU/ARIADNE/TAKE UP REÆL/PLAN.md`
+- `./notBorges/AEIOU/ARIADNE/A IS NOT FOR ALEPH/AEIOU.md`
+- `./notBorges/AEIOU/ARIADNE/AZOTH/p'AIR PROMPTS/cr.UXible/ATHANOR.md`
+- `./notBorges/AEIOU/ARIADNE/LAYER_i-o/LAYER_I|O/Index.md`
+- `./notBorges/AEIOU/ARIADNE/LEXICOMYTHOGRAPHY/LEXICOMYTHOGRAPHY.md`
+- `./notBorges/AEIOU/PLANS/TODO/TODO.md`
+- `./notBorges/AEIOU/PLANS/TEAM.md`
+- `./notBorges/AEIOU/Untitled.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/POTENTIAL.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/KNOWING.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/DIARESIS.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/MEAN.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/UNTIL.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/FIRST.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/ARRIVAL.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/COAGULA.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/WELT.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/Best.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/Penultimate.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/WANE.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/TAX.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/NOENEONEME.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/DUAL.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/Everything.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/ultimate.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/ROSES.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/NEME.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/Worst.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/SHIELD.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/CHAIN.md`
+- `./notBorges/AEIOU/LONGFORM DOCUMENTS/DEFINITIONS/SECOND.md`
+- `./notBorges/AEIOU/FOOTNOTES/SEMANTIC.md`
+- `./notBorges/AEIOU/FOOTPRINT NOTES/Well.md`
+- `./notBorges/th.md`
+- `./notBorges/top.md`
+- `./notBorges/being.md`
+- `./notBorges/A.md`
+- `./notBorges/carpvs.com/rituals.md`
+- `./notBorges/lexicomythography/unit/Ãcademy of Ãschertology/ARTICLES, REFS/I.md`
+- `./notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/PLANNING, STRUCTURE/MAHLER.md`
+- `./notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/PLANNING, STRUCTURE/neuroBeacons.md`
+- `./notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/ARTICLES, REFERENCES/GLOSSOLALIA.md`
+- `./notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/ARTICLES, REFERENCES/BABY.md`
+- `./notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/ARTICLES, REFERENCES/Daddy.md`
+- `./notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/ARTICLES, REFERENCES/symphny.md`
+- `./notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/ARTICLES, REFERENCES/THEME.md`
+- `./notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/ARTICLES, REFERENCES/Æbstract.md`
+- `./notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/i-o/i-o/Index.md`
+- `./notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS /CODE.md`
+- `./notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/Boat.md`
+- `./notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/LAST.md`
+- `./notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/ENDYMION.md`
+- `./notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/THRESHOLD.md`
+- `./notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/HERALD.md`
+- `./notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/I.md`
+- `./notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/TRAVEL.md`
+- `./notBorges/lexicomythography/unit/Æcademy of Æschertology/Æ/Æ/Index.md`
+- `./notBorges/lexicomythography/unit/University of Undulatory Ululation/SCRABBLR.md`
+- `./notBorges/lexicomythography/unit/University of Undulatory Ululation/Exogentonymology.md`
+- `./notBorges/lexicomythography/index.md`
+- `./notBorges/lexicomythography/particle/strange/LEXICOMYTHOGRAPHY.md`
+- `./notBorges/lexicomythography/particle/strange/Boustrophilology.md`
+- `./notBorges/lexicomythography/particle/strange/THE WORD/PREAMBLE.md`
+- `./notBorges/lexicomythography/particle/strange/THE WORD/Red, Ring, Parallel/RED, RING, PARALLEL/undefined.md`
+- `./notBorges/lexicomythography/particle/strange/THE WORD/Red, Ring, Parallel/RED, RING, PARALLEL/Index.md`
+- `./notBorges/lexicomythography/particle/strange/THE WORD/Red, Ring, Parallel/RED, RING, PARALLEL/DAYS/REDRINGPARALLEL.md`
+- `./notBorges/lexicomythography/particle/strange/THE WORD/Red, Ring, Parallel/RED, RING, PARALLEL/DAYS/OVERTURE.md`
+- `./notBorges/lexicomythography/particle/strange/NotBorges.md`
+- `./notBorges/lexicomythography/particle/strange/GNOENEOSNOWFLAKE.md`
+- `./notBorges/lexicomythography/particle/strange/Remember.md`
+- `./notBorges/lexicomythography/particle/strange/CLEW.md`
+- `./notBorges/lexicomythography/particle/strange/strange.md`
+- `./notBorges/lexicomythography/particle/strange/bottom.md`
+- `./notBorges/lexicomythography/particle/charm/TODO.md`
+- `./notBorges/lexicomythography/particle/bottom/Chest.md`
+- `./notBorges/lexicomythography/particle/bottom/SCHEDULE.md`
+- `./notBorges/lexicomythography/particle/bottom/bairn.md`
+- `./notBorges/lexicomythography/particle/bottom/ABOUT.md`
+- `./notBorges/WI.md`
+- `./Ending.md`
+- `./Field.md`
+- `./Ræyn.md`
+- `./Refrain.md`
+- `./Heart.md`
+- `./Silence.md`
+- `./Hood.md`
+- `./Hello.md`
+- `./Witch.md`
+- `./Hurricane.md`
+- `./Addendum.md`
+- `./HILDR.md`
+- `./System.md`
+- `./Islands.md`
+- `./Wallpaper.md`
+- `./Opposite.md`
+- `./Fear.md`
+- `./Forget.md`
+- `./Minutes.md`
+- `./Knife.md`
+- `./Lexicomythographer.md`
+- `./Story.md`
+- `./Branch.md`
+- `./DNE.md`
+- `./Message.md`
+- `./Anguish.md`
+- `./Right.md`
+- `./Enantiodromia.md`
+- `./Within.md`
+- `./Syringe.md`
+- `./d.md`
+- `./Now.md`
+- `./Page.md`
+- `./Figure.md`
+- `./Eidolon.md`
+- `./Paradox.md`
+- `./Nearer.md`
+- `./Question.md`
+- `./Perigee.md`
+- `./Lesson.md`
+- `./Ideal.md`
+- `./Arrow.md`
+- `./End.md`
+- `./Mother.md`
+- `./Wound.md`
+- `./TestProps/Abandon.md`
+- `./Opposites.md`
+- `./Dandelion.md`
+- `./Destruction.md`
+- `./Operation.md`
+- `./Tongue.md`
+- `./Zero.md`
+- `./Diagnosis.md`
+- `./test.md`
+- `./Presence.md`
+- `./Remnant.md`
+- `./Present.md`
+- `./Mangle.md`
+- `./Key.md`
+- `./Null.md`
+- `./lexDict.md`
+- `./Moment.md`
+- `./Delight.md`
+- `./Cradle.md`
+- `./lexClandistics.md`
+- `./Pupa.md`
+- `./TSS.md`
+- `./Ripture.md`
+- `./Game.md`
+- `./Am.md`
+- `./Is.md`
+- `./Adjecture.md`
+- `./Circle.md`
+- `./Wait.md`
+- `./Blood.md`
+- `./Agony.md`
+- `./Quill.md`
+- `./Never.md`
+- `./Barely.md`
+- `./Dust.md`
+- `./Discover.md`

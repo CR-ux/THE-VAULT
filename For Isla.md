@@ -1,0 +1,4 @@
+---
+permalink: For Isla
+---
+[[Isla]]

@@ -1,0 +1,12 @@
+
+```RpgManager4
+id: 
+  type: "NonPlayerCharacter"
+tasks: 
+  - id: "85d1e5f6-7221-4efe-9e75-5a69a597f508"
+    priority: 1
+    name: "tasks.complete"
+    description: "tasks.complete N"
+    type: "creation"
+    status: "proposed"
+```

@@ -1,0 +1,302 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   "From the Reception Desk \360\220\225\243.md"
+	modified:   GLOSSOLADDENDA.md
+	modified:   The Indefinite lexDict of Fable.md
+	modified:   lexDict.md
+	modified:   notBorges/CRUCIBLE/CREATIVE/Musical Concepts/CYCLES/Sparrow.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.gitignore.md
+	Murmuration.md
+
+Ignored files:
+  (use "git add -f <file>..." to include in what will be committed)
+	,publish.css
+	.DS_Store
+	.gitignore
+	.obsidian/
+	"0Fig. 1 \342\200\224 Hexahedral Mapping of Nested Narrative Layers in 4D Reality.png"
+	AI_Voice_CONTACT.mp3
+	AI_Voice_CONTACT.mp3.asd
+	BABELOGRAPHY.mov
+	BABELOGRAPHY.mov.asd
+	"Fig. 3 \342\200\224 Hexahedral Narrative Sphere with 6 Chess Layers and Mirrored Reflections 1.png"
+	"Fig. 3 \342\200\224 Hexahedral Narrative Sphere with 6 Chess Layers and Mirrored Reflections.png"
+	"Fig. 4 \342\200\224 Projected 4D Chess Lattice (Central King in Hyperhex Structure).png"
+	IMG_7221 copy.jpeg
+	IMG_7221.JPG
+	Islands.pdf
+	It Would Start.html
+	LEXICOMYTHOGRAPHY.pdf
+	N.ear - Unknown.epub
+	N.ear 1.epub
+	N.ear 2.epub
+	N.ear 3.epub
+	N.ear 4.epub
+	N.ear.epub
+	PENTECOST.mp3
+	Pasted image 20250403105457.png
+	Pasted image 20250426144844.png
+	Prism_of_Becoming_Body.txt
+	Prism_of_Becoming_Mind.txt
+	Prism_of_Becoming_Spirit.txt
+	Screen Recording 2025-03-27 at 12.13.51.mov.asd
+	Screenshot 2025-04-02 at 12.33.07.png
+	Screenshot 2025-04-07 at 11.17.42.png
+	Screenshot 2025-04-07 at 11.18.51.png
+	Screenshot 2025-04-25 at 00.29.41.png
+	Screenshot 2025-04-25 at 00.33.19.png
+	TEC.png
+	THE WEB OF WORD.dot
+	THE WEB OF WORD.mmd
+	Untitled.canvas
+	adinf.jpg
+	anagramsolver.sh
+	angEl.jpg
+	bab.jpg
+	bc.html
+	bc.html.save
+	build-index.js
+	col.jpg
+	cover.jpg
+	dr.jpg
+	dros4.png
+	ignored_files.txt
+	index.json
+	mother.jpg
+	mother.jpg.sb-2df3f7e3-oRQWuc
+	"notBorges, notBioy - VI \313\242\312\260\341\265\222\312\263\341\265\227 \341\265\226\312\263\341\265\222\341\265\207\313\241\341\265\211\341\265\220\313\242 - 03 -Then, notBioy Had Recalled- (Borges, Story Circle The Third, 1994).flac"
+	notBorges/-publish.css
+	notBorges/.DS_Store
+	notBorges/.obsidian/
+	notBorges/14CBA7B4-F3B4-4BBC-91BD-5FAE08458F5A 1.jpeg
+	notBorges/14CBA7B4-F3B4-4BBC-91BD-5FAE08458F5A.jpeg
+	notBorges/30F15F5C-8976-4E4E-9E51-342201C75DBC_1_105_c.jpeg
+	notBorges/4F3BF451-A383-48FA-BEA9-BE95AE405EAC.jpeg
+	notBorges/6 - THESE WORDS.mp3
+	notBorges/90110912-D34F-40F6-B378-0A14A969AD26.jpeg
+	notBorges/:publish.css
+	notBorges/;publish.css
+	notBorges/AEIOU/.DS_Store
+	notBorges/AEIOU/ARIADNE/.DS_Store
+	notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/APPS/.DS_Store
+	notBorges/AEIOU/ARIADNE/LAYER_i-o/.DS_Store
+	"notBorges/AEIOU/ARIADNE/TAKE UP RE\303\206L/STORYBOARD.canvas"
+	"notBorges/AEIOU/ARIADNE/TAKE UP RE\303\206L/Untitled 1.canvas"
+	notBorges/AEIOU/ARIADNE/Untitled.canvas
+	notBorges/AEIOU/ENCOUNTERS/.DS_Store
+	notBorges/AEIOU/HIDDEN/3.mp3
+	notBorges/AEIOU/HIDDEN/the mediaum is the wreckage, im pact III.mp3
+	notBorges/AEIOU/HIDDEN/turned myself in to a pillow of salt.mp3
+	notBorges/AEIOU/IMAGES/
+	notBorges/Assets
+	notBorges/BEHOLD SATAN! CHRIST DIES.mp3
+	notBorges/CARPVS/.DS_Store
+	notBorges/CARPVS/.obsidian/
+	notBorges/CARPVS/Binding of Isaac - Afterbirth+ Lua Reference_Guide_ Isaac Namespace Reference.html
+	notBorges/CGMS_figure_one 1.png
+	notBorges/CGMS_figure_one 2.png
+	notBorges/CGMS_figure_one.png
+	notBorges/CRUCIBLE/.DS_Store
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/.DS_Store
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/400px-Circle_of_fifths_deluxe_4.svg.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/AD_4nXdXOSJtCVO2bvVHNkLO-UKZ9bL6Kun5t3ujwbZit6amFSSviGbr5-U7G6dMFGEhjKbxcXHW_sIHAm46p6xm-aporPJIWow57_yu4zSEl2jW6SXaIYqkAxRT.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/AD_4nXeX2g3v68c0klWaCCJbS1nkBZ4dZMLtJs-NA0chFTZZUXhp77uHV8dWrlhX98uuI_poAdd89SMh3XT3H3GPgB3MXwvOYqLsBf5frYiZAJbL_8mSmmzGUxRh.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Drawing.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/IMG_8983.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Image.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Pasted Graphic 1.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Pasted Graphic 2.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Pasted Graphic 3.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Pasted Graphic 4.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Pasted Graphic 5.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Pasted Graphic.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Screen Recording 2024-07-07 at 02.19.18.mov
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Screenshot 2023-01-27 at 12.41.27.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/Screenshot 2023-01-27 at 12.57.33.png
+	notBorges/CRUCIBLE/CRUCIBLE Attachments/output.png
+	notBorges/Campaigns/Untitled.canvas
+	notBorges/Campaigns/ae/ae.canvas
+	notBorges/Chapter Nine - O is for e.i.e.i. Owe it All to Oleander.pdf
+	notBorges/Circle II.mp3
+	notBorges/EF17AF82-0B57-4E43-AFED-B886440D6043.png
+	notBorges/Excalidraw/aria 0.mp3
+	notBorges/Full statement - Nationwide Internet Bank.pdf
+	notBorges/I-X.mp3
+	notBorges/IMG_2858.jpg
+	notBorges/IMG_5268.jpg
+	notBorges/IMG_6432 copy.png
+	notBorges/IMG_6555 copy.jpg
+	notBorges/IMG_6624.jpg
+	notBorges/IMG_6731.jpg
+	notBorges/IMG_6733.jpg
+	notBorges/IMG_6734.jpg
+	notBorges/IMG_6735.jpg
+	notBorges/IMG_6968.jpg
+	notBorges/IMG_6980.jpg
+	notBorges/Image.heic
+	notBorges/KSHAEL-20241206T202211Z-001.zip
+	notBorges/METABASIS_a_rapturing_gossamer_01.wav
+	notBorges/N-0.ear
+	notBorges/N-1.ear
+	notBorges/N-2.ear
+	notBorges/N-3.ear
+	notBorges/N.ear.canvas
+	notBorges/N.ear.epub
+	notBorges/Part 1.mp3
+	notBorges/Pasted image 20241115114349.png
+	notBorges/Pasted image 20241115114547.png
+	notBorges/Pasted image 20241115114615.png
+	notBorges/Pasted image 20241207185236.png
+	notBorges/Pasted image 20250217122847.png
+	notBorges/Pasted image 20250217152837.png
+	notBorges/Pasted image 20250217153139.png
+	notBorges/Pasted image 20250217153225.png
+	notBorges/Pasted image 20250217153255.png
+	notBorges/Pasted image 20250217160542.png
+	notBorges/Pasted image 20250312122840.png
+	notBorges/Pasted image 20250312155603.png
+	notBorges/Pasted image 20250312160230.png
+	notBorges/Pasted image 20250312233805.png
+	notBorges/README.md/The yellow telephone the woman in the wallpaper is still holding onto .pdf
+	notBorges/README.md/Untitled.fountain
+	notBorges/README.md/cruelandbarrelingtrains.mp3
+	notBorges/README.md/cruelandbarrelingtrains.opus
+	notBorges/README.md/cruelandbarrelingtrains.wav
+	notBorges/README.md/interstitialOntology.pdf
+	notBorges/README.md/sadfdsfsdg.fountain
+	notBorges/README.md/slugline.fountain
+	notBorges/README.md/slugline2.pdf
+	notBorges/README.md/thetonguesten.fountain
+	notBorges/Raw Soup -.pdf
+	notBorges/SWEDENBORG_JOURNAL_OF_DREAMS.pdf
+	notBorges/Screenshot 2024-11-13 at 23.35.06.png
+	notBorges/Screenshot 2024-11-13 at 23.36.45.png
+	notBorges/Screenshot 2024-11-13 at 23.38.19.png
+	notBorges/Screenshot 2024-11-13 at 23.38.34.png
+	notBorges/Screenshot 2025-03-12 at 14.58.45.png
+	notBorges/The Weaver's Tapestry.wav
+	notBorges/The yellow telephone the woman in the wallpaper is still holding onto .pdf
+	"notBorges/The \303\206n{i}d-0.canvas"
+	"notBorges/The \303\206n{i}d-1.canvas"
+	"notBorges/The \303\206n{i}d.canvas"
+	"notBorges/The_Combat_of_\303\206res_and_\303\206thena.jpg"
+	notBorges/Untitled 1.pdf
+	notBorges/Untitled.pdf
+	notBorges/WhatsApp Image 2025-02-23 at 08.57.05.jpeg
+	notBorges/[publish.css
+	notBorges/a1379773070_68.jpeg
+	notBorges/amen.mp3
+	notBorges/and then.canvas
+	notBorges/aria-dne/
+	notBorges/born from the moon.mp3
+	notBorges/carpvs.com/.obsidian/
+	notBorges/cb439412749484285fdd8feb424884f78f3fa026da43b86ac48501365ba1dfc9.webp copy.jpg
+	notBorges/cgms/.DS_Store
+	notBorges/cgms/.obsidian/
+	notBorges/cgms/DO KNOT SITE; YOUR SOURCE IS/The Hexagonal Rooms.wav
+	notBorges/cgms/DO KNOT SITE; YOUR SOURCE IS/threnody.mp3
+	notBorges/cgms/THE GOSPELS./.DS_Store
+	"notBorges/cgms/THE GOSPELS./The Bishop KSH\303\206'L/.DS_Store"
+	notBorges/cgms/THE GOSPELS./The King | The Wryng/.DS_Store
+	notBorges/cgms/THE GOSPELS./The Pawn | The Faun/.DS_Store
+	notBorges/cgms/THE GOSPELS./The Seen | The Queen/TWELVE O'CLOCK.png
+	notBorges/cgms/THE GOSPELS./The Tower | The Castle | The Rook | The Book/.DS_Store
+	"notBorges/cgms/THE GOSPELS./The \341\264\267Night/BETWEEN FOUR AND FIVE O'CLOCK.png"
+	notBorges/cgms/aria 0.mp3
+	notBorges/cgms/isaac backup/
+	"notBorges/cgms/\342\247\226eno.mp3"
+	"notBorges/cgms/\342\247\226eno.mp3.asd"
+	notBorges/cgms_fig_2 1.png
+	notBorges/cgms_fig_2.png
+	notBorges/choirshelter.mp3
+	notBorges/cruelandbarrelingtrains 1.mp3
+	notBorges/data/mood-tracker-data.json
+	notBorges/dpublish.css
+	notBorges/drosophila.jpeg
+	notBorges/epw-e.mp3
+	notBorges/fore, word.pdf
+	notBorges/getout.mp3
+	notBorges/gnot 1.wav
+	notBorges/gnot 1.wav.bkp
+	notBorges/gnot 2.wav
+	notBorges/istockphoto-157591528-612x612.jpg
+	notBorges/itsknotpublish.css
+	notBorges/lexicomythography/.DS_Store
+	notBorges/lexicomythography/aria 0.mp3
+	notBorges/lexicomythography/aria 0.mp3.asd
+	notBorges/lexicomythography/character/_d<evelop>m<eN>t/09B4F389-1D3A-470C-944E-6DECC260B4A9-18748-000044F0D367FDE2.wav
+	notBorges/lexicomythography/character/_d<evelop>m<eN>t/16D875A5-BF32-4D3B-ABC1-17DF94CBCD54-18748-000044F0D0D7E4B4.wav
+	notBorges/lexicomythography/character/_d<evelop>m<eN>t/THE UNKNOWN ONE; {WROTE WRONG NON-} ANONYMOUS PSYCHIATRIC PATIENT.canvas
+	notBorges/lexicomythography/character/_d<evelop>m<eN>t/artifact.wav
+	notBorges/lexicomythography/character/_d<evelop>m<eN>t/lvl up.wav
+	notBorges/lexicomythography/character/_d<evelop>m<eN>t/the fool - 0.aif
+	notBorges/lexicomythography/character/_d<evelop>m<eN>t/the fool - 0.wav
+	notBorges/lexicomythography/forgive.mp3
+	notBorges/lexicomythography/forgive.mp3.asd
+	notBorges/lexicomythography/gnot.wav
+	notBorges/lexicomythography/particle/.DS_Store
+	notBorges/lexicomythography/particle/bottom/IMG_5023.jpeg
+	notBorges/lexicomythography/particle/charm/malika maht.jpeg
+	notBorges/lexicomythography/particle/strange/.DS_Store
+	notBorges/lexicomythography/particle/strange/THE WORD/Red, Ring, Parallel/.DS_Store
+	notBorges/lexicomythography/particle/strange/THE WORD/Red, Ring, Parallel/RED, RING, PARALLEL/.DS_Store
+	notBorges/lexicomythography/particle/strange/THE WORD/Red, Ring, Parallel/RED, RING, PARALLEL/Phage 23.wav
+	notBorges/lexicomythography/particle/strange/THIRD LAYER/she's bleeding.png
+	notBorges/lexicomythography/particle/top/EdO-OdE_ Gnoest in the Machine (1).wav
+	notBorges/lexicomythography/particle/top/N.ear.epub
+	"notBorges/lexicomythography/particle/top/On the Ligature of \342\211\245 Two Characters.wav"
+	notBorges/lexicomythography/particle/top/peaceful rest _ the woman in the ward chapel's wallpaper.mp3
+	notBorges/lexicomythography/slugline.fountain
+	notBorges/lexicomythography/thre.mp3
+	notBorges/lexicomythography/unit/.DS_Store
+	notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/.DS_Store
+	notBorges/lexicomythography/unit/University of Undulatory Ululation/thetonguesten.pdf
+	"notBorges/lexicomythography/unit/\303\206cademy of \303\206schertology/.DS_Store"
+	"notBorges/lexicomythography/unit/\303\206cademy of \303\206schertology/ARTICLES, REFS/.DS_Store"
+	"notBorges/lexicomythography/unit/\303\206cademy of \303\206schertology/ARTICLES, REFS/RITUALS/hardening-SOFTENING ritual-Contrabasses.pdf"
+	"notBorges/lexicomythography/unit/\303\206cademy of \303\206schertology/ARTICLES, REFS/RITUALS/hardening-SOFTENING ritual.mscz"
+	"notBorges/lexicomythography/unit/\303\206cademy of \303\206schertology/ARTICLES, REFS/Screenshot 2024-12-02 at 16.52.22.png"
+	"notBorges/lexicomythography/unit/\303\206cademy of \303\206schertology/ARTICLES, REFS/Screenshot 2024-12-02 at 16.56.15.png"
+	"notBorges/lexicomythography/unit/\303\206cademy of \303\206schertology/ARTICLES, REFS/The_Combat_of_\303\206res_and_\303\206thena 1.jpg"
+	"notBorges/lexicomythography/unit/\303\206cademy of \303\206schertology/\303\206/"
+	notBorges/notBorges/
+	notBorges/oot.mp3
+	notBorges/publish.css
+	notBorges/publish.js
+	notBorges/redacted_23 1.mp3
+	notBorges/redacted_23.mp3
+	notBorges/split.mp3
+	notBorges/the children's gospel music songbook/.obsidian/
+	notBorges/the fool - 0 .aif
+	notBorges/the fool - 0 1.aif
+	notBorges/the fool - 0 2.aif
+	notBorges/the fool - 0 3.aif
+	notBorges/the fool - 0.aif
+	notBorges/the-yellow-telephone-the-woman-in-the-wallpaper-is-still-holding-onto-.pdf.pdf
+	notBorges/threnody 1.mp3
+	notBorges/threnody 2.mp3
+	notBorges/threnody.mp3
+	notBorges/trifurcated.png
+	notBorges/userScripts/
+	publish.css
+	publish.html
+	publish.js
+	readmemap.mov
+	readmemap.mov.asd
+	sequitir.jpg
+	splice_lexDict.py
+	term.mov
+	term.mov.asd
+	thebookofhalves.html
+	thetonguesten.pdf
+	web.mov
+	web.mov.asd
+
+no changes added to commit (use "git add" and/or "git commit -a")

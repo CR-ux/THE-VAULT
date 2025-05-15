@@ -1,0 +1,6 @@
+---
+permalink: TATTOOS
+---
+VITRIOL 
+EADEM MUTATA RESURGO 
+INRA

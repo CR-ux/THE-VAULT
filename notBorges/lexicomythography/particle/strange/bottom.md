@@ -1,0 +1,4 @@
+---
+permalink: bottom
+---
+3. **LayerN:** “N” is writing a paper on Borges, from the fictional citadel of Tohms, economised by and eponymised from Jorge Luis Borges, which is a series of rock pools within islands within islands, that have become so “meta-islanded” that the floor now appears to be dry terrain but is actually filled with one molecule of H2O in every “rock pool” or “pore” of the pumice-like ground. Borges himself is a divisive figure, causing ideological split in Tohms: those resistant to and oppressed by Change (clinging to ancestral roots firmly planted) and those who Worship Change (as seeds or pollen dispersed like dandelion clocks on the Wind). N writes an abstract on Tlon Uqbar Orbius Tertius, before falling asleep and dreaming a reality of “Noet Borges”- a mythologised mystic such as Hermes Trismegistus, who, in Platonian Space akin to the Realm of Forms but conceptualised as “Plato’s Realm of ‘What For’s” 

@@ -1,0 +1,28 @@
+---
+permalink: THE BARD OF BARDO
+---
+Tibetan book of the dead
+Book of the dead 
+Bardo thodol
+Diamond vehicle
+Samsara - Buddhist six paths (six tracks?)
+“the rebirth across different realms of birth – such as heavenly, human, animal, hellish and others – occurs in the same way that a flame is transferred from one candle to another.”
+[Theravada](https://en.wikipedia.org/wiki/Theravada) Buddhists assert that rebirth is immediate while the [Tibetan](https://en.wikipedia.org/wiki/Tibetan_Buddhism) schools hold to the notion of a [bardo](https://en.wikipedia.org/wiki/Bardo) (intermediate state) that can last at least forty-nine days before the being is reborn
+
+- **Gods realm:**<sup>[46]</sup> the gods ([devas](https://en.wikipedia.org/wiki/Deva_(Buddhism)))<sup>[47]</sup> is the most pleasure-filled among the six realms, and typically subdivided into twenty six sub-realms.<sup>[48]</sup> A rebirth in this heavenly realm is believed to be from very good karma accumulation.<sup>[46]</sup> A *Deva* does not need to work, and is able to enjoy in the heavenly realm all pleasures found on earth. However, the pleasures of this realm lead to attachment ([*Upādāna*](https://en.wikipedia.org/wiki/Up%C4%81d%C4%81na)), lack of spiritual pursuits and therefore no nirvana.<sup>[49]</sup> The vast majority of Buddhist lay people, states Kevin Trainor, have historically pursued Buddhist rituals and practices motivated with rebirth into Deva realm.<sup>[46][note 6]</sup> The *Deva* realm in Buddhist practice in southeast and east Asia, states Keown, include gods found in Hindu traditions such as [Indra](https://en.wikipedia.org/wiki/Indra) and [Brahma](https://en.wikipedia.org/wiki/Brahma), and concepts in Hindu cosmology such as Mount Meru.<sup>[52]</sup>
+- **Human realm:**<sup>[46]</sup> called the [*manuṣya*](https://en.wikipedia.org/wiki/Human_beings_in_Buddhism) realm.<sup>[47]</sup> Buddhism asserts that one is reborn in this realm with vastly different physical endowments and moral natures because of a being's past karma.<sup>[</sup><a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed" rel="noopener" class="external-link" target="_blank"><i><sup>citation needed</sup></i></a><sup>]</sup> A rebirth in this realm is considered as fortunate because it offers an opportunity to attain nirvana and end the Saṃsāra cycle.<sup>[46][53]</sup>
+- **Demi-god realm (Asura):**<sup>[46]</sup> the demi-gods ([asuras](https://en.wikipedia.org/wiki/Asura_(Buddhism)))<sup>[47]</sup> is the third realm of existence in Buddhism. *Asura* are notable for their anger and some supernatural powers. They fight with the *Devas* (gods), or trouble the *Manusya* (humans) through illnesses and natural disasters.<sup>[46]</sup> They accumulate karma, and are reborn. Demi-god is sometimes ranked as one of the evil realms as there are stories of them fighting against the Gods.
+- **Animal realm:**<sup>[54]</sup> is state of existence of a being as an animal ([tiryag](https://en.wikipedia.org/wiki/Animals_in_Buddhism)).<sup>[47]</sup> This realm is traditionally thought to be similar to a hellish realm, because animals are believed in Buddhist texts to be driven by impulse and instinct, they prey on each other and suffer.<sup>[55]</sup> Some Buddhist texts assert that plants belong to this realm, with primitive consciousness.<sup>[54]</sup>
+
+<p style="text-align:center;margin:0">
+![[440px-Hungry_Ghosts_Scroll_Kyoto_5.jpg]]
+
+</p>
+
+
+<p style="text-align:center;margin:0">Hungry Ghosts realm of Buddhist samsara, a 12th-century painting from Kyoto Japan
+</p>
+- **Hungry ghost realm:**<sup>[46]</sup> hungry ghosts and other restless spirits ([preta](https://en.wikipedia.org/wiki/Preta))<sup>[47]</sup> are rebirths caused by karma of excessive craving and attachments. They do not have a body, are invisible and constitute only "subtle matter" of a being. Buddhist texts describe them as beings who are extremely thirsty and hungry, very small mouths but very large stomachs.<sup>[55]</sup> Buddhist traditions in Asia attempt to care for them on ritual days every year, by leaving food and drinks in open, to feed any hungry ghosts nearby.<sup>[46]</sup> When their bad karma demerit runs out, these beings are reborn into another realm. According to McClelland, this realm is the mildest of the three evil realms.<sup>[56]</sup> According to Yangsi Rinpoche, in contrast, the suffering of the beings born in the realm of the hungry ghosts is far more intense than those born in the animal realm.<sup>[57]</sup>
+- **Hell realm:**<sup>[54]</sup> beings in hell ([naraka](https://en.wikipedia.org/wiki/Naraka_(Buddhism)))<sup>[47]</sup> enter this realm for evil karma such as theft, lying, adultery and others. The texts vary in their details, but typically describe numerous hellish regions each with different forms of intense suffering, such as eight extremely hot hellish realms, eight extremely cold, being partially eaten alive, beating and other forms of torture in proportion to the evil karma accumulated.<sup>[46]</sup> These beings are reborn in another realm after their evil karma has run its course, they die, and they get another chance.<sup>[55]</sup> This realm is not similar to afterlife hell in Christianity, states Damien Keown, because in Buddhism there is no realm of final damnation and existence in this realm is also a temporary state.<sup>[55]</sup>
+
+State after death and before new life (after [[notBorges/redacted]])

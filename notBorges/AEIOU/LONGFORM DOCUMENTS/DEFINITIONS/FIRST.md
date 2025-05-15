@@ -1,0 +1,4 @@
+---
+permalink: FIRST
+---
+see [[ultimate]]
