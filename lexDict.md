@@ -1,7 +1,8 @@
 ---
 permalink: lexDict
-
 title: lexDict
+dg-publish: "true"
+dg-home: "true"
 ---
 [EDITOR'S NOET](https://www.carpvs.com/origin):
 ===
