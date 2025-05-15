@@ -4,7 +4,7 @@ permalink: Strata notes
 
 Strata was the name of the letting agency I had the great displeasure of paying far too much money to for a flat that was crumbling into the Clyde River
 
- It also means a separation of the whole into units which form part of it 
+It also means a separation of the whole into units which form part of it
 
 the subatomic clock 
 
@@ -38,12 +38,7 @@ astronomical clock?
 
 cosmological clock?
 
-  
-
 time - chronological clock? the clock itself in there somewhere? though this is man-made thats also sort of the point, it was made by the previously formed biological cyckles leading to the idea or perception of time by our bodies / selves - the fact that cells have an internal 'perception' of time - 
 
-	  
-	
-	I want this whole book to be a pushing of the reader (through their own initiation, necessary, this truth cannot be taufght, only found through the seeker's own seeking and process of becoming) that this whole thing is just a fractal, a series of constituent parts that is seemingly unaware of the higher and lower levels i.e. each cell does not 'know' my name, it only knows its role and performs it wihtin its own strata. 
-
-  
+    I want this whole book to be a pushing of the reader (through their own initiation, necessary, this truth cannot be taufght, only found through the seeker's own seeking and process of becoming) that this whole thing is just a fractal, a series of constituent parts that is seemingly unaware of the higher and lower levels i.e. each cell does not 'know' my name, it only knows its role and performs it wihtin its own strata. 
+    

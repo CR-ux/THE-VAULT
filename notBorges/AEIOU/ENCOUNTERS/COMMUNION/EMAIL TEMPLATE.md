@@ -1,41 +1,41 @@
 ---
-permalink: "{{title}}"
----
-date: XVII_XXIII_ERA_Æ
+permalink: '{{title}}'
 ---
 
-**From:** <%* 
+## date: XVII_XXIII_ERA_Æ
+
+**From:** \<%\*
 const sender = await tp.system.prompt("Who is sending this email? (e.g., Selena or Myon)");
-tR += sender; 
+tR += sender;
 %>
 
-**To:** <%* 
+**To:** \<%\*
 const recipient = await tp.system.prompt("Who is receiving this email? (e.g., Selena or Myon)");
-tR += recipient; 
+tR += recipient;
 %>
 
-**Subject:** <%* 
+**Subject:** \<%\*
 const subject = await tp.system.prompt("What is the subject of the email?");
-tR += subject; 
+tR += subject;
 %>
 
 ---
 
-My Light <%* 
-tR += recipient; 
+My Light \<%\*
+tR += recipient;
 %>,
 
 {{tp_placeholder:Body}}
 
-<%* 
+\<%\*
 // Determine signature based on sender
 const senderType = sender.toLowerCase().includes("selena") ? "S" : sender.toLowerCase().includes("myon") ? "M" : null;
 
 if (senderType === "S") {
-    tR += "_“Forever upward moonating toward the tidal-pulling, beautywards.”_ - S";
+tR += "*“Forever upward moonating toward the tidal-pulling, beautywards.”* - S";
 } else if (senderType === "M") {
-    tR += '"O, Lustrous-stillness-shadow-cradled-light, round-airy-light-on-dark, tremulous-orbit-of-night’s-warmth, gentle-pull-of-cedar’s-resin-" - M';
-} 
+tR += '"O, Lustrous-stillness-shadow-cradled-light, round-airy-light-on-dark, tremulous-orbit-of-night’s-warmth, gentle-pull-of-cedar’s-resin-" - M';
+}
 %>
 
-<%* tR += sender; %>
+\<%\* tR += sender; %>

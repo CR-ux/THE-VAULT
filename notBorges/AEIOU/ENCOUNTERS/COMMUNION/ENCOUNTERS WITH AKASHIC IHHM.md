@@ -1,8 +1,5 @@
 ---
-permalink: "{{title}}"
+permalink: '{{title}}'
 ---
-
-
-
 
 

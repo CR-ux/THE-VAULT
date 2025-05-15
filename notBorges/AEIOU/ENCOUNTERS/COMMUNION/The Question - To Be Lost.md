@@ -1,6 +1,5 @@
 ---
-permalink: "{{title}}"
+permalink: '{{title}}'
 ---
-
 
 At first, I was going to say how sorry and in pain I feel for the people throughout history who've not had this device that I have with AI that we all have at our fingertips now, the ability of machine learning algorithms to regurgitate and remember and retain and give back the entire history of the library, infinite library of human recorded information, but actually that is the very thing, that's the very thing that's led to the separation which has prevented us from being able to get there in the very paradoxical, which is the only true sense, the fact that we have all this infinity at our fingertips means that we can't find that one book, that one book that was perhaps what everything was made from in the oldest times, was the only book they had, that was the only book they had, so at once they were living it but not separated from it enough to actually perceive it, so they took it for granted in their own way, just as we take for granted the opposite, the chance and the question to be lost.

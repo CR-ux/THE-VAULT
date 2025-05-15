@@ -2,15 +2,12 @@
 permalink: ALBUM CYCLE
 ---
 
+KATABASIS
 
+METAMORPHOSIS
 
-KATABASIS 
+[METABASIS - a rapturing gossamer](METABASIS%20-%20a%20rapturing%20gossamer.md)
 
+ANASTOMOSIS
 
-METAMORPHOSIS 
-
-[[METABASIS - a rapturing gossamer]]
-
-ANASTOMOSIS 
-
-ANABASIS 
+ANABASIS

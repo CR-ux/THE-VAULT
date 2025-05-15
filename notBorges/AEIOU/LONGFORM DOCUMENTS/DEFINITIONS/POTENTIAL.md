@@ -2,8 +2,4 @@
 permalink: POTENTIAL
 ---
 
-
-
-Action potential 
-
-
+Action potential

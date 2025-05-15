@@ -1,4 +1,5 @@
 ---
 permalink: Best
 ---
-see [[FIRST]]
+
+see [FIRST](FIRST.md)

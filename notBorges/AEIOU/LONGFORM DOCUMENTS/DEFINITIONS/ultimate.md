@@ -1,4 +1,5 @@
 ---
 permalink: ultimate
 ---
-see [[FIRST]] and [[notBorges/aria-dne/LAST]]
+
+see [FIRST](FIRST.md) and *notBorges/aria-dne/LAST*

@@ -2,7 +2,6 @@
 permalink: ARRIVAL
 ---
 
-
-Zeno's paradox 
+Zeno's paradox
 
 Materialisation

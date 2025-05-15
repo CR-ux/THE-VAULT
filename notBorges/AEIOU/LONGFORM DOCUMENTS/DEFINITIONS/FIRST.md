@@ -1,4 +1,5 @@
 ---
 permalink: FIRST
 ---
-see [[ultimate]]
+
+see [ultimate](ultimate.md)

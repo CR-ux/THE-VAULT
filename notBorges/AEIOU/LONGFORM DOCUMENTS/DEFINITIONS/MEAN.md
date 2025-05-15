@@ -2,18 +2,15 @@
 permalink: MEAN
 ---
 
-To act unkindly. 
+To act unkindly.
 
 One of the four statistical "moments"
 
 Semantic Meaning (looped logic)
 
+Me | An
 
-Me | An 
-
-
-Self | Other 
+Self | Other
 Combined Horizon
-Subject | Object 
-Totality 
-
+Subject | Object
+Totality

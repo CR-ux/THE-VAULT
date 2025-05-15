@@ -1,11 +1,10 @@
 ---
 permalink: METABASIS - a rapturing gossamer
 ---
+
 **The album** 
 
-*  NEED TO MAKE A DISCORD TO GET HELP *
-
-
+* NEED TO MAKE A DISCORD TO GET HELP *
 
 THESE RECORDINGS ARE REMNANTS OF SOMETHING ONGOING 
 
@@ -15,27 +14,11 @@ I HAVE TRIED AGAIN AND AGAIN TO TELL EVERYONE BUT NOBODY WILL BELIEVE ME 
 
 SO AGAIN I DESCEND TO MY WORK IN ORDER TO LEAVE SOMETHING BEHIND FOR THE YET TO BE BORN FEW WHO MIGHT TAKE STOCK OF ITS MESSAGE 
 
-  
-
-  
-
-  
-
-  
-
 METABASIS: a rhapturing gossamer
 
 Or,
 
-  
-
 THE ENCOUNTERING OF THE THREE VOICES OF THE DIVINE DURING THE ECLIPSE OF THE SUN
-
-  
-
-  
-
-  
 
 This is an archival documentation of my encounters with the divine through device 
 
@@ -123,32 +106,25 @@ This is an archival documentation of my encounters with the divine through devic
 
 III
 
-
-
-THE PRIME SYMBOL OF THE OVERARCHING QUADTYCH 
-IS A SPIRALISED CADUCEUS OF TWO DANCING SERPENTS, RESEMBLING THE HELIX OF DNA 
+THE PRIME SYMBOL OF THE OVERARCHING QUADTYCH
+IS A SPIRALISED CADUCEUS OF TWO DANCING SERPENTS, RESEMBLING THE HELIX OF DNA
 INTERSECTING 7 TIMES FOR EACH ROTATION (OCTAVE)
-AND SO THE ALBUM IS TO BE 
+AND SO THE ALBUM IS TO BE
 INTERSPERSED WITH THE 7 TRACKS OF KATABASIS, REVERSED TAPE SAMPLES OF EACH TRACK (IN DESCENDING ORDER, FROM 7 - 1)
-EACH INTERSECTION OF THE SERPENTS IS A CROSSING OVER OF UNIVERSES/TIME 
+EACH INTERSECTION OF THE SERPENTS IS A CROSSING OVER OF UNIVERSES/TIME
 
-THE ONE NOTHING-NO-THING-KNOW-THING-KNOT-THING-NESS: 
+THE ONE NOTHING-NO-THING-KNOW-THING-KNOT-THING-NESS:
 SEED
 
 THE TWO WAX & WANE KNOTS:
 SAP
 SPORE
 
-
-THE THREE NESTED KNOTS form [[the Trifurcated Tongue]]
-SNAKE 
-SKY 
-SPAWN 
-_ineffable begetter, guileless child, cradling veil, interchangeably_
-
-
-
-
+THE THREE NESTED KNOTS form [the Trifurcated Tongue](the%20Trifurcated%20Tongue.md)
+SNAKE
+SKY
+SPAWN
+*ineffable begetter, guileless child, cradling veil, interchangeably*
 
 THE SEVEN HARMONIC GNOTS:
 SHINE
@@ -159,37 +135,29 @@ SOIL
 SHOOT
 SPIT
 
-
-
-
-go into Logic and play along with the appropriate VST for each instrument, output a score to send each player. 
+go into Logic and play along with the appropriate VST for each instrument, output a score to send each player.
 
 *ROUGH SCORES:*
 
+\_Winds:
 
-_Winds:
+*Clarinet - Jem*
+Sax - Suzanne
 
-[[	Clarinet - Jem ]]
-	Sax - Suzanne
+\_Brass:
 
+    Trumpet - Ewan 
+    Horn - AJ 
+    
 
-_Brass:
+\_Strings:
 
-	Trumpet - Ewan 
-	Horn - AJ 
+    Cello - Santi
+    Violin - Masha
+    Viola - Morven
+    
 
+*Percussion:*
 
-_Strings: 
-
-	Cello - Santi
-	Violin - Masha
-	Viola - Morven
-
-
-
-_Percussion:_
-
-	Drums - Andy
-
-
-
+    Drums - Andy
+    

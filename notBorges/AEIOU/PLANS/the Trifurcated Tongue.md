@@ -1,4 +1,5 @@
 ---
 permalink: the Trifurcated Tongue
 ---
-The Kshæ'lic Trinity 
+
+The Kshæ'lic Trinity
