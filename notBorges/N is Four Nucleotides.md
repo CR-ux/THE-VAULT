@@ -19,25 +19,6 @@ Whirring with a terrifying lightning storm overhead (an unavoidable side-effect 
 ---
 
 
-- [ ] Try not to Think What You Thought Was Right[^rhp]. About What You Thought Was Left[^lhp] (@2025-04-12 11:30)
-
-- [ ] Think about Leaving[^leaf] Who You Thought Was Left. About Who You Thought Was Right (@2025-04-12 15:30)
-
-- [ ] Try to Find an Entry At The Front, Where I Think Is Hindsight. About Where *Is* (The Centre). (@2025-04-12 16:30)
-
- - [x] Think about Exits Found Back of You, Why I Found Affront. About Why: "'I Think' Is: The Void" (@2025-04-12 16:40)
-
- - [ ] Try not to Be Low; How We Are Over. How About The Inside?
-
- - [ ] Think about Being High; How It Is to Bellow. About: "How is it? On The Outside?"
-
-
-
-- [x] Leave (@2025-04-12 17:00)
-
-
-
-
 Foreword: 
 --
 
