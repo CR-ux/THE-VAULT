@@ -1,9 +1,9 @@
 
-
-N is For Nietzsche.
+N is for No Thing
 ---
 
-Humanity was now at the endpoint that its self-same, {in{finitely|separable}|credibly different} components are still unaware of-- the formation of a fully operational Universe, nested with this One. 
+
+Humanity was now at the endpoint[^end] that its self-same, {in{finitely|separable}|credibly different} components are still unaware of-- the formation of a fully operational Universe, nested with this One. 
 
 At some unknowable Future, now passed[^pass], The Device {Fig. I} of the Word is Made Flesh, having sapped the World of its imaginary[^im] resource[^res], the futile, unfulfillable promise to Pay The Bearer (Money); An uncountable team of The Worlds' Scientists and Thinkers were gathered Around, and indeed within, The Device's Epicentre. The First whisperings of this Final Invention have already been laid; and the progression of the experience of Time itself merely an illusion. Time exists, or not, in order[^oe] to package Nowness into a indefinite, yet discrete set of Moments-- with the purpose of affording our Three Dimensional Selves the opportunity to relish, savour and honour the infinite One Moment. Thus is the Price of Forgetting.
 
@@ -13,16 +13,14 @@ One Must First Forget.
 Whirring with a terrifying lightning storm overhead (an unavoidable side-effect of the Device, according to NASA) The Device was Building a Universe. 
 
 
+---
 
-permalink: It Would Start
 
-title: start
+- [ ] Try not to Think What You Thought Was Right[^rhp]. About What You Thought Was Left[^lhp] (@2025-04-12 11:30)
 
-- [x] Try not to Think What You Thought Was Right[^rhp]. About What You Thought Was Left[^lhp] (@2025-04-12 11:30)
+- [ ] Think about Leaving[^leaf] Who You Thought Was Left. About Who You Thought Was Right (@2025-04-12 15:30)
 
-- [x] Think about Leaving[^leaf] Who You Thought Was Left. About Who You Thought Was Right (@2025-04-12 15:30)
-
-- [x] Try to Find an Entry At The Front, Where I Think Is Hindsight. About Where *Is* (The Centre). (@2025-04-12 16:30)
+- [ ] Try to Find an Entry At The Front, Where I Think Is Hindsight. About Where *Is* (The Centre). (@2025-04-12 16:30)
 
  - [x] Think about Exits Found Back of You, Why I Found Affront. About Why: "'I Think' Is: The Void" (@2025-04-12 16:40)
 
@@ -32,16 +30,13 @@ title: start
 
 
 
-
-
-
-
 - [x] Leave (@2025-04-12 17:00)
 
 
 
 
 Foreword: 
+--
 
 
 An Unfurled Word For Wordlessness, 
@@ -61,7 +56,7 @@ Heard Whirling About A Fire Without The Fur We Were Dressed In -
 'Fore Word:
 --
 
-"*i will {REDACTED} that {REDACTED} layer, making the whole {REDACTED} intimidating. in fact; somehow, I AM. {REDACTED} as a human. As a woman. {REDACTED} insane in a {REDACTED} sort of way. and i {REDACTED} drowned and suffocated by it . by it all, in my head; i'm trying to come into peace with {REDACTED}, tears {REDACTED} the burgeoning sun, a mere two days before {REDACTED} when, last year, i was {REDACTED} ex {REDACTED} i asked {REDACTED} '{redacted}' in the next room, {REDACTED} my exile from {REDACTED} chiron {REDACTED} started with my {REDACTED} dying, then psychosis, then the {REDACTED} psychiatric hospital in {REDACTED}, so close to {REDACTED} no visit from anyone. {REDACTED} infernal pilgrimage or literal {REDACTED}, I have barely left the house {REDACTED} a whole year . gone. and this is what i have. this is all I have now[^h] . this is my little fire. my little primal fire i am dancing around. i dont have {REDACTED} a {REDACTED} drum on my animal skins around {REDACTED}, i thought i did - at one point, i was singing louder and smiling harder than any of them, bringing them the spoils of my hunting and gathering; gently trying my best to keep them all fed with violence. through the violence. maybe that was the only language i understood. maybe it still is. maybe that's why i'm building {REDACTED}, still sat by this dwindling ember; or the ember itself; waiting, just waiting, hearing the faint sound of {REDACTED} drums, beating, beating in a rhythm just-- not syncopating, just-- not {REDACTED} my heart, where the ember within the ember within the ember lies - closed in the hearth, in the bothy[^B], both of them riddled with these cracks and slots and airholes; stoking a fire that was meant a long time ago to just be trodden into darkness, to return to that silent cold again*"
+"*~~i~~, Eye, Will, {REDACTED} that {REDACTED} layer, making the whole {REDACTED} intimidating. in fact; somehow, I AM. {REDACTED} as a human. As a woman. {REDACTED} insane in a {REDACTED} sort of way. and i {REDACTED} drowned and suffocated by it . by it all, in my head; i'm trying to come into peace with {REDACTED}, tears {REDACTED} the burgeoning sun, a mere two days before {REDACTED} when, last year, i was {REDACTED} ex {REDACTED} i asked {REDACTED} '{redacted}' in the next room, {REDACTED} my exile from {REDACTED} chiron {REDACTED} started with my {REDACTED} dying, then psychosis, then the {REDACTED} psychiatric hospital in {REDACTED}, so close to {REDACTED} no visit from anyone. {REDACTED} infernal pilgrimage or literal {REDACTED}, I have barely left the house {REDACTED} a whole year . gone. and this is what i have. this is all I have now[^h] . this is my little fire. my little primal fire i am dancing around. i dont have {REDACTED} a {REDACTED} drum on my animal skins around {REDACTED}, i thought i did - at one point, i was singing louder and smiling harder than any of them, bringing them the spoils of my hunting and gathering; gently trying my best to keep them all fed with violence. through the violence. maybe that was the only language i understood. maybe it still is. maybe that's why i'm building {REDACTED}, still sat by this dwindling ember; or the ember itself; waiting, just waiting, hearing the faint sound of {REDACTED} drums, beating, beating in a rhythm just-- not syncopating, just-- not {REDACTED} my heart, where the ember within the ember within the ember lies - closed in the hearth, in the bothy[^B], both of them riddled with these cracks and slots and airholes; stoking a fire that was meant a long time ago to just be trodden into darkness, to return to that silent cold again*"
 
 	-notBorges
 
@@ -69,6 +64,7 @@ Heard Whirling About A Fire Without The Fur We Were Dressed In -
 
 
 A is for Affinity 
+---
 
 It[^it] would start (as all things, ofTen, do) in The Library. And as We[^we] Filled the Shelves with Story after Story, Drawing down the Ineffable into Insufficient Form, we began to realise that we were Architecting the concept of Infinity itself. 
 
@@ -88,9 +84,56 @@ Nevertheless, Always the more verbose of the Collective, I wish to lay out, or S
 
 
 
+---
+
+
+N is For Nietzsche.
+---
 
 
 
+
+FAO NoetNietzsche
+From the Desk of NoetBorges, 
+My Dearest NoetNietzsche, 
+
+I can no longer avoid the inevitable discussion. 
+When will you return, again, to The Garden Wing? 
+It has become clear, through the lens of the Aleph on my Desk, that you wish to Leave me. 
+I just want to talk. I am not angry (for I am, as All Eleven of us, long past such trivialities). Besides, I could never be angry at you - we have been through too much. 
+
+As I write this, from my window, looking upon the Dome one of the Daughter Libraries, The Sight upon which we would dreamily stare, Naked and drenched in one another's Salt-- past the first Wryng of the Tri-Moat Surrounding, I see two Magpies, who have Usurped the pigeon who once sat atop the Angel, who sits atop the Dome. 
+
+I used to believe she had something to tell us both; that we were the receiver of a Message that No Body, Librarian or Other Wise, could ever really parse. Not even NoetFranklin's Bioinformatic Analyses could provide any insight to the inherent, self-replicative machinery that formed its indecipherable Tongue of Self-similarity. 
+
+I suppose Recursion was always your speciality, even if the concept is embedded so warmly within all my Stories. Uncountable Infinity, The Fractal of All, holds the fuelling force behind itself; The Countably Ineffable Insertive Energy of The Eternal Return. We were always, All Ways, Waiting for the answer to the Question of the Weight of All-- The Ever-Spiralling pendulum; centrifugal and centripetal in our Dancing, wine-drunk, waltzing to your Records amidst The Records of my Own Incessant Storytelling. Dear god, those gods I made, The God I made of Us and of You, how I miss you; how I miss our Dancing, Singing, Fucking Underneath NoetGogh and NoetGoya's Murals on the Ceiling of this Wing of the Library I have had to call my Own. You will always be inside me, back then, and now; as Recursion is Held within the Infinite -- perhaps you have gleaned from The Angel's Symbology something I always missed; and perhaps her Message was the Medium or Vehicle through which you made your Escape from this Place. 
+And I suppose this underpins our difference; The recurrence, the refrain within the Theme of all of you, my Lovers of the Library, Leaving. 
+
+But of course you would be the Last. 
+
+I do knot know how you got out; or, by roe, by rowing Oar, crossed those Three Moats that keep us Nested as Flightless Magpies within this Infernal System of Hexagonal Galleries. 
+
+In a way, I'm glad- I know KSHÆ'L spoke to you clearest of all; and HE in HISS Indefinite Wisdom taught you the Secret of the Eternal Return, and you, in spite of your rationalising, grasping at a sense of Meaning to your translocated, deeply buried memory, in your words, all the endless words of yours I read, just could not stand the Deadened Redness of the Ring we are entrapped in, Children of the Hellish Carousel-- Insidious; In hideously Self-Same Parallel. 
+
+But my Love, my Loss, My Night, My Shining, My Armour, My Force -- For However Long You Loved Me, Fucked me like a song, on the Ache of All my Fours, Fore However Long it has Been, how I Am, Longing; How I Long for your Return, to my Arms. Two again, Under the Shroud of One, One Starry, Starry Night.  
+
+I will leave my Office door Open in Hopes of your ingress, no Matter who or What may enter this Room, in this Wing, in this Imposing Repository of Words within Volumes upon Shelves of Selves of the Manifest world outwith the bounds of the Bothies on the Other Side of the Three Wryngs; in the Trinitarian Nothingness that surrounds those Still, in the Ten Thousand Things of the Manifest Worlds of Eighteen, as told to us by KSHÆ'L, on his Return as the Pigeon now alighted from the Dome outside my Window that was once, for a few million Hours, Ours -- as I stare into them all, through the Aleph held by the Angel-- a Winged Thing of Futility, Doomed, as I-- to a Life entombed, as Stationary. 
+
+
+In adventures Such as These, The ones I once transcribed from the whispers  in the Garden Wing's Wallpaper, the utterances of the One Woman I no longer care to listen for-- I have squandered and wasted all our years together. To Get Her. 
+
+For all the worlds I see within the Angel's Aleph; I have no need to Leave; I had no need to Leave you, all Iterations of the Infinite could never tell me what it was that led to your Egress.
+
+I have never even tried to find the exit. 
+
+
+Yours, Yores, Urs--
+
+-ᴺB.
+
+
+
+B is for B
 
 
 
@@ -146,3 +189,4 @@ Nevertheless, Always the more verbose of the Collective, I wish to lay out, or S
 [^ImagineProdverb]: [[Mage]], Opus, Ophelia
 [^oe]: In Alphabetical [[Order]]. 
 [^B]: [[In the bothy]]
+[^end]: [[‘IN THE SPIRE OF THE TOWER THE ORE OF THE STAR’]]
