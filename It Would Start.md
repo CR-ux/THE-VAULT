@@ -51,18 +51,9 @@ Heard Whirling About A Fire Without The Fur We Were Dressed In -
 'Fore Word:
 --
 
-
-
-
 "*i will keep these repositories of insanity public of course, whatever that means, but Maybe this will provide a top layer, making the whole thing digestible and not so intimidating. in fact; somehow, I AM. Crying: i'm the exact same, as a human. As a woman. i'm intimidating, batshit insane in a {REDACTED} sort of way. and i get... so... fucking , drowned and suffocated by it . by it all, in my head; i'm trying to come into peace with {REDACTED}, tears falling as i look outward to the burgeoning sun, a mere two days before my birthday, when, last year, i was trying to shove down the recent assault by my ex partner, who still, lives the 100 metres away where my bday party was, which i asked {REDACTED} '{redacted}' in the next room, which led to my exile from the group, self imposed or not, it needed to happen - chiron in aries started with my {REDACTED} dying, then psychosis, then the assault and the breakup and the month stay in psych hospital in london, that horrible lonely journey and time in london, so close to my Mother, and yet, no visit from everyone. Except for that trip to london, a cursed infernal pilgrimage or literal KATABASIS of sorts, I have barely left the hosue since it all happened. a whole year . gone. and this is what i have. this is all I have now[^h] . this is tmy little fire. my little primal fire i am dancing around. i dont have a tribe , a family to dance and drum on my animal skins around it anymore, at one point, i thought i did - at one point, i was singing louder and smiling harder than any of them, bringing them the spoils of my hunting and gathering; gently trying my best to kee them all fed with violence. through the violence. maybe that was the only language i understood. maybe it still is. maybe that's why i'm building all these fucking complicated languages which will probably never be written or spoken by anyone but me; this single woman tribe, still sat by this dwindling ember; or the ember itself; waiting, just waiting, hearing the faint sound of other tribes' drums, beating, beating in a rhythm jsut not syncopating , just not fitting with the beat of my heart, where the ember within the ember within the ember lies - closed in the hearth, in the bothy, both of them riddled with these cracks and slots and airholes; stoking a fire that was meant a long time ago to just be trodden into darkness, to return to that silent cold again*"
 
 	-notBorges
-
-
-
-
-
-
 
 
 
