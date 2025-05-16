@@ -1,3 +1,9 @@
+
+
+![[Pasted image 20250516194840.png]]
+Fig. 0. The Web. Otherwise Noen as The Right Eye of ⧖eno. 
+
+
 # EPI{GR|T}APH: 
 
 *IN the midway of this our mortal [[Live|life]],*  
