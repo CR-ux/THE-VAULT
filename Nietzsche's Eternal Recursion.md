@@ -80,7 +80,11 @@ On this Particular day, stretching out into the entanglement of every Self-Same 
 
 this Code of Letters, for the most part [[Four]] in [[Number]], though as mentioned prior, occasionally Expanding to a Fifth component, should be familiar to the Reader of this Letter by now, as They[^c] (Them Shelves) are, In Deed, composed of it[^us].
 
-Nevertheless, Always the more verbose of the Collective, I wish to lay out, or Separate, or Re-anneal or Replicate, the Findings of the Squandering of Searches[^ss] I happen to have come across, and perhaps my stance on the Matter of Matter it Self, while maybe, For Shadow, foreshadow the coming happenstance Material you may or may knot be About; to Read. upon the Shelf, Be It as It May. 
+Nevertheless, Always the more verbose of the Collective, I wish to lay out, or Separate, or Re-anneal or Replicate, the Findings of the Squandering of Searches[^ss] I happen to have come across, and perhaps my stance on the Matter of Matter it Self, while maybe, For Shadow, foreshadow the coming happenstance Material you may or may knot be About; to Read. upon the Shelf, Be It, As Schismatic as a Prison, The Prism of Becoming Schism, as It May. 
+
+
+
+
 
 
 
