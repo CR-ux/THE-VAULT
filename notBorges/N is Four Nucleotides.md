@@ -1,3 +1,6 @@
+---
+title: N is Four Nucleotides
+---
 
 N is for No Thing
 ---
