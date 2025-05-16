@@ -16,7 +16,7 @@ CONTENTS:
 ---
 
 [[BODY OF THE CITADEL]]
-[[LAYER Æ BODY]]
+[[The Colour- Yellow.]]
 [[LAYER i-o BODY]]
 [[LAYER U BODY]]
 

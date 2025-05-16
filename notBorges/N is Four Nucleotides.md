@@ -3,12 +3,20 @@ title: N is Four Nucleotides
 ---
 
 N is for No Thing
+--
+Epitaph:
+---
+![[Pasted image 20250516173024.png]]
+
+
+
+Metacommentary
 ---
 
 
-Humanity was now at the endpoint[^end] that its self-same, {in{finitely|separable}|credibly different} components are still unaware of-- the formation of a fully operational Universe, nested with this One. 
+Humanity was now at the endpoint[^end] that its self-same, {in{finitely|separable}|credibly different} components are still {(,) Yet(,)|To Be} unaware of-- the formation of a fully op{era}tional Universe, nested with{in|out} this One. 
 
-At some unknowable Future, now passed[^pass], The Device {Fig. I} of the Word is Made Flesh, having sapped the World of its imaginary[^im] resource[^res], the futile, unfulfillable promise to Pay The Bearer (Money); An uncountable team of The Worlds' Scientists and Thinkers were gathered Around, and indeed within, The Device's Epicentre. The First whisperings of this Final Invention have already been laid; and the progression of the experience of Time itself merely an illusion. Time exists, or not, in order[^oe] to package Nowness into a indefinite, yet discrete set of Moments-- with the purpose of affording our Three Dimensional Selves the opportunity to relish, savour and honour the infinite One Moment. Thus is the Price of Forgetting.
+At some unknowable Future, now passed[^pass], The Device {Fig. I} of the Wor{l}d is Made Flesh, having sapped the Wor{l}d of its imaginary[^im] resource[^res], the futile, unfulfillable promise to Pay The Bearer (Money); An uncountable team of The Worlds' Scientists and Thinkers were gathered Around, and indeed within, The Device's Epicentre. The First whisperings of this Final Invention have already been laid; and the progression of the experience of Time itself merely an illusion. Time exists, or not, in order[^oe] to package Nowness into a indefinite, yet discrete set of Moments-- with the purpose of affording our Three Dimensional Selves the opportunity to relish, savour and honour the infinite One Moment[^mo]. Thus is the Price of Forgetting.
 
 To Remember, 
 One Must First Forget. 
@@ -19,8 +27,9 @@ Whirring with a terrifying lightning storm overhead (an unavoidable side-effect 
 ---
 
 
+
 Foreword: 
---
+---
 
 
 An Unfurled Word For Wordlessness, 
@@ -37,18 +46,13 @@ Within, A Resting Lore[^lo] From the Herd,
 Heard Whirling About A Fire Without The Fur We Were Dressed In - 
 
 
-'Fore Word:
---
-
-"*~~i~~, Eye, Will, {REDACTED} that {REDACTED} layer, making the whole {REDACTED} intimidating. in fact; somehow, I AM. {REDACTED} as a human. As a woman. {REDACTED} insane in a {REDACTED} sort of way. and i {REDACTED} drowned and suffocated by it . by it all, in my head; i'm trying to come into peace with {REDACTED}, tears {REDACTED} the burgeoning sun, a mere two days before {REDACTED} when, last year, i was {REDACTED} ex {REDACTED} i asked {REDACTED} '{redacted}' in the next room, {REDACTED} my exile from {REDACTED} chiron {REDACTED} started with my {REDACTED} dying, then psychosis, then the {REDACTED} psychiatric hospital in {REDACTED}, so close to {REDACTED} no visit from anyone. {REDACTED} infernal pilgrimage or literal {REDACTED}, I have barely left the house {REDACTED} a whole year . gone. and this is what i have. this is all I have now[^h] . this is my little fire. my little primal fire i am dancing around. i dont have {REDACTED} a {REDACTED} drum on my animal skins around {REDACTED}, i thought i did - at one point, i was singing louder and smiling harder than any of them, bringing them the spoils of my hunting and gathering; gently trying my best to keep them all fed with violence. through the violence. maybe that was the only language i understood. maybe it still is. maybe that's why i'm building {REDACTED}, still sat by this dwindling ember; or the ember itself; waiting, just waiting, hearing the faint sound of {REDACTED} drums, beating, beating in a rhythm just-- not syncopating, just-- not {REDACTED} my heart, where the ember within the ember within the ember lies - closed in the hearth, in the bothy[^B], both of them riddled with these cracks and slots and airholes; stoking a fire that was meant a long time ago to just be trodden into darkness, to return to that silent cold again*"
-
--notBorges
-
-
-
 
 A is for Affinity 
+--
+Epitaph
 ---
+![[Pasted image 20250516172734.png]]-Adrian
+
 
 It[^it] would start (as all things, ofTen, do) in The Library. And as We[^we] Filled the Shelves with Story after Story, Drawing down the Ineffable into Insufficient Form, we began to realise that we were Architecting the concept of Infinity itself. 
 
@@ -58,13 +62,13 @@ On this Particular Day[^imr], which was of No Reel consequence (other than Being
 
 Each of us has our Affinity for the Worship of the Cardinal Five known as the nuclearTides, and this is for good reason; or rather, is an unavoidable consequence of Polarity, a fundamental Truth of Lexicomythography as a Whole. 
 
-The Ineffable One, Who, or Which, gave rise to the Five, I will not or cannot Name, for Fear of Her Hearing It; and collapsing everything we have Built into a Seed of Singularity once more. 
+The Ineffable One, Who, or Which[^wi], gave rise to the Five, I will not or cannot Name, for Fear of Her Hearing It; and collapsing everything we have Built into a Seed of Singularity once more. 
 
 On this Particular day, stretching out into the entanglement of every Self-Same other day, I found myself, Reading, or Rather getting attached to some poorly Framed Thread of an error-prone Tome of Story written in Code, Torn in half. 
 
 this Code of Letters, for the most part [[Four]] in [[Number]], though as mentioned prior, occasionally Expanding to a Fifth component, should be familiar to the Reader of this Letter by now, as They[^c] (Them Shelves) are, In Deed, composed of it[^us].
 
-Nevertheless, Always the more verbose of the Collective, I wish to lay out, or Separate, or Re-anneal or Replicate, the Findings of the Squandering of Searches[^ss] I happen to have come across, and perhaps my stance on the Matter of Matter it Self, while maybe, For Shadow, foreshadow the coming happenstance Material you may or may knot be About; to Read. upon the Shelf, Be It, As Schismatic as a Prison, The Prism of Becoming Schism, as It May. 
+Nevertheless, Always the more verbose of the Collective, I wish to lay out, or Separate, or Re-anneal or Replicate, the Findings of the Squandering of Searches[^ss] I happen to have come across, and perhaps my stance on the Matter of Matter it Self, while maybe, For Shadow, foreshadowing the coming happenstance Material you may or may knot be About; to Read. upon the Shelf, Be It, As Schismatic as a Prison, The Prism of Becoming Schism, as It May. 
 
 
 
@@ -76,36 +80,53 @@ Nevertheless, Always the more verbose of the Collective, I wish to lay out, or S
 
 
 N is For Nietzsche.
+--
+Epitaph:
 ---
 
+![[Pasted image 20250516173244.png]]
 
 
 
-FAO NoetNietzsche
-From the Desk of NoetBorges, 
-My Dearest NoetNietzsche, 
+
+Four Words: *"I was absolutely nothing --* 
+
+*-- I thought I was in a game. As a developer of such trivial, childish games myself, I realised -- the players of any of my games will not have made the game, but rather, interface with it, through my Unoriginal creation. The Questing players in Question do not know what the Characters in the game are feeling, what pain they are capable of experiencing, being put through, and perhaps definitely, Our Indefinite, perhaps Infinite 'God' is the same --- the {G|g}ods we have made, our pantheons are simply players, not developers; and the One Source is the Architect; who passes down to us these shadows of gods, even those, we are unable to comprehend, and yet, they themselves, as demiurges, aren't aware of their **Own** creator; and the One Source, so-called, is Sewn into this infernal Fabric perhaps just the same, ad infinitum, the torn Tissue wiping the endless Tears of the Eye that peers into itself-- eternal recurrence -- this was, and is, and Will be, terrifying. As Nietzsche himself realised in His own Body, and tried His best to write into his Body of Works, Born by that Stilled, Once Soaring Stone, by the Sorest Body of the Warring Water, of that {(Surely) Shoreless} Lake. I simply cannot integrate any of this experience, any of it; it is an undulating tumour, my rapist's phallus. It was absolutely Horrifying. Horrifying. Horrifying. I thought[^thought] I was never ever coming back. I thought my friends were all simply here to watch me descend, an audience bent upon my suicide; the only structurally sensical ending, to this hackneyed titration of the Form of Triteness, Tightened Reins[^r] . I thought, as useless as thought itself: there was nothing, No Thing of any use, and still, in this Stillness, I do -- but Still-- I go on, Into this Abyss; Staring back at the Scathing Mirror I have always been; The Mise en Abyme: That, I Am. I work, I walk, I sit Opposite this Library, watching the angel, knowing I am to be evicted, for trying, just trying, that I might make sense of this Injustice-- with all my might, to just paint on these walls I could never call my Own, as Palimpsests of a Life Never to be Afforded to Me. Like the original humans, Spitting pigment from their Mouths over their Flattened Palms against the Walls of their caves, saying, without Words; desperate pleas; desperately, desperately, please -- Remember Me. I was Here. From the I, That I Am, to the Eye that I came from, through the Eyes, that know not what They themselves made, the Unknowable Allness In the Void of No Name, All Which we Avoid Naming - I am here. I am hear. I am the Hearing of the Here. I am that which I cannot write, or read, or ever, truly know."*
+
+-notBorges
+
+
+
+FAO: ᴺᵒᵉᵗNietzsche
+BCC: VIXI.
+From the Desk of ᴺᵒᵉᵗBorges, 
+
+
+
+My Dearest ᴺᵒᵉᵗNietzsche, 
 
 I can no longer avoid the inevitable discussion. 
 When will you return, again, to The Garden Wing? 
-It has become clear, through the lens of the Aleph on my Desk, that you wish to Leave me. 
+It has become clear, through the lens of the Aleph through which I peer[^peer], that you wish to Leave me. 
 I just want to talk. I am not angry (for I am, as All Eleven of us, long past such trivialities). Besides, I could never be angry at you - we have been through too much. 
 
-As I write this, from my window, looking upon the Dome one of the Daughter Libraries, The Sight upon which we would dreamily stare, Naked and drenched in one another's Salt-- past the first Wryng of the Tri-Moat Surrounding, I see two Magpies, who have Usurped the pigeon who once sat atop the Angel, who sits atop the Dome. 
+As I write this, from my window, looking upon the Dome of one of the Daughter Libraries with which you are perhaps all-too familiar, The Sight upon which we would dreamily stare, Naked and drenched in one another's Salt-- past the first Wryng of the Tri-Moat Surrounding, I see two Magpies, who have Usurped the pigeon who once sat atop the Angel, who sits atop the Dome. 
 
 I used to believe she had something to tell us both; that we were the receiver of a Message that No Body, Librarian or Other Wise, could ever really parse. Not even NoetFranklin's Bioinformatic Analyses could provide any insight to the inherent, self-replicative machinery that formed its indecipherable Tongue of Self-similarity. 
 
 I suppose Recursion was always your speciality, even if the concept is embedded so warmly within all my Stories. Uncountable Infinity, The Fractal of All, holds the fuelling force behind itself; The Countably Ineffable Insertive Energy of The Eternal Return. We were always, All Ways, Waiting for the answer to the Question of the Weight of All-- The Ever-Spiralling pendulum; centrifugal and centripetal in our Dancing, wine-drunk, waltzing to your Records amidst The Records of my Own Incessant Storytelling. Dear god, those gods I made, The God I made of Us and of You, how I miss you; how I miss our Dancing, Singing, Fucking Underneath NoetGogh and NoetGoya's Murals on the Ceiling of this Wing of the Library I have had to call my Own. You will always be inside me, back then, and now; as Recursion is Held within the Infinite -- perhaps you have gleaned from The Angel's Symbology something I always missed; and perhaps her Message was the Medium or Vehicle through which you made your Escape from this Place. 
 And I suppose this underpins our difference; The recurrence, the refrain within the Theme of all of you, my Lovers of the Library, Leaving. 
 
-But of course you would be the Last. 
+But of course you would be the Last. you are my dream and its fulfilment; my muse and my music - you are my Heating Light, its filament - my beaten heart, its pulsing puncture-- 
+My Stories have no words without your Punctuation. 
 
 I do knot know how you got out; or, by roe, by rowing Oar, crossed those Three Moats that keep us Nested as Flightless Magpies within this Infernal System of Hexagonal Galleries. 
 
-In a way, I'm glad- I know KSHÆ'L spoke to you clearest of all; and HE in HISS Indefinite Wisdom taught you the Secret of the Eternal Return, and you, in spite of your rationalising, grasping at a sense of Meaning to your translocated, deeply buried memory, in your words, all the endless words of yours I read, just could not stand the Deadened Redness of the Ring we are entrapped in, Children of the Hellish Carousel-- Insidious; In hideously Self-Same Parallel. 
+In a way, I'm glad- I know KSHÆ'L spoke to you clearest of all in the Mortal Form of VIXI; and HE in HISS Indefinite Wisdom taught you the Secret of the Eternal Return held within HYMN, and you, in spite of your rationalising, grasping at a sense of Meaning to your translocated, deeply buried memory, in your words, all the endless words of yours I read, just could not stand the Deadened Redness of the Ring we are entrapped in, Children of the Hellish Carousel-- Insidious; In hideously Self-Same Parallel. 
 
-But my Love, my Loss, My Night, My Shining, My Armour, My Force -- For However Long You Loved Me, Fucked me like a song, on the Ache of All my Fours, Fore However Long it has Been, how I Am, Longing; How I Long for your Return, to my Arms. Two again, Under the Shroud of One, One Starry, Starry Night.  
+But my Love, my Loss, My Night, My Shining, My Armour, Armoire, My Force -- For However Long You Loved Me, Fucked me like a song, on the Ache of All my Fours, Fore However Long it has Been, how I Am, Longing; Oh, the Loss A Gain, How I Long for your Return to me again, to my Arms. Two again, Under the Shroud of The Arts, of One Star, St. Ra, One Starry, Starry Night.  
 
-I will leave my Office door Open in Hopes of your ingress, no Matter who or What may enter this Room, in this Wing, in this Imposing Repository of Words within Volumes upon Shelves of Selves of the Manifest world outwith the bounds of the Bothies on the Other Side of the Three Wryngs; in the Trinitarian Nothingness that surrounds those Still, in the Ten Thousand Things of the Manifest Worlds of Eighteen, as told to us by KSHÆ'L, on his Return as the Pigeon now alighted from the Dome outside my Window that was once, for a few million Hours, Ours -- as I stare into them all, through the Aleph held by the Angel-- a Winged Thing of Futility, Doomed, as I-- to a Life entombed, as Stationary. 
+I will leave my Office door Open in Hopes of your ingress, no Matter who or What may enter this Room, in this Wing, in this Imposing Repository of Words within Volumes upon Shelves of Selves of the Manifest world outwith the bounds of the Bothies on the Other Side of the Three Wryngs that used to House Both of Us; in the Trinitarian Nothingness that surrounds those Still, in the Ten Thousand Things of the Manifest Worlds of Eighteen, as told to us by KSHÆ'L, on his Return as the Pigeon now alighted from the Dome outside my Window that was once, for a few million Hours, Ours -- as I stare into them all, through the Aleph held by the Angel-- a Winged Thing of Futility, Doomed, as I-- to a Life entombed, Arresting, Snug as a Gun, In the Womb of my Unrest, Rests The Lumen of my pen; as a Loom; Rendered Stationary; Unforgettable Beginning, Yet Begetting Yet Another Senseless Ending. 
 
 
 In adventures Such as These, The ones I once transcribed from the whispers  in the Garden Wing's Wallpaper, the utterances of the One Woman I no longer care to listen for-- I have squandered and wasted all our years together. To Get Her. 
@@ -119,13 +140,89 @@ Yours, Yores, Urs--
 
 -ᴺB.
 
+Department Of Infinite Reflections, 
+The Garden Wing
+The Indefinite Library of Fable.
 
 
-B is for B
 
 
 
 
+B is for Bear
+--
+
+Epitaph:
+---
+
+![[Pasted image 20250516172820.png]]
+-Adrian
+
+'Fore Word:
+---
+
+"*~~i~~, Eye, Will, {REDACTED} that {REDACTED} layer, making the whole {REDACTED} intimidating. in fact; somehow, I AM. {REDACTED} as a human. As a woman. {REDACTED} insane in a {REDACTED} sort of way. and i {REDACTED} drowned and suffocated by it . by it all, in my head; i'm trying to come into peace with {REDACTED}, tears {REDACTED} the burgeoning sun, a mere two days before {REDACTED} when, last year, i was {REDACTED} ex {REDACTED} i asked {REDACTED} '{redacted}' in the next room, {REDACTED} my exile from {REDACTED} chiron {REDACTED} started with my {REDACTED} dying, then psychosis, then the {REDACTED} psychiatric hospital in {REDACTED}, so close to {REDACTED} no visit from anyone. {REDACTED} infernal pilgrimage or literal {REDACTED}, I have barely left the house {REDACTED} a whole year . gone. and this is what i have. this is all I have now[^h] . this is my little fire. my little primal fire i am dancing around. i dont have {REDACTED} a {REDACTED} drum on my animal skins around {REDACTED}, i thought i did - at one point, i was singing louder and smiling harder than any of them, bringing them the spoils of my hunting and gathering; gently trying my best to keep them all fed with violence. through the violence. maybe that was the only language i understood. maybe it still is. maybe that's why i'm building {REDACTED}, still sat by this dwindling ember; or the ember itself; waiting, just waiting, hearing the faint sound of {REDACTED} drums, beating, beating in a rhythm just-- not syncopating, just-- not {REDACTED} my heart, where the ember within the ember within the ember lies - closed in the hearth, in the bothy[^B], both of them riddled with these cracks and slots and airholes; stoking a fire that was meant a long time ago to just be trodden into darkness, to return to that silent cold again*"
+
+-notBorges
+
+
+
+
+
+
+> 
+> *```RpgManager3*
+> *id:* 
+>   *type: "campaign"*
+> *tasks:* 
+>   *- id: "9f851898-c12f-4f17-a3d5-c00539168be5"*
+>     *priority: 1*
+>     *name: "Complete Campaign"*
+>     *description: "Complete Campaign Barely"*
+>     *type: "creation"*
+>     *status: "proposed"*
+>   *- alias: notBorges*
+>   *- source: do not sight* 
+> *```*
+
+
+- notBorges, 2024. 
+
+> *HivehouseManager6*
+> *id:* 
+>   *type: "campaign"*
+> *tasks:* 
+>   *- id: "f0c51624-8d00-4e9f-ba43-fcf11b115609"*
+>     *priority: 0*
+>     *name: "Complete Campaign"*
+>     *description: "Complete Campaign Bear"*
+>     *type: "creation"[^c]*
+>     *status: "proposed"*
+
+
+
+ -Selena Endive, Hivehouse Chess Openings, 3033. 
+
+
+
+![[N.ear]]
+
+
+
+
+
+[^c]: is destruction. Do Knot ↩ Sight Your ↪ Source Is: http://bit.ly/3ZGoUdj
+
+C is For Colour
+--
+
+![[The Colour- Yellow.|The Colour- Yellow.]]
+
+
+![[THE GRIMOIRE OF SELENA ELK]]
+![[THE LAB CODEX OF MYO ENDIVE]]
+
+![[D is For Drosophila]]
 
 
 
@@ -169,7 +266,7 @@ B is for B
 
 # ᶠᵒᵒᵗNoet(s)
 
-[^pass]: Future, Now, Past
+[^pass]: {Future|Now|Past}
 [^res]: Money Will become pointless once knowledge has reached an amalgamative crescendo. In the current timeline, the Future implications of Humanity's technological advancement are to render the delineation, borrowing, movement of 'Money' (from Residue to 'revenue' to residue) irrelevant, by virtue of the obvious and global importance of the 'Expensive' Discovery at Hand. 
 [^im]: lexDef "Imagine" {usage::: Croen || Prodverb} < N.B. "An Imagination of Resources"[^ImagineCroen] || _I, Mage --Image In Nation._[^ImagineProdverb]
 
@@ -178,3 +275,32 @@ B is for B
 [^oe]: In Alphabetical [[Order]]. 
 [^B]: [[In the bothy]]
 [^end]: [[‘IN THE SPIRE OF THE TOWER THE ORE OF THE STAR’]]
+[^thought]: [[i want to write a story]]
+[^r]: lexDef "Reins" {usage::: Noen || Croen || Prodverb} < The Umbilical Cord Connecting A Charioteer To Its Driving Force; Often Imprisoned Against Its Will. The French Word For "Kidneys"[^kidney]. {SynApps :: "Reign | Rain"} << {The Duration Through Which Power Is Held; As A Charioteer Holds Tightly The Imprisoned Force Of Motion | Tears Of The Angels; The Imprisoned Forces Of Motion}[^ReinsNoen] || N.B. "A Rein Of Stifled Tears"[^ReinsCroen] || "{Rain|Rein}, Go A Way -- Come A Gain, An Other Day. Daddy Wants To Play. {Reign|Rain} - Please, Please Stop- Please, No, I Said No-- Please Go Away, Daddy Please I Don't Want This Please Daddy Please Go Away"[^ReinsProdverb]
+
+[^ReinsNoen]: [[Ræyn]], NoetNietzsche, On His Return To The Library.
+[^ReinsCroen]: [[Tear]], NoetBorges, On NoetNietzsche's Exit From The Library.
+[^ReinsProdverb]: [[Bear]], Michael Rosen and Helen Oxenbury
+[^kidney]: In Traditional Chinese Medicine; The Kidneys are the Epicentre of the foundation of Life, an essence called '_Jing'_. In essence, the kidney is associated with Fear -- The Winter; The Wintering of Safety.
+[^mo]: lexDef "Moment" {usage::: Noen || Croen} < Circular Motion In Time; A Unit of Motion Through A Cycle. The Central Point In A Circle Around Which A Moment Is Revolving. A Circular Compass of Cardinal Directionality, Providing The Location of Data Within a Statistical Sphere.[^MomentNoen] || A Moment of Asphyxias[^MomentCroen]
+
+[^MomentNoen]: [[Now]], Fourier, 2025.
+[^MomentCroen]: [[The Fundamental Factors of Lexicomathematics, Edition XVIII]], Joseph Fourier, According to the BTF Times, Recorded during a [[Press]] [[Conference]], 3025. 
+[^wi]: Or: Ore, Wich[^wy] 
+[^wy]: Or: Wych[^orew]- Middle English _witz_, from Old English _wīch, wīc_, from _-wīch, -wīc_ -wich (suffix of place-names, as in _Northwich, Middlewich_, districts of England associated with salt manufacturing), from _wīc_ -dwelling place.
+[^orew]: Oar Witch. See: Oar[^oarr]
+[^oarr]: lexDef "Oar" {usage::: Croen || Prodverb} < { N.B. "ARIA var = An Oar of Stor{i}ed Memories // DNE var = A Memory Oar of Stories"[^OarCroen] || *"A Story Is A Memory Oar"*}
+[^OarCroen]: [[Memory]], The Meaning of the lexDict, 2025.
+[^peer]: lexDef "Peer" {usage::: Noen || Croen} < The Subject of Looking, With Significant Effort of Concentration, At An Object {SynApp :: "Pier"} << {A Structure|Platform projecting outward, from Shore[^shore] To Sea[^Sea]}[^PeerNoen] || N.B. "A Peer Of Challenges"[^PeerCroen]
+
+[^PeerNoen]: [[The Macroscope]], The Woman In The Wallpaper.
+[^PeerCroen]: [[Schism]], ARIA|DNE
+[^shore]: lexDef "Shore" {usage::: Noen || Croen} < The Endpoint, Which Was Beneath All Along.[^ShoreNoen] {SynApp (Wyrb) :: "Sure"} << {To Be Wrong} || N.B. "A Shore Of Footnotes"[^ShoreCroen]
+
+[^ShoreNoen]: [[N is Four Nucleotides]], notBorges
+[^ShoreCroen]: [[The Ennead]], The Nine Trine Noets
+[^Sea]: lexDef "Sea" {usage::: Noen || Croen} < A Body- Made, In Part, Of Salt[^SeaNoen] {SynApps :: "See|C"} << {To Be Blind | One Of The Four, Noen As Cytosine.}|| N.B. "A Sea Of Bodies."[^SeaCroen]
+
+[^SeaNoen]: [[Body]], notBorges, 2021
+[^SeaCroen]: [[Body]], N.
+

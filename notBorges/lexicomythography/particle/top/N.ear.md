@@ -4,7 +4,25 @@ permalink: N.ear
 title: N.ear
 ---
 
-![[N.ear - Unknown.epub]]
+For: Ward - Adrian.
+*"Rest In Peaceful Power."*
+![[Pasted image 20250516172853.png]]
+![[Pasted image 20250516172700.png]]
+
+
+
+![[Pasted image 20250516173532.png]]
+![[Pasted image 20250516172753.png]]
+
+![[Pasted image 20250516172919.png]]
+
+![[Pasted image 20250516173406.png]]
+![[Pasted image 20250516173138.png]]
+![[Pasted image 20250516173156.png]]
+![[Pasted image 20250516173457.png]]
+
+![[Pasted image 20250516173734.png]]
+
 
 Hear, lay our Ædrian.
 
@@ -19,7 +37,7 @@ Or at least, this is what they (plural/singular) had envisaged.
 Beneath the Three of them (singular) promised the rich, dense mulch of years upon years across every recorded syllable of time recorded in rot, and the woodlouse scratchings of human bone; where even in the depths of silence, still crawled the perspicacious pitter-patter of infinitely intelligent, industrious insects, who themselves crawled lusciously, illustriously, with the Pater-pitta of microscopic microbes - themselves filled with the crumbling chickpeas of the (apparently, or so they thought) thoughtless, instinct-cycle bound, building blocks of all existence. They wound genetic material like wool around the spools of pools of proteins, Histones, making stories from four letters (just four letters, A, T, C, G) forming words now untranslatable in their meaning, but embedded impossibly and inextricably into the ever-eroding, yet entirely solid geoformation of collective meaning, like infinite swords in His Stone walled library. These memories, their self-attributed meanings, forming a peculiar song with a infinite microtones, misattributed by many as falling into the genre of "Noise music" (whatever that means).These infinite microtones, themselves infinitely divisible and, inexplicably, without defining boundaries between them, when Heard from macro-, or identically (but oppositely), microcosmic Ear, can be herded as a Single Tone. Histone. 
 
 
-Above what was Beneath the Three of them (plural), like a rolled out futon for a surprise guest; perhaps a dearly beloved friend who's infinitely smiling Light you often find yourself carried into daydreams about, whose grave you didn't manage to make the groups memorial visit to, on the anniversary of their death, due to your jaw being surgically bolted shut, and your face swollen Yellow into the facade of a desert; but still below them, lay the foundation of their story. Breeze blocks, which allowed that great Family dog of the Wind to howl through and huff and puff without blowing the Bothy down, were tessellated neatly, much like the building blocks left unattended by Flow, Ædrian's little one. 
+Above what was Beneath the Three of them (plural), like a rolled out futon for a surprise guest; perhaps a dearly beloved friend who's infinitely smiling Light you often find yourself carried into daydreams about, whose grave you didn't manage to make the groups memorial visit to, on the anniversary of their death, due to your jaw being surgically bolted shut, and your face swollen Yellow into the facade of a desert; but still below them, lay the foundation of their story. Breeze blocks (which allowed that great Family dog of the Wind {to howl through and huff and puff without blowing the Bothy down|eventually, to crawl within, to die there, so as not to leave The Burden of its alighted Body's Weight in the Family Home- but rather, to face the Endless Night Alone, All One. One final tail-wag of affection, Elected Solitude as a Sign of Innocent and Selfless Love}) were tessellated neatly, much like the building blocks left unattended by Flow, Ædrian's little one. 
 
 As was customary here, Each parent, upon choosing the name for their child, must first choose a Name of appropriate Resonance, and then flip the name backwards for its recording on all official documents in the Endless Library of Labels. This, as you of course know, and as half of you reading will have been directly affected by, which means the other half reading have been equally, though differently so, led to an interesting distribution of what we came to call or have always called 'sense' and 'antiSense' nomenclature amidst the inhabitants of the Bothies. It also meant that initialisation of Names (though this was never really necessary, as inhabitants very rarely left their own countably infinite back gardens)[^Fork] for the so-called *Sentia* generations was made from right-to-left (or 3'-> 5') direction, with the final letter of their Name(s) acting as the complement to their *antiSentia* parental (and progenitor) eponyms. 
 
@@ -99,13 +117,14 @@ Ever A-"*
 
 -Gained momentum of waiting in anticipation brought to a halt; ripped as the futon out from under them, and replaced with a weightlessness; a pigeon, the pigeon, flies into their bothy window {as if to say}:
 
-*[[we are never going on a bear hunt ever again]]*
+*![[we are never going on a bear hunt ever again]]*
 with the crash of a symbol- interrupting the beginning of the Story, with an ending of its own. 
 
 
 
-[[The Right Way Forward, Oar - The Æn{i}d;]]
-[[What's Left When You've Run Out Of Choices]]
+![[The Right Way Forward, Oar - The Æn{i}d;]]
+
+![[What's Left When You've Run Out Of Choices]]
 
 
 [^Fork]: many thought they never could, some did try and never came back, which of course does not mean they wanted to. But the many who never tried assumed (perhaps erroneously) that those who (definitely) crossed the boundary of their back garden were not permitted, allowed, or able to return (to where they'd started, as if for the first time).  

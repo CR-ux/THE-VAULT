@@ -33,9 +33,9 @@ data:
 [[Campaigns/we are never going on a bear hunt ever again/we are never going on a bear hunt ever again.md|]]
 [[Campaigns/we are never going on a bear hunt ever again/07. Clues/d{i(t)}gg{i(s)}ng.md|]]
 
-`
+
 
 Bibliography
 ===
 
-1. [[this universe (which some call the hospital)]]
+1. ![[this universe (which some call the hospital)]]

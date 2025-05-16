@@ -1,7 +1,11 @@
 ---
 permalink: LAYER_I-O
 ---
-# BORN TO BE THE SKY
+
+Epigraph:
+---
+![[Pasted image 20250516175715.png]]
+-Adrian
 
 
 The End of the Fifteen Hundreds, anteAntiquity
@@ -406,6 +410,12 @@ There now stood Lonely Stones a Four
 ---
 
 # ⧖ is for Mahler
+
+Epigraph:
+---
+
+![[Pasted image 20250516175644.png]]
+-Adrian
 
 OVERTURE: 
 
@@ -991,9 +1001,10 @@ Mahler’s SYMPHONY NO. 9 is in _D major_ and is often seen as a farewell or a s
 
 
 
-| And so, you are presented with the illusion of your own: | <                                               |
-| -------------------------------------------------------- | ----------------------------------------------- |
-| You take the [[LEFT HAND PATH]][[#INPUT]]                | You take the [[RIGHT HAND PATH]][[#[[OUTPUT]]]] |
+| And so, you are presented with the illusion of your own: | <                                              |
+| -------------------------------------------------------- | ---------------------------------------------- |
+| You take the [[LEFT HAND PATH]] ([[#INPUT]])             | You take the [[RIGHT HAND PATH]] ([[#OUTPUT]]) |
+
 
 
 

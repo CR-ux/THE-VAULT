@@ -16,6 +16,12 @@ permalink: <% tp.file.title %>
 
 [^eden]: A Sin, the Truth the Serpent was offering the second go Round[^ABSTRACT]
 
+Epigraph:
+---
+![[Pasted image 20250516172712.png]]
+
+
+
 ## **ABSTRACT**[^ABSTRACT]
 
 **The Lexicomythographical Contexts of the Colour Yellow: Through the Looking Glass of Aesthetic Hermeticism**

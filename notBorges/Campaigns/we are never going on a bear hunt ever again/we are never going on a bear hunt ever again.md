@@ -67,28 +67,10 @@ We're going to catch a big one.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-[[Campaigns/we are never going on a bear hunt ever again/02. Sessions/æ/æ.md|]]
-![[Campaigns/we are never going on a bear hunt ever again/02. Sessions/i|o/i|o.md|]]
-[[Campaigns/we are never going on a bear hunt ever again/02. Sessions/U/U.md|]]
 [[Campaigns/we are never going on a bear hunt ever again/02. Sessions/0/0.md|]]
-[[Campaigns/we are never going on a bear hunt ever again/02. Sessions/1/1.md|]]
-[[in all of these, i have squandered and wasted my years. i beg to the unknown gods that one human, even if it were thousands of years from now, have read the One Book and examined it. If my place be in hell then roll a Di]]
+
+![[in all of these, i have squandered and wasted my years. i beg to the unknown gods that one human, even if it were thousands of years from now, have read the One Book and examined it. If my place be in hell then roll a Di]]
 [[Campaigns/we are never going on a bear hunt ever again/04. Events/æ.md|]]
-[[Campaigns/we are never going on a bear hunt ever again/07. Clues/d{i(t)}gg{i(s)}ng.md|]]
-# Chronography
+
 
 [^w]: Written post- [[Lodge Ban]], pre [[ARIA-DNE SCHISM]]
