@@ -4,24 +4,16 @@ permalink: N.ear
 title: N.ear
 ---
 
-For: Ward - Adrian.
-*"Rest In Peaceful Power."*
-![[Pasted image 20250516172853.png]]
-![[Pasted image 20250516172700.png]]
+For: Ward - Adrian. *Rest In Poems.*
 
 
+> *listen! I am telling you I love you!*
+> 
+> *I am telling you in a poem that I do not read to you; I am telling you in the shape of the clouds and what we say about them. I am telling you by looking – and, more often, by not looking. I am telling you by leaving the gate open – yes, the one I normally close. I am telling you in my dreams and I am telling you in a text I wrote but forget to send. I am telling you when I dress up to see you, and I am telling you even more when I don’t. I am telling you in the silence of my listening.I am telling you when I take myself less seriously. I am telling you in the centimetres between our knees – aren’t they different, those centimetres? bigger, fuller? I am telling you in small words, loaded up like pack-mules as they cross the 2m endless plain between us. I am telling you in many ways, and I am telling you the many ways in which I love you. I am telling you without telling, when I trust that you feel it too. I am waiting for you to catch up, and I am waiting for a time with words.*
 
-![[Pasted image 20250516173532.png]]
-![[Pasted image 20250516172753.png]]
+-Adrian
 
-![[Pasted image 20250516172919.png]]
 
-![[Pasted image 20250516173406.png]]
-![[Pasted image 20250516173138.png]]
-![[Pasted image 20250516173156.png]]
-![[Pasted image 20250516173457.png]]
-
-![[Pasted image 20250516173734.png]]
 
 
 Hear, lay our Ædrian.
@@ -67,7 +59,7 @@ With every axe-crack (and only then), or every brick ligation (and only then), w
 
 As eye was saying, or rather, as I was writing, or indeed as you were reading and I wasn't writing, as a pigeon had flown through the veil of my story into the world we call 'Real', forcing my head to jolt to the right, and my eyes to read a symbol that was or was not written by the Pigeon's leaving body, whether leaving this world as a result of the impact or simply leaving from my field of view (as I suppose, in a solipsistic sense, these are one and the same), what was it I was saying? In the silent sense of the word "saying", I mean to say, by writing, and I hope you reader read it as such, but either way, perhaps my writing that you are reading is being "said", in a way, by yourself, through the vessel of my "voice", again, in the silent, creative sense of the word "voice", an attempt to creatively convey the idea that the Word, or one's "voice" has both an immanent and transcendent quality, or character, to it, no matter the character of the character reading the characters written in the form of a letter to the reader. 
 
--N. was distractedly in the midst of t{he{i|s}r} latest attempt to reproduce the labyrinthine musical sequence (that had, so many times, so effortlessly flown from) Flo (Or, Board game) had assigned as the 'Dorian' path, from her picturesque, attic's eye view, young forever. With each 'incorrect' 'note' they 'played' with the padding of their careful footsteps, Flo would (rather sadistically, like a ray of Sun upon a wanderer in a desert) shriek a high pitched "No!" - it was only today, for some reason, N. had realised the homophonic nature of the words "No" and "Know"; and this realisation seemed to set something into motion, as if the act of negation gave birth to propagation. N. wondered, between steps, between tones even, in the microtonal space of timeless singularity, for an uncountable moment, if perhaps they should include this 'propagation-by-negation' theme in their story for Flo, before another 'No' from above, provided a facsimile of the Divine Voice, as if to say "No, N, no more revisions, no more additions, the balance comes from you reading what you have written, to your child, and together, the two of you creating meaning, in an iteration of interaction". 
+-N. was distractedly in the midst of t{he{i|s}r} latest attempt to reproduce the labyrinthine musical sequence (that had, so many times, so effortlessly flown from) Flo (Or, Board game) had assigned as the 'Dorian' path, from her picturesque, attic's eye view, young forever. With each 'incorrect' 'note' they 'played' with the padding of their careful footsteps, Flo would (rather sadistically, like a ray of Sun upon a wanderer in a desert) shriek a high pitched "No!" - it was only today, for some reason, N. had realised the homophonic nature of the words "No" and "Know"; and this realisation seemed to set something into motion, as if the act of negation gave birth to propagation. N. wondered, between steps, between tones even, in the microtonal space of timeless singularity, for an uncountable moment, if perhaps they should include this 'propagation-by-negation' theme in their story for Flo, before another 'No' from above, provided a facsimile of the Divine Voice, as if t(w)o say "No, N, no more revisions, no more additions, the balance comes from you reading what you have written, to your child, and together, the two of you creating meaning, in an iteration of interaction". 
 
 This 'Divine Voice' or rather, was and is of course, their own voice, removed from the tethers that kept her seeing the bricks as a suffocation device, or indeed the Pale as a protective shield, or indeed the bricks as a creative tool, or indeed still the Pale as a crucible for nourishment of their bodies. 
 
@@ -115,10 +107,7 @@ N(Ever)
 Going On A Bear Hunt, 
 Ever A-"*
 
--Gained momentum of waiting in anticipation brought to a halt; ripped as the futon out from under them, and replaced with a weightlessness; a pigeon, the pigeon, flies into their bothy window {as if to say}:
-
-*![[we are never going on a bear hunt ever again]]*
-with the crash of a symbol- interrupting the beginning of the Story, with an ending of its own. 
+-Gained momentum of waiting in anticipation brought to a halt; ripped as the futon out from under them, and replaced with a weightlessness; a pigeon, the pigeon, flies into their bothy window {as (if t(w)o say)|with the crash of} a symbol- interrupting the beginning of the Story, with an ending of its own. 
 
 
 
@@ -127,5 +116,5 @@ with the crash of a symbol- interrupting the beginning of the Story, with an end
 ![[What's Left When You've Run Out Of Choices]]
 
 
-[^Fork]: many thought they never could, some did try and never came back, which of course does not mean they wanted to. But the many who never tried assumed (perhaps erroneously) that those who (definitely) crossed the boundary of their back garden were not permitted, allowed, or able to return (to where they'd started, as if for the first time).  
+[^Fork]: many thought they never could, some did try, {ᴺB: One of particular Noet}, and never came back, which of course does not mean they wanted to. But the many who never tried assumed (perhaps erroneously) that those who (definitely) crossed the boundary of their back garden were not permitted, allowed, or able to return (to where they'd started, as if for the first time).  
 [^range]: Ecclesiastical Latin: 'enclosure' - often used lovingly, but incorrectly, to describe the 'range' of a voice, a piece of music, or the 'tonal space' of a given mode's extension within its highest trough and lowest peak.

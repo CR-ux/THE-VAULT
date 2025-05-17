@@ -30,7 +30,7 @@ rest easy in the knowledge that someday your life will become history, and some 
 
 ---
 
-am telling you when I take myself less seriously. I am telling you in the centimetres between our knees – aren’t they different, those centimetres? bigger, fuller? I am telling you in small words, loaded up like pack-mules as they cross the 2m endless plain between us. I am telling you in many ways, and I am telling you the many ways in which I love you. I am telling you without telling, when I trust that you feel it too. I am waiting for you to catch up, and I am waiting for a time with words.
+I am telling you when I take myself less seriously. I am telling you in the centimetres between our knees – aren’t they different, those centimetres? bigger, fuller? I am telling you in small words, loaded up like pack-mules as they cross the 2m endless plain between us. I am telling you in many ways, and I am telling you the many ways in which I love you. I am telling you without telling, when I trust that you feel it too. I am waiting for you to catch up, and I am waiting for a time with words.
 
 **DO UR INVOICE**
 
@@ -60,3 +60,20 @@ I say your name aloud, to see if you like how I call you
 It is, surely, absurd to expect to feel normal, and make sense: I am an amalgamation of fervent cells existing despite all odds; I am the cascading chemical miracle of eating, and surviving; I am not designed to “feel normal”; am not designed, at all; I am experiencing consciousness as provided by wet tangles of electrical pulses; my god, none of this makes sense. It is a blessing, even to feel
 
 – Adrian Saskia
+
+
+
+
+
+![[Pasted image 20250516173532.png]]
+![[Pasted image 20250516172753.png]]
+
+![[Pasted image 20250516172919.png]]
+
+![[Pasted image 20250516173406.png]]
+![[Pasted image 20250516173138.png]]
+![[Pasted image 20250516173156.png]]
+![[Pasted image 20250516173457.png]]
+
+![[Pasted image 20250516173734.png]]
+

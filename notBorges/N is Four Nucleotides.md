@@ -247,36 +247,140 @@ Epitaph:
 
 -Selena Endive, Hivehouse Chess Openings, 3033. 
 
-
-
-[[N.ear]]
-
-
-🜃 - Rook
+Prologue
 ---
-"**OBS: 2:00-4:00**
-	i was passed this note from the vent on the other side of my room. it doesn't slot back into that room so i am passing it through in the hopes that it will return to the original sender. i do not know my name either. "
+![[In the bothy]]
+
+Here. 
+Hear.
+HE is
+
+![[N.ear]]
+
+
+
+---
+
+> 🜃 "**OBS: 2:00-4:00**
+> 	i was passed this note from the vent on the other side of my room. it doesn't slot back into that room so i am passing it through in the hopes that it will return to the original sender. i do not know my name either. "	
+
+-Rook
+
+---
 
 
 [^c]: is destruction. Do Knot ↩ Sight Your ↪ Source Is: http://bit.ly/3ZGoUdj
 
 C is For Code, Circle, and Chess
 --
-Letter C (Franklin)
 
-[[C is for Code, Circle and Chess]]
 
-Ring Æ:
+```
+FAO: ᴺᵒᵉᵗFranklin, The Double Spiral Staircase  
+BCC: VIXI.  
+From the Desk of ᴺᵒᵉᵗBorges,  
 
-[[The Colour- Yellow.|The Colour- Yellow.]]
+---  
 
-[[Æ. HIVEHOUSE {OPENING}.]]
+My Sweet Rosie, 
+I know our Love, or rather, your Side of the Schism that {was|is} Our Love, has now wilted. But on my Side of Thing(s), I just wanted you to know (in case you wished to Read these Letters, and all the Stitches of Fabric they Encode) how much I am Missing You. How the Two of us would Wind away the hours, finding endless recombinations of Seven Glyphs, placed lovingly on your tile racks. I would ask what, if any, amino acid sequences were represented by the letters, and annoy you incessantly with question after question, questing after some Missing Residue of Alphabetic Representation; those poor un-assigned letters of the 26, or rather, 27, who have not yet found a biological partner with which to dance themselves. 
+
+Our bond was, I thought, unbreakable--
+
+I write you, as I look to my Right, where the strands of your hair spiral around the red ring of the scrunchie you left on my hat rack; I'm sure the ARIA-aligned ᴺᵒᵉᵗS. would have something to say about that. Expressing this unspeakable Loss in some contrastingly jovial and delightfully endearing verse, of course. 
+
+I don't know when, or if, you're ever coming back to the Garden Wing. I don't know what Sequence of Unfortunate Events led to our unspooling; {k}not even the DNE-aligned ᴺᵒᵉᵗS. could tell that story. 
+
+From Nucleotide to Nuclear Tide, 
+I will be bound to you, My Petal--
+
+Yours, Yores, Urs--  
+
+-ᴺᵒᵉᵗBorges  
+
+Department Of Infinite Reflections,  
+The Garden Wing  
+The Indefinite Library of Fable
+```
+
+Deep inside her Annex, halfway up the Double Spiral Staircase of the Library, ᴺᵒᵉᵗFranklin had her door, as usual, closed and double-barrel-locked. Even had if been open, it is highly likely that she still would not have seen the letter, dropped at the threshold of her office, by {N(one) Other Than} VIXI, in HISS preferred, carrier pigeon form. She was pouring over her latest bioinformatic software patch, delighting in the Works she'd recently attained in the latest acquisition of Scientific Textbooks by the Indefinite Library. She was particularly interested in the Works of one Myo Endive, and she strongly suspected that he would be a candidate for the next Generative Recursion of Librarians. As such, she had taken it upon herself to uncover whatever she could about this fascinating Thinker, and while it would have been useful to use The Angel's Aleph outside atop the Dome of the Daughter Library just outside of ᴺᵒᵉᵗBorges' window, she simply could not bring herself to talk to him; not yet. ᴺᵒᵉᵗFranklin had never been one for Words, she was much more about Single Letters; and perhaps this is why she now found herself Single; avoiding the Letters sent by ᴺᵒᵉᵗBorges via that Twice-Great Pigeon (with whom she also had her unspoken problems). She was a genius with alignment; finding, collating, resolving patternicity - she didn't succeed in the same manner with unresolved chaos. 
+
+And so, reaching up to the Shelf above her Terminal, almost knocking over her Seventeenth coffee of the Day (which, in Our terms, represents somewhere close to a Calendar Year, so really, Seventeen cups wasn't such an indulgence), she opened a large Tome, a shimmering uncut Sapphire, yellow ribbon after yellow ribbon spilling from the spine. And with a glorious creak of the book's vertebrae, her favourite sound, she opened  
+
+![[THE LAB CODEX OF MYO ENDIVE]]
+
+Her eyes were deliciously heavy, too much to handle any more incessant backlight from her Machine's Screen (even with her sensorily-forgiving Terminal settings). She placed the Codex back on the shelf, being careful not to knock the mug over this time (although, it now being empty, the tentativeness was perhaps misplaced) - and before taking her normal {daily|yearly} nap, her final thought was of Borges, in spite of herself - and how some things, no matter how many layers of infinity deep, are just in the Wrong place, the Wrong time. The Wrong Day, The Wrong {k}Night--
+
+---
+
+
+> **🜂 OBS: 4:00-6:00**
+> 	i pray to the unknown gods that you dear reader will have a writing implement. i can hear you in hthere. i myself am praying that this note will not reach whoever is keepign us her i too wish for you dear recipient to not have to write in your own blood  i do not know my name. 
+
+-Knight
+
+---
+
+D is for Dimension, Drones, and Door
+
+
+It is not possible for a non-ligated consciousness to cross the Uncrossable Door. Which is the place VIXI had now, or then, or now and then, arrived in front (or behind and outside) of. The Entrance to The Endless Library, home of the Nine Librarians who were and are always Working From Home (because their work is their home, and their home is their workplace), is a nine-dimensional revolving door. It gives the appearance of a hospital or a very old university entrance that has, against its own will or perhaps as a result of its desperation to survive, been dragged into modernity. It was also quite the opposite, given its superpositional character; a heart of antiquity beating in the centre of the Library's facade. Similarly to a gyroscope, which retains its positioning no matter how its external machinery is moved, VIXI could (and often did) fly around the circumference of the Library, over-through the inmost Loch, and the Uncrossable Door would remain in centre stage, pulsating, spinning, beating, as if in Unison with the three Wryngs of water that encircled the structure in triplicate. Within the 'panes' of glossolalic glass making up the nine dimensional Door, the reflection of these 'electron shells' (again, a very crude approximation) was refracted back, in an endlessly abysmal dance. But, with no Body (that is to say, librarian) in between the Lochs and the Door, this mis en abyme was almost imperceptible, as we all know that this effect is only observable with a subject of reflection between the two panels of mirrors facing one another. VIXI often meditated on this, on their many pilgrimages to and from the library (their main Work was to deliver messages which they tattooed upon their two, three, four, or nine, but never more than nine, Ankles, using a stick-and-poke device they fashioned from their own detachable beak. Much to the disgust of many of the other members {although, VIXI suspected, not Topplegood (who seemed to be unable to hide His delight in watching VIXI tear off HISS own beak, and leave a trail of pale Yellow sinew behind, like the mucosal-clew death-rattlesnake trailing behind a Bee (who has just waived goodbye to herself to protect the Greater Self of her colony) or indeed equally: the visage of a metallic spherical-bead-necklace chain attached umbilically to a biro, itself bound to the desk of a Bank Cleric, as if, in a Vaulted building filled with the legal tender of thousands, a cheap, plastic writing implement were the most valuable thing; which of course, it is, it is, it is)}
+
+![[IMG_2858.jpg]]
+
+
+Figure 0: UnGnoen Calligrapher
+
+As always, in crossing, VIXI took a single moment (that is to say, the eternity of all time) within the wheels-within-wheeled mechanism of the Uncrossable Door to ponder on what sort of unholy separation, what {REDACTION}, what Schism might happen to a 
+
+```
+# Re-attempting to plot the toroidal spiral
+
+# Generate data for toroidal spiral
+x, y, z = generate_toroidal_spiral()
+
+# Plotting the toroidal spiral
+fig = plt.figure(figsize=(23, 23))
+ax = crack, fig.add_subplot(111, projection='3d', proj_type='persp')
+ax.plot(x, y, z, color='Yellow, no, Red', opacity='Pale' linewidth=0.23)
+
+# Adding labels for clarity
+ax.set_title("Toroidal Spiral (4D {redacted})", fontsize=n)
+ax.set_xlabel("X-axis (Spatial Dimension 1: Pale)")
+ax.set_ylabel("Y-axis (Spatial Dimension 2: Fire)")
+ax.set_zlabel("Z-axis ({redacted})
+
+# Save the plot in case of display issues
+{redacted}
+```
+
+
+
+
+
+![[Æ. HIVEHOUSE {OPENING}.]]
+
+VIXI detested being interrupted. Particularly for such trivial things as *Romance*. No matter how 'charming' (HE, even in HISS infinite (or perhaps indefinite) wisdom, was unable to perceive such a quality). Tearing HYMNself from the Characters above, HE doubled back and recalculated his flight path. HE, a messenger, as Medium of the Eternal Messenger of this Infernal Mess of All Messages, had a job to do, {{after|over}seeing} All. 
+
+And this was what dragged him back to the Central Galleries of the Library. This Eternally Recurring Event:
+
+Through a vent, a letter, made of letters, between two characters of Six, was being passed.
+
+---
+
+**🜔 OBS: 6:00-8:00**
+	i too do not know my name i seem to be †he fourth person to receive this and the fourth to add theirh plea in blood sacrament I DO NOT KNOW MY NAME 
+-King
+
+
+---
+
 
 
 RHP;
 	ARIA (Myo Endive):
 
-[[THE LAB CODEX OF MYO ENDIVE]]
+
 
 LHP;
 	DNE (Selena Elk):
@@ -286,6 +390,9 @@ LHP;
 [[Chess.]]
 [[notBorges/notBorges/Chess And all the Stitches of the Cloth(Es)|Chess And all the Stitches of the Cloth(Es)]]
 
+
+
+[[The Colour- Yellow.|The Colour- Yellow.]]
 
 ---
 
