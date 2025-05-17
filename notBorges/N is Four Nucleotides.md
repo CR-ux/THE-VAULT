@@ -27,22 +27,32 @@ Whirring with a terrifying lightning storm overhead (an unavoidable side-effect 
 ---
 
 
+This Universe (which some call the Hospital) is composed of of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts between, surrounded by walls covered in an indefinite and perhaps infinitely layered wallpaper; ever-remaining a faded yellow hue. 
+
+Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper, 
+perhaps on every sheet of wallpaper, 
+the following may have been, 
+or about to be, 
+written, 
+in the blood 
+of no more 
+than Six individuals 
+(at any one time):
+
+
+*"**OBS: 12:00-2:00***
+	*please. i can hear you in there. if you are keeping me here, i just wan t to remember my name . i can't rmemeber how long i have been here but i am not hungry and i do not know my name.--"*
+
+
 
 Foreword: 
 ---
 
 
 An Unfurled Word For Wordlessness, 
-
-
 Floored, Third-Whirred, Hurt Bird 
-
-
 A World-Worn and Ferocious War 
-
-
 Within, A Resting Lore[^lo] From the Herd,
-
 Heard Whirling About A Fire Without The Fur We Were Dressed In - 
 
 
@@ -205,7 +215,7 @@ Epitaph:
 
 
 
-![[N.ear]]
+[[N.ear]]
 
 
 
@@ -216,13 +226,20 @@ Epitaph:
 C is For Colour
 --
 
-![[The Colour- Yellow.|The Colour- Yellow.]]
+[[The Colour- Yellow.|The Colour- Yellow.]]
+
+[[Æ. HIVEHOUSE {OPENING}.]]
+
+[[THE GRIMOIRE OF SELENA ELK]]
 
 
-![[THE GRIMOIRE OF SELENA ELK]]
-![[THE LAB CODEX OF MYO ENDIVE]]
+[[THE LAB CODEX OF MYO ENDIVE]]
 
-![[D is For Drosophila]]
+
+
+
+
+[[D is For Drosophila]]
 
 
 
