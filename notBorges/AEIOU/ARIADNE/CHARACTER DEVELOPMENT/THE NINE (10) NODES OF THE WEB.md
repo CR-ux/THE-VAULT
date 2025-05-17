@@ -5,6 +5,11 @@ permalink: <% tp.file.title %>
 *Please write a paper that is a summoning spell designed book to look like and therefore to act as the 'successful' implementation of This Work as a vehicle for spiritual understanding, by stating through devices in multiplicity which in themselves point towards One Unary Operaror and Operand in Hand and Hand And-
 **Name::** Ŷ*
 
+
+-Do: Knot Site
+Your Source:
+Is.
+
 ---
 
 **THE CORED THREAD of THE UNREAD, ARIA|DNE** (apost. schism)
@@ -78,7 +83,7 @@ QUADRIVIUM
   * Embodiment of Endymion
   * Cis het male, only cisgender character, counterintuitively
   * Visual Art scholar and Tarot Reader
-* **GEOMETRY - ANCESTRAL GEOMETER - MEDIEVAL - BEGINNING OF TIMELINE**
+* **GEOMETRY - ANCESTRAL GEOMETER - MEDIEVAL - BEGINNING OF TIMELINE** HILDR WILTERGARTEN
   * Spans time, medieval music samples, staves, calligraphy
   * 
 * **ASTRONOMY - ARTIST-ENGINEER + AI: RA - END OF THE TIMELINE**
@@ -102,16 +107,16 @@ QUADRIVIUM
     
     * Discussions of 'memory' being related to both our past recall of events but also a term denoting storage capacity within machines, or 'muscle memory'. These concepts could be brought together by the Etymologist.
 
-|Character|Muse|Siddhi|Reach for the Sun / Moon|Integration through Opposite|
-|---------|----|------|------------------------|----------------------------|
-|**Calligrapher**|Calliope|Prāpti (Access)|Sun: Mastery of expression|Moon: Embracing silence|
-|**Musicologist**|Euterpe|Dūrṣṭi (Clairvoyance)|Sun: Harmonizing the future|Moon: Echoes of the past|
-|**Mayon**|Thalia|Kāya-vūhu (Shapeshifting)|Sun: Dynamic persona|Moon: Inner constancy|
-|**Selena**|Melpomene|Ishitva (Nature's Control)|Sun: Command of destiny|Moon: Acceptance of fate|
-|**AI Engineer**|Terpsichore|Manojava (Speed of Mind)|Sun: Rapid innovation|Moon: Deliberate reflection|
-|**Etymologist**|Polyhymnia|Animā (Minuteness)|Sun: Depth of language|Moon: Brevity and simplicity|
-|**Bioinformatician**|Urania|Mahimā (Greatness)|Sun: Cosmic understanding|Moon: Molecular focus|
-|**Jungian Analyst**|Clio|Parakāya Praveśa (Body Entry)|Sun: Empathy with others|Moon: Self-awareness|
+| Character        | Muse        | Siddhi                        | Reach for the Sun / Moon    | Integration through Opposite |
+| ---------------- | ----------- | ----------------------------- | --------------------------- | ---------------------------- |
+| **Calligrapher** | Calliope    | Prāpti (Access)               | Sun: Mastery of expression  | Moon: Embracing silence      |
+| **Musicologist** | Euterpe     | Dūrṣṭi (Clairvoyance)         | Sun: Harmonizing the future | Moon: Echoes of the past     |
+| **MYO**          | Thalia      | Kāya-vūhu (Shapeshifting)     | Sun: Dynamic persona        | Moon: Inner constancy        |
+| **Selena**       | Melpomene   | Ishitva (Nature's Control)    | Sun: Command of destiny     | Moon: Acceptance of fate     |
+| **AI Engineer**  | Terpsichore | Manojava (Speed of Mind)      | Sun: Rapid innovation       | Moon: Deliberate reflection  |
+| Prof Ed. O.      | Polyhymnia  | Animā (Minuteness)            | Sun: Depth of language      | Moon: Brevity and simplicity |
+| AI:RA            | Urania      | Mahimā (Greatness)            | Sun: Cosmic understanding   | Moon: Molecular focus        |
+| **Dr. Dot Code** | Clio        | Parakāya Praveśa (Body Entry) | Sun: Empathy with others    | Moon: Self-awareness         |
 
 [^ti]: The note "ti" is the seventh tone in the major scale in solfège. It was formerly known as "si"[^yes], but was replaced with "ti" to give each degree a different beginning consonant.
 

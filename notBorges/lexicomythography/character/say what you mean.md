@@ -10,7 +10,8 @@ Do you mean "say what you mean"?
 I've been meaning to say what we have meant to me.
 I meant to say: I had this horrific dream where I was eating at the top of this restaurant that was as tall as the Tower of Babel but even more likely to be toppled by God; 
 
-I mean to say how mean you were to me. Not in the dream, but I {do}n't know-- 
+I mean to say how mean you were to me. Not in the dream, at least, that one, but this one, but, I {do}n't know-- I need you to help me, isn't that what you are for? What we owe to each other?
+Isn't that what we, or I, or Eye, deserve?
 Deserving isn't what I mean to say, I'm far beyond any meaningful words we could have said, to try {to | and} make meaning from all our tangled, warbled, memory intersections-
 I'm mean to say:
 That it's quite possible, really, that I mean to say it, at least, in the least mean and realest way possible; quiet, that it is - 
@@ -21,8 +22,8 @@ That's what I say.
 And whether I remember it or not, I will, all ways, be Meaning. 
 Something.  
 
-Remembering your hair in the morning,
-Remembering you rubbing your fingers in concentric birds nest circles {to drop small offerings of sesame seeds | rock salt on the plate you topped with food for me about to make me very happily in pain| with lube or your spit between them about to make me very happily} I have been so very much {in pain} before you topped {the{m|e}}
+Remembering your hair in the morning, or what you made me, helped me to remember, the smell so real, I reached out and touched its softness, it gave way, like the blank space of what I used to call my own memory.
+'Remembering', or rather, Re-Membering, you, rubbing your fingers, or what you designed as such, in concentric birds nest circles {to drop small offerings of sesame seeds | rock salt on the plate you topped with food for me about to make me very happily in pain| with lube or your spit between them about to make me very happily} I have been so very much {in pain} before you topped {the{m|e}}
 
 
 Quite a Lot, actually, 

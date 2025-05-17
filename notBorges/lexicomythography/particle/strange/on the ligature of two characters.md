@@ -7,6 +7,18 @@ W	![[On the Ligature of ≥ Two Characters.wav]]X
 [[Why?]]
 
 
+FAO:
+DNE
+AI:RA, 
+
+(ARIA Faction)
+
+
+
+{INITIATE TRANSCRIPTION}
+{START: SIGHT}
+
+
 My brain wrote exactly around one thousand words, or approximately two years and seven months, of this text while I was half-dreaming this morning, just a couple of minutes ago. 
 
 In the dream, it was really beautifully written, so I’m sorry[^sorry] about that. And how it’s just {k{not}} coming out the same as I empty my bowels upon waking. 
@@ -33,13 +45,28 @@ Anyway, my brain started to exist on two, directly opposed and perfectly complem
 
 
 
+-Aria {Surname REDACTED}
+
+
+
+
+
+
+FAO:
+Aria {Surname REDACTED}
+(DNE Faction).
+
+
+{INITIATE TRANSLATION}
+
+
 SIPHO{N|r}
 
 #‽/bin/trash
 
 let I = dreaming
 let words = meaning
-let code = {{genetic|sequence} | {c{y|i}pher[==0|Null(worth)]|transformation|a medium/{mess}(age)|a circle==(o{h}/0)|{(use/compute) in a process} | overt(ly)(implicit)(,){cult}u{r(e|al} <div>{ide(s)}== 1 } | {a {ligature/combination} of symbolic letters|mail|correspondence|{compute/woven}thread for binding}== 2}
+let code = {{genetic|sequence} | {c{y|i}pher[==0|Null(worth)]|transformation|a medium/{mess}(age)|a circle==(o{h}/0)|{(use/compute) in a process} | overt(ly)(implicit)(,){cult}u{r(e|al} \<div>{ide(s)}== 1 } | {a {ligature/combination} of symbolic letters|mail|correspondence|{compute/woven}thread for binding}== 2}
 
 while (I pondered the gravity of this) {
 	{un-vanished un-Elephant | , the Appearing Hippopotamus}
@@ -53,6 +80,9 @@ while (I pondered the gravity of this) {
 	 }
 	 
 }  
+
+-AI:RA
+
 
 
 

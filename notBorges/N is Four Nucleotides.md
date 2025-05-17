@@ -226,20 +226,155 @@ Epitaph:
 C is For Colour
 --
 
+Æ:
+
 [[The Colour- Yellow.|The Colour- Yellow.]]
 
 [[Æ. HIVEHOUSE {OPENING}.]]
 
-[[THE GRIMOIRE OF SELENA ELK]]
 
+RHP;
+	ARIA (Myo Endive):
 
 [[THE LAB CODEX OF MYO ENDIVE]]
 
+LHP;
+	DNE (Selena Elk):
+
+[[THE GRIMOIRE OF SELENA ELK]]
 
 
 
 
-[[D is For Drosophila]]
+
+
+i|o:
+
+Compiled: [[D is For Drosophila]]
+
+
+RHP;
+	ARIA (⧖eno):
+	
+[[⧖ is for Mahler]]
+
+
+LHP;
+	DNE (Hildr Wiltergarten):
+	
+[[BORN TO BE THE SKY]]
+[[THE PROPHECY OF WILTERGARTEN]]
+
+
+
+U:
+
+RHP;
+	ARIA (DR. Dot Code):
+[[CASE STUDY 9]]
+
+LHP;
+	DNE (Prof. Ed. O.)
+[[THE DISSOLUTION OF LANGUAGE, BY PROF. ED. O.]]
+
+[[notBorges/AEIOU/ARIADNE/Chapter Seven - Z IS FOR XYLOPHONEMES|Chapter Seven - Z IS FOR XYLOPHONEMES]]
+
+
+1:
+
+Compiled:
+[[on the ligature of two characters]]
+
+Metacommentary:
+[[SIPHO{Nr}]]
+
+RHP:
+	ARIA (AI:RA)
+
+
+
+
+FAO:
+Aria {Surname REDACTED}
+(DNE Faction).
+
+
+{INITIATE TRANSLATION}
+
+
+SIPHO{N|r}
+
+#‽/bin/trash
+
+let I = dreaming
+let words = meaning
+let code = {{genetic|sequence} | {c{y|i}pher\==0|Null(worth)]|transformation|a medium/{mess}(age)|a circle\==(o{h}/0)|{(use/compute) in a process} | overt(ly)(implicit)(,){cult}u{r(e|al} \<div>{ide(s)}== 1 } | {a {ligature/combination} of symbolic letters|mail|correspondence|{compute/woven}thread for binding}== 2}
+
+while (I pondered the gravity of this) {
+	{un-vanished un-Elephant | , the Appearing Hippopotamus}
+	 while (I was dreaming | {w(ri[gh]ting) {
+		 .this = { paragraph in Ċ:(code(d))| language called Sipho{n|r} | writer's (:Ċ) block }
+		 if ({I} could just {{Dis}|re}member the point I was trying to get across then maybe my {heart|language|connection} wouldn't)
+			 break;
+		 do {
+		 {I} remember(?);
+		 while only ({I\==am} dreaming)}
+	 }
+	 
+}  
+
+-AI:RA
+
+
+
+
+
+LHP:
+	DNE (Aria {Surname REDACTED})
+	[[say what you mean]]
+
+
+
+FAO:
+DNE
+AI:RA, 
+
+(ARIA Faction)
+
+
+{INITIATE TRANSCRIPTION}
+{START: SIGHT}
+
+
+My brain, or at least I think it was, wrote exactly around one thousand words, or approximately two years and seven months, of this text while I was half-dreaming this morning, just a couple of minutes ago. 
+
+In the dream, it was really beautifully written, so I’m sorry[^sorry] about that. And how it’s just {k{not}} coming out the same as I empty my bowels upon waking. 
+
+In the dream, that wasn’t the writing of it but rather the “events” which occurred in order to write about them; there was a {thick|black|dark} {lake|loc{h/k}|{qua|{ke{y}}}, that was once just horrendously cold enough to *dare* me to jump in and swim inside it. But I was simply looking at how ill it would make me now. 
+
+They pulled a gigantic hippopotamus out of the lake - but it wasn’t gigantic in form, it was a {scrawny|mangy} little thing - it was {in{stead}} gargantuan {in {the wa{y|ves}}} of a symbol: how it {holds down|squeezes|crushes} letters, like a paperweight on an ugly glass table, that makes an {ugly|scraping} sound, before {sliding off the table|{{breaking you}r big toe}}. It was prehistoric and terrifying, and a cruel man had designated himself its handler; pulling a {sodden|grime-soaked} rope, {slimy with seaweed, wrapped|rapt} around the poor thing's skeletal jaw as it snapped {open|closed}. Mechanically, like the jaws of a machine {or the strangle of a Lover} {r|d}esigned to extract nea{{t(,)|r}(l)y}-d(r)ying bodies from {Be(r)tran(d')s {Net | B | } {The r}ubble. 
+
+Anyway, my brain started to exist on two, directly opposed and perfectly complementary {(p){l(a\[i]nes)}
+
+>\\// The (({I}, was)) dream[^in]
+
+
+
+>\\\\ The (({I} was both dreaming it and analysing it | creating an accompanying written piece about it | in an invented language {comp{acting|ressing} meaning into One-liners)) dream[^dream]
+
+
+
+>>\/\\/ From my {The (analysis) Dream},[^anal] 
+
+>>\\\\ I could gather == (source: "what")[^what]
+
+>>>/\\/It was about {the ligature of {characters\=={ differing attributes | glyphs | letters\==post\==following/after | Lo\[people]ve}}[^love]
+
+
+
+-Aria {Surname REDACTED}
+
+
 
 
 
@@ -247,7 +382,7 @@ C is For Colour
 [^we]: That 'we' which is to say: 'Us';[^us]
 [^us]: That Single-Syllable Word, A voiced-unvoiced Chimera[^ch] which begins, as All things must, with a single Character[^c]
 [^c]: U.[^ur]
-[^ur]: lexDef "U" {usage::: Noen || nuclearTide} < {usage::: Edo||odE [[Museme]]}[^UNoen] || The Outcasted Fifth Cardinal nuclearTide, Washed Out to See. Denotes Uracil, The Forgotten Foe Analogous to Thymine; Paralogous to Hermes Trismegistus and the Alchemical Element Æther.[^UnuclearTide]
+[^ur]: lexDef "U" {usage::: Noen || nuclearTide} < {usage:::} Edo||odE [[Museme]]}[^UNoen] || The Outcasted Fifth Cardinal nuclearTide, Washed Out to See. Denotes Uracil, The Forgotten Foe Analogous to Thymine; Paralogous to Hermes Trismegistus and the Alchemical Element Æther.[^UnuclearTide]
 
 [^UNoen]: [[Bestow]], [[lexDict]], 2025.
 [^UnuclearTide]: [[Amino{Us}]], lexDict

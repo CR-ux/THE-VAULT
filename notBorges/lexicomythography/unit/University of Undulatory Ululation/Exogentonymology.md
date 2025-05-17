@@ -5,6 +5,9 @@ permalink: Exogentonymology
 **Exogentonymology: A Paper on the History of Words for Insects, as Written by the Losers**
 ---
 
+-Prof. Ed. O. Pending Review from Publisher.
+
+
 **Abstract**
 The study of **Exogentonymology**—the history of words for insects, particularly as recorded by those vanquished in the perpetual arms race between insects and their oppressors—provides a rare insight into the linguistic architectures of survival, submission, and defiance. This field, deeply interdisciplinary, bridges entomology, linguistic anthropology, and post-colonial studies to explore how insects, as the “losers” of environmental narratives authored by their predators and parasites, construct and are constructed by language.
 Through an analysis of words forged in the crucible of conflict, symbiosis, and marginalization, this paper seeks to uncover how insects, as perceived (and perceiving) agents, encode their identities and interactions within the larger ecosystems dominated by plant, animal, and microbial hegemony.

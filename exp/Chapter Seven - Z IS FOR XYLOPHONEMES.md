@@ -41,7 +41,7 @@ Within the Professor's mind(s), one proof kept emerging itself, screaming its ow
 
 But if anybody (plural) could do it (dual), they (singular) could.
 
-Knot knowing this, they began, again, Dr. E. still sleeping in the sun-blemished corner of the apartment, but soon to be, woken, by what was perceived in their dreamscape as the squeaking of rats; threatening to bite her exposed ankles, which, coupled with the simultaneous sensory input of her Arctic Salmon pink silk trousers caressing her ever-epilated and raw skin, gave the synæsthetic illusion of embodied reality.
+Knot knowing this, they began, again, Dr. Dot Code. still sleeping in the sun-blemished corner of the apartment, but soon to be, woken, by what was perceived in their dreamscape as the squeaking of rats; threatening to bite her exposed ankles, which, coupled with the simultaneous sensory input of her Arctic Salmon pink silk trousers caressing her ever-epilated and raw skin, gave the synæsthetic illusion of embodied reality.
 
 Jolting upright in both physical space and the quantum space of neural frequency through a laddered series of strata, known all-to-well by the psychiatrist, she took no prisoners, as in, she wasted no time in switching on her Field\[^field\] recorder on the coffee table in front of her, which sat upon a copy of *The Gesamtkunstwerk of Wiltergarden*, which seemed to be, for lack of a better word, gnawed around the edges.
 
