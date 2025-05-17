@@ -543,7 +543,7 @@ Edition XVIII[^1].
 [[Metabasis]]
 [[Metacognition]]
 [[Metastasising]]
-[[MIKKÆLANGELOVS DAVID - painter of Minerva Fighting Herself]]
+[[M is for Mahler, Minerva, and Mars.]]
 [[Mine]]  
 [[Minutes]]
 [[Mirror]] [^m] 

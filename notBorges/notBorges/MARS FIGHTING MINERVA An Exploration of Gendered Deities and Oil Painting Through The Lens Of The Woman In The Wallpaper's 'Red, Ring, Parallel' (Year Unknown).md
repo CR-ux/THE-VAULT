@@ -73,4 +73,4 @@ I is for Islands within Eye Lands 'fore knot for Æir but E before Eye Accept: A
 [^r]:right[^?]
 [^?]:?[^neither]
 [^C]: lexDef {Noen|Croen|prodverb} || a word describing a lexicomythographic collective noun | a collective noun for a group of collective nouns |  "To Augur the Croens Murders the Babbling Tongues"
-[^M]: [[MIKKÆLANGELOVS DAVID - painter of Minerva Fighting Herself]] - END. DNE. 
+[^M]: [[M is for Mahler, Minerva, and Mars.]] - END. DNE. 

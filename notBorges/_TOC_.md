@@ -1029,7 +1029,7 @@ title: notBorges
 [[notBorges/lexicomythography/letter/FAO- first four within islands.md]]
 [[notBorges/lexicomythography/letter/NB/MAIL (23) TO.md]]
 [[notBorges/lexicomythography/letter/NB/MAIL(1) FROM TOPPLEGOOD.md]]
-[[notBorges/lexicomythography/letter/NB/MIKKÆLANGELOVS DAVID - painter of Minerva Fighting Herself.md]]
+[[M is for Mahler, Minerva, and Mars.]]
 [[notBorges/lexicomythography/letter/NB/in all of these, i have squandered and wasted my years. i beg to the unknown gods that one human, even if it were thousands of years from now, have read the One Book and examined it. If my place be in hell then roll a Di.md]]
 [[notBorges/lexicomythography/letter/POHOMO.fountain.md]]
 [[notBorges/lexicomythography/letter/THE NOWHERE - NINE EYED ANTHOLOGY of RECURSION.md]]

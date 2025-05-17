@@ -17,6 +17,9 @@ than Six individuals
 (at any one time):
 
 
+OBS: 10:00-12:00
+	Are you there? Are you listening? I cannot speak, I cannot remember who I am; I do not know my name. I am terrified, above all else, that I am alone in this hexagonal room
+
 
 **OBS: 12:00-2:00**
 	please. i can hear you in there. if you are keeping me here, i just wan t to remember my name . i can't rmemeber how long i have been here but i am not hungry and i do not know my name. 

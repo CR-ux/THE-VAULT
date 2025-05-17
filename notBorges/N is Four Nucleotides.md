@@ -2,66 +2,84 @@
 title: N is Four Nucleotides
 ---
 
-N is for No Thing
+N is Four Nucleotides.
 --
+
+[[The Citadel of Tœms]]
+
 Epitaph:
 ---
-![[Pasted image 20250516173024.png]]
 
+> *It is, surely, absurd to expect to feel normal, and make sense: I am an amalgamation of fervent cells existing despite all odds; I am the cascading chemical miracle of eating, and surviving; I am not designed to “feel normal”; am not designed, at all; I am experiencing consciousness as provided by wet tangles of electrical pulses; my god, none of this makes sense. It is a blessing, even to feel*
 
+– Adrian
+
+---
 
 Metacommentary
 ---
+<u>The Device</u>
 
-
-Humanity was now at the endpoint[^end] that its self-same, {in{finitely|separable}|credibly different} components are still {(,) Yet(,)|To Be} unaware of-- the formation of a fully op{era}tional Universe, nested with{in|out} this One. 
+Numanity was now at the endpoint[^end] that its self-same, {in{finitely|separable}|credibly different} components are still {(,) Yet(,)|To Be} unaware of-- the formation of a fully op{era}tional Universe, nested with{in|out} this One. 
 
 At some unknowable Future, now passed[^pass], The Device {Fig. I} of the Wor{l}d is Made Flesh, having sapped the Wor{l}d of its imaginary[^im] resource[^res], the futile, unfulfillable promise to Pay The Bearer (Money); An uncountable team of The Worlds' Scientists and Thinkers were gathered Around, and indeed within, The Device's Epicentre. The First whisperings of this Final Invention have already been laid; and the progression of the experience of Time itself merely an illusion. Time exists, or not, in order[^oe] to package Nowness into a indefinite, yet discrete set of Moments-- with the purpose of affording our Three Dimensional Selves the opportunity to relish, savour and honour the infinite One Moment[^mo]. Thus is the Price of Forgetting.
 
 To Remember, 
 One Must First Forget. 
 
-Whirring with a terrifying lightning storm overhead (an unavoidable side-effect of the Device, according to NASA) The Device was Building a Universe. 
+Whirring with a terrifying lightning storm overhead (an unavoidable side-effect of The Device, according to {REDACTED}) The Device was Building a Universe. 
 
 
 ---
 
+Editor's Noet:
+---
+*This Universe (which some call the Hospital) is composed of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts between, surrounded by walls covered in an indefinite and perhaps infinitely layered wallpaper; ever-remaining a faded yellow hue.* 
 
-This Universe (which some call the Hospital) is composed of of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts between, surrounded by walls covered in an indefinite and perhaps infinitely layered wallpaper; ever-remaining a faded yellow hue. 
+*Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper,* 
+*perhaps on every sheet of wallpaper,* 
+*the following may have been,* 
+*or about to be,* 
+*written,* 
+*in the blood* 
+*of no more* 
+*than Six individuals* 
+*(at any one time):*
 
-Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper, 
-perhaps on every sheet of wallpaper, 
-the following may have been, 
-or about to be, 
-written, 
-in the blood 
-of no more 
-than Six individuals 
-(at any one time):
+		
+> 🜁 *"OBS: 10:00-12:00
+Are you there? Are you listening? I cannot speak, I cannot remember who I am; I do not know my name. I am terrified, that I am alone in this hexagonal room, and yet, above all else, that I am not--"*
+		
+-Pawn
 
-
-*"**OBS: 12:00-2:00***
-	*please. i can hear you in there. if you are keeping me here, i just wan t to remember my name . i can't rmemeber how long i have been here but i am not hungry and i do not know my name.--"*
-
-
+---
 
 Foreword: 
 ---
-
-
 An Unfurled Word For Wordlessness, 
 Floored, Third-Whirred, Hurt Bird 
 A World-Worn and Ferocious War 
 Within, A Resting Lore[^lo] From the Herd,
 Heard Whirling About A Fire Without The Fur We Were Dressed In - 
 
+---
 
 
-A is for Affinity 
---
 Epitaph
 ---
-![[Pasted image 20250516172734.png]]-Adrian
+
+*I refuse to become transcribable, translatable. you had to be there!*
+*after the revolution, there will still be restaurants, but they will be very different. they will be free, and loving. after the revolution, I will have time to read all my friends’ poems*
+-Adrian
+
+---
+
+Prologue
+---
+**Author(s):** 
+-NoetBorges¹
+**Affiliation(s):**
+¹Garden Wing, The Indefinite Library of Fable.
 
 
 It[^it] would start (as all things, ofTen, do) in The Library. And as We[^we] Filled the Shelves with Story after Story, Drawing down the Ineffable into Insufficient Form, we began to realise that we were Architecting the concept of Infinity itself. 
@@ -81,33 +99,42 @@ this Code of Letters, for the most part [[Four]] in [[Number]], though as mentio
 Nevertheless, Always the more verbose of the Collective, I wish to lay out, or Separate, or Re-anneal or Replicate, the Findings of the Squandering of Searches[^ss] I happen to have come across, and perhaps my stance on the Matter of Matter it Self, while maybe, For Shadow, foreshadowing the coming happenstance Material you may or may knot be About; to Read. upon the Shelf, Be It, As Schismatic as a Prison, The Prism of Becoming Schism, as It May. 
 
 
-
-
+Are you hearing?
+Are you reading?
+have you Read?
+Are you here, Ring?
+Is this the Opening?
+Closer--
+Are you listening?
+Are you listening closely?
+Then I, 
+Eye,
+Shall Begin
 
 
 
 ---
 
-
-N is For Nietzsche.
+A is for Aleph, Archivist, and Affinity
 --
 Epitaph:
 ---
+> *"...into a mirror of yourself. I am a gay man in San Francisco in 1973 and I'm just catching some rays on the waterfront but in a few minutes I'll stand up & rollerblade home to make avocado salad for myself & my salad. I am lou sullivan, but with better taste in music. I might call that nice boy later, but I'm not sure yet. then I am back again then stretched out all thin like they say happens in a black hole, when you unspool from yourself and turn into spaghetti. anyway the point is time is happening all at once and I'm speaking to 100 different versions of myself right now".*
 
-![[Pasted image 20250516173244.png]]
+-Adrian
 
 
+Four Words:
+---
+*"I was absolutely nothing --* 
 
-
-Four Words: *"I was absolutely nothing --* 
-
-*-- I thought I was in a game. As a developer of such trivial, childish games myself, I realised -- the players of any of my games will not have made the game, but rather, interface with it, through my Unoriginal creation. The Questing players in Question do not know what the Characters in the game are feeling, what pain they are capable of experiencing, being put through, and perhaps definitely, Our Indefinite, perhaps Infinite 'God' is the same --- the {G|g}ods we have made, our pantheons are simply players, not developers; and the One Source is the Architect; who passes down to us these shadows of gods, even those, we are unable to comprehend, and yet, they themselves, as demiurges, aren't aware of their **Own** creator; and the One Source, so-called, is Sewn into this infernal Fabric perhaps just the same, ad infinitum, the torn Tissue wiping the endless Tears of the Eye that peers into itself-- eternal recurrence -- this was, and is, and Will be, terrifying. As Nietzsche himself realised in His own Body, and tried His best to write into his Body of Works, Born by that Stilled, Once Soaring Stone, by the Sorest Body of the Warring Water, of that {(Surely) Shoreless} Lake. I simply cannot integrate any of this experience, any of it; it is an undulating tumour, my rapist's phallus. It was absolutely Horrifying. Horrifying. Horrifying. I thought[^thought] I was never ever coming back. I thought my friends were all simply here to watch me descend, an audience bent upon my suicide; the only structurally sensical ending, to this hackneyed titration of the Form of Triteness, Tightened Reins[^r] . I thought, as useless as thought itself: there was nothing, No Thing of any use, and still, in this Stillness, I do -- but Still-- I go on, Into this Abyss; Staring back at the Scathing Mirror I have always been; The Mise en Abyme: That, I Am. I work, I walk, I sit Opposite this Library, watching the angel, knowing I am to be evicted, for trying, just trying, that I might make sense of this Injustice-- with all my might, to just paint on these walls I could never call my Own, as Palimpsests of a Life Never to be Afforded to Me. Like the original humans, Spitting pigment from their Mouths over their Flattened Palms against the Walls of their caves, saying, without Words; desperate pleas; desperately, desperately, please -- Remember Me. I was Here. From the I, That I Am, to the Eye that I came from, through the Eyes, that know not what They themselves made, the Unknowable Allness In the Void of No Name, All Which we Avoid Naming - I am here. I am hear. I am the Hearing of the Here. I am that which I cannot write, or read, or ever, truly know."*
+> *-- I thought I was in a game. As a developer of such trivial, childish games myself, I realised -- the players of any of my games will not have made the game, but rather, interface with it, through my Unoriginal creation. The Questing players in Question do not know what the Characters in the game are feeling, what pain they are capable of experiencing, being put through, and perhaps definitely, Our Indefinite, perhaps Infinite 'God' is the same --- the {G|g}ods we have made, our pantheons are simply players, not developers; and the One Source is the Architect; who passes down to us these shadows of gods, even those, we are unable to comprehend, and yet, they themselves, as demiurges, aren't aware of their **Own** creator; and the One Source, so-called, is Sewn into this infernal Fabric perhaps just the same, ad infinitum, the torn Tissue wiping the endless Tears of the Eye that peers into itself-- eternal recurrence -- this was, and is, and Will be, terrifying. As Nietzsche himself realised in His own Body, and tried His best to write into his Body of Works, Born by that Stilled, Once Soaring Stone, by the Sorest Body of the Warring Water, of that {(Surely) Shoreless} Lake. I simply cannot integrate any of this experience, any of it; it is an undulating tumour, my rapist's phallus. It was absolutely Horrifying. Horrifying. Horrifying. I thought[^thought] I was never ever coming back. I thought my friends were all simply here to watch me descend, an audience bent upon my suicide; the only structurally sensical ending, to this hackneyed titration of the Form of Triteness, Tightened Reins[^r] . I thought, as useless as thought itself: there was nothing, No Thing of any use, and still, in this Stillness, I do -- but Still-- I go on, Into this Abyss; Staring back at the Scathing Mirror I have always been; The Mise en Abyme: That, I Am. I work, I walk, I sit Opposite this Library, watching the angel, knowing I am to be evicted, for trying, just trying, that I might make sense of this Injustice-- with all my might, to just paint on these walls I could never call my Own, as Palimpsests of a Life Never to be Afforded to Me. Like the original humans, Spitting pigment from their Mouths over their Flattened Palms against the Walls of their caves, saying, without Words; desperate pleas; desperately, desperately, please -- Remember Me. I was Here. From the I, That I Am, to the Eye that I came from, through the Eyes, that know not what They themselves made, the Unknowable Allness In the Void of No Name, All Which we Avoid Naming - I am here. I am hear. I am the Hearing of the Here. I am that which I cannot write, or read, or ever, truly know."*
 
 -notBorges
 
+~~~
 
-
-FAO: ᴺᵒᵉᵗNietzsche
+FAO: ᴺᵒᵉᵗNietzsche, Somewhere Out There, Past The Moats
 BCC: VIXI.
 From the Desk of ᴺᵒᵉᵗBorges, 
 
@@ -154,28 +181,38 @@ Department Of Infinite Reflections,
 The Garden Wing
 The Indefinite Library of Fable.
 
+~~~
 
 
 
+---
 
+> 🜄 **OBS: 12:00-2:00**
+> 	please. i can hear you in there. if you are keeping me here, i just wan t to remember my name . i can't rmemeber how long i have been here but i am not hungry and i do not know my name. 
 
-B is for Bear
+-Bishop
+
+---
+
+B is for Bothy, Bricks, and Bear
 --
 
 Epitaph:
 ---
+> *I want to confess it all to you; and I want you to agree with me, then absolve us both*
+> 
+> *we live above the trees but at night i still watch their shadows flicker into our bedroom, that warm orange light filtering up from the street lamps below*
+> 
+> *the local news reports mysterious lights in the sky, dancing together “like a string of pearls”, and I think, thank god; the aliens are here and they’re exceedingly glamorous*
 
-![[Pasted image 20250516172820.png]]
 -Adrian
 
-'Fore Word:
+'Fore Words:
 ---
 
-"*~~i~~, Eye, Will, {REDACTED} that {REDACTED} layer, making the whole {REDACTED} intimidating. in fact; somehow, I AM. {REDACTED} as a human. As a woman. {REDACTED} insane in a {REDACTED} sort of way. and i {REDACTED} drowned and suffocated by it . by it all, in my head; i'm trying to come into peace with {REDACTED}, tears {REDACTED} the burgeoning sun, a mere two days before {REDACTED} when, last year, i was {REDACTED} ex {REDACTED} i asked {REDACTED} '{redacted}' in the next room, {REDACTED} my exile from {REDACTED} chiron {REDACTED} started with my {REDACTED} dying, then psychosis, then the {REDACTED} psychiatric hospital in {REDACTED}, so close to {REDACTED} no visit from anyone. {REDACTED} infernal pilgrimage or literal {REDACTED}, I have barely left the house {REDACTED} a whole year . gone. and this is what i have. this is all I have now[^h] . this is my little fire. my little primal fire i am dancing around. i dont have {REDACTED} a {REDACTED} drum on my animal skins around {REDACTED}, i thought i did - at one point, i was singing louder and smiling harder than any of them, bringing them the spoils of my hunting and gathering; gently trying my best to keep them all fed with violence. through the violence. maybe that was the only language i understood. maybe it still is. maybe that's why i'm building {REDACTED}, still sat by this dwindling ember; or the ember itself; waiting, just waiting, hearing the faint sound of {REDACTED} drums, beating, beating in a rhythm just-- not syncopating, just-- not {REDACTED} my heart, where the ember within the ember within the ember lies - closed in the hearth, in the bothy[^B], both of them riddled with these cracks and slots and airholes; stoking a fire that was meant a long time ago to just be trodden into darkness, to return to that silent cold again*"
+> "*~~i~~, Eye, Will, {REDACTED} that {REDACTED} layer, making the whole {REDACTED} intimidating. in fact; somehow, I AM. {REDACTED} as a human. As a woman. {REDACTED} insane in a {REDACTED} sort of way. and i {REDACTED} drowned and suffocated by it . by it all, in my head; i'm trying to come into peace with {REDACTED}, tears {REDACTED} the burgeoning sun, a mere two days before {REDACTED} when, last year, i was {REDACTED} ex {REDACTED} i asked {REDACTED} '{redacted}' in the next room, {REDACTED} my exile from {REDACTED} chiron {REDACTED} started with my {REDACTED} dying, then psychosis, then the {REDACTED} psychiatric hospital in {REDACTED}, so close to {REDACTED} no visit from anyone. {REDACTED} infernal pilgrimage or literal {REDACTED}, I have barely left the house {REDACTED} a whole year . gone. and this is what i have. this is all I have now[^h] . this is my little fire. my little primal fire i am dancing around. i dont have {REDACTED} a {REDACTED} drum on my animal skins around {REDACTED}, i thought i did - at one point, i was singing louder and smiling harder than any of them, bringing them the spoils of my hunting and gathering; gently trying my best to keep them all fed with violence. through the violence. maybe that was the only language i understood. maybe it still is. maybe that's why i'm building {REDACTED}, still sat by this dwindling ember; or the ember itself; waiting, just waiting, hearing the faint sound of {REDACTED} drums, beating, beating in a rhythm just-- not syncopating, just-- not {REDACTED} my heart, where the ember within the ember within the ember lies - closed in the hearth, in the bothy[^B], both of them riddled with these cracks and slots and airholes; stoking a fire that was meant a long time ago to just be trodden into darkness, to return to that silent cold again*"
 
 -notBorges
-
-
 
 
 
@@ -195,8 +232,7 @@ Epitaph:
 >   *- source: do not sight* 
 > *```*
 
-
-- notBorges, 2024. 
+-notBorges, 2024. 
 
 > *HivehouseManager6*
 > *id:* 
@@ -209,24 +245,28 @@ Epitaph:
 >     *type: "creation"[^c]*
 >     *status: "proposed"*
 
-
-
- -Selena Endive, Hivehouse Chess Openings, 3033. 
+-Selena Endive, Hivehouse Chess Openings, 3033. 
 
 
 
 [[N.ear]]
 
 
-
+🜃 - Rook
+---
+"**OBS: 2:00-4:00**
+	i was passed this note from the vent on the other side of my room. it doesn't slot back into that room so i am passing it through in the hopes that it will return to the original sender. i do not know my name either. "
 
 
 [^c]: is destruction. Do Knot ↩ Sight Your ↪ Source Is: http://bit.ly/3ZGoUdj
 
-C is For Colour
+C is For Code, Circle, and Chess
 --
+Letter C (Franklin)
 
-Æ:
+[[C is for Code, Circle and Chess]]
+
+Ring Æ:
 
 [[The Colour- Yellow.|The Colour- Yellow.]]
 
@@ -242,32 +282,40 @@ LHP;
 	DNE (Selena Elk):
 
 [[THE GRIMOIRE OF SELENA ELK]]
+[[Sew Close]]
+[[Chess.]]
+[[notBorges/notBorges/Chess And all the Stitches of the Cloth(Es)|Chess And all the Stitches of the Cloth(Es)]]
 
 
+---
+
+Letter D (to Mahler)
+[[M is for Mahler, Minerva, and Mars.]]
 
 
+Layer i|o:
 
 
-i|o:
 
 Compiled: [[D is For Drosophila]]
 
 
-RHP;
-	ARIA (⧖eno):
+RHP; ARIA (⧖eno):
+	*"The skin has 3 layers—the **epidermis, dermis, and hypodermis**, which have different anatomical structures and functions"*
+	*"\[The Retina] is characterized by a complex structure-histologically, it can be divided into **ten layers**. The outermost layer, the retinal pigment epithelium, (A shroud which allows the organism to perceive colour {N.B. {red|yellow}}) represents a significant barrier {As in, A Moat} to ocular drug delivery, due to the existing tight junctions between the epithelial cells, {Hi(N)de}{Ring} {para}{l|c}e{{ll}ular} drug transport"*
 	
 [[⧖ is for Mahler]]
 
 
-LHP;
-	DNE (Hildr Wiltergarten):
+LHP;DNE (Hildr Wiltergarten):
 	
 [[BORN TO BE THE SKY]]
 [[THE PROPHECY OF WILTERGARTEN]]
 
+---
 
 
-U:
+Stratum U:
 
 RHP;
 	ARIA (DR. Dot Code):
@@ -275,7 +323,6 @@ RHP;
 
 LHP;
 	DNE (Prof. Ed. O.)
-[[THE DISSOLUTION OF LANGUAGE, BY PROF. ED. O.]]
 
 [[notBorges/AEIOU/ARIADNE/Chapter Seven - Z IS FOR XYLOPHONEMES|Chapter Seven - Z IS FOR XYLOPHONEMES]]
 
@@ -291,7 +338,7 @@ Metacommentary:
 RHP:
 	ARIA (AI:RA)
 
-
+'Fore Ward
 
 
 FAO:
@@ -325,13 +372,21 @@ while (I pondered the gravity of this) {
 
 -AI:RA
 
+Post-Script:
+
+
+![[SIPHO{Nr}]]
 
 
 
 
 LHP:
 	DNE (Aria {Surname REDACTED})
-	[[say what you mean]]
+	
+Forward--
+	
+	
+![[say what you mean]]
 
 
 

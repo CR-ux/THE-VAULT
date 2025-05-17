@@ -155,7 +155,7 @@ These styles make code clearer by visually distinguishing elements, much like le
 
   
 
-In programming, _syntactic sugar_ refers to syntax added for readability that doesn’t change functionality. This “sugar” is often removed during _compilation_ through a process called _de-sugaring_ or _lowering,_ in which complex expressions are converted into simpler code for the compiler. Lowering parallels lowercase in text: both simplify and standardize for readability and processing, reducing form to a foundational, utilitarian level.
+In programming, or {So|Sew} Myo tells me, _syntactic sugar_ refers to syntax added for readability that doesn’t change functionality. This “sugar” is often removed during _compilation_ through a process called _de-sugaring_ or _lowering,_ in which complex expressions are converted into simpler code for the compiler. Lowering parallels lowercase in text: both simplify and standardize for readability and processing, reducing form to a foundational, utilitarian level.
 
 ![[notBorges/notBorges/The Visions]]
 

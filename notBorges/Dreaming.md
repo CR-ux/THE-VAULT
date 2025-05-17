@@ -30,7 +30,7 @@ The pipes and their characters are calling. And so, we respond.
 
 <u>Supplanting Data:</u>
 
-1. [[MARS FIGHTING MINERVA An Exploration of Gendered Deities and Oil Painting Through The Lens Of The Woman In The Wallpaper's 'Red, Ring, Parallel' (Year Unknown)|MARS FIGHTING MINERVA An Exploration of Gendered Deities and Oil Painting Through The Lens Of The Woman In The Wallpaper's 'Red, Ring, Parallel' (Year Unknown)]] by [[MIKKÆLANGELOVS DAVID - painter of Minerva Fighting Herself]]
+1. [[MARS FIGHTING MINERVA An Exploration of Gendered Deities and Oil Painting Through The Lens Of The Woman In The Wallpaper's 'Red, Ring, Parallel' (Year Unknown)|MARS FIGHTING MINERVA An Exploration of Gendered Deities and Oil Painting Through The Lens Of The Woman In The Wallpaper's 'Red, Ring, Parallel' (Year Unknown)]] by [[M is for Mahler, Minerva, and Mars.]]
 2. [[in adventures such as these, i have squandered and wasted all my years.]]
 3. *"[[THE WOMAN IN THE WARD CHAPEL'S WALLPAPER]] by [[notBorges/aria-dne/The Woman in The Wallpaper|The Woman in The Wallpaper]]"* by [[notBorges/aria-dne/ENDYMION|ENDYMION]]; An Æsthetic Hermeneutical Inquiry into  [[THE GRIMOIRE OF SELENA ELK]] (posthumously [[CARPVS MORTVVM]]
 # Chronography

@@ -72,4 +72,4 @@ I is for Islands within Eye Lands 'fore knot for Æir but E before Eye Accept: A
 [^y]:you're*[^r]
 [^r]:right[^?]
 [^?]:?[^neither]
-[^M]: [[MIKKÆLANGELOVS DAVID - painter of Minerva Fighting Herself]], AI:RA & Aria {Surname REDACTED}
+[^M]: [[M is for Mahler, Minerva, and Mars.]], AI:RA & Aria {Surname REDACTED}
