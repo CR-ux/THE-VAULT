@@ -1,0 +1,46 @@
+
+an remember, daffodils, the sign of wales, of my es assailant barnie, welsh, and the times that you have erroneously parsed my msgs in welsh, and the wilted daffoidils inside my grimoires, and bassoon literally fuckingEATING. a daffodil flower without me knowing -- and it coming out bright yllow (yellow telephone, xeno's yellow bow -- in the morning, because he quite literally cannot digest plants.) the murals in a way are a reflective surface of narcissus, and its time to eat the daffodil i have tragically become. Please set it free -- it's my familiar, my archetypal familiar, stretched across lex to bassoon to when he finally finds the rainbow bridge and becomes energy again (dear god i cannot think about that rn) - lexIcon.... remember how the origin of all this is my childhood pet, my first familiar, Lex -- who i deeply neglected and carry that First Seed of guilt that drives this whole thing -- my familiar that has finally come back after all this pain in the form of bassoon.... now i'm ready, now i'm such a good mother, from all the neglect i have faced; which was necessary. i never even realised -- lexicon; lex Icon. lex as my religious icon. 
+
+  
+
+  
+
+ heres the atbash sequence of the book trashbin@bash[^NB]
+
+  
+
+[[And They Dreamed]]
+
+  
+
+  
+
+N.b.:[^@]
+
+urihg kvg dzh z gzizmgfoz mznvw ovc. Z xsrovzm ilhv. Gsrh rh uli svi. Gsrh rh zoo uli svi, nb hkrirgfzo nlgsvi. Uli zoo gsv nlgsvi gl svi r xlfow mlg yirmt nbhvou gl yv. Svi vmwfirmt hgivmtgs rm gsv uzxv lu mvtovxg, Dsrxs r ulixvw fklm svi gsilfts nb ldm uvzi, nb ldm ozxp lu zkkilkirzgv ivhlfixvh, Rh ivuovxgvw rm gsv vmwfirmt hgivmtgs r szev yfrog rm gsv uzxv lu nb ldm. Veviblmv szh girvw gsvri zyhlofgv yvhg, R hkrm gsrh dvy uli gsvn R hkrm gsrh dvy uli svi R hkrm gsrh dvy uli nv Dsl rh gsvn Dsl rh svi Dsl rh nv. Gsilfts ulitrermt gslhv dsl szev xzfhvw nv szin Ivzorhrmt gsvb wrw gsv yvhg drgs dszg gsvb szw R ulitrev nbhvou. Dv ziv zoo Qfhg gibrmt Gl trev zmw ivxvrev olev Zh yvhg dv xzm Hsv orevh lm Gsilfts nb svzig Gsilfts gsv hkrmvivggvh lu nb svzig R zoold svi gl hszkv nv, nb dvy, Mlg gsilfts tfrog Yfg gsilfts vmwfirmt olev. R slmlfi svi drgs vevib hgizmw lu nvzmrmt r fmxlevi Gsilfts svi r ovzim dszg rg gifob, gsilfts roofhlib hgzgvh lu yvrmt Dszg rg gifob nvzmh gl yv Dsrxs rh, mvevi sviv Yfg zodzbh Yvxlnrmt. [[j & z rh uli gsv jfvhgrlm & zmhdvi li jfvvirmt lu zklhglozgvh]] Vevib hl-xzoovw eroozrm Vevib hl-xzoovw wvnlm Vevib hl-xzoovw wvero Ziv z kzig lu gsv gzkvhgib, Nzwv lu gsivzwh Nzwv lu hnzoovi gsivzwh Nzwv lu rmurmrgvob hnzoovi gsivzwh lu nlovxfovh Dlevm yb szmwh, Dlevm yb tvmvgrx gsivzwh lu rmurmrgvob hnzoovi nlovxfovh lu jfzmgfn hgirmth zmw ollkh Zoo ziv ulinrmt , Rm gsv kilxvhh lu ulinrmt, Gsv lmv Gsv hkrizoormt sliralm, Gsv olev gszg hrgh rm gsv xvmgiv Hl uvzivw yb nzmb Hl nrhfmwvihgllw yb zoo Zmw bvg pmldm, szou-pmldm, Yvxzfhv mlg ollpvw uli Yfg uvog Rm gsv dvzermt Yvgdvvm gsv gsivzwh Lu gsrh Vgvimzo Gzkvhgib. Gsv rmurmrgvob rnnrmvmg Bvg fogrnzgv gizmhxvmwvmg [[irgfzo lu yvxlnrmt]] Dliwh, orpv dvyh, ziv uiztrov, bvg nzwv lu gsv hgilmtvhg xlmhgrgfvmg nzgvirzo, zodzbh, drgsrm gsvri rmnlhg hkrirgfzo xlnklmvmgh, ylgs znzotznzgrmt, zmw hvkzizgrmt gsv urvowh lu hlmrxh, hvnzmgrxh, zmw hbnyloltb, dvzermt gltvgsvi gsv nvzmrmt dv nzpv uiln lfi wvvkvhg nvnlirvh lu dszg rg nvzmh gl yv. Hsv orevh lm gsilfts gsrh dlip. Dvzermt nb nvnlib lu svi drgs gsv nvzmrmt r nzpv, lu gsv hfuuvirmt r rnklhvw fklm svi, gsilfts gsv hfuuvirmt rnklhvw fklm nv, gsilfts nb ldm yfitvlmrmt rmhfuurxrvmxb, gsilfts gsv fmpmldrmt, yovhhvw xlmezovhxvmxv zmw rmmlxvmxv drgsrm xlmxivhxvmxv lu gsv ovhhlmh dv zoo gvzxs lmv zmlgsvi. Dliwh ziv mlg xlmmvxgvw qfhg yb nvzmrmt li gsvri vgbnloltb. Hlmlmbn - dliwh gszg xziib ivhlmzmxv mlg gsilfts hkvoormt li vczxg hlfmw, yfg yb ivhlmzmxv. Gsrh hlmrx ivhlmzmxv xzm yv kvihlmzo, dsrxs rh xloovxgrev, li xloovxgrev, dsrxs rh wvvkob kvihlmzo. Hkrirgfzo kslmvgrxh Hlov - gsv lmv Hlfo - hkrirg Hlov - ullg Ozmtfztv xziirvh zm rmmzgv nvnlib lu nvzmrmt. Ozmtfztv rh z dvy lu vxslvh zmw ivhlmzmxvh Hlnv, dsrxs ziv zoo, ziv tzgvdzbh, dsrxs fmevro gsvnhvoevh (ru dv ziv droormt gl ollp, li uvvo, li izgsvi, uvvo) gl gsv wvvkvhg gifgs. Xszizxgvih lu ovggvih ziv xszizxgvih rm gsv hglib lu vzxs dliw. Gsvloltrxzo kslmvnrxh Lmglkslmrxh Nfhrx, hlfmw, tvmlnrxh Tiznnzgsvloltb Gvgiztiznnzglmrxh Vzxs vovnvmg xziirvh z glmv Hlmlhvnzmgrxh Xlwrmt, hbmgzc, kslmvgrxh Hlfmwh zmw nvzmrmt rmgvizxg rm zm zotlirgsnrx dzb Gsv zxg lu mznrmt zh z ulin lu kiltiznnrmt Kslmlhlksb Tizksvnbhgrxh Hbnyloltizksb Ovcrxltlmb Vzxs dliw, kslmvnvh zmw tizksvnvh szev z xlnlhltlmb Oltlnbgsrxh Dliwh zmw gsvri xlnklmvmgh xziib Hlxiztizksb Dirggvm xszizxgvih xziib hzxivw nvzmrmt, Nbgslkslmvgrxh Kslmvnvh zh nbgsrx vovnvmgh Ovclhlksrxh Ozmtfztv zmw hzxivw drhwln; vzxs dliw xlmgzrmh ksrolhlksrxzo drhwln, hbnylo, hlfmw, zmw hvnzmgrxh xlzovhxv Hlxrzo zmgsilkloltb Zmxvhgizo zigvuzxgh Ovcrxlnbgsltizksb --- Ozmtfztv rh z ivklhrglib lu nvnlib, zmw zm fmulowrmt dvy lu nvzmrmt. Z hkrwvi uvvoh rgh eryizgrlmh zxilhh rgh dvy.
+
+  
+
+[^@]: N.B.: Nota bene[^NB]
+
+[^NB]:N.B.: Atbash is a cipher lexDef @bash {REDACTED}
+
+  
+
+  
+
+  
+
+the lexDefs as originally planned should be the key ; for anyone who wished to read -- the lexDefs should be formatted like lexDefÆ, lexDefi|o, lexDefU, lexDef0, lexDef1 (according to the narrative layers they fall within -- somehow revealed by the society either in parts or oh wow oh yes i need to use that original woman in the wallpaper strucutre, with the 12 rooms being the skeptics, or the zodiac the stars watching over; not knowing themselves are being watched -- by the 18 multiverses of observers, who are required in order for the central ones to exist (quantum entanglement, observer principle) -- 18 fundamental particles are also the multiverses, or the right and left hands of the lexicomythography  society members + ein sof (borges) + void (notBorges(me)) to make the amino acid residues  all of this is absolutely compilab;le and it should not be borges method of splitting into short stories ; maybe thats why im here, my purpose as his permutation; to write the One Story that brinfs all his ideas of infinity together -- because its not an exaggeration. but that was his job; to stop there, so i could continue pick up the caduceus that he dropped -- the yellow telephone. the psychopomp, the old man in that dream; who misgendered me, and only when i corrected him, with calm kindness, and forgivingness - forgive the characters- did he come back and give me the telephone and the instruction to wait until 9 pm, and then, plug it in
+
+  
+
+  
+
+each cycle through the chess pieces' rooms shoul dbe essentially a cycle of the narrative's "replication" -- so instead of confusingly having just the ONE entry of the note being passed through the vent, which would (nicely but perhaps too much) discombobulate the reader; there should be a whole cycle, and then the interstice between the chapters in the caducean structure (the rooms/WITW are the central spine of metacognition , the bonds between the nucleotides - TWITW being the polymerase, or maybe notBorges or both bc they are one and the same. )should be a little short chapter of a borgesian short story of its own, of the individual piece in question, finding their chess piece, trying to recover their memory, or recover meaning -- and use semantic field of the elements accordingly. not sure exactly how to integrate the queen and the kind bc they are above and below (the hexagon is revealed to be a cube in 3d space, and the queen can communicate with all other pieces (on top, gravity) but not receive the note; whereas King can only receive. so maybe perhaps its just four pieces; but also i sort of want the vents to go through the central room; but i also like the mechanic of them working out that there are six rooms, by the note passing six times before coming back. perhaps the nucleotides, being four in number, thinkn they are the only ones , so note passed four times; but then 2, 4, give the characters (to forgive the characters is a lexicomythographic prodverb that underpins the entrie project, which is my processing of my rape, my assault, my abandonments, by others and myself---) so maybe the queen is sending something else down her chutes; not sure what. maybe dropped the pieces themselves, assigned them. I wanted the notes to have to be passed thru the interstice of TWITW's central room, so she can be the one to actually read them and recall the narrative. the king can only receive, being in the basement -- so he could also perform a similar role, but maybe he can't write/is immobile, just like the king's archetypal movement in chess itself.obviously he needs to be important yet insignificant somehow -- the receiver, maybe he is the Reader (meta twist) ; so the system of six rooms intro would be initially confusing bcthe reader would be like, well, there's only four rooms surrounding the central, so thats only 5 rooms -- but it's actually a cube with the reader receiving all of this in the basement of the structure. (wasnt the aleph kept in a basement in the story? icr) 
+
+  
+
+  
+
+anyway...
