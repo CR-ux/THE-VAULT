@@ -41,6 +41,10 @@ which itself should be called
 A Sea Rose of Oomph or Tune At Have Ends[^ASOUE]
 or the Series of Misfortunes Leading to The Ever Presented Event
 
+
+
+
+
 [^lexDef0]: (lexDef0: {Noen} Artist-engineer)
 
 [^lexDef3]: {(lexDef3: multi-disciplinary-sensory-media-inter-and-undisciplined-extensionally-inclusionary-immersive art experience[^Factory] which blurs the line between creator and created )}
