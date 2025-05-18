@@ -37,7 +37,9 @@ In discussion of her latest Philm,  (a multisensory-digitally innovative immersi
 
 Aria stopped being carried by the infinitely recursive streams of thought and invention that babbled through her not-yet-today-medicated-she-really-must-remember-her brain. Allowing them to do what they must, what they will, what she seemed to have forgotten she Willed them to do, whether she would've wanted when she'd Willed it or knot when they'd woven through --
 
-{redacted}
+{redacted} later
 
-Bibliography
-[Chapter Nine - O is for e.i.e.i. Owe it All to Oleander](Chapter%20Nine%20-%20O%20is%20for%20e.i.e.i.%20Owe%20it%20All%20to%20Oleander.md)
+
+
+
+![Chapter Nine - O is for e.i.e.i. Owe it All to Oleander](Chapter%20Nine%20-%20O%20is%20for%20e.i.e.i.%20Owe%20it%20All%20to%20Oleander.md)

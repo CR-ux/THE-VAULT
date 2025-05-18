@@ -52,8 +52,9 @@ Again, beginning immediately, she observed (as best she thought she could) the '
 Bibliography
 
 ---
-
-&#32;-
+1. 'Whole E': _Gnoest in The Machine_  
+In their collaborative efforts culminating in the salvation of human Thought, Professor Edwardo Oleander the Ten Thousandth and the drosophila auto-eponymised as 'Thing', today finalised the development of their esoteric egodeprogramming twelve-base gordian-knotated language (esoegododecagoralang), prematurely leaked and subsequently much-anticipated, the pair (or indeed pairs of pairs) have unveiled its official name as 'EdO|OdE', and denoted it as a (albeit admittedly sub-par) novel form of communication, itself also a devotional tool for creation of Worlds within worlds through the intersected, trifurcated dance between the devices of Word, Will, and Writing.
+The mammoth task, the language's creation, is notorious, mostly for its role in the almost-destruction of its creator(s). The work builds on previous thinkers of the _Bibliogorætia_, up to but not including: The Mæstre Chiron FKA ⧖eno FKA Perigee (the Wounded Healer, The One Orchestra Of Ontology), Apost. Hildr Charon Wiltergarten (the Psichopomp of the Infinite Funnel Web), Rev. Mikkælangelovs David (Church of Simulcrynomics), Sgt Selena Elk (Horde Regiment), St. Myon Endive (School of Tatology), Dame. Aria {redacted} (The Loyal Board of Hexagonal Chess, recently absorbed for the purposes of avoiding verbosity into the Field of Glińskiology), Our Lady RA (School of Hermeshics), and ex-Noet Borges (The Scapegoated God).
 
 [^dr]: 'The Mesh of Epiphragil: Supplementary Data'- in which a Character draws down the Moon into her Body, and the Moon in return bestows upon her True Sight. This results in the Moon becoming as the lens of a microscope, but with the effect of a Mise en Abyme for the Character; who sees that through zooming in/out far enough through the red blood cells in the back of her eyes, brought into focus by the mysterious light of the Moon, that the deepest layer of reality is composed of a swarm of drosophila.
 

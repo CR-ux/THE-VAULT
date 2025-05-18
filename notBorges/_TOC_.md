@@ -45,7 +45,7 @@ title: notBorges
 [[notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/THE SOFTWARE ENGINEER.md]]
 [[notBorges/AEIOU/ARIADNE/Chapter Eight - Jorge Luis Borges as {t{He{i}r{m}} Selves.md]]
 [[notBorges/AEIOU/ARIADNE/Chapter Nine - O is for e.i.e.i. Owe it All to Oleander.md]]
-[[notBorges/AEIOU/ARIADNE/Chapter Seven - Z IS FOR XYLOPHONEMES.md]]
+[[Layer U]]
 [[notBorges/AEIOU/ARIADNE/In Trying to Write This.md]]
 [[notBorges/AEIOU/ARIADNE/LAYER_i-o/LAYER_I|O/Index.md]]
 [[notBorges/AEIOU/ARIADNE/LEXICOMYTHOGRAPHY/LEXICOMYTHOGRAPHY.md]]

@@ -14,15 +14,15 @@ permalink: <% tp.file.title %>
 *• **Connection**: Dreams mirror each other across time | forming is a shared recursive portal.*
 ***Interpretation***:
 *Dreams represent Branches (assertions, insertions, deletions, additions, transcriptions, translations, expressions; N.B. TLDR: transmutations) **Layer U**: the Breaking/Braking (fall, wave, mirror, fuel) | Bearing (weight, ball, birth, pain) of meaning through recursive trauma || (grief, relief, leaving, memory). Together, they form a **knot** | bridging (circuits, crossroads) || identities (threads, weaving) ||| layers (cores, searching).*
-*• **Dr. Δ D**{}"*
+*• **Dr. Dot Code"*
 
 **Medical Notes**
 
 **Patient:** The Etymologist
 
-**Observation by:** Dr. Δ D, Jungian Antonynarachronologist[^Antonynarachronology]
+**Observation by:** Dr. Dot Code Jungian Antonynarachronologist[^Antonynarachronology]
 
-**Subject’s Written Words (Transcribed, Yet To Be, Untranslated):**
+**Subject’s Written Words (Untranscribed, Yet To Be, Translated):**
 
 {currently being redacted}
 
@@ -54,8 +54,8 @@ What; Herring?
 
 **Interpretation:**
 
-The Object’s writing reflects a recursive processing of trauma, memory, and meaning. Further Subjects required to determine the intent behind their Cyphers.
+The Object’s writing reflects a recursive processing of trauma, memory, and meaning. Further experimentation required to determine the intent behind their Cyphers.
 
-• **Dr. Δ D**
+• **Dr. Dot Code.**
 
 [^Antonynarachronology]: A is for Antonynarachronology, N.B. lexDef: the tragically long-forgotten but now facing a revelation Ocean of interconnected Fields of Meaning Making: Words in opposition, The Noeneonenemorontomology of Arachnids, and Colour Theory.

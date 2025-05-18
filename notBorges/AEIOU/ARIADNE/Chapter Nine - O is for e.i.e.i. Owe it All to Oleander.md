@@ -3,19 +3,19 @@ permalink: <% tp.file.title %>
 ---
 
 	
-> 		Clara was busying herself as usual at her desk in the Library, when suddenly she became aware that she was a character in a series of books, designed as a series of letters, written, and rewritten, between characters in stories of stories upon stories of towers of Turrets of castling Libraries of Babel. 
+> 		*"Clara was busying herself as usual at her desk in the Library, when suddenly she became aware that she was a character in a series of books, designed as a series of letters, written, and rewritten, between characters in stories of stories upon stories of towers of Turrets of castling Libraries of Babel.* 
 > 		
-> 		The realisation was earth-shattering yet inevitable, like any metaphor describing such a feeling might emulate a simile attempting the same function.
+> 		*The realisation was earth-shattering yet inevitable, like any metaphor describing such a feeling might emulate a simile attempting the same function.*
 > 		
-> 		She knew, now, suddenly, as one might be inexplicably be made aware of context in a dream (which, within its own context of lucidity, we go along with), the very Title of the Works within which she was a central character:
-> 		*The Lexicomythographers of O.R.P.H.E.U.S* by some "Oleander Rho Dover", which--
+> 		*She knew, now, suddenly, as one might be inexplicably be made aware of context in a dream (which, within its own context of lucidity, we go along with), the very Title of the Works within which she was a central character:*
+> 		*The Lexicomythographers of O.R.P.H.E.U.S by some "Oleander Rho Dover", which--"*
 > 		
 > 
 > Oleander scribbled out his name,
 > Replacing it with the much safer, though much less authentic, pseudonym: 
 > -*Callie Rose Sepal
 
-Since the division of the Twelve Schools, there was no room for an AMAB individual to pursue the Literary Arts and Metanoetics, in the matriarchy that had allowed the maintenance of peace for all these centuries, he conducted his Academic Service . Assigned to "Biomolecular Chessics" by his now-dead father, he terminated his hours of working at the terminal to turmoil over his terminally ever-evolving series of novels. In the increasingly, necessary secrecy of solitude.
+Since the division of the Twelve Schools, there was no room for an AMAB individual to pursue the Literary Arts and Metanoetics, in the matriarchy that had allowed the maintenance of peace for all these centuries, he conducted his Academic Service. Assigned to "Biomolecular Chessics" by his now-dead father, he terminated his hours of working at the terminal to turmoil over his terminally ever-evolving series of novels. In the increasingly, necessary secrecy of solitude.
 
 His characters had become his life, and further, his dissection of the deeper (and transcendent) meaning behind Aristotle's own self-negations and Paradoxes embedded within the very works he makes to assert/disagree with them - entirely intentional. Perhaps not his intention, perhaps his entirely--
 
@@ -47,7 +47,9 @@ In a gender-swapped, trans-majority dystopia, society is at the mercy of a Matri
 
 The societal norm is for puberty blockers to be given to all humans at the appropriate point in their timeline, which for the vast, vast majority (99.99%) of cases, is not only desired, but necessary and sufficient for their survival as a trans person.
 
-Needless to say, however, Non-binary and gender non-conforming individuals in this world are just as erased as they are within ours; only with a much more stark evidence base. In the narrative framework of this Philm, the problem of the absolutionist binarisation of gender is dissected from the opposite side of the Moat of the Misunderstanding of 
+Needless to say, however, Non-binary and gender non-conforming individuals in this world are just as erased as they are within ours; only with a much more stark evidence base. In the narrative framework of this Philm, the problem of the absolutionist binarisation of gender is dissected from the opposite side of the Moat of the Misunderstanding of our Sacred transgender community. By expressing the inherent danger and futility of infighting (even in an almost entirely transgender world, the subjugation of trans people not categorisable as either 'male' or 'female' persists) the piece attempts to show that in any war, there are no winners, and paradoxically no sides, because everybody, as a whole, is trying to win. 
+
+
 
 
 

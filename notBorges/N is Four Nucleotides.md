@@ -472,7 +472,7 @@ RHP;
 LHP;
 	DNE (Prof. Ed. O.)
 
-[[notBorges/AEIOU/ARIADNE/Chapter Seven - Z IS FOR XYLOPHONEMES|Chapter Seven - Z IS FOR XYLOPHONEMES]]
+[[Layer U|Layer U]]
 
 
 1:
