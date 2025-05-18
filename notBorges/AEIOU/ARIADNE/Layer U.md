@@ -183,7 +183,6 @@ The language, what I am terming an 'esoegododecagoralang (EeDdlang), appears to 
 
 From what I can gather as yet, Prof. Ed. O. appears to be in a process of 'lifting over' Lexicomythographic methodology to Sophtware development, apparently attempting to 'interface the ineffable'. Personally, I do not see this as ever being possible, and this may mark the beginning of the end for the professor. I am incredibly worried for their wellbeing on a personal level. However, for the sake of this heretofore unseen opportunity for the advancement of Arachnoanthropological Science, studies will continue this evening at 23:00 hours.
 
-[BTF]:
 ⇄: Gnoeneogrecian: _βουστροφηδόν_, “as the ox plows” is a writing style where lines are read in alternating directions. Back-and-forth, as an Ox plowing a field in anteAntiquity. Rooted in _bous_ (Ox, Taurus, Saint Luke) and _strephein_ (to Turn). This reading style forms the central pillar of contemplation in work by my contemporaries in the Field of Boustrophilology[^BTF]
 
 
