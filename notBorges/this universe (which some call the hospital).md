@@ -1,6 +1,10 @@
 ---
 permalink: this universe (which some call the hospital)
 ---
+ 
+ 
+ 
+ 
  # is composed of of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts between, surrounded by walls covered in an indefinite and perhaps infinitely layered wallpaper; ever-remaining a faded yellow hue. 
 
 Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper, 
