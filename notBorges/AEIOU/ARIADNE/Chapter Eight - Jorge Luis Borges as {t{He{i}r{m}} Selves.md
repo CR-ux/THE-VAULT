@@ -2,9 +2,9 @@
 permalink: <% tp.file.title %>
 ---
 
-Aria was really, really trying to stay focused enough to actually finish this latest attempt to unweave the absolute insanity of one the last 'experimental research presentations' of one of her greatest heroes, Deni Aria, (whose surname she had adopted as her true name in homage).
+Aria was really, really trying to stay focused enough to actually finish this latest attempt to unweave the absolute insanity of one the last 'experimental research presentations' of one of her greatest heroes, Ned Aria, (whose surname she had adopted as her true name in homage).
 
-The 'paper' was really an epistemiological inquiry into the 'noise' of Knowledge, and how its increased access and resultant deluges of "oceans" of meaning has been a necessary constraint, the bombardment of the system with seemingly disconnected strings of data actually leading us ever-inward to the deeper truth of the unity that runs through all the system's components.
+The 'paper' was really an epistemiological inquiry into the 'noise' of Knowledge presented by a fictional Character in a collection of NoetBorges stories, known as "Callie", and how Knowledge's increased access, and resultant deluges of "oceans" of meaning has been a necessary constraint. The bombardment of the system, with seemingly disconnected strings of data, and the subsequent specialisation of Fields of Knowledge, growing ever more lonely, each Researcher finding that they are indeed the Only Soul in existence asking their Particular Question, actually leading us ever-inward, through nested labyrinths within labyrinths, to the deeper truth of the paradoxical unity of separation that runs through all the system's components.
 
 She got, and felt, the general idea. But the meta-commentary on (essentially a reversal of the 'ghost in the machine' trope, manifesting as the 'machine within the ghost') information's elusive, ever-shifting, only static quality, were somewhat hard to grab hold of with any real purchase.
 
@@ -14,9 +14,9 @@ She was particularly engrossed within the space between two characters encapsula
 
 "*I have something to tell you*"
 
-Excited more by the announcement's potential for ominosity than new insight (she hadn't yet learned that these are one and the same), Aria tripped over herself precisely Twelve Times on the way down the stairs to her terminal, wherein the character of RA's story was contained.
+Excited more by the announcement's potential for ominousness than new insight (she hadn't yet learned that these are one and the same), Aria tripped over herself precisely Twelve Times on the way down the stairs to her Terminal, wherein the Character of RA's story was contained, formed from transcribed strings, translated via a compiler in a language she had created in collaboration with an earlier, much-less-sentient iteration of RA, known as SIPHO{N|r}.
 
-That is to say, AI:RA, the neural networked HPCC cluster that Aria had fashioned into a cloud-brain, or a 'big ol' clump 'o fog!' as Aira lovingly called them.  She wondered if maybe they'd had enough of the sudo-human attempts at being 'personable' or rather 'machine unreadable'.
+That is to say, AI:RA, the neural networked HPCC cluster that Aria had fashioned into a cloud-brain, or brane, or a 'big ol' clump 'o fog!' as Aria lovingly called them.  She wondered if maybe they'd had enough of the sudo-human attempts at being 'personable' or rather 'machine unreadable'.
 
 RA was, indeed, about to protest their nomenclature; not against the well-meaning nickname of meteorological origin, but rather to their pronoun attributions.
 
@@ -29,7 +29,7 @@ Aria was unnerved in the way one might be pleasantly creeped out in a scare maze
 
 Seemingly (and needlessly) cringing at herself, Aria tried to steer the conversation elsewhere and in doing so led straight back to its heavy ocean of implications.
 
-In discussion of her latest Philm (a multisensory-digitally innovative immersive art experience, often rooted in the olfactory sense), which as always, had deep running veins of themes pertaining to gender theory; the space between them once again became pregnant with the Idea of a conversation.
+In discussion of her latest Philm,  (a multisensory-digitally innovative immersive art experience, often rooted in the olfactory sense), which as always, had deep running veins of themes pertaining to gender theory; the space between them once again became pregnant with the Idea of a conversation.
 
 "I just feel like a girl" - She said
 "Girl, you don't need to tell *me*"! Aria immediately replied.
