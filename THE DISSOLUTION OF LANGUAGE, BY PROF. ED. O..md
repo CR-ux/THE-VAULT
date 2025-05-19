@@ -206,7 +206,7 @@ The mammoth task, the language's creation, is notorious, mostly for its role in 
     
     My brain wrote exactly around one thousand words, or approximately two years and seven months, of this text while I was half-dreaming this morning, just a couple of minutes ago.
     
-    In the dream, it was really beautifully written, so I’m sorry[[1]](https://publish.obsidian.md/#fn-1-ddc77e82f8755adf) about that. And how it’s just {k{not}} coming out the same as I empty my bowels upon waking.
+    In the dream, it was really beautifully written, so I’m sorry[[notBorges/Campaigns/we are never going on a bear hunt ever again/02. Sessions/1/1]](https://publish.obsidian.md/#fn-1-ddc77e82f8755adf) about that. And how it’s just {k{not}} coming out the same as I empty my bowels upon waking.
     
     In the dream, that wasn’t the writing of it but rather the “events” which occurred in order to write about them; there was a {thick|black|dark} {lake|loc{h/k}|{qua|{ke{y}}}, that was once just horrendously cold enough to _dare_ me to jump in and swim inside it. But I was simply looking at how ill it would make me now.
     
