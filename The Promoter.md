@@ -1,7 +1,11 @@
-> "And when you're in a Slump,  
+
+
+
+"And when you're in a Slump,  
 > you're not in for much fun.  
 > Un-slumping yourself  
 > is not easily done.  
+> -NoetSeuss, Oh, The Places You'll Go!
 
 
 These other pieces, do they know the real Form of this place? What its For?
@@ -10,7 +14,7 @@ These other pieces, do they know the real Form of this place? What its For?
 >   
 > And IF you go in, should you turn left or right...  
 > or right-and-three-quarters? Or, maybe, not quite? 
-> 
+> -NoetSeuss, {REDACTED} The Places You'll Go!
 
 
 Do they know that our choices, our so-called 'decision' to send these notes through our one-way system of vents, these sequences of endlessly repeating letters between Four characters-- do they know that it's all just fucking fruitless?
@@ -18,7 +22,9 @@ Do they know that our choices, our so-called 'decision' to send these notes thro
 
 > Or go around back and sneak in from behind?  
 > Simple it's not, I'm afraid you will find,  
-> for a mind-maker-upper to make up his mind.  
+> for a mind-maker-upper to make up his mind. 
+> -NoetSeuss, {REDACTED} Places You'll Go!
+ 
 
 
 I don't think any of them awoke with their piece upon a board. But I did. I *did*. And for all their Two-Dimensional movements, for all their black and white thinking, I knew. I knew. 
@@ -29,6 +35,8 @@ This board is hexagonal, yes, but a hexagon is only a hexagon when viewed in the
 > that you'll start in to race  
 > down long wiggled roads at a break-necking pace  
 > and grind on for miles cross weirdish wild space,  
+> -NoetSeuss, {REDACTED} You'll Go!
+
 
 
 A hexagon is simply a Two-Dimensional Rendering of a Cube. A Flattening. A Net. A fucking Net that all of us Fish have been caught in. 
@@ -36,6 +44,8 @@ A hexagon is simply a Two-Dimensional Rendering of a Cube. A Flattening. A Net. 
 
 > headed, I fear, toward a most useless place.  
 > The Waiting Place...  
+> -NoetSeuss, {REDACTED} Go!
+
 
 
 
@@ -46,18 +56,24 @@ I refuse it, I refuse it. No matter how many Odds are stacked against me, Even n
 > Waiting for a train to go  
 > or a bus to come, or a plane to go  
 > or the mail to come, or the rain to go  
+> -NoetSeuss, {REDACTED}!
+
 
 I refuse these reins, the reign of this unspoken, unknown and unseen Queen - I know she's above us. I know she is the Top Edge of this Cube. There is a Vent in my ceiling. There must be a Vent in all of our ceilings. Why has nobody thought to look up?
 
 
 > or the phone to ring, or the snow to snow  
 > or the waiting around for a Yes or No 
+> -Noet{REDACTED}
+
 
 I spare no thought for the King. Wherever he is, if, indeed, he is beneath us, which he probably is. He cannot move. He holds such illusory power in this infernal Game. The root of all this suffering; the root and the Fruit of it all, it must lay in the queen's hands. Dear god, that GOD we made of her - the mythologised Uncertainty; is it her? it must be her, who dropped these Pieces, these facsimiles of Identity, in lieu of any Memory, into our Hostile Hospital rooms. 
 
 
 > or waiting for their hair to grow.  
 > Everyone is just waiting."
+> -{REDACTED}!
+
 
 My hair, now longer than the length of my arm, now that's something I have. Something that cannot be taken from me. A Growth that they, whoever they are, whoever *she* is, cannot take from me. 
 
@@ -67,24 +83,30 @@ I refuse the weight of this Waiting. If I die trying, so be it. I must look her 
 
 I've got to get out of here. 
 
-> You will come to a place where the streets are not marked.  
+> You will come to a place where the streets are not marked.
+> -{REDACTED}
+
 
 Whatever it takes. 
 
 > Some windows are lighted. But mostly they're darked.  
+> -{{RE}D{A}CTE{D}}
 
 Whatever it takes is dwarfed from what this place has taken from me. 
 
 > A place you could sprain both your elbow and chin!  
+> {RED}
 
 
 There's nothing in here, nothing for me, 
 
-> Do you dare to stay out? Do you dare to go in?  
+> Do you dare to stay out? Do you dare to go in?
+> {RE:}  
 
 Nothing for me to get out, and nothing for me to get in
 
 > How much can you lose? How much can you win?  
+> {R[^r]}
 
 
 The Hexagonal Board I woke with; this dreadful curse of Knowledge, of half-knowledge, half-heard, between the goodbying Waives of Rights of all of us- the Others seem bent, in each of their incapacities, to Stay locked in here. 
@@ -248,3 +270,4 @@ END.
 [^st]: lexDef (?) "St." {lexAllele(s)::: Abreathiation} < The abbreviation "St." < {ARIA var = "Saint" | DNE var = "Stone"}[^St.Abreathiation]
 
 [^St.Abreathiation]: [[Do Knot Site, Your Source, Is.]], ARIA|DNE. 
+[^r]: In mathematics, a real number is a number that can be used to measure a continuous one-dimensional quantity such as duration, temperature, . Here, continuous means that pairs of values can have arbitrarily small differences.[a] Every real number can be almost uniquely represented by an infinite decimal expansion.
