@@ -5,8 +5,8 @@ permalink: Ex Libris Borges
 *"The Box is only temporary."[^s]*
 
 # For Wyrd 
-![[I-X.mp3]]
-- <sup>not</sup>Borges, "I", track the First from the yet to be released Music Album titled 'Xˡᶦᵇʳᶦˢ' {Format: Cassette Tape | Label: [Venalism ](https://venalism.bandcamp.com/)}. 
+<AUDIO FILE {SOURCE REDACTED}>
+- <sup>not</sup>Borges, "I", track the First from the yet to be released Music Album titled 'Xˡᶦᵇʳᶦˢ' {Format: Cassette Tape | Label: Venalism }. 
 
 
 
@@ -61,10 +61,7 @@ as in, the sacrifice,
 as in, the rebirth
 as in, a palindrome of two values, greater than the value they bookend, which is nothing.[^p] 
 
-He looked at that almost-hexagon upon the wall, that open-and-irregular (due to its openness) pentagonal polygon, and took out his notebook, which itself resembled the shape of a hexagonal chess board. Which was itself a map: 
-
-![[Pasted image 20250312122840.png]]
-
+He looked at that almost-hexagon upon the wall, that open-and-irregular (due to its openness) pentagonal polygon, and took out his notebook, which itself resembled the shape of a hexagonal chess board. Which was itself a map: \<img src: knot found>
 Fig. 1: *A facsimile of  ᴺᵒᵉᵗBorges' diagram. nB: this is a copy, of a copy, of a copy, and may or may <sup>not</sup> bear resemblance to the Original, not-circular-but-so-compact-as-to-be-viewed-as-such Hexagonal Book in the Centre of [[this universe (which some call the hospital)]][^b]*
 
 intersecting 

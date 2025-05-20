@@ -81,20 +81,12 @@ of the Ineffable.
 Sonography
 ---
 
-
-
-1. https://www.notborges.bandcamp.com
-![[Circle II.mp3]]
-
-2. https://www.carpvs.bandcamp.com
-![[peaceful rest _ the woman in the ward chapel's wallpaper.mp3]]
-
-
-
+1. <AUDIO FILE{SOURCE REDACTED}>
+2. <AUDIO FILE{SOURCE REDACTED}>
 
 # Chronography
 
-[^w]: lexDef "Well" {usage:: Noen } A penetrating structure as a vessel of death. See: [[Ex Libris Borges]]
+[^w]: lexDef "Well" {usage:: Noen } A penetrating structure as a vessel of death. See: ![[Ex Libris Borges]]
 [^h]: lexDef "Hearth" {usage:: Noen || Croen || Wyrb || badverb || prodverb } { {A Heart, Hurting | Healing} || Two or more Hearts, Healing through Hurting. || Archaic: To Hurt Another's Heart in order to Heal One's Own. Or, More Commonly, To Heal Another's Heart by Hurting One's Own. || To Be Hurtful In Your Healing Another; as in the burning of wood to warm your loved ones ||  "*Harness and Contain the Flame, to keep your children safe from it*"}[^re]
 [^c]: "[['to forgive the characters'. a lexicomythographic prodverb]]" - [[Opening Letters to Forgiven Characters, 9th Edition The Lexicomythographic Guide to Dictionaries]], April 17th, 1994
 [^and]: [[and then]]

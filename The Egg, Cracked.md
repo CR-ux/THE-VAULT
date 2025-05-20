@@ -54,7 +54,7 @@ CLOSE UP: a candle's flame. A similar, seemingly pitchy, hum can be heard, only 
 
 RACK FOCUS TO:
 
-A decrepit, androgynous figure, inside a small cave, face half-illuminated by candlelight, ONE EYE (the opposite to XENO) cast in shadow. They have barely any hair left, revealing the same symbols as those on the cave walls, carved onto their scalp, seeming to dance in the flicker of the candle's eerie glow. They are writing with a sharpened animal bone onto a piece of goat vellum in what appears to be their own blood. The manuscript vellum sports just as much dwindling hair as the scribe. This is WILTERGARTEN.
+A decrepit, androgynous figure, inside a small cave, face half-illuminated by candlelight, ONE EYE (the opposite to XENO) cast in shadow. They have barely any hair left, revealing the same symbols as those on the cave walls, carved onto their scalp, seeming to dance in the flicker of the candle's eerie glow. They are writing with a sharpened animal bone onto a piece of goat vellum in what appears to be their own blood. The manuscript vellum sports just as much dwindling hair as the scribe. This is WILTERGARTEN.[^W]
 
 
 OVER WILTERGARTEN'S RIGHT SHOULDER, focus flickering between a still-healing, intricately carved scar, and the manuscript, which is now seen to hold a strangely complex series of musical staves. WILTERGARTEN appears to be humming along with every note inscribed with their LEFT HAND. Their quill runs dry, and they fall silent, moving their LEFT HAND to their RIGHT SHOULDER, wincing as they pierce the layer of granulation tissue like a repulsive creme brûlée, as we see that they have been replenishing their 'ink' with each CUT--
@@ -189,3 +189,6 @@ See? I couldn't make an omelette even if I wanted to
 
 
 ---
+# ᶠᵒᵒᵗNoet(s)
+
+[^W]: ![[BORN TO BE THE SKY]]

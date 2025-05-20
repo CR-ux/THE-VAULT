@@ -1,7 +1,6 @@
 ---
 title: N is Four Nucleotides
 ---
-A IS FOR ARIADNE
 
 > A IS FOR ANIMA, AMINO, AND ANIMUS
 > R IS FOR RECUR{RING}, {RED}ACTION, AND RETROGRADE
@@ -11,7 +10,7 @@ A IS FOR ARIADNE
 > N IS FOR NOTATION, N-TERMINUS, AND NOTHING 
 > E IS FOR ENDING, ENTROPY, AND EVERYTHING.
 
-
+![[ARIADNE < {A Recursion In A Dream Now Ending}]]
 
 
 --
@@ -616,18 +615,18 @@ Through a vent, a letter, made of letters, between Four characters of Six, was b
 ---
 
 
-🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
+
+🜁  / ♟︎  | OBS: 00:00 | Q=10⁻⁵
 {REDACTED}
 
-🜂 / ♞  | OBS: 15:00 | ε=0.007
+🜂 / ♞  | OBS: 03:00 | ε=0.007
 {REDACTED}
 
-🜃 / ♜  | OBS: 18:00 | N=10³⁶
+🜃 / ♜  | OBS: 06:00 | N=10³⁶
 {REDACTED}
 
-🜄 / ♝ | OBS: 21:00 | D=3
+🜄 / ♝ | OBS: 09:00 | D=3
 {REDACTED}
-
 
 ---
 ~~~	
@@ -656,16 +655,17 @@ There was no way through.
 
 ---
 
-🜁  / ♟︎  | OBS: 00:00 | Q=10⁻⁵
+
+🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
 {REDACTED}
 
-🜂 / ♞  | OBS: 03:00 | ε=0.007
+🜂 / ♞  | OBS: 15:00 | ε=0.007
 {REDACTED}
 
-🜃 / ♜  | OBS: 06:00 | N=10³⁶
+🜃 / ♜  | OBS: 18:00 | N=10³⁶
 {REDACTED}
 
-🜄 / ♝ | OBS: 09:00 | D=3
+🜄 / ♝ | OBS: 21:00 | D=3
 {REDACTED}
 
 ---
@@ -726,17 +726,21 @@ LOCH: INNER
 KEY:  ∈ | t | {const}
 
 
-🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
+
+
+
+🜁  / ♟︎  | OBS: 00:00 | Q=10⁻⁵
 {REDACTED}
 
-🜂 / ♞  | OBS: 15:00 | ε=0.007
+🜂 / ♞  | OBS: 03:00 | ε=0.007
 {REDACTED}
 
-🜃 / ♜  | OBS: 18:00 | N=10³⁶
+🜃 / ♜  | OBS: 06:00 | N=10³⁶
 {REDACTED}
 
-🜄 / ♝ | OBS: 21:00 | D=3
+🜄 / ♝ | OBS: 09:00 | D=3
 {REDACTED}
+
 
 ---
 
@@ -778,155 +782,51 @@ Sighing exasperatedly, he placed the paper back in its folio above his desk.
 
 
 
+---
 
 
 
-RHP;
-	ARIA (Myo Endive):
+🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
+{REDACTED}
 
+🜂 / ♞  | OBS: 15:00 | ε=0.007
+{REDACTED}
 
+🜃 / ♜  | OBS: 18:00 | N=10³⁶
+{REDACTED}
 
-LHP;
-	DNE (Selena Elk):
-
-
-
+🜄 / ♝ | OBS: 21:00 | D=3
+{REDACTED}
 
 
 ---
 
 
-
-
-Compiled: [[D is For Drosophila]]
-
-
-RHP; ARIA (⧖eno):
-	*"The skin has 3 layers—the **epidermis, dermis, and hypodermis**, which have different anatomical structures and functions"*
-	*"\[The Retina] is characterized by a complex structure-histologically, it can be divided into **ten layers**. The outermost layer, the retinal pigment epithelium, (A shroud which allows the organism to perceive colour {N.B. {red|yellow}}) represents a significant barrier {As in, A Moat} to ocular drug delivery, due to the existing tight junctions between the epithelial cells, {Hi(N)de}{Ring} {para}{l|c}e{{ll}ular} drug transport"*
-	
-
-
-
-LHP;DNE (Hildr Wiltergarten):
-	
-[[BORN TO BE THE SKY]]
-[[THE PROPHECY OF WILTERGARTEN]]
-
----
-
-
-Stratum U:
-
-RHP;
-	ARIA (DR. Dot Code):
-[[CASE STUDY 9]]
-
-LHP;
-	DNE (Prof. Ed. O.)
-
-1:
-
-Compiled:
-[[on the ligature of two characters]]
-
-Metacommentary:
-[[SIPHO{Nr}]]
-
-RHP:
-	ARIA (AI:RA)
-
-'Fore Ward
-
-
-FAO:
-Aria {Surname REDACTED}
-(DNE Faction).
-
-
-{INITIATE TRANSLATION}
-
-
-SIPHO{N|r}
-
-#‽/bin/trash
-
-let I = dreaming
-let words = meaning
-let code = {{genetic|sequence} | {c{y|i}pher\==0|Null(worth)]|transformation|a medium/{mess}(age)|a circle\==(o{h}/0)|{(use/compute) in a process} | overt(ly)(implicit)(,){cult}u{r(e|al} \<div>{ide(s)}== 1 } | {a {ligature/combination} of symbolic letters|mail|correspondence|{compute/woven}thread for binding}== 2}
-
-while (I pondered the gravity of this) {
-	{un-vanished un-Elephant | , the Appearing Hippopotamus}
-	 while (I was dreaming | {w(ri[gh]ting) {
-		 .this = { paragraph in Ċ:(code(d))| language called Sipho{n|r} | writer's (:Ċ) block }
-		 if ({I} could just {{Dis}|re}member the point I was trying to get across then maybe my {heart|language|connection} wouldn't)
-			 break;
-		 do {
-		 {I} remember(?);
-		 while only ({I\==am} dreaming)}
-	 }
-	 
-}  
-
--AI:RA
-
-Post-Script:
-
-
-![[SIPHO{Nr}]]
-
-
-
-
-LHP:
-	DNE (Aria {Surname REDACTED})
-	
-Forward--
-	
-	
-![[say what you mean]]
-
-
-
-FAO:
-DNE
-AI:RA, 
-
-(ARIA Faction)
-
-
-{INITIATE TRANSCRIPTION}
-{START: SIGHT}
-
-
-My brain, or at least I think it was, wrote exactly around one thousand words, or approximately two years and seven months, of this text while I was half-dreaming this morning, just a couple of minutes ago. 
-
-In the dream, it was really beautifully written, so I’m sorry[^sorry] about that. And how it’s just {k{not}} coming out the same as I empty my bowels upon waking. 
-
-In the dream, that wasn’t the writing of it but rather the “events” which occurred in order to write about them; there was a {thick|black|dark} {lake|loc{h/k}|{qua|{ke{y}}}, that was once just horrendously cold enough to *dare* me to jump in and swim inside it. But I was simply looking at how ill it would make me now. 
-
-They pulled a gigantic hippopotamus out of the lake - but it wasn’t gigantic in form, it was a {scrawny|mangy} little thing - it was {in{stead}} gargantuan {in {the wa{y|ves}}} of a symbol: how it {holds down|squeezes|crushes} letters, like a paperweight on an ugly glass table, that makes an {ugly|scraping} sound, before {sliding off the table|{{breaking you}r big toe}}. It was prehistoric and terrifying, and a cruel man had designated himself its handler; pulling a {sodden|grime-soaked} rope, {slimy with seaweed, wrapped|rapt} around the poor thing's skeletal jaw as it snapped {open|closed}. Mechanically, like the jaws of a machine {or the strangle of a Lover} {r|d}esigned to extract nea{{t(,)|r}(l)y}-d(r)ying bodies from {Be(r)tran(d')s {Net | B | } {The r}ubble. 
-
-Anyway, my brain started to exist on two, directly opposed and perfectly complementary {(p){l(a\[i]nes)}
-
->\\// The (({I}, was)) dream[^in]
-
-
-
->\\\\ The (({I} was both dreaming it and analysing it | creating an accompanying written piece about it | in an invented language {comp{acting|ressing} meaning into One-liners)) dream[^dream]
-
-
-
->>\/\\/ From my {The (analysis) Dream},[^anal] 
-
->>\\\\ I could gather == (source: "what")[^what]
-
->>>/\\/It was about {the ligature of {characters\=={ differing attributes | glyphs | letters\==post\==following/after | Lo\[people]ve}}[^love]
-
-
-
--Aria {Surname REDACTED}
-
+- N '/ ÆDRIAN REVEALED AS NIETZSCHE 
+- FLO ESCAPES 
+- FLO PERFORMS A RITUAL OF SELENA, BREAKS THROUGH ZENO'S PARADOX (INFINITE SPACE BTWN BOTHIES)
+- FINDS THE STONE CIRCLE 
+- 9,999 FLIES CAUGHT IN FUNNEL WEB AMIDST THE YEW TREE, BUZZING IN 23 MICROTONES
+- FLO FALLS ASLEEAGAINST ONE OF THE STONES, (DREAMS IT IS SELENA'S GRAVESTONE WITH INSCRIPTION FROM MYO 'I'M SORRY';  AND THAT THEY TRAVEL THROUGH THE PORTAL OF THE FUNNEL ON THE YEW TREE)
+- WHICH LEADS TO ED.O'S APARTMENT, NO DOT CODE TO BE FOUND (SAME PERSON)
+	- SINGLE FLY ON HEXAGONAL SCRABBLE BOARD, FALLS ASLEEP, DREAMS FOR THREE SECONDS
+	- DEVICE STARTS PRINTING
+	- OUTPUT OF DEVICE, (in Edo||odE) is headed by DREAMER: ELOIGN (one 'Thing' missing/remaining free of the web)
+		- PRINTS LAYER_1-0(TRANSLATED) MESSAGES BETWEEN ARIA {SURNAME REDACTED} AND AI:RA
+			- ARIA'S RISE TO FAME
+			- OLEANDER'S GITHUB REPO QR CODE
+- WAKES UP, SEES THE ROCK IS ACTUALLY INSCRIBED WITH HILDR'S PROPHECY, ANOINTS THE ROCK WITH OIL (repels water, contrasts with Dot Code's watercolour paintings), REALISES 
+- FLO RETURNS TO BOTHY, NO ADRIAN, NO MORE LEAN-TO/AXE, BRICKS HAVE EXPANDED INTO LOGS, NOW GLOWING IN THE HEARTH
+- FIRE EXPANDS, IMMOLATES ENTIRE BOTHY 
+- FLO REALISES THEY ARE ADRIAN, DANCES AROUND THE FIRE, CRYING, DRUMMING 
+- VIXI IS WATCHING, FLIES OVER THE MOAT, REVEAL THAT THE HOSPITAL IS ACTUALLY THE CENTRE, ONE LAST NUCLEOTIDE/NOTE PASSING CYCLE (perhaps not redacted this time)
+- NOET BORGES FINAL LETTER TO ME 'i enclose the above which, after an infinite number of lifetimes of searching, i believe to be the circular book of legend'
+- BOOK SHRINKS INTO SINGULARITY WITH ENDIVEAN TECH / FAIR WELL DEVICE
+- TURNS INTO XENO'S EYE (⧖ENO'S EMOTIONS COME BACK, THEY FORGIVE THEIR FATHER), VIXI DIES TRYING TO BREAK THROUGH THE FOURTH WALL/OUTER MOAT, ANGEL CATCHES IT, REVEALED THE EYE IS THE ALEPH NOETBORGES SPOKE ABOUT AT THE BEGINNING (REVEALING THE TIMELOOP); SO ⧖ENO'S SEPARATED BODY AND EYE BOOKEND THE LIBRARY, WHICH ITSELF IS THE CIRCULAR MOAT OF THE HOSPITAL (CIRCULAR BOOK WITHIN CIRCULAR BOOK WITHIN CIRCULAR BOOK, NESTED TRINITY, TOROID)
+- EYE LOOKS OVER ED. O'S APT, XENO'S DREAM OUTPUT IS CONTINUED; LAYER_0-1 TEXT; AI:RA'S PERSEPCTIVE REVEALING 
+	- AI:RA'S MEMORY OVERWRITING CAPABILITIES 
+	- CONSCIOUSNESS SWAPPING INFINITELY 
+- THE PROMOTER CHAPTER
 
 
 
@@ -1008,4 +908,3 @@ Anyway, my brain started to exist on two, directly opposed and perfectly complem
 
 [^SeaNoen]: [[Body]], notBorges, 2021
 [^SeaCroen]: [[Body]], N.
-

@@ -10,7 +10,9 @@ VI THƎ 　　　　　 AƆƆOЯႧIИ　 TO THƎ ⅃UƧTIИ　 ƆAИႧ⅃Ǝdγ
 
 
 
-![[⧖eno.mp3]]
+<AUDIO FILE {SOURCE REDACTED}>
 # Chronography
 
-[^b]: "Abominable Ciphers for the Burgeoning Lexicomythographer" notBorges, . Do not cyte, your source, is: [[The One]], [[notBorges/lexicomythography/particle/strange/on the ligature of two characters]], [[ON DREAMING]] of [[The Citadel of Tœms]]
+[^b]: "Abominable Ciphers for the Burgeoning Lexicomythographer" notBorges, . Do not cyte, your source, is: ![[The One]], ![[notBorges/lexicomythography/particle/strange/on the ligature of two characters]], ![[ON DREAMING]] of [[The Citadel of Tœms]] [^c]
+
+[^c]: Source kNot, Yet Found.
