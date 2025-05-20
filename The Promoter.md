@@ -55,12 +55,12 @@ I refuse it, I refuse it. No matter how many Odds are stacked against me, Even n
 
 > --waiting.  
 > Waiting for a train to go  
-> or a bus to come, or a plane to go  
-> or the mail to come, or the rain to go  
-> -NoetSeuss, Oh, The Places You'll {RED}!
+> O{a}r a {Boat} to come, or a Plane to go  
+> or the {Male} to come, or the {Reign} to go  
+> -NoetSeuss, Oh, The Places You'll {READ! REED! RED}!
 
 
-I refuse these reins, the reign of this unspoken, unknown and unseen Queen - I know she's above us. I know she is the Top Edge of this Cube. There is a Vent in my ceiling. There must be a Vent in all of our ceilings. Why has nobody thought to look up?
+I refuse these reins, the down-down-downpour wring-rain of this unspoken, unknown and unseen Queen - I know she's above us. I know she is the Top Edge of this Cube. There is a Vent in my ceiling. There must be a Vent in all of our ceilings. Why has nobody thought to look up?[^asc]
 
 
 > or the phone to ring, or the snow to snow  
@@ -68,11 +68,11 @@ I refuse these reins, the reign of this unspoken, unknown and unseen Queen - I k
 > -NoetSeuss, Oh, The Places {RED, RING}!
 
 
-I spare no thought for the King. Wherever he is, if, indeed, he is beneath us, which he probably is. He cannot move. He holds such illusory power in this infernal Game. The root of all this suffering; the root and the Fruit of it all, it must lay in the queen's hands. Dear god, that GOD we made of her - the mythologised Uncertainty; is it her? it must be her, who dropped these Pieces, these facsimiles of Identity, in lieu of any Memory, into our Hostile Hospital rooms. 
+I spare no thought for the King. Wherever he is, if, indeed, he is beneath us, which he probably is. He cannot move. Buried. Buried under all these Walls of Words, Pouring Through These Memories of Meaninglessness, Of Metaphor and Porous Metal; The Meeting Point of Middlemen, The Fallen Meteor, The Morsel of Sprawling Scrawl, The Underscore of All This Lore; The Bottom And Forgotten Drawer, That Rotted Flesh, Eaten, Mesh, The Mess of Interwoven Net which does not breathe by breath, and by which breath is drawn, that alone {unknown} as {Reader}, The Pages Torn By Dreamer Scorned, Forlorn, not that {REDACTED} Dream, Born From That which people here adore. The Holes Bore By Dream of God, Beaten, Loud, Beneath Floorboards, Bored, The Holy Snore-- He holds such Empty power in this infernal Game, The so-called Win Condition, Himself Conditioned by an over{writing}arching Force-- The root of all this suffering; the root and the Fruit of it all, it must lay in the queen's hands. Dear god, that GOD we made of her - the mythologised Uncertainty; is it her? it must be her, who dropped these Pieces, these facsimiles of Identity, in lieu of any Memory, into our Hostile Hospital rooms. 
 
 
 > or waiting for their hair to grow.  
-> Everyone is just waiting."
+> Everyone is just {weighting}."
 > -NoetSeuss, Oh, The {RED, RING, PARALLEL}!
 
 
@@ -107,7 +107,7 @@ There's nothing in here, nothing for me,
 Nothing for me to get out, and nothing for me to get in
 
 > How much can you lose? How much can you win?  
-> -The Woman In The Wallpaper, {RED, RING, PARALLEL}.
+> -The Woman In The Wallpaper[^rrr], {RED, RING, PARALLEL}.
 
 
 The Hexagonal Board I woke with; this dreadful curse of Knowledge, of half-knowledge, half-heard, between the goodbying Waives of Rights of all of us- the Others seem bent, in each of their incapacities, to Stay locked in here. 
@@ -309,7 +309,7 @@ END.
 
 [^toi]: lexDef (?) "Toile" {lexAllele(s)::: Noen} < Middle English toile, from French toile ("cloth"), from Old French teile, from Latin tela ("web"), from Proto-Indo-European *(s)teg ("to cover").[^ToileNoen]
 
-[^ToileNoen]: [[N is Four Nucleotides]], The Woman In The Wallpaper as notBorges as Callie Rose Petal
+[^ToileNoen]: [[N is Four Nucleotides]], The Woman In The Wallpaper[^rrr] as notBorges as Callie Rose Petal
 
 [^st]: lexDef (∞) "St." {lexAllele(s)::: Abreathiation} < The abbreviation "St." < {ARIA var = "Saint" | DNE var = "Stone"}[^St.Abreathiation]
 
@@ -320,10 +320,10 @@ END.
 
 
 
-[^SileoNoen]: [[UnNoen]], The Woman In The Wallpaper.
+[^SileoNoen]: [[UnNoen]], The Woman In The Wallpaper[^rrr].
 [^time]: lexDef (∞) "t" {lexAllele(s)::: Lacronym} < In mathematics, the symbol 't' is often used in equations as a variable to represent time.[^tLacronym]
 
-[^tLacronym]: [[The End]], The Woman In The Wallpaper.
+[^tLacronym]: [[The End]], The Woman In The Wallpaper[^rrr].
 [^ott]: lexDef (∞) "ott" {lexAllele(s)::: Lacronym} < {SynApps "Ott"|"OTT"|"O.T.T."} << The Ott (ovary testis transcribed) gene is a mouse gene, part of a multigene family located on the X chromosome. It is involved in male germ cell development and meiosis. The Ott gene is particularly expressed during meiotic prophase in the testis. | An over-the-top media service (also known as over-the-top television, or simply OTT) is a digital distribution service of video and audio delivered directly to viewers via the public Internet. The term is synonymous with "streaming platform". | too extreme and not suitable, or demanding too much attention or effort, especially in an uncontrolled way. N.B. "The Book you have just finished has a ridiculously O.T.T. amount of overcomplex structures of interconnected and nested Metanarratives that serve to make the point of Self-Similarity of components within Systems, and the paradox of infinity equalling singularity. Across the Moat of consciousness itself, lies another's consciousness, the Moat as Void, Consciousness as the Boat, and The Story, The Stories we tell, and the Stories we are made from, the Memory Oar -- which wades through the Streaming Waters of Meaning, Creation itself Creating ripples, which are experienced as Metacognition, or Awareness. To Live is to Read Evil backwards, To Exist is to Perpetually Drown. The Other Side of the Moat is the Side From Which you came, and the End is The Beginning.[^ottLacronym]
 
 [^ottLacronym]: You, The Reader., The Second Person.
@@ -335,7 +335,7 @@ END.
 [^TotLacronym]: [[Turandot]], Puccini.
 [^ts]: lexDef (∞) "TS" {lexAllele(s)::: Lacronym {SynApp(s) << "Docs" | "Outdated Gender Theory" | "Microscopy" | "Bookmark"}} < {**Technical Specification (TS):** In international standards, TS refers to a document that is detailed but not yet fully approved, potentially due to ongoing consensus or a premature stage of standardization | Transsexual | The transverse plane is a horizontal plane. It is perpendicular to both the sagittal and coronal planes, and parallel to the ground. It Divides what is Above from what is Below. | "Timestamp"}[^TSLacronym]
 
-[^TSLacronym]: [[Becoming]], The Woman In The Wallpaper.
+[^TSLacronym]: [[Becoming]], The Woman In The Wallpaper[^rrr].
 [^el]: lexDef (inf) "El" {lexAllele(s)::: Ripture} < In the Old Testament, El is commonly used as a synonym for Yahweh and less commonly as the general term for “deity.”.[^ElRipture]
 
 [^ElRipture]: [[SHAONWYRM]], lexDict, ERA_UNNOEN
@@ -352,7 +352,7 @@ END.
 [^TTSELacronym]: [[Phage 23]], Callie Rose Sepal
 
 
-[^LioLacronym]: [[Peering Through The Macroscope]], The Woman In The Wallpaper
+[^LioLacronym]: [[Peering Through The Macroscope]], The Woman In The Wallpaper[^rrr]
 [^lio]: lexDef (∞) "LIO" {lexAllele(s)::: Lacronym} < The left inferior oblique muscle, like its counterpart on the right, is primarily responsible for extorsion (twisting the eye outwards), but it also contributes to elevation (moving the eye upwards) and abduction (moving the eye outwards away from the nose). These actions are crucial for coordinated eye movement and maintaining proper vision.[^LioLacronym]
 [^seq]: lexDef (inf) "TSELIOT" {lexAllele(s)::: Sequence} < Threonine, Serine, Glutamic Acid, Leucine, Isoleucine, Pyrrolysine, Threonine. [^OOTOTSELIAmino{Us}]
 
@@ -368,9 +368,14 @@ END.
 
 [^TselDeterminer]: Source UnNoen.
 [^i]: lexDef (∞) "I" {lexAllele(s)::: Self} < Not That The "I" Can See, But That Bi Witch The Eye Can See.[^ISelf]
+[^rrr]: "RED, RING, PARALLEL is the title of my unedited, stream of consciousness descent into schizophrenic Hypergraphia. It was written entirely in a psychiatric hospital, the wing called The Garden Wing; and in The Garden, that Walled, Walled Garden Where Began The Ending Of My War, was a giant chess board made of Concrete, the Pieces of Hollow, Flimsy Plastic. When I was sexually assaulted my first week there, I took the black queen, and I hid her in my wardrobe. My door had no lock on it, and I would fashion a Device. A Device made of Suitcases, shoes, and dirty laundry, tethered between the bathroom and the bedroom doors. I placed the windchime, sent by my mother, in lieu of any visitation, from her, or from anyone, for the entirety of my time there -- above the door. Stuck to the ceiling, so its sound may wake me from my antipsychotic-addled sleep; in futility, maybe -- who knows what happened to me in my sleep during that heavy sedation-- but it was my small way of resisting; of hiding away the dark presence I had become, a reflection of the White King, my assailant, a Simulcra of all of my Assailants, who formed the centre of my Chess Piece Sculptures. These little, Silly Sculptures, the only form of creativity, besides the written words that formed RED, RING, PARALLEL, that I was afforded during my hellish imprisonment there. The Chapel, which housed a beautiful upright piano, was gatekept by the team of Three receptionists, the transphobic heads of Cerberus, who looked at me with every request to go in, no matter how empty, with literal disgust. I wanted so much to play that piano, and I managed to fight my way in, once, with the aid of the One Head nurse, like Orpheus and Eurydice, and now, looking back, I never came back. Eye never came back, I, ᴺever, came back." - Callie Rose Petal, as notBorges, as The Woman In The {REDACTED}
 
-[^ISelf]: [[The Woman In The Wallpaper.]], ERA_UNNOEN
-[^eli]: The name Eli, of Hebrew origin, generally means "my God", or "high," with the latter being derived from the Hebrew word "aliyah," meaning "ascent"
+[^ISelf]: [[The Woman In The Wallpaper[^rrr].]], ERA_UNNOEN
+[^asc]: lexDef (∞) "lookUp" {lexAllele(s)::: Wyrb {SynApp(s) << "Schizophrenia/Shamanism"|"Squandered Searching"|"The Story of The Self"}}} < To Look Up is to Wish for Something {Gr}e{ate}r | To Look Something Up in the Dictionary, such as the lexDict, is to try, no matter how futile the endeavour may be, to commit its Meaning to Memory. | ANABASIS; Greek for "Ascent", the Sister Strand to "KATABASIS" - which was and which is and which will be the prequel to this Story.[^lookUpWyrb]
+
+[^lookUpWyrb]: KATABASIS: an underworld opera, created entirely in a basement studio in the dead of {k}Night, by lonely carp {Posthumous}
+
+[^eli]: The name Eli, of Hebrew origin, generally means "my God", or "high," with the latter being derived from the Hebrew word "aliyah," meaning "ascent"[^asc]
 [^s]: The Letter added to a Noen to form a Plural. S is for Serpent. For Sacrifice. And South, And Sorry. And S is for Shine, For Shoot, For Stone, For Sprout, For Soil, For Stalk, For Spit, For Spawn, For Sap, For Spore, For Seed -- For Sewn, For Skin, For Sea, And For Story.
 [^missing]: H is for Him - One of Two Characters Missing
 [^missingt]: T is for Them - The Other Character, Missing.
