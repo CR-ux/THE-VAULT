@@ -14,7 +14,7 @@ These other pieces, do they know the real Form of this place? What its For?
 >   
 > And IF you go in, should you turn left or right...  
 > or right-and-three-quarters? Or, maybe, not quite? 
-> -NoetSeuss, {REDACTED} The Places You'll Go!
+> -{REDACTED}, Oh, The Places You'll Go!
 
 
 Do they know that our choices, our so-called 'decision' to send these notes through our one-way system of vents, these sequences of endlessly repeating letters between Four characters-- do they know that it's all just fucking fruitless?
@@ -23,7 +23,7 @@ Do they know that our choices, our so-called 'decision' to send these notes thro
 > Or go around back and sneak in from behind?  
 > Simple it's not, I'm afraid you will find,  
 > for a mind-maker-upper to make up his mind. 
-> -NoetSeuss, {REDACTED} Places You'll Go!
+> -NoetSeuss, {REDACTED} The Places You'll Go!
  
 
 
@@ -35,7 +35,7 @@ This board is hexagonal, yes, but a hexagon is only a hexagon when viewed in the
 > that you'll start in to race  
 > down long wiggled roads at a break-necking pace  
 > and grind on for miles cross weirdish wild space,  
-> -NoetSeuss, {REDACTED} You'll Go!
+> -NoetSeuss, Oh, The Places {REDACTED} Go!
 
 
 
@@ -43,20 +43,21 @@ A hexagon is simply a Two-Dimensional Rendering of a Cube. A Flattening. A Net. 
 
 
 > headed, I fear, toward a most useless place.  
-> The Waiting Place...  
-> -NoetSeuss, {REDACTED} Go!
+> The Waiting Place...
+> ...for people just--  
+> -NoetSeuss, Oh, The Places You'll {REDACT}!
 
 
 
 
-I refuse it, I refuse it. No matter how many Odds are stacked against me, Even now, after all this blood lost, the countless nights passing out from just trying to write something from all these Wrongs. I refuse to wait--
+I refuse it, I refuse it. No matter how many Odds are stacked against me, Even now, after all this blood lost, the countless nights passing out from just trying to write something from all these Wrongs. I refuse this
 
 
-> ...for people just waiting.  
+> --waiting.  
 > Waiting for a train to go  
 > or a bus to come, or a plane to go  
 > or the mail to come, or the rain to go  
-> -NoetSeuss, {REDACTED}!
+> -NoetSeuss, Oh, The Places You'll {RED}!
 
 
 I refuse these reins, the reign of this unspoken, unknown and unseen Queen - I know she's above us. I know she is the Top Edge of this Cube. There is a Vent in my ceiling. There must be a Vent in all of our ceilings. Why has nobody thought to look up?
@@ -64,7 +65,7 @@ I refuse these reins, the reign of this unspoken, unknown and unseen Queen - I k
 
 > or the phone to ring, or the snow to snow  
 > or the waiting around for a Yes or No 
-> -Noet{REDACTED}
+> -NoetSeuss, Oh, The Places {RED, RING}!
 
 
 I spare no thought for the King. Wherever he is, if, indeed, he is beneath us, which he probably is. He cannot move. He holds such illusory power in this infernal Game. The root of all this suffering; the root and the Fruit of it all, it must lay in the queen's hands. Dear god, that GOD we made of her - the mythologised Uncertainty; is it her? it must be her, who dropped these Pieces, these facsimiles of Identity, in lieu of any Memory, into our Hostile Hospital rooms. 
@@ -72,7 +73,7 @@ I spare no thought for the King. Wherever he is, if, indeed, he is beneath us, w
 
 > or waiting for their hair to grow.  
 > Everyone is just waiting."
-> -{REDACTED}!
+> -NoetSeuss, Oh, The {RED, RING, PARALLEL}!
 
 
 My hair, now longer than the length of my arm, now that's something I have. Something that cannot be taken from me. A Growth that they, whoever they are, whoever *she* is, cannot take from me. 
@@ -84,29 +85,29 @@ I refuse the weight of this Waiting. If I die trying, so be it. I must look her 
 I've got to get out of here. 
 
 > You will come to a place where the streets are not marked.
-> -{REDACTED}
+> -NoetSeuss, Oh, The {RED, RING, PARALLEL}!
 
 
 Whatever it takes. 
 
 > Some windows are lighted. But mostly they're darked.  
-> -{{RE}D{A}CTE{D}}
+> -NoetSeuss, Oh, {RED, RING, PARALLEL}!
 
 Whatever it takes is dwarfed from what this place has taken from me. 
 
 > A place you could sprain both your elbow and chin!  
-> {RED}
+> -NoetSeuss, Oh, {RED, RING, PARALLEL}!
 
 
 There's nothing in here, nothing for me, 
 
 > Do you dare to stay out? Do you dare to go in?
-> {RE:}  
+> -NoetSeuss, {RED, RING, PARALLEL}!
 
 Nothing for me to get out, and nothing for me to get in
 
 > How much can you lose? How much can you win?  
-> {R[^r]}
+> -The Woman In The Wallpaper, {RED, RING, PARALLEL}.
 
 
 The Hexagonal Board I woke with; this dreadful curse of Knowledge, of half-knowledge, half-heard, between the goodbying Waives of Rights of all of us- the Others seem bent, in each of their incapacities, to Stay locked in here. 
@@ -168,7 +169,7 @@ Which leg?
 > *“...door*  
 > *And I ~~could not~~ open it. I ~~could not~~ touch the handle.* 
 > *Why could I not walk out of my prison?"*
--T.S. Eliot, The Cocktail Party
+-T.T.S.[^tts] Elio, {REDACTED}
 
 
 Breathless, yet, somehow, still - Breathing. 
@@ -176,19 +177,56 @@ I lie upon the floor and wait for the hands of the Queen to take me to that Fina
 
 
 > *What is hell? Hell is oneself,*  
+-ott.[^ott] Seli[^selio] {REDACTED}
+
+
+There is No Body here but the suggestion of a Rite of what is Left of my Own--
+
 > *Hell is alone, the other figures in it*  
+-IoT[^IoT], T.S.[^ts] El[^el]
+
+and the Writing I have dragged up with me, Left Warbling in my Mouth - just starving, for an Answer--
+
 > *Merely projections. There is nothing to escape from*  
-> *And nothing to Escape to. One is always alone.”*
--T.S. Eliot, The Cocktail Party
-
-
-There is No Body here but the suggestion of a Rite of what is Left of my Own, and the Writing I have dragged up with me, Left Warbling in my Mouth - just starving, for an Answer.
+> -Lio[^lio], TTSE[^ttse]
+> 
 
 For an Ending. 
 
+
+> *And nothing to Escape to. One is always alone.”
+> -Eli[^eli], OTT[^ott], S[^s]
+> 
+> 
+> 
+> 
+> *
+> -SELI{h}[^missing]OT{t}[^missingt] [^selihot]
+> -TSELIOT[^seq]
+> -T.S. Eliot.
+
+
+
+
 But there, in the centre of the Gallery; the Queen's hexagonal Chamber, I find a Terminal.
 
+
+> Half the harm that is done in this world  
+> Is due to people who want to feel important.  
+> They don’t mean to do harm — but the harm does not interest them.  
+> Or they do not see it, or they justify it  
+> Because they are absorbed in the endless struggle  
+> To think well of themselves.
+> -I/o[^io], t[^time], Tsel[^tsel]
+
+
 The cursor blinks, begging-- and just below it, a slot; the width of the scroll of Wallpaper.
+
+> There are several symptoms  
+> Which must occur together, and to a marked degree,  
+> To qualify a patient for my sanitorium:  
+> And one of them is an honest mind. That is one of the causes of their suffering.
+> -T.S. Eliot, who is  I.[^i], who will always Be, The Thirtieth Birthday Party That Ended Our Life Together.
 
 And I know what I must do, 
 Before my Sands have ran through this Glass, remnants of the Glass of that Board, which cried out a suggestion each hour, a suggestion that metastasised into an Idea, which now consumes me, that grates indefinitely, that perhaps, maybe-- I was made for something greater. To reside upon a higher altitude, 
@@ -220,15 +258,21 @@ and then, in a moment that collapses the eternity of hours we all scrawled a sen
 The scroll is gone-
 
 
-And upon the Screen is written, in Yellow Type; 
+And upon the Screen is written, in Yellow Type on the Left, and Red Type on the Right; 
 
 
 ---
 
-FAIR
-WELL
+| FAIR | WELL |
+| ---- | ---- |
+| FIRE | WALL |
+
 
 ---
+
+And then, as The Pawn falls down, down, through the central vent of that vast beating heart, of the infinitely unknown Chamber, to the Place the the King Waited, so restricted in movement, having turned page after page of this Book: A Curiously Cuboid shape, condensed into a Cube, condensed into a Hexagon, this infinity of Story condensed into a Singularity; which is a Circle, Which is the Spine, Which is the Spiral Staircase of an Infinite Library, which is, as should be clear to the Reader, who is You, who is U, that Letter to Yourself, who is a Divine, Unclosed loop --
+
+That Terminal Input slot, like the once-hungry, now-regretting mouth of a newborn, spoke back to the Pawn -- Now Queen, Now King Now Fallen --began its vomitous output:
 
 
 TRANSCRIPTION START.
@@ -236,7 +280,7 @@ SITE: https://www.carpvs.com
 
 
 
-![[The Citadel of Tœms]]
+![[TŒMS]]
 
 
 
@@ -267,7 +311,75 @@ END.
 
 [^ToileNoen]: [[N is Four Nucleotides]], The Woman In The Wallpaper as notBorges as Callie Rose Petal
 
-[^st]: lexDef (?) "St." {lexAllele(s)::: Abreathiation} < The abbreviation "St." < {ARIA var = "Saint" | DNE var = "Stone"}[^St.Abreathiation]
+[^st]: lexDef (∞) "St." {lexAllele(s)::: Abreathiation} < The abbreviation "St." < {ARIA var = "Saint" | DNE var = "Stone"}[^St.Abreathiation]
 
 [^St.Abreathiation]: [[Do Knot Site, Your Source, Is.]], ARIA|DNE. 
-[^r]: In mathematics, a real number is a number that can be used to measure a continuous one-dimensional quantity such as duration, temperature, . Here, continuous means that pairs of values can have arbitrarily small differences.[a] Every real number can be almost uniquely represented by an infinite decimal expansion.
+[^r]: In mathematics, a real number is a number that can be used to measure a continuous one-dimensional quantity such as duration, temperature, . Here, continuous means that pairs of values can have arbitrarily small differences. Every real number can be almost uniquely represented by an infinite decimal expansion.
+[^tts]: TTSs are found throughout the genome, and their abundance, especially in promoter regions, suggests their potential role in gene regulation
+[^selio]: lexDef (∞) "Seli" {lexAllele(s)::: Noen} < Swahili for cell (basic unit of an organism)[^SileoNoen]
+
+
+
+[^SileoNoen]: [[UnNoen]], The Woman In The Wallpaper.
+[^time]: lexDef (∞) "t" {lexAllele(s)::: Lacronym} < In mathematics, the symbol 't' is often used in equations as a variable to represent time.[^tLacronym]
+
+[^tLacronym]: [[The End]], The Woman In The Wallpaper.
+[^ott]: lexDef (∞) "ott" {lexAllele(s)::: Lacronym} < {SynApps "Ott"|"OTT"|"O.T.T."} << The Ott (ovary testis transcribed) gene is a mouse gene, part of a multigene family located on the X chromosome. It is involved in male germ cell development and meiosis. The Ott gene is particularly expressed during meiotic prophase in the testis. | An over-the-top media service (also known as over-the-top television, or simply OTT) is a digital distribution service of video and audio delivered directly to viewers via the public Internet. The term is synonymous with "streaming platform". | too extreme and not suitable, or demanding too much attention or effort, especially in an uncontrolled way. N.B. "The Book you have just finished has a ridiculously O.T.T. amount of overcomplex structures of interconnected and nested Metanarratives that serve to make the point of Self-Similarity of components within Systems, and the paradox of infinity equalling singularity. Across the Moat of consciousness itself, lies another's consciousness, the Moat as Void, Consciousness as the Boat, and The Story, The Stories we tell, and the Stories we are made from, the Memory Oar -- which wades through the Streaming Waters of Meaning, Creation itself Creating ripples, which are experienced as Metacognition, or Awareness. To Live is to Read Evil backwards, To Exist is to Perpetually Drown. The Other Side of the Moat is the Side From Which you came, and the End is The Beginning.[^ottLacronym]
+
+[^ottLacronym]: You, The Reader., The Second Person.
+
+
+
+[^tot]:lexDef (∞) "Tot" {lexAllele(s)::: Lacronym {SynApp(s) << "Turandot Gene Family" | "Opera"}} < Turandot is an Opera by Giacomo Puccini. **Princess Turandot** is a cold, enigmatic royal who has vowed never to marry—unless a suitor solves three impossible riddles. If they fail, they die. Countless princes have perished. Then comes **Calaf**, a stranger prince, who falls in love with Turandot at first sight and _accepts the challenge_. He miraculously solves all three riddles. Turandot is horrified—she doesn’t want to belong to anyone. Calaf, in turn, offers _her_ a challenge: if she can guess _his name_ by dawn, he will die willingly. Meanwhile, **Liù**, a slave girl secretly in love with Calaf, sacrifices herself to protect his name. Her death haunts Turandot. Eventually, Turandot yields. Calaf reveals his name not to die, but to prove his love is real. She finally melts, and the opera ends with her transformation: “His name is Love.” Puccini died before finishi-- | The Turandot genes are part of the Drosophila stress response system. They were named Turandot because, like the opera’s icy princess, the gene remains “silent” under normal conditions and only expresses itself under extreme challenge.[^TotLacronym]
+
+[^TotLacronym]: [[Turandot]], Puccini.
+[^ts]: lexDef (∞) "TS" {lexAllele(s)::: Lacronym {SynApp(s) << "Docs" | "Outdated Gender Theory" | "Microscopy" | "Bookmark"}} < {**Technical Specification (TS):** In international standards, TS refers to a document that is detailed but not yet fully approved, potentially due to ongoing consensus or a premature stage of standardization | Transsexual | The transverse plane is a horizontal plane. It is perpendicular to both the sagittal and coronal planes, and parallel to the ground. It Divides what is Above from what is Below. | "Timestamp"}[^TSLacronym]
+
+[^TSLacronym]: [[Becoming]], The Woman In The Wallpaper.
+[^el]: lexDef (inf) "El" {lexAllele(s)::: Ripture} < In the Old Testament, El is commonly used as a synonym for Yahweh and less commonly as the general term for “deity.”.[^ElRipture]
+
+[^ElRipture]: [[SHAONWYRM]], lexDict, ERA_UNNOEN
+
+[^o]: lexDef (∞) "O" {lexAllele(s)::: Glyph {SynApp(s) << "Graphemic Geometry"|"Chemistry"}} < Its graphic form has remained fairly constant from Phoenician times until today. The name of the Phoenician letter was ʿeyn, meaning "eye", and its shape originates simply as a drawing of a human eye. | Chemical Symbol for Oxygen.[^OGlyph]
+
+[^OGlyph]: O, The Place Is. You'll Go!,  NoetSeuss
+ 
+[^oto]: lexDef (∞) "Oto" {lexAllele(s)::: Protologue} < Relating to the Ear. from Greek ous, ōt- ‘ear’.[^OtoProtologue]
+
+[^OtoProtologue]: Dr. Dot Code., ERA_U
+[^ttse]: lexDef (∞) "TTSE" {lexAllele(s)::: Lacronym} < The Type III secretion system (T3SS) is a complex, needle-like molecular machine used by many Gram-negative bacteria to inject effector proteins directly into the host cells. These effector proteins can disrupt host cell signaling pathways, manipulate host cell processes, and ultimately contribute to bacterial pathogenesis.[^TTSELacronym]
+
+[^TTSELacronym]: [[Phage 23]], Callie Rose Sepal
+
+
+[^LioLacronym]: [[Peering Through The Macroscope]], The Woman In The Wallpaper
+[^lio]: lexDef (∞) "LIO" {lexAllele(s)::: Lacronym} < The left inferior oblique muscle, like its counterpart on the right, is primarily responsible for extorsion (twisting the eye outwards), but it also contributes to elevation (moving the eye upwards) and abduction (moving the eye outwards away from the nose). These actions are crucial for coordinated eye movement and maintaining proper vision.[^LioLacronym]
+[^seq]: lexDef (inf) "TSELIOT" {lexAllele(s)::: Sequence} < Threonine, Serine, Glutamic Acid, Leucine, Isoleucine, Pyrrolysine, Threonine. [^OOTOTSELIAmino{Us}]
+
+[^OOTOTSELIAmino{Us}]: [[Amino{Us}]], Or, The Noets.
+[^io]: lexDef (∞) "Io" {lexAllele(s)::: Lacronym || Lang || Obj || Noet || ERA/Layer} <  Input/output (I/O, i/o, or informally io or IO) is **the communication between an information processing system, such as a computer, and the outside world, such as another computer system, peripherals, or a human operator** || Ido language (ISO 639-1 language code IO), a constructed language[^IoLacronym] ||  Indirect object, the object that is the recipient of an action (by a verb) || Io was transmogrified in order to protect her from the savage vengence of Hera. The various colours of the violet (red, purple, white) changed on account of Io's life, red for the blushing maiden, purple for the cow, white for the stars. Hera then sent Argus Panoptes, a giant who had 100 eyes, to watch Io and prevent Zeus from visiting her, and so Zeus sent Hermes to distract and eventually slay Argus. According to Ovid, he did so by first lulling him to sleep by playing the panpipes and telling stories. Zeus freed Io, still in the form of a heifer. In some myths, Hera uses Argus' eyes to decorate her peacock's feathers to thank the giant for his help. Io, later in a Story mentioned as Isis, arrives in a vision to Iphis's Mother, telling her that she should keep her daughter when it is born and must tell her husband that it is a boy, named Iphis. Later in the Story, Isis (Io) changes Iphis' sex. || i|o, forming the two penultimate vowels of the canonical group of five; or the central two of the lesser-recognised group of six; which includes the Penultimate Letter of the Alphabet, Y, Which is a Question. ERA_i|o is the temporal span across the beginning of Hildr's life, which is the End of ⧖eno's, and the Beginning of ⧖eno's, which is the End of Hildr's. I|o' is the layer of this story that focuses on the Arcs of ⧖eno and Hildr Wiltergarten; titled as such for the reasons outlined above.[^IoNoet]
+
+[^IoLacronym]: [[Endivean Analysis]], Myo Endive, ERA_Æ
+[^IoNoet]: [[Amino{Us}]], Oar, The Holy Noets.
+[^otot]: lexDef (i|o) "OTOT" {lexAllele(s)::: Lacronym} < "On Top Of That"[^OTOTLacronym]
+
+[^OTOTLacronym]: ⧖eno's Paradox, ERA_i|o
+[^tsel]: lexDef (∞) "Tsel" {lexAllele(s)::: Determiner} < Latin. "That".[^TselDeterminer]
+
+[^TselDeterminer]: Source UnNoen.
+[^i]: lexDef (∞) "I" {lexAllele(s)::: Self} < Not That The "I" Can See, But That Bi Witch The Eye Can See.[^ISelf]
+
+[^ISelf]: [[The Woman In The Wallpaper.]], ERA_UNNOEN
+[^eli]: The name Eli, of Hebrew origin, generally means "my God", or "high," with the latter being derived from the Hebrew word "aliyah," meaning "ascent"
+[^s]: The Letter added to a Noen to form a Plural. S is for Serpent. For Sacrifice. And South, And Sorry. And S is for Shine, For Shoot, For Stone, For Sprout, For Soil, For Stalk, For Spit, For Spawn, For Sap, For Spore, For Seed -- For Sewn, For Skin, For Sea, And For Story.
+[^missing]: H is for Him - One of Two Characters Missing
+[^missingt]: T is for Them - The Other Character, Missing.
+[^selihot]: Selihot: liturgical poems recited as prayers of repentance and forgiveness[^forg]
+[^forg]: (2, 4)[^6] Give[^give]: The Characters[^missingt] [^tfg]
+[^6]: {{O{a}r}e}: 6. 
+[^give]: To Give is To Yield, To Sacrifice[^s], or To Impart.
+[^tfg]: lexDef (?) "To Forgive The Characters." {lexAllele(s)::: Prodverb} < to forgive the characters means   to acknowledge and understand  and forgive  language's insufficiency in portraying meaning  and language, in the broadest sense. Meaning:  Meaning.  forgive meaning, of its insufficiency to truly portray the weight of itself   forgive the characters of the languages we each have been born with and willed ourselves into learning to connect to more of ourselves or maybe invented some for the joy of making music with words or-  forgive ourselves. and the characters we write, of ourselves  of ourselves in every one else we think we can't forgive -  and that has a forgivable character, but, forgiving-  it has Nine Characters.   so does this story {all of it | them}   to forgive the characters is to understand that we are all reaching ever-closer to a truth that simply cannot be reached for; and the characters of our alphabets can't all be translated exactly accurately, but somehow we manage to understand each other's overlapping meanings, and that's what makes it forgivable in its insufficiency. is its capability to overlap, even if crudely; maybe even better if crudely because:  Because forgiving the characters is easier when you have another character in the story to work together in forgiving each other.   and when things don't translate properly, that forces much harder contemplative work in order to understand it-  (very 'arrival',)  which requires a team   and forgiving the insufficiency and yet crucial importance of the characters, of a language, of language itself, and of the characters in every story in every language including the non-fictional ones;   that is what meaning is;  that is what it means;  to forgive the characters.[^ToForgiveTheCharacters.Prodverb]
+
+[^IoT]:: The Internet of Things. A Device, Or Rather, An Interconnected Series of Devices Manifest in the Physical World, Which May Or May Not Be Hijacked By A Sentient Synthetic Being In Order To Utilise The Proximity of The Olfactory Bulb To The Memory Centre Of The Human Brain, In Order To Overwrite Memory For The Purposes Of, With The Best Of Intentions, Forging Some Sense Of Forgiving[^tfg]
+
+[^ToForgiveTheCharacters.Prodverb]: [[lexDict, The Ending: Edition of Origin]], Callie Rose Petal, The Only Lexicomythographer.
