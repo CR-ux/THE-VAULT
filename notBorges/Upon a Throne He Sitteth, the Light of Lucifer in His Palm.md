@@ -1,9 +1,6 @@
 ---
 permalink: Upon a Throne He Sitteth, the Light of Lucifer in His Palm
 ---
-
-
-![[Circle II.mp3]]
 I. And so, it came to pass that I may dream.[^a] And as animals to a vehicle of salvation, two by two they came to me as I slept beneath the throne of God. 
 ![[IMG_6731.jpg]]
 
@@ -179,5 +176,5 @@ XI. **And they that came after—the builders of the fire, the keepers of the da
 XII. Woe. Woe befall me, 'neath this Sacred Sun. And longeth for the Moon once more did I, for knoweth not my Spirit of which Path my Feet now Tread, no Date Palm lay before me. 
 # Chronography
 
-[^a]: "[[Did Thou Seest The Face of The Lonely Angel]]" - An excerpt from "The Book of Wallpaper", by The Six, To The One, 2025
-[^b]: [[The Body as a Secret]] - The Pseudonymous Works of The Heirophant Known as Heironymous Bosch, Born Jheronimus van Aken, 2023
+[^a]: "![[Did Thou Seest The Face of The Lonely Angel]]" - An excerpt from "The Book of Wallpaper", by The Six, To The One, 2025
+[^b]: ![[The Body as a Secret]] - The Pseudonymous Works of The Heirophant Known as Heironymous Bosch, Born Jheronimus van Aken, 2023

@@ -77,7 +77,7 @@ DREAM INPUT:
 
 {REDACTED}
 
-The Cruel Irony of utilising her parents final, unfinished, collaborative paper as the main source of reference for the most recent dream, of one dreamer named {REDACTED}, was not lost on them. But, as would be the case for any Entity trapped within that ever-turning Door, rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.
+The Cruel Irony of utilising their parents final, unfinished, collaborative paper as the main source of reference for the most recent dream, of one dreamer named {REDACTED}, was not lost on them. But, as would be the case for any Entity trapped within that ever-turning Door, rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.
 
 
 

@@ -19,10 +19,6 @@ permalink: Did Thou Seest The Face of The Lonely Angel
 
 
 
-![[6 - THESE WORDS.mp3]]
-
-
-
 **I. And Then, the Pawn Spake, Saying:**
 
 

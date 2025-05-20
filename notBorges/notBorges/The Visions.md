@@ -129,4 +129,4 @@ space - Y (which is a question which splits an answer of agreement down the midd
 [^peg]: 'peg'[^pegged] - a way to fuck someone {over, and over again}
 [^pegged]:'being pegged' - being *Seen*; having your whole[^ho] 'thing' worked out 
 [^ho]:Hole*
-[^v]: Do Not Dream. For [[Upon a Throne He Sitteth, the Light of Lucifer in His Palm]]
+[^v]: Do Not Dream. For ![[Upon a Throne He Sitteth, the Light of Lucifer in His Palm]]

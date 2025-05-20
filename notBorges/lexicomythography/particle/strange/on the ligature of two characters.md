@@ -68,7 +68,7 @@ SIPHO{N|r}
 
 let I = dreaming
 let words = meaning
-let code = {{genetic|sequence} | {c{y|i}pher[==0|Null(worth)]|transformation|a medium/{mess}(age)|a circle==(o{h}/0)|{(use/compute) in a process} | overt(ly)(implicit)(,){cult}u{r(e|al} \<div>{ide(s)}== 1 } | {a {ligature/combination} of symbolic letters|mail|correspondence|{compute/woven}thread for binding}== 2}
+let code = {{genetic|sequence} | {c{y|i}pher\[\==0|Null(worth)]|transformation|a medium/{mess}(age)|a circle\==(o{h}/0)|{(use/compute) in a process} | overt(ly)(implicit)(,){cult}u{r(e|al} \<div>{ide(s)}\== 1 } | {a {ligature/combination} of symbolic letters|mail|correspondence|{compute/woven}thread for binding}== 2}
 
 while (I pondered the gravity of this) {
 	{un-vanished un-Elephant | , the Appearing Hippopotamus}
@@ -78,7 +78,7 @@ while (I pondered the gravity of this) {
 			 break;
 		 do {
 		 {I} remember(?);
-		 while only ({I==am} dreaming)}
+		 while only ({I\==am} dreaming)}
 	 }
 	 
 }  
