@@ -1,5 +1,5 @@
 
-
+![[A IS FOR ARIADNE]]
 
 "And when you're in a Slump,  
 > you're not in for much fun.  
@@ -309,7 +309,7 @@ END.
 
 [^toi]: lexDef (?) "Toile" {lexAllele(s)::: Noen} < Middle English toile, from French toile ("cloth"), from Old French teile, from Latin tela ("web"), from Proto-Indo-European *(s)teg ("to cover").[^ToileNoen]
 
-[^ToileNoen]: [[N is Four Nucleotides]], The Woman In The Wallpaper[^rrr] as notBorges as Callie Rose Petal
+[^ToileNoen]: [[A IS FOR ARIADNE]], The Woman In The Wallpaper[^rrr] as notBorges as Callie Rose Petal
 
 [^st]: lexDef (∞) "St." {lexAllele(s)::: Abreathiation} < The abbreviation "St." < {ARIA var = "Saint" | DNE var = "Stone"}[^St.Abreathiation]
 

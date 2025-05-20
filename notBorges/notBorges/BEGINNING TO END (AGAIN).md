@@ -251,7 +251,7 @@ Again -
 A sordid tale’s first sentence 
 Enters my opened mouth:
 
-[[notBorges/lexicomythography/particle/strange/on the ligature of two characters]]
+![[notBorges/lexicomythography/particle/strange/on the ligature of two characters]]
 
 
 

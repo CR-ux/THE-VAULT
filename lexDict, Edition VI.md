@@ -543,7 +543,7 @@ Edition XVIII[^1].
 [[Metabasis]]
 [[Metacognition]]
 [[Metastasising]]
-[[M is for Mahler, Minerva, and Mars.]]
+[[Attachment- MIKKÆLANGELOVS_DAVID-painter_of_Minerva_Fighting_Herself.pdf]]
 [[Mine]]  
 [[Minutes]]
 [[Mirror]] [^m] 

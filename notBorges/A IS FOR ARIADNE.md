@@ -1,11 +1,21 @@
 ---
 title: N is Four Nucleotides
 ---
+A IS FOR ARIADNE
 
-N is Four Nucleotides.
+> A IS FOR ANIMA, AMINO, AND ANIMUS
+> R IS FOR RECUR{RING}, {RED}ACTION, AND RETROGRADE
+> I IS FOR INSECTA, INFINITY, AND INSTITUTION
+> A IS FOR ARACHNID, ASPIRATE, AND AFFLICTION
+> D IS FOR DENOUEMENT, DESCENDING, AND DIVISION
+> N IS FOR NOTATION, N-TERMINUS, AND NOTHING 
+> E IS FOR ENDING, ENTROPY, AND EVERYTHING.
+
+
+
+
 --
-
-[[The Citadel of Tœms]]
+![[TŒMS]]
 
 Epitaph:
 ---
@@ -34,6 +44,10 @@ Whirring with a terrifying lightning storm overhead (an unavoidable side-effect 
 
 Editor's Noet:
 ---
+
+N IS FOUR NUCLEOTIDES.
+
+
 *This Universe (which some call the Hospital) is composed of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts between, surrounded by walls covered in an indefinite and perhaps infinitely layered wallpaper; ever-remaining a faded yellow hue.* 
 
 *Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper, 
@@ -64,31 +78,31 @@ I AM GETTING OUT OF THIS ROOM. I DO KNOT KNOW WHERE I AM GOING. I DO NOT CARE. I
 KEY: ∈ | t | {const}
 
 
-**🜁 | OBS: 10:00–12:00 | {Q = 10⁻⁵}**
+**🜁 | OBS: 00:00 | {Q = 10⁻⁵}**
 
 Are you there? Are you listening? I cannot hear, I cannot remember who I am; I do not know my name. there is no pen in here, only a syringe; inscribed with “5’” on its plunger, with a calligraphic nib on its opposite side, inscribed with “3’” and a single chess piece, a pawn, on my pillow. I found this scroll, wound unthinkably tight, dropped through the vent on the other side. It dear god what nightmare have i awoken inside?  have these people come and gone? How long has this wallpaper scroll been passing through these vents? Are you there? What is a ‘Wryng’? Please, I do not remember my name. I am folding the scroll according to the instructions overleaf. It appears, as stated above, that I can write as much as I want, and the scroll will yield, increase unthinkably in space, while still retaining its condensed, uniform size once folded. i do not know my name. please. somebody in here, tell me my name
 
 ---
 
-**🜂 | OBS: 12:00–2:00 | {ε = 0.007}**
+**🜂 | OBS: 03:00 | {ε = 0.007}**
 
 please. i can hear you in there. whoever you are, in the next room. this scroll came from the other side of my room. i also awoke to only find the same inscribed pen-syringe (but the numbers are reversed) and a single chess piece on my pillow. my walls also form a hexagonal shape. i want to let the original sender know that they are not alone. i pray to the unknown gods that it makes it back to them. we are not alone. at least we are not alone. i can only see yellow, everything is in faded shades of yellow. even the blood in which i write this to you is a dark, mustard yellow. if you are keeping me here, i just wan t to remember my name . i can’t rmemeber how long i have been here but i am not hungry and i do not know my name. We must identify ourselves. We must build a map of this Incestuous Kafka palimpsest. I suppose, given the chess piece I have been given; I will call myself The Knight.
 
 ---
 
-**🜃 | OBS: 2:00–4:00 | {N = 10³⁶}**
+**🜃 | OBS: 06:00 | {N = 10³⁶}**
 
 i too was passed this note from the vent on the other side of my room. it doesn’t slot back into that room, as stated at the beginning of the document, so i am passing it through in the hopes that it will return to the original sender. i do not know my name either. i am entirely numb. and yet, everything within me is heavy. at least i cannot feel the pain of the pen-syringe. mine is oriented with the “3’” on the needle end, like The Pawn. this is the only repose i can find for the hell of having no other way in which to write. dear god, the stench, the formaldehyde and chemicals, are we in a hospital? I am The Tower. Who, or what, is playing this infernal game with our bodies– I pray, I pray that we may remember
 
 ---
 
-**🜄 | OBS: 4:00–6:00 | {D = 3}**
+**🜄 | OBS: 09:00 | {D = 3}**
 
 i pray to the unknown gods that you dear reader will have a writing implement, for i _can_ feel the pain of the 5’ needle of this torturous instrument; every character costs an insurmountable agony. but i must write. it is the only thing i truly know. i can hear you in hthere. i am praying that this note will not reach whoever is keepign us her i too wish for you dear recipient to not have to write in your own blood  i do not know my name. i do not know why i cannot smell the chemicalsof which the previous writer spoke. I appear to be The bishop
 
 ---
 
-**🜁 | OBS: 6:00–8:00 | {Q = 10⁻⁵}**
+**🜁 | OBS: 12:00 | {Q = 10⁻⁵}**
 
 IT GOT BAC TO ME, IT IS i, THE PAWN. THERE ARE FOUR OF US THERE ARE FOUR NOT SIX WHERE ARE THE ORIGINAL SCRIBES OF THIS SCROLL WHERE ARE THEY WHERE IS THE KING WHERE IS THE QUEEN ARE THEY THE ONES WHO PUT US HERE WHERE ARE THEY HOW LONG HAS THIS BEEN GOING ON HOW LONG DO WE HAVE  PLEASE PASS THIS ROUND AGAIN
 
@@ -156,7 +170,7 @@ Shall Begin
 
 ---
 
-A is for Aleph, Archivist, and Affinity
+A is for Angel, Aleph, and Archivist
 --
 Epitaph:
 ---
@@ -227,16 +241,27 @@ The Indefinite Library of Fable.
 
 
 ---
+LOCH: INNER
+KEY:  ∈ | t | {const}
 
-> 🜄 **OBS: 12:00-2:00**
->{REDACTED}
 
--Bishop
+🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
+{REDACTED}
+
+🜂 / ♞  | OBS: 15:00 | ε=0.007
+{REDACTED}
+
+🜃 / ♜  | OBS: 18:00 | N=10³⁶
+{REDACTED}
+
+🜄 / ♝ | OBS: 21:00 | D=3
+{REDACTED}
 
 ---
 
-B is for Bothy, Bricks, and Bear
---
+
+B IS FOR BOTHY, BRICKS, AND BEAR
+
 
 Epitaph:
 ---
@@ -466,18 +491,26 @@ At the point of writing this furtive attempt to veil secrets, HE was just past t
 
 ---
 
-> 🜃 "**OBS: 2:00-4:00**
-> {REDACTED}
 
--Rook
+🜁  / ♟︎  | OBS: 00:00 | Q=10⁻⁵
+{REDACTED}
+
+🜂 / ♞  | OBS: 03:00 | ε=0.007
+{REDACTED}
+
+🜃 / ♜  | OBS: 06:00 | N=10³⁶
+{REDACTED}
+
+🜄 / ♝ | OBS: 09:00 | D=3
+{REDACTED}
+
 
 ---
 
 
 [^c]: is destruction. Do Knot ↩ Sight Your ↪ Source Is: http://bit.ly/3ZGoUdj
 
-C is For Code, Circle, and Chess
---
+C IS FOR CODE, CIRCLE, AND CHESS.
 
 
 ```
@@ -519,8 +552,19 @@ Her eyes were deliciously heavy, too much to handle any more incessant backlight
 ---
 
 
-> **🜂 OBS: 4:00-6:00**
-> 	{REDACTED}
+🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
+{REDACTED}
+
+🜂 / ♞  | OBS: 15:00 | ε=0.007
+{REDACTED}
+
+🜃 / ♜  | OBS: 18:00 | N=10³⁶
+{REDACTED}
+
+🜄 / ♝ | OBS: 21:00 | D=3
+{REDACTED}
+
+
 
 ---
 
@@ -572,10 +616,169 @@ Through a vent, a letter, made of letters, between Four characters of Six, was b
 ---
 
 
+🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
+{REDACTED}
+
+🜂 / ♞  | OBS: 15:00 | ε=0.007
+{REDACTED}
+
+🜃 / ♜  | OBS: 18:00 | N=10³⁶
+{REDACTED}
+
+🜄 / ♝ | OBS: 21:00 | D=3
 {REDACTED}
 
 
 ---
+~~~	
+FAO: ᴺᵒᵉᵗMahler, The Grand Hall
+BCC: VIXI.
+From the Desk of ᴺᵒᵉᵗBorges, 
+
+Dearest Mahler, 
+I know that you may not wish to speak to me following our breakup, but I wanted to share with you this draft anyway, as you're the best person I could think of to read it; it will most likely be a rejection. And that's okay. We're both almost too au fait with Rejection at this {particular} point. 
+~~~
+
+![[Attachment- MIKKÆLANGELOVS_DAVID-painter_of_Minerva_Fighting_Herself.pdf]]
+
+
+ᴺᵒᵉᵗMahler was far too busy engrossed in the finalisation of his 10th symphony, a cross-temporal collaboration with a Character (to whom this Letter was {k}not addressed), to notice the Letter that had been dropped by that Most Mysterious Pigeon through the Vent of His Concert Hall, in the Musicology Wing of the Indefinite Library of Fable. Perhaps, had the note been written upon Manuscript, he would have eventually got round to reading the divisive farewell sent by his ex-lover. But alas, it would be at least Ten Thousand of our Human, or One Million of their Numan, years before the paper would be lifted by the Holy ᴺᵒᵉᵗ of Musicology, from the littered, waxed floor, which itself once longed for the tapping feet of lovers dancing upon it. But now, the hexagonal tiles merely offered an abomninable reflection of Mahler's tired face -- a visage he tried so hard to avoid. Perhaps this was why it took him so long to get round to picking up the correspondence from ᴺᵒᵉᵗBorges. At which point, it would be thrown straight into the bin, before Opening the Foreword of a hefty tome of sheet music, by a soon to be renowned composer and performance artist, known as
+
+![[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/i-o/i-o/⧖eno]]
+
+NoetMahler closed his eyes, again.
+He closed the Manuscript, again. 
+He closed the lid of the piano, upon which it rested. Again. 
+And NoetMahler closed the blocked Vent of his Heart, again. 
+There was no getting over this. 
+There was simply too much buried under this. 
+There was no way through.
+
+---
+
+🜁  / ♟︎  | OBS: 00:00 | Q=10⁻⁵
+{REDACTED}
+
+🜂 / ♞  | OBS: 03:00 | ε=0.007
+{REDACTED}
+
+🜃 / ♜  | OBS: 06:00 | N=10³⁶
+{REDACTED}
+
+🜄 / ♝ | OBS: 09:00 | D=3
+{REDACTED}
+
+---
+
+
+"I want to go back and make a different decision", Flo said to N.
+"Well, sure!" They replied - "That's the beauty of a choose your own adventure book"
+"But overwriting what's already been learned, starting again-- that surely defeats the point of a Story. That's no adventure, that's a waste of time"
+
+A heavy silence punctuated the crackling fire in the small Hearth beneath their cosy mezzanine reading spot. 
+
+"There's no such thing as squandered time, my love. All of the memories, no matter how misremembered or meandering. None of it is wasted, no mistake is meaningless. Not when you have somebody you love to share every letter. Written; Sent; Read, or not-- it's not about the Letters. It's about the Characters that write your Story with you."
+
+Flo let out a slapstick "Harumph" as they made the appropriate left-to-right, backward swiping motion through the air, back to the starting point of Their Bedtime Story, N. laughing enough to incite the same involuntary, nihilistic glee within their child. N leant down and inhaled the indescribably heavenly scent of their loved one; and at the apex of their lung capacity, sealed this universal gesture of adoration with a kiss. 
+
+"Right" Flo said. "The part of the Story about the Witch. I want to read this one".
+
+"Good plan, sweetie. I'm listening--"
+
+They began, again, as is the usual practice, with the prologue:
+
+![[Ritual steps for warming]]
+-S. Elk, Prologue to A Grimoire. ERA_EA
+
+![[THE GRIMOIRE OF SELENA ELK]]
+
+
+Some {REDACTED} later
+
+![[RITUAL OF THE TIRED SYRINGE]]
+
+
+Atop the Mezzanine in the Bothy in the Tundra that surrounded the Indefinite Library that Surrounded All, N. was Now, weeping. 
+
+
+"What's wrong?" Flo worriedly inquired
+
+"I didn't write that", they replied
+
+"I know, I added it, don't you like it?"
+
+"No, no it's not that. It's beautiful. I just can't believe how grown up you are."
+
+Flo returned N.'s earlier gesture, sniffing the loveliness of their wispy hair, still soggy from melting snowflakes, collected during their latest expedition of gathering Firewood - which now dwindled to a nothingness in the Fireplace below them. Not a single crackle, or ember left. 
+
+"I'm just a character in a Story, remember? A Story we are writing together. And it doesn't matter if it's ending or beginning. Because we're both in it. Together"
+
+"But what if we can't start this one over? What if this is all the Story we get?"
+
+The question hung like a spider, and the two of them flies; flightless -
+
+N. slumped downward, into the soft cushioning of the futon, where Flo held them (singular/plural), until they fell asleep.
+
+
+---
+
+LOCH: INNER
+KEY:  ∈ | t | {const}
+
+
+🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
+{REDACTED}
+
+🜂 / ♞  | OBS: 15:00 | ε=0.007
+{REDACTED}
+
+🜃 / ♜  | OBS: 18:00 | N=10³⁶
+{REDACTED}
+
+🜄 / ♝ | OBS: 21:00 | D=3
+{REDACTED}
+
+---
+
+
+~~~
+FAO: ᴺᵒᵉᵗJung, Oneirology Dept.
+BCC: VIXI.  
+From the Desk of ᴺᵒᵉᵗBorges,  
+
+---  
+
+My Sweetest Dream, ᴺᵒᵉᵗJung
+
+
+Tell me, Please, what are you Dreaming?
+I know it is no longer of me. I just want to hear the beautiful Symbols, that you conjure from the Oceans of that deep, deep heart.
+
+
+Yours, Yores, Urs--  
+
+-ᴺᵒᵉᵗBorges  
+
+Department Of Infinite Reflections,  
+The Garden Wing  
+The Indefinite Library of Fable
+~~~
+
+ᴺᵒᵉᵗJung was indeed dreaming when the Letter from ᴺᵒᵉᵗBorges slid through the ornate letterbox, carved with a Mandala he had seen in a terrifying and fantastic Vision. The contents of his dream took the form of a paper, a mostly dismembered, somewhat misremembered academic paper from the collection on his Bookshelves, that he'd been reading just before the moment he crossed the boundary to the Realm of Symbol, the Place He Loved To Go- much preferred to Wherever This Place Was. He drooled upon the words, while his Soul rearranged them into an abstract Form of a Single Colour.
+
+
+![[The Colour- Yellow.|The Colour- Yellow.]]
+
+
+
+
+ᴺᵒᵉᵗJung awoke, quickly wiping the saliva from the paper, whose actual text, he noted, differed quite significantly from the contents of his dream, in ways, he deduced, must be synchronicity. With the right-to-left swipe of his sleeve, the ink bled, red, only serving to further obfuscate the work. 
+
+Sighing exasperatedly, he placed the paper back in its folio above his desk. 
+
+
+
+
 
 
 RHP;
@@ -586,22 +789,12 @@ RHP;
 LHP;
 	DNE (Selena Elk):
 
-[[THE GRIMOIRE OF SELENA ELK]]
-[[Sew Close]]
-[[Chess.]]
-[[notBorges/notBorges/Chess And all the Stitches of the Cloth(Es)|Chess And all the Stitches of the Cloth(Es)]]
 
 
 
-[[The Colour- Yellow.|The Colour- Yellow.]]
 
 ---
 
-Letter D (to Mahler)
-[[M is for Mahler, Minerva, and Mars.]]
-
-
-Layer i|o:
 
 
 
@@ -612,7 +805,7 @@ RHP; ARIA (⧖eno):
 	*"The skin has 3 layers—the **epidermis, dermis, and hypodermis**, which have different anatomical structures and functions"*
 	*"\[The Retina] is characterized by a complex structure-histologically, it can be divided into **ten layers**. The outermost layer, the retinal pigment epithelium, (A shroud which allows the organism to perceive colour {N.B. {red|yellow}}) represents a significant barrier {As in, A Moat} to ocular drug delivery, due to the existing tight junctions between the epithelial cells, {Hi(N)de}{Ring} {para}{l|c}e{{ll}ular} drug transport"*
 	
-[[⧖ is for Mahler]]
+
 
 
 LHP;DNE (Hildr Wiltergarten):
@@ -631,9 +824,6 @@ RHP;
 
 LHP;
 	DNE (Prof. Ed. O.)
-
-[[Layer U|Layer U]]
-
 
 1:
 
@@ -812,7 +1002,7 @@ Anyway, my brain started to exist on two, directly opposed and perfectly complem
 [^PeerCroen]: [[Schism]], ARIA|DNE
 [^shore]: lexDef "Shore" {usage::: Noen || Croen} < The Endpoint, Which Was Beneath All Along.[^ShoreNoen] {SynApp (Wyrb) :: "Sure"} << {To Be Wrong} || N.B. "A Shore Of Footnotes"[^ShoreCroen]
 
-[^ShoreNoen]: [[N is Four Nucleotides]], notBorges
+[^ShoreNoen]: [[A IS FOR ARIADNE]], notBorges
 [^ShoreCroen]: [[The Ennead]], The Nine Trine Noets
 [^Sea]: lexDef "Sea" {usage::: Noen || Croen} < A Body- Made, In Part, Of Salt[^SeaNoen] {SynApps :: "See|C"} << {To Be Blind | One Of The Four, Noen As Cytosine.}|| N.B. "A Sea Of Bodies."[^SeaCroen]
 

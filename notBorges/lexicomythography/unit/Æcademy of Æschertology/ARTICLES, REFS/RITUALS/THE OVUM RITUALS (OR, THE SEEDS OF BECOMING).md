@@ -2,7 +2,6 @@
 permalink: THE OVUM RITUALS (OR, THE SEEDS OF BECOMING)
 ---
 
-THE OVUM RITUALS (OR, THE SEEDS OF BECOMING)
 
 1. hard boil three eggs, from the egg box of Ten which you acquired earlier in the week, now halfway to its end, by whatever means necessary or available to you. In the midst of your writing, frivolous of body but focused of Spirit, allow them to cool to room temperature, and, depending on personal opinion, overcook - within the crucible of their shells within the crucible of the pot. 
 2. place whatever seasoning or sauce you enjoy the most in a small glass; ensuring it is shallow enough in dimension to allow you to retrieve the egg once dipped, and wide enough to permit entry of the egg into the ocean of flavouring.
@@ -16,7 +15,7 @@ THE OVUM RITUALS (OR, THE SEEDS OF BECOMING)
 11. Still hungry, you take the final two eggs and repeat from step 1, this time, you have no script. This feels correct in its uncertainty. 
 
 
-
+![[The Egg, Cracked]]
 Bibliogrætiography
 --
 

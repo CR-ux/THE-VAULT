@@ -8,5 +8,5 @@ Ritual steps for warming
 3. If this is not possible, and it is likely that it is not, dance, which is a Truth
 4. If this is not possible, and it is quite likely that it is not, ask some other Body to hold you, which is a Lie
 5. If this is not possible, and it is impossible that it is not, let me hold you, which is a fire, destined for a box
+6. Keep going.
 
-then, move on to [[Birthday ritual]]

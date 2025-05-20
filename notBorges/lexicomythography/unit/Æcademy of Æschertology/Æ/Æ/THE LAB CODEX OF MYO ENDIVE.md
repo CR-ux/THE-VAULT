@@ -1,7 +1,7 @@
 ---
 permalink: THE LAB CODEX OF MYO ENDIVE
 ---
-THE LAB CODEX OF MYO ENDIVE
+
 Myo clicked his noise-cancelling implant to 'Total Silence' (which of course, given his highly networked brain, could never really be *totally* silent, but at least it wasn't added to by the incessant stream of external, empirical resonance data). 
 
 He was at his bench in The Lab, opening the very-loved-and-therefore-almost-falling-apart-at-the-spine Book that he termed his "Lab codex", once yellow, now a shimmering Gold, his still-all-too-human-yet-Yellow-Labrador-boyfriend-archetype-esque essential oils gradually exposing the Mnemanuscript circuitry underneath as water erodes a stone.

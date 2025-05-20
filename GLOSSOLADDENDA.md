@@ -867,7 +867,7 @@ An Extended [[lexDict]]
 
 [[MARS FIGHTING MINERVA An Exploration of Gendered Deities and Oil Painting Through The Lens Of The Woman In The Wallpaper's 'Red, Ring, Parallel' (Year Unknown)]]
 
-[[M is for Mahler, Minerva, and Mars.]]
+[[Attachment- MIKKÆLANGELOVS_DAVID-painter_of_Minerva_Fighting_Herself.pdf]]
 
 [[Magician]]
 

@@ -1,12 +1,12 @@
 ---
 permalink: knot by the 'I' who may write this story, but the Eye, by which the Story may be written
 ---
-![[choirshelter.mp3]]
+<AUDIO FILE: {REDACTED}>
 
 Below is a Medieval manuscript discovered in the attic of Jorge Luis Borges after his death; hidden within a hexagonal Box, which appears, unthinkably, impossibly, to be of infinite capacity. 
-Inside, there may be heard Six Human Voices, crying for escape. 
-They speak of a Seventh - a so-called "Woman In The Wallpaper", some of the voices steeped in tones of a great reverence, some dripping with gripping fear. 
-They speak in tongues unknown, but with a small device affixed to the inside of the lid of the Box[^n] 
+Inside, there may be heard Six Human Voices, Though they believe they are Four, crying for escape. 
+They Revolve About an Unknown Seventh - a so-called "Woman In The Wallpaper", some of the voices steeped in tones of a great reverence, some dripping with gripping fear. 
+They transcribe in tongues unknown, but are Translated with a small device affixed to the inside of the lid of the Box[^n] 
 
 
 
@@ -17,7 +17,7 @@ They speak in tongues unknown, but with a small device affixed to the inside of 
 
 *"That Mirrors 
 Have Something Monstrous
-About Them*
+Above Them*
 
 - Borges, Tlön, Uqbar, Orbis Tertius
 
@@ -37,7 +37,7 @@ it may be prudent (which is to say, far less wise a decision than just not enter
 
 
 > 	"*The currently accepted nomenclature for denoting Lexicomythographic Definitions, known as LexDefs since before the {ARIA|DNE} Schism of 1994, is as follows, with the exemplified titular camelCase as requisite, along with the heirarchical ordering of sentimental Units (i.e. The Associated Lexicomythographic Nouns, Collective Nouns, Verbs, Adverbs, and Proverbs, respectively.)
-> 		lexDef {usage:: Noen || Croen || Wyrb || badverb || prodverb } Do ⁿᵒᵗ See: [[Opening Letters to Forgiven Characters, 9th Edition The Lexicomythographic Guide to Dictionaries]]*"
+> 		lexDef {usage:: Noen || Croen || Wyrb || badverb || prodverb } Do ⁿᵒᵗ See: ![[Opening Letters to Forgiven Characters, 9th Edition The Lexicomythographic Guide to Dictionaries]]*"
 			On The Relative Importance Of *LexDefs*: The Fundamental Definitions of Lexicomythography. (Borges, 1994)
 			- *Source Unknown*
 

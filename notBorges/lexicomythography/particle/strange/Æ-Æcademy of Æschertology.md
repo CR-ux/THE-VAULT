@@ -6,5 +6,5 @@ permalink: Æ-Æcademy of Æschertology
 # Chronography
 
 [^a]: [[MARS FIGHTING MINERVA An Exploration of Gendered Deities and Oil Painting Through The Lens Of The Woman In The Wallpaper's 'Red, Ring, Parallel' (Year Unknown)]] - S & M Endive. 2025.
-[^f]: [[M is for Mahler, Minerva, and Mars.]] - notBorges, 1994.
+[^f]: [[Attachment- MIKKÆLANGELOVS_DAVID-painter_of_Minerva_Fighting_Herself.pdf]] - notBorges, 1994.
 [^S]: [[SELENA]], [[THE LAB CODEX OF MYO ENDIVE]], 2022.

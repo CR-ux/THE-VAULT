@@ -8,5 +8,5 @@ Ending at the start is *A is for Augur as in Organ as in Ism as in schism as in 
 
 
 
-[[Ritual steps for warming]]
+
 

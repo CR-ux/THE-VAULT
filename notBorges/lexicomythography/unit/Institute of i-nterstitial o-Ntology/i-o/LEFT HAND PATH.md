@@ -318,7 +318,7 @@ Please, dear god, you think, no more, no more-
 The blood vessels, a halo revealed in the centre of this wretched, unravelling of a web-
 It's spidery limbs seem to gesture, in their Cthulhu-esque tentacular curling tumult, to the Anatomical diagram to your Right, and to the Right Side's Left
 The Circle of Willis; was this what this whole, unholy, fulminant, sickly head-spinning implosive performance was presented for?
-To what end? To make what point? To make drosophila of us all?
+To what end? To make what point? To make drosophila[^dro] of us all?
 
 By the time your eyes return to Xeno, 
 Or to their unrested remains,
@@ -342,3 +342,4 @@ Left.
 [^ioiology]: *"Aye, No, 'I'? Oh, I Don't Know Why: I Suppose I Owe It Only To Ioiology"* By Iona Isla O'Miley (III_ERA_i|o)
 [^Croen1]: lexDefio: {Collective Noen; Croen} "An *Orchestra* of Microphones"
 [^Croen2]: lexDefio: {Collective Noen; Croen} "A *Volume* of Cameras"
+[^dro]: ![[Layer U]]

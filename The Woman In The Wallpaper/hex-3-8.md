@@ -1,5 +1,5 @@
 # hex-3-8
 
-![[M is for Mahler, Minerva, and Mars.]]
+![[Attachment- MIKKÆLANGELOVS_DAVID-painter_of_Minerva_Fighting_Herself.pdf]]
 ## Exits
 - [[hex-4-X]]

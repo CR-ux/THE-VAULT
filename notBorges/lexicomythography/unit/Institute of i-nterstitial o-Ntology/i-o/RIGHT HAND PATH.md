@@ -2,8 +2,8 @@
 permalink: RIGHT HAND PATH
 ---
 
-[^1]<span class="right-align">OUTPUT ||
-the right hand path</span>
+|| OUTPUT
+the right hand path
 You walk up the ramp, and take your seat. 
 You notice the tall doors of the escape route open and close once more - apparently some of the Others have rethought their decision. 
 Others still, Three of them, have joined you on this Side of the Theatre. 

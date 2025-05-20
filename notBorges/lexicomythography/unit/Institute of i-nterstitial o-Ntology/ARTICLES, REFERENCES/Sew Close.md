@@ -13,7 +13,6 @@ What I’m saying is, we now live in the deepest time of separation ever known w
 
 So Close.[^C][^Cl][^Clo]
 
-[[notBorges/aria-dne/LAST]]
 
 
 

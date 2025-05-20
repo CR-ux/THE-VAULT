@@ -38,7 +38,7 @@ Bibliogrætiography
 
 
 
-[[knot by the I]]
+![[knot by the I]]
 
 - Jorge Luis Borges, Unattributed Writings, 2025. 
 

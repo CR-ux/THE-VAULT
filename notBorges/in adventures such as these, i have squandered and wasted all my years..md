@@ -7,7 +7,7 @@ cssclasses:
 ---
  
 
-
+\<AUDIO FILE: {REDACTED}>
 
 Mandatory 
 
@@ -45,8 +45,6 @@ Nesting
 On
 
 The
-
-![[redacted_23 1.mp3]]
 
 Breaking
 
@@ -90,11 +88,11 @@ by whichever (triplicate) means necessary. [^t]
 Results
 --
 
-[in absolute cacophony](https://publish.obsidian.md/thechildrensgospelmusicsongbook/THE+CHILDREN'S+GOSPEL+MUSIC+SONGBOOK+by+The+Woman+in+the+Wallpaper/DO+KNOT+SITE%3B+YOUR+SOURCE+IS/MERCURY/LAYER+THREE+-+the+board)
+in absolute cacophony.
 
 
 
-Table N: A framework, not a cage. 
+{REDACTED} Table N: A framework, not a cage. 
 
 Discussion
 --
@@ -219,7 +217,7 @@ is a mirror.
 Conclusion
 --
 
-Is [[notBorges/notBorges/BEGINNING TO END (AGAIN)]]
+Is ![[notBorges/notBorges/BEGINNING TO END (AGAIN)]]
 
 [^c]: *The Woman in the Wallpaper*, April 17th, 1994.
 

@@ -6,7 +6,7 @@ aliases:
 
 ![[The One]]
 
-![[⧖ is for Mahler]]
+![[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/i-o/i-o/⧖eno]]
 ![[The Colour- Yellow.]]![[LAYER i-o BODY]] ![[LAYER U BODY]]
 ![[Ænd Game]]
 

@@ -1,10 +1,12 @@
 ---
 permalink: on the ligature of two characters
 ---
-W	![[On the Ligature of ≥ Two Characters.wav]]X
+W
+
+X
 
 
-[[Why?]]
+![[Why?]]
 
 
 FAO:
