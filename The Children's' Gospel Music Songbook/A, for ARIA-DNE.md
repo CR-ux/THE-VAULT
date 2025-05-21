@@ -1,19 +1,24 @@
 
-| ARIA                                                                                                                                                                                             | DNE                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| > A IS FOR ANIMA, AMINO, AND ANIMUS<br>> R IS FOR RECUR{RING}, {RED}ACTION, AND RETROGRADE<br>> I IS FOR INSECTA, INFINITY, AND INSTITUTION<br>> A IS FOR ARACHNID, ASPIRATE, AND AFFLICTION<br> | <br>< D IS FOR DENOUEMENT, DESCENDING, AND DIVISION<br>< N IS FOR NOTATION, N-TERMINUS, AND NOTHING <br>< E IS FOR ENDING, ENTROPY, AND EVERYTHING.<br> |
+| ARIA                                                                                                                                                                                         | DNE                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| > A IS FOR ANIMA, AMINO, AND ANIMUS<br>> R IS FOR RECUR{RING}, {RED}ACTION, AND RETROGRADE<br>> I IS FOR ICARUS, INSECT, AND INSTITUTION<br>> A IS FOR ARACHNE, ASPIRATE, AND AFFLICTION<br> | <br>< D IS FOR DENOUEMENT, DESCENDING, AND DIVISION<br>< N IS FOR NOTATION, N-TERMINUS, AND NOTHING <br>< E IS FOR ENDING, ENTROPY, AND EVERYTHING.<br> |
 
 
-![[Metacommentary]]
+**{A Recursion In A Dream Now Ending} - The Woman In The Wallpaper**
+
+Epigraph:
+---
+
+
+> _“In the light of the moon, a little egg lay on a leaf…”_
+> - The Very Hungry Caterpillar, Eric Carle. {Read To Me Before Dreaming Of The Woman In The Wallpaper I Would Become}.
 
 
 
 
 
-![[ARIADNE <]]
+---
 
-
---
 
 *"Mirrors and copulation are abominable, because they in-crease the numbers of men"*
 
@@ -140,12 +145,16 @@ so everyone is, all ways, late.
 [^QS]: Quantum superposition refers to a concept in Quantum Physics in which probabilistic states are interpolated or interlaced upon each other such that a series of potential events (whether unfortunate or not) may occur together, not occur at all, differentially occur in a distribution[^K] ,  
 [^Fe]: Fe is the chemical symbol for Iron, a major component of the biomolecule 'Heme' which carries oxygen about the bloodstream through the lumen of veins (travelling *into, towards* the heart, or Centre of Love of Contractual Compassion) or arteries (travelling *away from* or out of the heart, or Cardiac Pump of autonomic and unfeeling contractile spasm) to ensure healthy distribution of oxygenated tissues via a relationship of exchange with the lung's semi-permeable membranes, which are septa or separations required for unification of the whole. To sever an artery is much more likely to be lethal than the severance of a vein; i.e. "the transgender woman pushed to suicidal ideation due to the lack of spiritual or supportive framework necessitating her understanding of Death as not just a physical process but more importantly (and multiple in its occurrence within a single individual's life) a spiritual and egotistical one, attempted to sever her brachial vein in vain" or "the anaesthesiologist who was also the canonical[^Can] Organist of the Glasgow Cathedral injected the general[^Gen] anaesthesia containing fentanyl, for the purposes of allowing her to withstand the incising and peeling forward of her scalp over her eyes like a shroud of flesh, in order for the surgeon to debride[^De] the organic inauthenticity encapsulated in the curvature of her cranial vault in vein"
 
+[^Gen]: Middle English: via Old French from Latin _generalis_, from _genus_, _gener-_ ‘class [^class] , race, kind’.
 
+[^class]: from Proto-Indo-European klh₁-d⁽ʰ⁾-ti- (“a call”[^call]), from kelh₁- (“to call, shout”). Probably from the occasional need for a teacher to shout at a group of students | N.B.[^n.b.] A Class Hierarchy underpins the Tree of Knowledge, like a Caduceus, around which the Serpent winds, offering the Fruit of Definition in the form of the Word (N.B. A is for Apple) < [^less] grammatical target in a sentence (object acted upon) < template for generating structured instances in code < rank in the biological web (e.g. mammals, reptiles) < label for data in a model’s training set < group of learners in a shared room < tree in a playground, climbed barefoot after a bell, much like a telephone, perhaps yellow in hue, rings.
+[^less]: The {symbol|glyph} "<" denotes a left-handed object of apparent 'lesser' value, and a right-handed object of supposed 'greater' value. It also resembles the forking branches of a tree, which lead to leaves, which allow the eventual growth of Fruit, which is both the Endpoint and the Origin of all Things.[^class]
+[^call]: Such as one made from a yellow landline telephone, or from some UnNoen source, or a deep sense of inner guidance, direction, or purpose, that leads a Character[^char] towards a specific path or way of life
 [^sample]:A collected fraction of a greater substance, such as the abstract of a long, meandering academic paper on a fictional city becoming non-fictional written by a character in a city that may or may not be non-fictional becoming 
 
 [^adinf]: or "continue forever, without limit", as in, the placement of an image, idea, or spirit of a long dead write, clawing through the letters of a series of deeply recursive and cursed footnotes, between two mirrors which may be metaphysical mirrors of the self or empirical in nature or both, placed facing one another, in parallel, creating an infinite recursion of an image, idea, or spirit of not dead but perhaps not entirely real author of words, between two mirrors [^mis] i.e. "Mirrors and copulation are abominable, because they increase the numbers of men" -N, {████} which is historically not fiction, our character, who for now, which is never, or for better which is worse, we shall simply call "Borges"[^N.B.], was or is, or will be finalising his scientific paper on Borges' short story _Tlon, Uqbar, Orbis Tertius_. As those cursed enough or indeed gifted enough (as both are one and the same) to have been tasked or to have tasked themselves with the writing of such a tome will know, or have known, the proper treatment[^T] requires one to be entirely consumed by the work, so that eventually, or perhaps causally, the subject matter seeps into all aspects of their life, waking or not.
 
-[^Ch]:The word 'chain' means both a sequence of events, but also a symbol for binding, restriction. Binding itself being the trauma that is the fuel that spins the wheel. time's wounds are wound around a round wheel of willing wakes of worlds of words weaving weals of woven with words within woven worlds who of waking write  'will we ever stop winding round around our weals wound with wound's time?'. Time, language, loss and trauma are the tines on a fork of a wheel taking a fractalline snail shell trail of path forth into youth's adult hooded sewn languish and love-addled past. [^R]  
+[^Ch]:The word 'chain' means both a sequence of events, but also a symbol for binding, restriction. Binding itself being the trauma that is the fuel that spins the wheel. time's wounds are wound around a round wheel of willing wakes of worlds of words weaving weals of woven with words within woven worlds who of waking write  'will we ever stop winding round around our weals wound with wound's time?'. Time, language, loss and trauma are the tines on a fork of a wheel taking a fractalline snail shell trail of path forth into youth's adult hooded sewn languish and love-addled past.
 
 
 [^S]: **A type of dance**. A soft-shoe shuffle is a dance that originated in vaudeville and music halls in the early 20th century. It's a comic dance performed by tap dancers wearing soft-soled shoes, called soft-shoes, instead of their regular tap shoes. The shoes are rubbed on the stage, sometimes covered with sand to amplify the sound, creating a characteristic "swish". The accompanying music is usually soft, with many silent moments so the dancer's sound can be heard.   **See also:**  The Soft Shoe Shuffle is an interactive dialogue exercise based on a theme.[^Th] The exercise helps people reassign meaning, process information and experiences, and learn to understand complex matters. It also helps people think flexibly and dialectically, looking at problems from different points of view.
@@ -240,7 +249,7 @@ so everyone is, all ways, late.
 [^H]: The headwaters of a river are **the smaller streams near its source, which combine to form the river**, constituent fractions of the ever-changing but overall self-similar Body of Water being composed of the same properties, molecular, physical, and thermodynamic, as the whole. See: Synecdoche.
 
 
-[^Me]:
+
 [^Part]:a minute portion of matter. "tiny **particles of** dust upon a coffin of a long-lost but not forgotten uncle whose name constructed of four characters and singular character in this story, collected before his descent and return to the Earth or shared origin from whence we all came as the performer of funeral rites uttered the words echoing countless cycles of stories stretching back to the first syllable of unrecorded time of subjectively experienced human history: 'dust to dust''. Physics: any of numerous subatomic components, photons, and alpha particles. Mathematics: a hypothetical object having mass but no physical size. the least possible amount. "he agrees without hearing the least **particle of** evidence". Similar: *Iota*. Grammar: (in English) any of the class of words such as _in_, _up_, _off_, _over_, used with verbs to make phrasal verbs.
 [^F]: A word which here means 'fitting into place sufficiently for its purpose', but can also mean 'very good' or 'delicious'[^D] which it does also mean here, but can also refer to the opposite of *Coarse*, as in Salt, as in what Lot's Wife was turned into as a result of his inability to Keep Moving Forward
 [^D]: 'Delicious' is a wonderful word deriving from 'delicacy' which can both mean a cuisine specifically (and often exclusively) enjoyed by a culture, which can oftentimes be enjoyed by a so-called 'outsider' to an even greater extent relative to said 'outsider's baseline perception of the taste of such, by virtue of its, and their, relative exclusion from their experience. This concept is itself paradoxically dualistic and self-same, as it touches upon the same underlying force that perpetuates fetishisation, as in the fetishisation of Transgender individuals stripping them of their humanity[^Fe]
@@ -257,7 +266,7 @@ so everyone is, all ways, late.
 
 
 [^N.B.]: Or, Not Borges.
-[^FA]: lexDef0: {lacronym} **"FA"** - *Fertile Abundance*; {Noen} | to "Fuck" the Soil of a heretofore Salted Earth and uncover an infinite Library of meaning beneath the surface. {prodverb} *"Oh, Sweet FA, May Your Silent Laughter Fore'er be Canned"* The term originated from{REDACTED} in {REDACTED} as a macabre joke about {REDACTED}tinned meat. {REDACTED} used the name of {REDACTED}, {REDACTED}{REDACTED} {REDACTED} and {REDACTED}, to refer to the canned meat {REDACTED}. The {REDACTED} the meat might be the Salted remains of the {REDACTED}. 
+
 [^Peak]: In London, "peak" is used to describe something bad or a random bit of bad luck. "Peak" can also mean the highest level or greatest degree. For example, one inhabitant of London might say "N seems to have reached the peak of his Academic career. Peak for him."
 [^schism]: lexDef {Noen} "In Our End is Our Beginning" | A {prodverb} invented by Noet. T.S. Eliot in his seminal *Twenty Three Quartets* i.e. "My psychiatrist diagnosed me with Schismtypal personality disorder but this was actually a typo due to his laptop being broken"
 

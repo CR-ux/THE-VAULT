@@ -653,9 +653,9 @@ An Extended [[lexDict]]
 
 [[In my dream]]
 
-[[B for Bothy]]
+[[Why B is for 'Both']]
 
-[[B for Bothy]]
+[[Why B is for 'Both']]
 
 [[Initiate]]
 

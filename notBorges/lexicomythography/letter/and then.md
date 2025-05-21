@@ -238,4 +238,4 @@ them</span>
 
 
 
-[^both]: [[B for Bothy]]
+[^both]: [[Why B is for 'Both']]

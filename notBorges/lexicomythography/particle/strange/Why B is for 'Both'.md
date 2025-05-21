@@ -2,6 +2,9 @@
 permalink: In the bothy
 ---
 
+B is for Bothy[^b] 
+
+
 
 on The 23rd Day-
 
@@ -86,3 +89,4 @@ And we were Twenty Three Years Ago.
 [^bench]:or the bench in the meadows where you said: "shall we start dating and see where it takes us?" - N.B[^N.B.]
 [^N.B.]: -Not Borges[^mnb]
 [^mnb]: Near{ly,} B{redacted} 
+[^b]: ![[Two lexDefs of the lexDict, and the Crushing Edge of Infinity]]

@@ -314,7 +314,7 @@ Epitaph:
 
 Prologue
 ---
-![[B for Bothy]]
+![[Why B is for 'Both']]
 
 B{are}
 You 
@@ -831,14 +831,14 @@ The character of this Story did not look back.
 
 # ᶠᵒᵒᵗNoet(s)
 
-[^pass]: {Future|Now|Past}
+[^pass]: {Future|Now|Past} || First-pass refers to the first time You, the Reader, may read|move through a {text|process|location} such as this one || First-Pass Genomics: the initial analysis of genomic data, typically after whole genome sequencing (WGS) or exome sequencing, to identify potential disease-causing variants.[^var]
 [^res]: Money Will become pointless once knowledge has reached an amalgamative crescendo. In the current timeline, the Future implications of Humanity's technological advancement are to render the delineation, borrowing, movement of 'Money' (from Residue to 'revenue' to residue) irrelevant, by virtue of the obvious and global importance of the 'Expensive' Discovery at Hand. 
 [^im]: lexDef "Imagine" {usage::: Croen || Prodverb} < N.B. "An Imagination of Resources"[^ImagineCroen] || _I, Mage --Image In Nation._[^ImagineProdverb]
 
 [^ImagineCroen]: [[lexDict]], CARPVS MORTVVM
 [^ImagineProdverb]: [[Mage]], Opus, Ophelia
 [^oe]: In Alphabetical [[Order]]. 
-[^B]: [[B for Bothy]]
+[^B]: [[Why B is for 'Both']]
 [^end]: [[‘IN THE SPIRE OF THE TOWER THE ORE OF THE STAR’]]
 [^thought]: [[i want to write a story]]
 [^r]: lexDef "Reins" {usage::: Noen || Croen || Prodverb} < The Umbilical Cord Connecting A Charioteer To Its Driving Force; Often Imprisoned Against Its Will. The French Word For "Kidneys"[^kidney]. {SynApps :: "Reign | Rain"} << {The Duration Through Which Power Is Held; As A Charioteer Holds Tightly The Imprisoned Force Of Motion | Tears Of The Angels; The Imprisoned Forces Of Motion}[^ReinsNoen] || N.B. "A Rein Of Stifled Tears"[^ReinsCroen] || "{Rain|Rein}, Go A Way -- Come A Gain, An Other Day. Daddy Wants To Play. {Reign|Rain} - Please, Please Stop- Please, No, I Said No-- Please Go Away, Daddy Please I Don't Want This Please Daddy Please Go Away"[^ReinsProdverb]

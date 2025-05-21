@@ -9,7 +9,7 @@ lexDef "Ode" {usage::: Noen || Croen || Vyrb} < {That Which Is Knot | A Joy To B
 
 [^OdeNoen]: [[Held]], Beethoven, [[For Isla]]
 [^OdeCroen]: [[LOVE; BEGINNING TO END]], [[the light from the window]], Callie Rose Petal [[(In My Beginning)]], The [[Hour]] of [[The End]], 2022.
-[^OdeVyrb]: [[B for Bothy]], Bertrand, 2023.
+[^OdeVyrb]: [[Why B is for 'Both']], Bertrand, 2023.
 
 
 Bibliogrætiography

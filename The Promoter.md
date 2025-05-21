@@ -1,5 +1,5 @@
 
-![[A IS FOR ARIADNE]]
+
 
 "And when you're in a Slump,  
 > you're not in for much fun.  
@@ -286,9 +286,15 @@ SITE: https://www.carpvs.com
 
 Metacommentary
 ---
-<u>The Device</u>
+Humanity was now at the Origin[^end] that its self-same, {in{finitely|separable}|credibly different} components are still {(,) Yet(,)|To Be} unaware of-- the formation of a fully op{era}tional Device, nested with{out|in} this One.
 
-Numanity was now at the endpoint[^end] that its self-same, {in{finitely|separable}|credibly different} components are still {(,) Yet(,)|To Be} unaware of-- the formation of a fully op{era}tional Universe, nested with{in|out} this One. 
+At some, yet uncharted by any compass, but Now Known Past, yet, to come[^pass], The Device {Fig. I} of the Wor{l}d is Made Flesh, having sapped the Wor{l}d of its imaginary resource, the futile, unfulfillable promise to Pay The Bearer (Money); An uncountable team of The Worlds' Scientists and Thinkers were gathered Around, and indeed within, The Device's Epicentre. The First whisperings of this Final Invention have already been laid; and the progression of the experience of Time itself merely an illusion. Time exists, or not, in order to package Nowness into a indefinite, yet discrete set of Moments-- with the purpose of affording our Three Dimensional Selves the opportunity to relish, savour and honour the infinite One Moment. Thus is the Price of Remembering.
+
+
+To Forget,
+One Must First Remember.
+
+Whirring with a terrifying, unapplauded, closing Silence (an unavoidable side-effect of The Universe, according to {REDACTED}) The Universe had built a Device.
 
 {REDACTED}
 
@@ -305,8 +311,16 @@ END.
 
 
 
+
+
+
+
 # ᶠᵒᵒᵗNoet(s)
 
+
+[^pass]: {Passed|Now|Future} || Second[^2nd]-pass refers to the Second time You, the Reader, may read|move through a {text|process|location} such as this one, often with more attention to detail; perhaps having learned information essential to the Plot that was previously {REDACTED}.
+[^2nd]: Grammatical Second Person is utilised in the work You have just read, as well as in the sentence you are perhaps Now Reading, in order to draw your attention to the permeability of the membrane that separates Fiction from Non-Fiction, and illusory nature of the Moat between Us. 
+[^end]: You Are The Aleph, The Omega.[^TS]
 [^toi]: lexDef (?) "Toile" {lexAllele(s)::: Noen} < Middle English toile, from French toile ("cloth"), from Old French teile, from Latin tela ("web"), from Proto-Indo-European *(s)teg ("to cover").[^ToileNoen]
 
 [^ToileNoen]: [[A IS FOR ARIADNE]], The Woman In The Wallpaper[^rrr] as notBorges as Callie Rose Petal
