@@ -439,7 +439,7 @@ Edition XVIII\footnote{[[The Journal of A.R.I.A.D.N.E]], Knoets of the Subsequen
 [[in adventures such as these, i have squandered and wasted all my years.]]
 [[In My Beginning]]
 [[In my dream]]
-[[In the bothy]]
+[[B for Bothy]]
 [[In The Dream, My Child Went Forth To Multiply, And Met His Crushing End]]
 [[In]]
 [[Incantation]]  

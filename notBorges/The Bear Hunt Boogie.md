@@ -2,7 +2,7 @@
 permalink: The Bear Hunt Boogie
 ---
 Prologue:
-[[In the bothy]]
+[[B for Bothy]]
 
 Chapter One:
 [[we are never going on a bear hunt ever again]]

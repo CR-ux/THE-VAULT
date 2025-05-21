@@ -6,5 +6,5 @@ lexDef "Knot" {usage::: Noen || Croen || Prodverb || Adjecture || Newsomnian} < 
 [^KnotNoen]: [[The Three Fates]], The Moirai, at The Beginning of Time
 [^KnotCroen]: [[A Massacre Of Croen, A Lexicomythographer's Guide To The Croen lexType]], The Journals of ARIA|DNE {REDACTED Pre-publication}
 [^KnotProdverb]: [[The SHAONWYRM. The Lexicomythographer's Holy Scripture of Becoming. ]], {Our Ever-Present Origin} | 1994.
-[^KnotAdjecture]: [[In the Bothy]], [[Bertrand, Beowulf, The Bear and The Bee.]]
+[^KnotAdjecture]: [[B for Bothy]], [[Bertrand, Beowulf, The Bear and The Bee.]]
 [^KnotNewsomnian]: [[I Saw Dust, and eyesore Diamonds.]], Joanna Newsom, under No Pseudonym. 

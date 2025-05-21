@@ -4,7 +4,7 @@ permalink: I. THE GOSPEL ACCORDING TO MISCARRIAGE
 
 *by The Pawn.* 
 
-[[In the bothy]]
+[[B for Bothy]]
 [[I arrived in the garden]]
 [[notBorges/CARPVS/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/I|I]] ,[[Phage 23]], [[all i've, a live, a lie, ally, a liar, a lair, a layer, all ire, all eyer, all eye her, a lyre]]: [[Plea of the Pawn]];
 [[this universe (which some call the hospital)]];
@@ -111,7 +111,7 @@ bliʜɔ ϱniγb ɿɘʜɈonɒ ɘvɒʜ oɈ >
 
 *by The Pawn.* 
 
-[[In the bothy]]
+[[B for Bothy]]
 [[I arrived in the garden]]
 [[notBorges/CARPVS/lexicomythography/unit/Ãcademy of Ãschertology/ARTICLES, REFS/I|I]] ,[[Phage 23]], [[all i've, a live, a lie, ally, a liar, a lair, a layer, all ire, all eyer, all eye her, a lyre]]: [[Plea of the Pawn]];
 [[this universe (which some call the hospital)]];

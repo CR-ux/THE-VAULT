@@ -71,19 +71,23 @@ You take:
 The Prayers of the World below, or within, cycled in the reflections of those Four doors in the shape of an X, as in, the spot ⧖eno was forever Marked within. The Prayers of the Souls Of The World Are Held In Their Dreams. And given the incomplete dissolution of their form {thanks (or no-thanks), to the Endivean Corneal Implant (placed into their Missing Eye \[which now lay rotting|buzzing with drosophila upon that surgical theatre-turned-hellish-performance space, following the final descent of the Curtain]} they were bound, captured in this web, stuck for eternity at this particular boundary, not made of burgundy velvet, but a sickly, yellowish glass, their Sacred, or Infernal task, was to record and analyse them. 
 
 
-DREAM INPUT:
+DREAM INPUT_I:
 
 ![[VI. THE GOSPEL ACCORDING TO THE LUSTING CANDLE]]
 
+OUTPUT ANALYSIS: 
 {REDACTED}
 
 The Cruel Irony of utilising their parents final, unfinished, collaborative paper as the main source of reference for the most recent dream, of one dreamer named {REDACTED}, was not lost on them. But, as would be the case for any Entity trapped within that ever-turning Door, rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.
 
 
+DREAM INPUT_II:
+![[We are Saying Farewell]]
+
+
 
 OUTPUT ANALYSIS:
 {REDACTED}
-
 
 
 

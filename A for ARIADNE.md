@@ -1,11 +1,24 @@
----
-permalink: The Citadel of Tœms
----
+
+| ARIA                                                                                                                                                                                             | DNE                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| > A IS FOR ANIMA, AMINO, AND ANIMUS<br>> R IS FOR RECUR{RING}, {RED}ACTION, AND RETROGRADE<br>> I IS FOR INSECTA, INFINITY, AND INSTITUTION<br>> A IS FOR ARACHNID, ASPIRATE, AND AFFLICTION<br> | <br>< D IS FOR DENOUEMENT, DESCENDING, AND DIVISION<br>< N IS FOR NOTATION, N-TERMINUS, AND NOTHING <br>< E IS FOR ENDING, ENTROPY, AND EVERYTHING.<br> |
+
+
+![[Metacommentary]]
+
+
+
+
+
+![[ARIADNE <]]
+
+
+--
 
 *"Mirrors and copulation are abominable, because they in-crease the numbers of men"*
 
 At the beginning of our story which is historically not fiction, our character, who for now, which is never, or for better which is worse, we shall simply call "N"[^N], was or is, or will be finalising his scientific paper on Borges' short story _Tlon, Uqbar, Orbis Tertius_. As those cursed enough or indeed gifted enough (as both are one and the same) to have been tasked or to have tasked themselves with the writing of such a tome will know, or have known, the proper treatment[^T] requires one to be entirely consumed by the work, so that eventually, or perhaps causally, the subject matter seeps into all aspects of their life, waking or not.
-N lived in a place called Tohms, filled, and ever-densifying with, a teeming landscape of islands within islands, and an equally ever-densifying landscape of tourism - the economic influx of which provided most of the City's income. Tohms' population was at a particularly bitter peak[^Peak][^Pe] in its schism[^schism] - splitting the people into two in/out groups[^IO], or two out/in groups see IO: [[Remember]] (2028): those who welcome, almost worship change (of the restricted chain[^Ch] of evolution), and those who resist it, clinging to what ancestral truth once was, but tragically, needed to die (the connecting chains[^Ch] of the past). 
+N lived in a place called Tohms, filled, and ever-densifying with, a teeming landscape of islands within islands[^infinity], and an equally ever-densifying landscape of tourism - the economic influx of which provided most of the City's income. Tohms' population was at a particularly bitter peak[^Peak][^Pe] in its schism[^schism] - splitting the people into two in/out groups[^IO], or two out/in groups see IO: [[Remember]] (2028): those who welcome, almost worship change (of the restricted chain[^Ch] of evolution), and those who resist it, clinging to what ancestral truth once was, but tragically, needed to die (the connecting chains[^Ch] of the past). 
 He believed he had just finalised what seemed to be the hundred-and-eighth revision of his abstract (which was in fact the twenty-third[^sample]):
 
 
@@ -139,9 +152,14 @@ so everyone is, all ways, late.
 
 [^Th]: theme | θiːm | noun 1 the subject of a talk, piece of writing, exhibition, etc.; a topic: the theme of the sermon was reverence. • Linguistics the first major constituent of a clause, indicating the subject matter, typically being the subject but optionally other constituents, as in ‘smitten he is not’. Contrasted with rheme [^Rh] *US English* an essay written by perhaps an intelligent school pupil (who may be experiencing a series of unfortunately traumatic and isolating events leading them to fold in on themselves into existential fractals of obsession with words in books on themes of cycles and trauma in a desparate attempt to make meaning from these inherently unfair events rendering their work unintelligible to neurotypical [^NT] mentors and individuals in their cohort) on a particular subject. *The Arts*: an idea that recurs in or pervades a work of art or literature (i.e. infinity, fractal recursion, and the ontological nature of linguistics in a feedback loop with creation of ideas and form, are recurring themes in Borges' work, often inclusive of intensely confusing meta-narrative [^Me] structures which force the reader into existential inquiry through the subsequent collapse of the programmed egoic self via the discombobulating nature[^N!] of the story's media. **In Media:* *Res*erved mostly for usage as a modifier**: A piece of music that frequently recurs in or accompanies the beginning and end of a film, play, or musical: a theme song. i.e. 'the theme song in the netflix[^Ne] series A Series of Unfortunate Events (which was foreshadowed in the musical staves printed within additional material such as An Unauthorised Autobiography supporting the main narrative in the books that the series of events in a series of unfortunate events was based on) is a piece of music bookending each episode in the series which are based on a theme of unfortunate events, which occur in series of recursive cycles of unfortunate events, both begetting and overwriting previous unfortunate events in series'[^Se] . • **Music**: a prominent or frequently recurring melody or group of notes in a composition: the first violin takes up the theme high up in its register. •  a setting given to a restaurant, pub, or leisure venue, intended to evoke a particular country, historical period, culture, etc.: an Irish theme pub. 4 Linguistics the stem of a noun or verb; the part to which inflections are added, especially one composed of the root and an added vowel. 5 historical any of the twenty-nine provinces in the Byzantine empire. verb: give a particular theme or setting to (a leisure venue, event, etc.): the amusement park will be themed as a Caribbean pirate stronghold. ORIGIN Middle English: via Old French from Latin thema, from Greek, literally ‘proposition’; related to *tithenai* ‘to set or place’.
 
+[^mo]: Mode: in Mathematics, specifically a Set of {N} integers, the 'Mode' is the Number which occurs most frequently. In music, a 'Mode' is a particular scale which elicits a certain type of feeling - a pseudoObjective assignment to a pseudoSubjective attribute. A 'Mode' of transport is the means, or medium[^med] by which a Soul, living or not, may cross a Boundary, such as a Moat. 
 
-
-[^Ne]:*A streaming** service***: **A word which here means an alternative but self-similar modality of experiencing either music or media, or a river which returns to the sea to be cycled back to the sky to be rained down into as the tears may stream from a human being's face or from an animal forced against its will into traumatic experiments conducted upon them for the frivolous purposes of the synthesis of cosmetic products such as baby shampoo bearing the subtitle: 'no tears!' in a deeply unfortunate series of non-consensual events of animal cruelty
+[^med]: The Medium is The Message.[^message]
+[^message]: Which may take the form, or Mode[^mo], of a Letter[^letter]
+[^letter]: Which is a {Character|Means of Communication Between Two Characters|Form of Transport[^mo]|That From Which A Word[^word] Is Formed}
+[^word]: Which is a constituent part of A Letter[^letter] to a Character[^char]
+[^char]: ![[CHARACTER (Φ)]]
+[^Ne]:*A streaming** service***: **A word which here means an alternative but self-similar modality[^mo] of experiencing either music or media, or a river which returns to the sea to be cycled back to the sky to be rained down into as the tears may stream from a human being's face or from an animal forced against its will into traumatic experiments conducted upon them for the frivolous purposes of the synthesis of cosmetic products such as baby shampoo bearing the subtitle: 'no tears!' in a deeply unfortunate series of non-consensual events of animal cruelty
 
 [^ser]:A word which does not here mean 'serving the greater good' but may or may absolutely not mean 'service of worship of a higher power' here
 
@@ -167,7 +185,7 @@ so everyone is, all ways, late.
 [^H]: The headwaters of a river are **the smaller streams near its source, which combine to form the river**, constituent fractions of the ever-changing but overall self-similar Body of Water being composed of the same properties, molecular, physical, and thermodynamic, as the whole. See: Synecdoche.
 
 
-[^Part]:a minute portion of matter. "tiny **particles of** dust upon a coffin of a long-lost but not forgotten uncle whose name constructed of four characters and singular character in this story, collected before his descent and return to the Earth or shared origin from whence we all came as the performer of funeral rites uttered the words echoing countless cycles of stories stretching back to the first syllable of unrecorded time of subjectively experienced human history: 'dust to dust''. Physics: any of numerous subatomic components, photons, and alpha particles. Mathematics: a hypothetical object having mass but no physical size. the least possible amount. "he agrees without hearing the least **particle of** evidence". Similar: *Iota*. Grammar: (in English) any of the class of words such as _in_, _up_, _off_, _over_, used with verbs to make phrasal verbs.
+[^Part]:a minute portion of matter. "tiny **particles of** dust upon a coffin of a long-lost but not forgotten uncle whose name constructed of four characters and singular character[^char] in this story, collected before his descent and return to the Earth or shared origin from whence we all came as the performer of funeral rites uttered the words echoing countless cycles of stories stretching back to the first syllable of unrecorded time of subjectively experienced human history: 'dust to dust''. Physics: any of numerous subatomic components, photons, and alpha particles. Mathematics: a hypothetical object having mass but no physical size. the least possible amount. "he agrees without hearing the least **particle of** evidence". Similar: *Iota*. Grammar: (in English) any of the class of words such as _in_, _up_, _off_, _over_, used with verbs to make phrasal verbs.
 [^F]: A word which here means 'fitting into place sufficiently for its purpose', but can also mean 'very good' or 'delicious'[^D] which it does also mean here, but can also refer to the opposite of *Coarse*, as in Salt, as in what Lot's Wife was turned into as a result of his inability to Keep Moving Forward
 [^D]: 'Delicious' is a wonderful word deriving from 'delicacy' which can both mean a cuisine specifically (and often exclusively) enjoyed by a culture, which can oftentimes be enjoyed by a so-called 'outsider' to an even greater extent relative to said 'outsider's baseline perception of the taste of such, by virtue of its, and their, relative exclusion from their experience. This concept is itself paradoxically dualistic and self-same, as it touches upon the same underlying force that perpetuates fetishisation, as in the fetishisation of Transgender individuals stripping them of their humanity[^Fe]
 [^N!]: A similar tactic employed by Noise Artists, such as Lingua Ignota or CARPVS MORTVVM[^Self]
@@ -222,6 +240,7 @@ so everyone is, all ways, late.
 [^H]: The headwaters of a river are **the smaller streams near its source, which combine to form the river**, constituent fractions of the ever-changing but overall self-similar Body of Water being composed of the same properties, molecular, physical, and thermodynamic, as the whole. See: Synecdoche.
 
 
+[^Me]:
 [^Part]:a minute portion of matter. "tiny **particles of** dust upon a coffin of a long-lost but not forgotten uncle whose name constructed of four characters and singular character in this story, collected before his descent and return to the Earth or shared origin from whence we all came as the performer of funeral rites uttered the words echoing countless cycles of stories stretching back to the first syllable of unrecorded time of subjectively experienced human history: 'dust to dust''. Physics: any of numerous subatomic components, photons, and alpha particles. Mathematics: a hypothetical object having mass but no physical size. the least possible amount. "he agrees without hearing the least **particle of** evidence". Similar: *Iota*. Grammar: (in English) any of the class of words such as _in_, _up_, _off_, _over_, used with verbs to make phrasal verbs.
 [^F]: A word which here means 'fitting into place sufficiently for its purpose', but can also mean 'very good' or 'delicious'[^D] which it does also mean here, but can also refer to the opposite of *Coarse*, as in Salt, as in what Lot's Wife was turned into as a result of his inability to Keep Moving Forward
 [^D]: 'Delicious' is a wonderful word deriving from 'delicacy' which can both mean a cuisine specifically (and often exclusively) enjoyed by a culture, which can oftentimes be enjoyed by a so-called 'outsider' to an even greater extent relative to said 'outsider's baseline perception of the taste of such, by virtue of its, and their, relative exclusion from their experience. This concept is itself paradoxically dualistic and self-same, as it touches upon the same underlying force that perpetuates fetishisation, as in the fetishisation of Transgender individuals stripping them of their humanity[^Fe]
@@ -241,3 +260,14 @@ so everyone is, all ways, late.
 [^FA]: lexDef0: {lacronym} **"FA"** - *Fertile Abundance*; {Noen} | to "Fuck" the Soil of a heretofore Salted Earth and uncover an infinite Library of meaning beneath the surface. {prodverb} *"Oh, Sweet FA, May Your Silent Laughter Fore'er be Canned"* The term originated from{REDACTED} in {REDACTED} as a macabre joke about {REDACTED}tinned meat. {REDACTED} used the name of {REDACTED}, {REDACTED}{REDACTED} {REDACTED} and {REDACTED}, to refer to the canned meat {REDACTED}. The {REDACTED} the meat might be the Salted remains of the {REDACTED}. 
 [^Peak]: In London, "peak" is used to describe something bad or a random bit of bad luck. "Peak" can also mean the highest level or greatest degree. For example, one inhabitant of London might say "N seems to have reached the peak of his Academic career. Peak for him."
 [^schism]: lexDef {Noen} "In Our End is Our Beginning" | A {prodverb} invented by Noet. T.S. Eliot in his seminal *Twenty Three Quartets* i.e. "My psychiatrist diagnosed me with Schismtypal personality disorder but this was actually a typo due to his laptop being broken"
+
+Epitaph:
+---
+
+> *It is, surely, absurd to expect to feel normal, and make sense: I am an amalgamation of fervent cells existing despite all odds; I am the cascading chemical miracle of eating, and surviving; I am not designed to “feel normal”; am not designed, at all; I am experiencing consciousness as provided by wet tangles of electrical pulses; my god, none of this makes sense. It is a blessing, even to feel*
+
+– Adrian
+
+---
+
+

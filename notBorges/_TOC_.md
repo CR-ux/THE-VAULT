@@ -1053,7 +1053,7 @@ title: notBorges
 [[notBorges/lexicomythography/particle/strange/CLEW.md]]
 [[notBorges/lexicomythography/particle/strange/GNOENEOSNOWFLAKE.md]]
 [[notBorges/lexicomythography/particle/strange/I Am Coming To Glasgow To Kill You.md]]
-[[notBorges/lexicomythography/particle/strange/In the bothy.md]]
+[[B for Bothy]]
 [[notBorges/lexicomythography/particle/strange/LAYER TABLEAU.md]]
 [[notBorges/lexicomythography/particle/strange/LEXICOMYTHOGRAPHY.md]]
 [[notBorges/lexicomythography/particle/strange/Lexicomythography Wiki.md]]

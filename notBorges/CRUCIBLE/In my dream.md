@@ -21,4 +21,4 @@ It’s[^bbb] dyed. [^B]
 [^d]: [[Bear]][^bl]
 [^bl]: [[Bearly]][^bb]
 [^bb]: [[notBorges/The Bear Hunt Boogie]]
-[^bbb]: [[In the bothy]], [[Barnabie]]. 2023.
+[^bbb]: [[B for Bothy]], [[Barnabie]]. 2023.

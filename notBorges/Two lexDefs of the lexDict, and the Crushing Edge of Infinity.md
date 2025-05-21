@@ -9,4 +9,4 @@ permalink: Two lexDefs of the lexDict, and the Crushing Edge of Infinity
 - {REDACTED} Epigraph of The [[lexDict]], Edition XVIII, *Moon, The* Expansion, Year Unknown.
 # Chronography
 
-[^h]: *'[[In the bothy]]'* : A Lexicomythographic Analysis of Both "Y" and "I", The Journals of ARIA|DNE, 3994.
+[^h]: *'[[B for Bothy]]'* : A Lexicomythographic Analysis of Both "Y" and "I", The Journals of ARIA|DNE, 3994.

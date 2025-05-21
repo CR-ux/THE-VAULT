@@ -238,4 +238,4 @@ them</span>
 
 
 
-[^both]: [[In the bothy]]
+[^both]: [[B for Bothy]]

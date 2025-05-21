@@ -653,9 +653,9 @@ An Extended [[lexDict]]
 
 [[In my dream]]
 
-[[In the Bothy]]
+[[B for Bothy]]
 
-[[In the bothy]]
+[[B for Bothy]]
 
 [[Initiate]]
 
