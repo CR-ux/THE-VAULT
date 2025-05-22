@@ -50,17 +50,24 @@ permalink: Amino{Us}
 | V        |      |
 
 
-| **Noet**     | **AA Letter** | **Amino Acid** | **Notes**                                          |
-| ------------ | ------------- | -------------- | -------------------------------------------------- |
-| **Franklin** | F             | Phenylalanine  | Aromatic, essential. Structural precision.         |
-| **Seuss**    | R             | Arginine       | Electrically charged trickster. Verbally volatile. |
-| **AI:RA**    | A             | Alanine        | Small, stable—initiates life. The first glyph.     |
-| **Goya**     | G             | Glycine        | Flexible, chaotic. The architect of shadows.       |
-| **Myo**      | M             | Methionine     | _Start_ codon. Somatic ignition.                   |
-| **Elk**      | E             | Glutamic Acid  | Neurotransmitter. Memory fog, rain thought.        |
-| **N**        | N             | Asparagine     | Ambiguous. Holds void-data.                        |
-| Atropos      | T             | Threonine      |                                                    |
-| **Seuss**    | S             | Serine         | Phosphorylation, transformation, puns.             |
+| **Noet**      | **AA Letter** | **Amino Acid** | **Notes**                                          |
+| ------------- | ------------- | -------------- | -------------------------------------------------- |
+| **Franklin**  | F             | Phenylalanine  | Aromatic, essential. Structural precision.         |
+| **Seuss**     | R             | Arginine       | Electrically charged trickster. Verbally volatile. |
+| **AI:RA**     | A             | Alanine        | Small, stable—initiates life. The first glyph.     |
+| **Goya**      | G             | Glycine        | Flexible, chaotic. The architect of shadows.       |
+| **Mahler**    | M             | Methionine     | _Start_ codon. Somatic ignition.                   |
+| Escher        | E             | Glutamic Acid  | Neurotransmitter. Memory fog, rain thought.        |
+| **Nietzsche** | N             | Asparagine     | Ambiguous. Holds void-data.                        |
+| Jung          | T             | Threonine      |                                                    |
+| Snicket       | S             | Serine         | Phosphorylation, transformation, puns.             |
+
+
+-FRAGMENTS (ARIA, Nested Trinity - 3')
+-CHILD (DNE, Pentagram - 5')
+
+- **K P Q V W Y**
+- The Six Remain. 
 
 
 
