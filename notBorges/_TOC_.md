@@ -912,7 +912,7 @@ title: notBorges
 [[notBorges/The Airport.md]]
 [[notBorges/The Bear Hunt Boogie.md]]
 [[notBorges/The Body as a Secret.md]]
-[[notBorges/The Book of Halves.md]]
+[[THE BOOK OF HALVES]]
 [[notBorges/The Six.md]]
 [[notBorges/The Prophecy of The Praying Hands Halved.md]]
 [[notBorges/The Work of One.md]]

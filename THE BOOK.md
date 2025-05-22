@@ -748,6 +748,49 @@ Into the Tundra's Unknown Story- of such formidable character
 The character of this Story did not look back. 
 
 
+---
+
+
+
+🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
+{REDACTED}
+
+🜂 / ♞  | OBS: 15:00 | ε=0.007
+{REDACTED}
+
+🜃 / ♜  | OBS: 18:00 | N=10³⁶
+{REDACTED}
+
+🜄 / ♝ | OBS: 21:00 | D=3
+{REDACTED}
+
+
+
+
+---
+
+
+Through performing a Ritual, with an egg, by a learned chess player and lesser-known Witch, once thought and written down as fiction, but brought into Not-Being, which is to say, friction; Being--
+
+Flo drew the expanse of endlessnesses ahead of her, 
+
+down
+
+and in. 
+
+And somehow, 
+some how 
+not over
+writing 
+right there,
+or under
+anything 
+left here,
+she made it 
+through 
+
+
+[[TELOPHASE]]
 
 
 
@@ -758,17 +801,9 @@ The character of this Story did not look back.
 
 
 
-
-
-
-
-
-
-- N '/ ÆDRIAN REVEALED AS NIETZSCHE 
-- FLO ESCAPES 
-- FLO PERFORMS A RITUAL OF SELENA, BREAKS THROUGH ZENO'S PARADOX (INFINITE SPACE BTWN BOTHIES)
-- FINDS THE STONE CIRCLE 
-- 9,999 FLIES CAUGHT IN FUNNEL WEB AMIDST THE YEW TREE, BUZZING IN 23 MICROTONES
+- FLO PERFORMS A RITUAL OF SELENA'S, BREAKS THROUGH ZENO'S PARADOX (INFINITE SPACE BTWN BOTHIES)
+- FINDS THE STONE CIRCLE MENTIONED IN HILDR'S ARC
+- 9,999 FLIES *CAUGHT* IN FUNNEL WEB AMIDST THE YEW TREE, BUZZING IN 23 MICROTONES
 - FLO FALLS ASLEEAGAINST ONE OF THE STONES, (DREAMS IT IS SELENA'S GRAVESTONE WITH INSCRIPTION FROM MYO 'I'M SORRY';  AND THAT THEY TRAVEL THROUGH THE PORTAL OF THE FUNNEL ON THE YEW TREE)
 - WHICH LEADS TO ED.O'S APARTMENT, NO DOT CODE TO BE FOUND (SAME PERSON)
 	- SINGLE FLY ON HEXAGONAL SCRABBLE BOARD, FALLS ASLEEP, DREAMS FOR THREE SECONDS
@@ -777,10 +812,10 @@ The character of this Story did not look back.
 		- PRINTS LAYER_1-0(TRANSLATED) MESSAGES BETWEEN ARIA {SURNAME REDACTED} AND AI:RA
 			- ARIA'S RISE TO FAME
 			- OLEANDER'S GITHUB REPO QR CODE
-- WAKES UP, SEES THE ROCK IS ACTUALLY INSCRIBED WITH HILDR'S PROPHECY, ANOINTS THE ROCK WITH OIL (repels water, contrasts with Dot Code's watercolour paintings), REALISES 
+- WAKES UP, DANTE HAS DIED. SEES THE ROCK IS ACTUALLY INSCRIBED WITH HILDR'S PROPHECY, ANOINTS THE ROCK WITH OIL (repels water, contrasts with Dot Code's watercolour paintings), REALISES 
 - FLO RETURNS TO BOTHY, NO ADRIAN, NO MORE LEAN-TO/AXE, BRICKS HAVE EXPANDED INTO LOGS, NOW GLOWING IN THE HEARTH
 - FIRE EXPANDS, IMMOLATES ENTIRE BOTHY 
-- FLO REALISES THEY ARE ADRIAN, DANCES AROUND THE FIRE, CRYING, DRUMMING 
+- FLO REALISES THEY ARE ADRIAN, DANCES AROUND THE FIRE, CRYING, DRUMMING ON THE DANTE DRUM
 - VIXI IS WATCHING, FLIES OVER THE MOAT, REVEAL THAT THE HOSPITAL IS ACTUALLY THE CENTRE, ONE LAST NUCLEOTIDE/NOTE PASSING CYCLE (perhaps not redacted this time)
 - NOET BORGES FINAL LETTER TO ME 'i enclose the above which, after an infinite number of lifetimes of searching, i believe to be the circular book of legend'
 - BOOK SHRINKS INTO SINGULARITY WITH ENDIVEAN TECH / FAIR WELL DEVICE

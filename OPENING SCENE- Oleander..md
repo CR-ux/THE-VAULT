@@ -65,6 +65,10 @@ YOUR SOURCE,
 IS.
 
 
+**\<QR>**
+
+
+
 Oleander Rho Dover 
 Founder and Finder;
 THES|EUS
