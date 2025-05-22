@@ -5,7 +5,7 @@ permalink: THEME
 
 
 
-**Theme** | _noun_ | \ˈthēm\[^L]
+**Theme** | _noun_ | \ˈthēm [^L]
 
   
 

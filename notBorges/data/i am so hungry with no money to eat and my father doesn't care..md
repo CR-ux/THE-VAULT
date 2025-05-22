@@ -49,7 +49,7 @@ The dream culminates in a harrowing dentist scene, where the speaker endures int
 
   
 
-Discussion of [[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/ARTICLES, REFERENCES/THEME]]s
+Study on a ![[Theme]]
 
 1. **{REDACTED} and Neglect**
 

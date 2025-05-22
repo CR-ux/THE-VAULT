@@ -2,8 +2,8 @@
 permalink: LEFT HAND PATH
 ---
 
-<span class="right-align">INPUT ||
-the left hand path</span>
+INPUT ||
+the left hand path
 In 'The' so-called 'literature', and in pop psychology, there has been a prevalence of splitting the brain and its functions into 'sides'. 
 
 This 'Cultural Topology' or 'Sidedness', pervades every aspect of our existence, as we occupy a net-like dimension, which is simply a flattened projection of the True Reality, woven through everything. 
@@ -308,7 +308,7 @@ Which you watched, just then, become nothingness.
 You wonder if their hair will go. 
 
 If all that will be left,
-is that little yellow bow. 
+is that little yellow[^y] bow. 
 
 And then the jaw, and teeth, they crunch 
 Perhaps with the deepest resonance;
@@ -343,3 +343,4 @@ Left.
 [^Croen1]: lexDefio: {Collective Noen; Croen} "An *Orchestra* of Microphones"
 [^Croen2]: lexDefio: {Collective Noen; Croen} "A *Volume* of Cameras"
 [^dro]: ![[Layer U]]
+[^y]: ![[The Yellow Cupids Bow, Phonemes Between - on The Matter of the Sun and Moon]]

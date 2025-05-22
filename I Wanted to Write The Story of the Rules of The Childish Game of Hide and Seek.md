@@ -1,6 +1,5 @@
 
-<details>
-<summary>METACOMMENTARY</summary>
+METACOMMENTARY
 The Stone of Forced Endings
 THE JOURNALS OF ARIA|DNE
 Entry: 0 BCE
@@ -44,9 +43,8 @@ The Stone of Four Sendings is not a story, songbook, or gospel. It is a scryin
 It is the foundational evidence that augury, in this context, is not used to predict the future but to recover pattern from decidedly Blunt-Force damage — a diagnostic, rather than prophetic, tool. This distinction reorients the field around post-traumatic meaning rather than pre-event divination; hinting at the soon-to-come discovery of the importance of retrocausality; the Engine of Our Indefinite Library of Dictionaries and Definition.
 FILED UNDER: primary sources for comparative losswork and used in foundational LexScry training.
 
-</details>
 
-
+---
 
 
 - FAO: My Father, looming, unconcerned 

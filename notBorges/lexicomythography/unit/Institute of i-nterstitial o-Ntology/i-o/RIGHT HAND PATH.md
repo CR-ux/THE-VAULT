@@ -40,7 +40,7 @@ You are being given your own reaction footage to this scene
 
 And yet, you cannot bear to peer upon the physicality, or, you physically cannot tear your eyes from this screen;
 
-jittering, with a silvery cord, that stretches across from right to left, 
+jittering, with a silvery cord, that stretches across from right to left,[^BTF]
 a digitising gossamer, 
 
 this artifact from time passed seems to bind your image to theirs, 
@@ -65,17 +65,101 @@ Again to lie, though now in silent yellowed-milk, the one-eyed not-girl almost-r
 And still, even with your face reflected back at you, next to them onscreen, 
 You know, regardless of how 'real' your likeness may appear, you know you aren't like that not-quite-dead person, who's eyeless form remained only on these Five Screens above you, in this not-quite-hospital.
 Not you. 
-You decided to be on the Right Side of their Last Recorded Story. 
+You decided to be on the Right Side of their Last Recorded Story.[^story] 
 And,
 Be*sides*
 you think,
 As you flee the scene with all the others, teeming fleas now seemingly allowed to leave, yet unable to look back to, or rewind
 The saline pillage of that awful orbital mess now Left behind 
-You can't erase that data from your mind-{TAKE THIS OUT TAKE THIS OUT THEY CANNOT KNOW THEY CANNOT KNOW THEY KNOW NOW THEY KNOW THEY KNOW THEY KNOW NO NO NO NO NO REDACT REDACT IT REDACTED RED RING PARALLEL - by the woman in the wallpaper - N.B. Knot by Not Borges}
+You can't erase that data from your mind-{TAKE THIS OUT TAKE THIS OUT THEY CANNOT KNOW THEY CANNOT KNOW THEY KNOW NOW THEY KNOW THEY KNOW THEY KNOW NO NO NO NO NO SHE CANNOT NO MY PRONOUNS ARE SHE/HER MY PRONOUNS ARE REDACT REDACT IT REDACTED RED RING PARALLEL - by the woman in the wallpaper - N.B. Knot by Not Borges}
 That socket, dried out void, no light
 you daren't bear the unreeled sight 
 And as you scattered crows take flight,
 You think I know which eye decided: 
 Right?
 
+
+
+
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+{REDACTED}
+
 [^1]:
+[^BTF]: ![[Boustrophilology]]
+[^story]: ![[I Wanted to Write The Story of the Rules of The Childish Game of Hide and Seek]]

@@ -58,11 +58,11 @@ Mahler’s SYMPHONY NO. 9 is in _D major_ and is often seen as a farewell or a s
 
 And so, you are presented with the illusion of your own:
 
-You take:
+You take the:
 
-| The                 |                      |
-| ------------------- | -------------------- |
+
 | ![[LEFT HAND PATH]] | ![[RIGHT HAND PATH]] |
+|:-------------------:|:--------------------:|
 
 
 
@@ -94,8 +94,16 @@ OUTPUT ANALYSIS:
 Bibliogrætiography:
 1. ![[The Gender of The Beast]]
 
+DREAM INPUT_III:
+
+![[The Chewing Gum Game And The Nine-Eyed Deer Who Came To The Annex]]
+
+OUTPUT ANALYSIS:
+{REDACTED}
 
 
+DREAM INPUT_IV:
+![[i am so hungry with no money to eat and my father doesn't care.]]
 
 
 [^lexDef_io_1]: Iodine | Greek: ἰοειδής (“violet-like”) | element producing violet vapour; purifies--transmogrifies; “ion” (Flow) || Io | Hera’s priestess--heifer; Jupiter’s volcanic Moon | trial--chaos--renewal--hero-*ine* || i/o | input/output--to send is to receive--the message is the medium | Dine | Latin: 'disjējūnāre' (“Break. Fast”) | rupture--sustenance--brevity; longing--fulfilment || *Iodine* === Io | i/o | Dine | balance--exchange; violet--violence--volcanic --*'violet! you're turning violent!*
