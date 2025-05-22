@@ -62,7 +62,7 @@ Dr. NoetSeuss. 2025.
 > of Regret!
 > to Beget 
 > to forget.
-> *(To fore, Get!)*
+> *(To fore, Get!)*[^2]
 > Two Red! Four Red! 
 > Two! Four! Ten! Red!
 > Two! Four! Get! 
@@ -81,4 +81,5 @@ Dr. NoetSeuss. 2025.
 # ᶠᵒᵒᵗNoet(s)
 
 [^N.e]: [[N.ear]] - notBorges. Christmas 2024.
-[^r]: [[Refrain]] - [[lexDict, Edition VI]]. 2024.
+[^r]: ![[Refrain]] - [[lexDict, Edition VI]]. 2024.
+[^2]: "'{2,4}Give: The Characters Written For A Metaphysical Horror In Phi Parts" by The Characters {2, 4}Give. (Co-authored by The Woman In The Wallpaper)

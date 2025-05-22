@@ -5,17 +5,17 @@ permalink: I. THE GOSPEL ACCORDING TO MISCARRIAGE
 *by The Pawn.* 
 
 [[Why B is for 'Both']]
-[[I arrived in the garden]]
-[[notBorges/CARPVS/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/I|I]] ,[[Phage 23]], [[all i've, a live, a lie, ally, a liar, a lair, a layer, all ire, all eyer, all eye her, a lyre]]: [[Plea of the Pawn]];
+![[I arrived in the garden]]
+[[notBorges/CARPVS/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/I|I]] ,![[Phage 23]], [[all i've, a live, a lie, ally, a liar, a lair, a layer, all ire, all eyer, all eye her, a lyre]]: [[Plea of the Pawn]];
 [[this universe (which some call the hospital)]];
 [[The artist as dreamer]],
 [[the hospital, oar; the board]],
-[[Genesis]], or: [[RHO (ρ or ϱ)]], or:
-[[notBorges/aria-dne/Today’s futile, silent surgical recovery screams into the endless…]]
-[[Article by Dr Seuss on Enantiodromia Pending Acceptance From Publisher]]
-[[Penultimate]] [[Pendulum left in sight]]:
-[[FIRST]], [[notBorges/aria-dne/LAST]], 
-[[THE END OF DAYS]]
+
+
+![[Article by Dr Seuss on Enantiodromia Pending Acceptance From Publisher]]
+![[Penultimate]]:
+![[FIRST]], [[notBorges/aria-dne/LAST]], 
+![[THE END OF DAYS]]
 
 
  >

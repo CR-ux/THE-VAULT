@@ -2,9 +2,9 @@
 permalink: <% tp.file.title %>
 ---
 
-## or No Thing. i.e. {{lexDef}} All Th\[12\]re Is, Is: Meaning
+ or No Thing. i.e. {{lexDef}} All Th\[12\]re Is, Is: Meaning
 
-## METACOMMENTARY
+ METACOMMENTARY
 
 **Their names are not merely markers but dry-wipe palimpsests upon a makeshift whiteboard. Each layer unveiling, not just who they (plural) are but how they (singular) came to be. To read the reams of writings of Ed. O. as read by Dot Code and rewrite the readings taken by Dot Code written in red is a reading exercise in reaming. Which is to say to read, is to write the infinite layers of stories unwritten beneath them, unread because unready for writing—each an anagram of the last, each a proof[^pudding] doctored[^forgery] by the act of reading.**
 
@@ -131,24 +131,24 @@ Date: Unknown
 
 Subject, One Professor Ed. O., seems to have all but given up their white-cupboard cruxiverbal communication technique, once a fascinating tool for my Arachnoanthropological Analysis. Originally, this was disheartening, as it provided a window into their Gnoelogical Landscape, particularly for unpacking Oneirological Findings (their nightly bouts of sleep paralysis provided a sweet FA of Epsilon brainwaves - a novel neurological signal I have discovered and only found within this, sole, subject, hence its 'E, ε' character denotation). However, this next larval stage of correspondence, performed through their chosen IDE (EdeniaStudio, St. M. Endive, ERA_Æ), is an even deeper (albeit exponentially more confusing) well of Meaning and Memory, and I know, if I can just decode its technological Labyrinthine components, this may offer a groundbreaking insight into their baffling presentation, and potentially be the greatest discovery in the Field of Arachnoanthrology in the last Three Millenia.
 
-## FINDINGS SO FAR 
+ FINDINGS SO FAR 
 
 ---
 
 The language, what I am terming an 'esoegododecagoralang (EeDdlang), appears to follow set rules, some of which I have deduced using reverse transcription methodology, and discovered the inner workings of the communication system are lifted from our Devouring Mother Field of Boustrophilology:
 
-## COMPOLYMERASE 
+ COMPOLYMERASE 
 
 - The Professor has created a custom compiler that sits 'on top' of the language's syntactical layer, which works as the Compolymerases in Lexicomythographic Studies.
 	- This compiler has iterated through Three stages of development, and from what I can see so far, both the Second and Third 'versions' of the Compiler (ComPolII & ComPolIII) are used interchangeably to compile the code. These do not appear to map to the Second and Third Order Compolymerases of Boustrophilology.
 	- However, these Compolymerases do 'Scan' the code in a Boustrophilological⇄ modality.
 
-## 'SYMPHONEMES' 
+ 'SYMPHONEMES' 
 
 - Each 'codon block', or modular component of the 'Sophtware' is comprised of Nine, and only ever Nine, lines.
 - These component blocks are to be termed 'Symphonies', and are the smallest possible 'unit' of communication.
 
-## DAYLINE 'C{LEF(T)}'s, THE FIRST SEVEN LINES OF THE 'SYMPHONEME': 
+ DAYLINE 'C{LEF(T)}'s, THE FIRST SEVEN LINES OF THE 'SYMPHONEME': 
 
 - These lines seem to be annotated (to the left of the line separators within the customised IDE) with the Archaic 'Days of the Week' from anteAntiquity, forming the first Seven 'Daylines' of each Symphoneme.
 - The 'Sunday' (Day of Semibreve Rest) and finally, a Ninth Line, or 'Coda' (the only one without a C{Lef(t)}) is terminated with the keystone ":OdE":
@@ -163,7 +163,7 @@ The language, what I am terming an 'esoegododecagoralang (EeDdlang), appears to 
 
 - These First Seven Lines of the Symphoneme form the 'Opera Reading Frame', or the 'coding' component of the Sophtware.
 
-## THE EIGHTH LINE OF EXSANGUINIMITY 
+ THE EIGHTH LINE OF EXSANGUINIMITY 
 
 - The Eighth line of each Symphoneme C{Lef(t)}ed by what we, in my Field of Study, believe to have once represented a concept called 'Equality', "=",
 
@@ -173,13 +173,13 @@ The language, what I am terming an 'esoegododecagoralang (EeDdlang), appears to 
 - This line appears to be 'noncoding (ncOdE)', instead providing a placeholder for the programmer's moment of reflection
 	- This conclusion was drawn through observing the Prof. take a momentary pause (almost imperceptible, but with close inspection of brainwave signals, always present), in which they will ensure their spine is erect, and take a breath, as an opera singer preparing for a particularly powerful closing note of their Aria.
 
-## THE NINTH LINE OF RHO-DENDRITIC-REDUNDANCY 
+ THE NINTH LINE OF RHO-DENDRITIC-REDUNDANCY 
 
 - This final line acts as a transcription terminator, signalling the end (and beginning) of the Symphoneme.
 
 ``:OdE
 
-## DISCUSSION 
+ DISCUSSION 
 
 From what I can gather as yet, Prof. Ed. O. appears to be in a process of 'lifting over' Lexicomythographic methodology to Sophtware development, apparently attempting to 'interface the ineffable'. Personally, I do not see this as ever being possible, and this may mark the beginning of the end for the professor. I am incredibly worried for their wellbeing on a personal level. However, for the sake of this heretofore unseen opportunity for the advancement of Arachnoanthropological Science, studies will continue this evening at 23:00 hours.
 

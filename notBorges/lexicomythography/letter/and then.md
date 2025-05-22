@@ -1,7 +1,7 @@
 ---
 permalink: and then
 ---
-![[threnody 2.mp3]]
+
 ![[and then.canvas|and then]]
 
 
@@ -140,13 +140,13 @@ and you were listening to a record that
 
 you'd just
 
-	bought me 
+bought me 
 
 for this christmas 
 
 the first one 
 
-	i will spend 
+i will spend 
 
 not without you, 
 
@@ -224,7 +224,11 @@ and still i can't find the microphones  *leant*
 
 again, {only} I | forgetting, I |
 
-just still, live Loving, like a lean-to Loves a {Both}y[^both] | leant}
+just still, 
+alive
+still life 
+
+Loving, like a lean-to Loves a {Both}y[^both] | leant}
 
 on 
 

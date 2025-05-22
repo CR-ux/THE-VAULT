@@ -274,7 +274,7 @@ a trans wman and a former concert piainist who saw my own limitations not as an 
 
 [^lexDefIO]: (lexDefIO: a part of a Body {text, work, flesh} that is mssing in order to direct attention to its Wholeness)
 [^icarus]: (this sentence actually ended up being Perigee's first audibly spoken words).
-[^minerva]: See *Minerva Fighting Herself* (S & M Endive, XXIII_ERA_Æ) source: [[notBorges/aria-dne/MARS FIGHTING MINERVA]]
+[^minerva]: See *Minerva Fighting Herself* (S & M Endive, XXIII_ERA_Æ) source: ![[notBorges/aria-dne/MARS FIGHTING MINERVA]]
 [^Y]: [[The Yellow Cupids Bow, Phonemes Between - on The Matter of the Sun and Moon]] - *Xeno N., ERA_Æ/i|o*
 
 

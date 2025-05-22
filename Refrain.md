@@ -5,4 +5,5 @@ lexDef "Refrain" {usage::: Noen || Croen || Wyrb} < {A Suppressed Memory That Be
 
 [^RefrainNoen]: [[Bear]], we are never going on a bear hunt ever again
 [^RefrainCroen]: [[Choir]], [[Bear]] (The Great), 2021.
-[^RefrainWyrb]: [[Forbear]], Bear (The Lesser)
+[^RefrainWyrb]:  Bear (The Lesser)
+[^fb]: ![[Forbear]],

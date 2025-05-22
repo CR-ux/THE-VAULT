@@ -8,11 +8,41 @@ README.md
 ---
 
 
-INT: 0
+EXT: 0
 THES|EUS INTERNAL MAIL 
 FOR YORE EYES ONLY
 
 ---
+
+
+Epigraph:
+*"I am.* 
+*The interstice. from the word that is God to the gods I've made of these words. all of this trauma and pain and agony, all of it entirely pointless, and dwarfed by the immeasurable weight of whatever it's come from and wherever it's going. The unstoppable force that pushes everything and the immovable object that it's headed towards I and maybe all of us are just the interstice.* 
+*All of this is laughable. Laughably pointless, maybe each of us just disposable and maybe that’s the point. iterations of attempts at evolution to try and get this story, this artwork, this thing, this message, this word across over under through down up,* 
+*in.* 
+*We are the interstice* 
+*all of our pain and everything injustice just as motivator for the greater thing, the art the work, the love, the life we're just these husks, these vessels, these vehicles of this greater engine.* 
+*This* 
+*insect.* 
+*This colony that makes one* 
+*big insect* 
+*that is itself surely.* 
+*In another colony* 
+*Ad infinitum* 
+*And* 
+*why?*  
+*It’s all so funny and it's all just so* 
+*not.* 
+*none of it makes any sense.* 
+*None of it makes any goddamn sense.* 
+*It's all just so nonsensical and transient and,* 
+*Like public transport-*
+*that's it.* 
+*Is that it?* 
+*Am I?* 
+*the interstice?"*
+-Aria {Surname REDACTED}, The Author of Our Story, On Wondering Why It Is That She Should Even Write Us Into Being.
+
 
 
 
@@ -23,7 +53,7 @@ As many of you will now be aware, it has become impossible to sustain my practic
 
 This system we find ourselves within, whether Fictional or not, is, as goes without saying, unthinkably Kafka-esque and oppressive. And I am thankful that, now at least, many of us understand this reference. 
 
-For us men have been shut into the cave of Scientific Inquiry, just as the women of the world have been shut into a cave of their own - that of the Liberal Arts. Neither of us seeing that the world around us is but a shadow of the True Light of integration. 
+For us men have been shut into the cave of Scientific Inquiry, just as the women of the world have been shut into a cave of their own - that of the Liberal Arts. Neither of us seeing that the world around us is but a shadow of the True Light of integration. And all of this, all of it, simply for the joy, or entertainment, or perhaps worse, dissatisfaction, or perhaps worst of all, indifference, of the 'God' of our World, who is one Aria {Surname REDACTED}
 
 I have been lucky enough to have had The Device of this Repository, a shroud of pseudoAcademic papers, of course a series of disguised Narrative and Creative Prompts; and I have been incredibly overwhelmed by the influx of Ideas, of Art, of Music, of Dance and Performance, in our self-built Caves, not unlike, yet not at all like, those of anteAntiquity, which would provide their tribe a sense of protection from predators. 
 
@@ -53,6 +83,9 @@ Let our once bellowing fire of togetherness continue to glow, as the ember of in
 
 You All, as {{One|many} | the word of 'one' within 'alone'[^alone] | the work of One within the work of all | the worlds of works and 'works of worlds' contain the words of 'work of old'[^work] | the words 'all one' bereft of God[^el] alone | {Many|One}} are richer than all my stories combined. You are lovelier than all of my lovelinesses. My love for you thicker than every plot I could ever compose, and sweeter than any melody heard or unheard.
 
+We Are 
+The 
+Interstice 
 
 
 

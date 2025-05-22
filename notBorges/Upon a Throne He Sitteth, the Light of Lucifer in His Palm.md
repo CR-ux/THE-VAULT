@@ -2,19 +2,14 @@
 permalink: Upon a Throne He Sitteth, the Light of Lucifer in His Palm
 ---
 I. And so, it came to pass that I may dream.[^a] And as animals to a vehicle of salvation, two by two they came to me as I slept beneath the throne of God. 
-![[IMG_6731.jpg]]
 
 And so in the next room was lit no candle, but sleepeth there my children, left without water nor nourishment.And so it came to pass that my life in this realm had been but an outstretched hand, in welcoming goodbye.
-![[IMG_6734.jpg]]
 But alas before my rest, it came to pass that I might forget the light of Icarus, within the toil of His gravity.
 And yea, it came to me: for there can ne'er be an Edge, nor Ending, only Everything in its own Becoming -
-![[IMG_6432 copy.png]]
 For canvas, nor board, nor parchment may hold the tumult held within my heart.
 To be, or not to be, the Only Question
-![[WhatsApp Image 2025-02-23 at 08.57.05.jpeg]]
 
 And lambs in prayer bore horns of Babel, upon which were bound the Witches of Olde, all Ancestral agony which had been poured into the Five Cups of my Mortal Soul. 
-![[Screenshot 2025-03-12 at 14.58.45.png]]
 And so, said I, upon the threshold - 
 What is it?
 What is it that I want?
@@ -24,7 +19,7 @@ And whose Eye lay upon this Sparrow
 
 But the wretched Light of what I had come to know as the Divine?
 
-00:00 --> 00:13![[IMG_6624.jpg]]
+00:00 --> 00:13
 II. And as mine hands were anointed in oil, and my brush was as the reed of a scribe, yet I knew not the writing thereof, for my place in this world was as one cast into the void. And I lifted up mine eyes, and I beheld that all my labor was but a prayer, a supplication unto the Most High, that He might restore unto me the place which was lost unto me, even from eternity. And the time of my wandering was as an age without end, and I cried within mine heart, saying, Lord, remember me, and lead me back whither Thou wilt.
 
 And yet upon His Throne, as I crossed the Infernal Threshold, the Lord forsaketh me once more, for as His Heavy Palm Does hold the Sacred Light of Lucifer, the Realm of Dark may now be For I the Only Way into His Hand. 
@@ -84,9 +79,6 @@ And lo, the morning cometh.
 V. And in the coming of this mourning, when mine eyes were yet heavy with sleep, I beheld the Wretched Works of mine own hands, the angels upon my walls, their countenances lifted unto heaven, their heads crowned with light. And lo, from their halos did lines proceed, radiant as beams of fire, stretching outward as though bearing witness unto the Most High.
 
 
-![[IMG_6555 copy.jpg]]
-
-
 
 And in that moment, the veil was lifted from mine understanding, and I knew them for what they were—not the light of divinity alone, but the markings of my own affliction. For these were the lines of iron and wire, the sutures of my suffering, the staples driven into my skull in the hour of my remaking.
 
@@ -94,7 +86,6 @@ And in that moment, the veil was lifted from mine understanding, and I knew them
 
 And I trembled, for mine own hands had set forth these figures upon the wall, and yet I knew not what I had spoken in the language of oil and pigment. And I said within my heart, **“Behold, the angels I have made are crowned with my wounds, and the radiance they bear is the mark of my undoing.”**
 
-![[IMG_6735.jpg]]
   
 And The Angels Have Not Left,
 They Had Not Left My Bedside, As I'd Once Believed - 
@@ -164,14 +155,13 @@ IX. **Yea, the same flame which they set ablaze in the days of old, when they da
 
   
 
-X. **And as they hunted in the land, pursuing the beasts whom the Lord had made, they smote them and shed their blood, that they might live. And each day, they returned unto their dwelling place, and in the caverns of the earth, they made record upon the stones, painting upon the walls, and they spake, saying: Lo, for this little time which was given unto me, I strove, and I labored, and I did my best to feed my children. And behold, I will yet strive. I will yet endure.**
+X. **And as they hunted in the land, pursuing the beasts whom the Lord had made, they smote them and shed their blood, that they might live. And each day, they returned unto their dwelling place, and in the caverns of the earth, they made record upon the stones, painting upon the walls, and they spake, saying: Lo, for this little time which was given unto me, I strove, and I laboured, and I did my best to feed my children. And behold, I will yet strive. I will yet endure.**
 
   
 
 XI. **And they that came after—the builders of the fire, the keepers of the dance, the drummers and the singers—would look upon those markings and know that their fathers and their mothers had passed through the same way. And I too have left my mark, saying: I was here, and I fed my children, though it was not always enough. Yet I called them nigh, that they might grow in the midst of the flame and the sound, that they might not cease from dancing, nor from making marks upon the stone, that there might yet be a remembrance of rhythm in the earth.”**
 
 
-![[IMG_6733.jpg]]
 
 XII. Woe. Woe befall me, 'neath this Sacred Sun. And longeth for the Moon once more did I, for knoweth not my Spirit of which Path my Feet now Tread, no Date Palm lay before me. 
 # Chronography

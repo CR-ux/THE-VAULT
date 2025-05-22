@@ -2,4 +2,4 @@
 permalink: FIRST
 ---
 
-see [ultimate](ultimate.md)
+see ![[ultimate]]

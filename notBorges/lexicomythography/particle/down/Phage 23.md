@@ -1,7 +1,8 @@
 ---
 permalink: Phage 23
 ---
-![[Phage 23.wav]]
+<AUDIO FILE{SOURCE REDACTED}>
+
 *Episode 23 of the Literary Critique podcast discussing The Woman In The Wallpaper's seminal Work, "Phage 23" {do knot, cite yore} source: an unreleased journal, "Red, Ring, Parallel," referenced in an art installation. **The journal entry** itself focuses on the book's content, and its controversial withdrawal. This Podcast was the first time the Work has been discussed publicly, and (following the outcry resulting from its release) was subsequently (within three seconds {of a {single drosophila('s)} dream}) removed from streaming platforms *
 
 

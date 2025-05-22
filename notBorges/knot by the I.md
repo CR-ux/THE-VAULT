@@ -89,7 +89,7 @@ Sonography
 [^w]: lexDef "Well" {usage:: Noen } A penetrating structure as a vessel of death. See: ![[Ex Libris Borges]]
 [^h]: lexDef "Hearth" {usage:: Noen || Croen || Wyrb || badverb || prodverb } { {A Heart, Hurting | Healing} || Two or more Hearts, Healing through Hurting. || Archaic: To Hurt Another's Heart in order to Heal One's Own. Or, More Commonly, To Heal Another's Heart by Hurting One's Own. || To Be Hurtful In Your Healing Another; as in the burning of wood to warm your loved ones ||  "*Harness and Contain the Flame, to keep your children safe from it*"}[^re]
 [^c]: "[['to forgive the characters'. a lexicomythographic prodverb]]" - [[Opening Letters to Forgiven Characters, 9th Edition The Lexicomythographic Guide to Dictionaries]], April 17th, 1994
-[^and]: [[and then]]
+[^and]: ![[and then]]
 [^u]: [[Upon a Throne He Sitteth, the Light of Lucifer in His Palm]], [^uu]
 [^uu]: "[[notBorges/notBorges/Upon Reading Fabienne Elina's Paper On The Sound Of A Single Vowel|Upon Reading Fabienne Elina's Paper On The Sound Of A Single Vowel]]" - From Callie Rose Petal's Unfinished PhD Thesis - [[c is for the ocean salt crystal pillars of used to be called upon shore after Turing calliope]]
 [^n]: affixed to the inside of the lid of the Box, nestled within a cut-out booksafe, within the middle chapter of the manuscript {now REDACTED}. The score lines around the perimeter of the secret pages appear to be bleeding; suggesting the violent pages now absent, and the potential of some supernatural Life, now snuffed out, that the Book itself once experienced.[^s]

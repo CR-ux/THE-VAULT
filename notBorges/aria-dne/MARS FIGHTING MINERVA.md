@@ -6,7 +6,6 @@ permalink: MARS FIGHTING MINERVA
 
 Minerva Fighting Mars (Combat de Mars contre Minerve) is an oil-on-canvas painting once thought to be created in 1771 by who was thought to be the French artist Jacques-Louis David.
 
-[[![[The_Combat_of_Æres_and_Æthena.jpg]]]]
 
 
 Interpretation of “Minerva Fighting Herself”

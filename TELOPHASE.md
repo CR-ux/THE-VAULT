@@ -294,16 +294,150 @@ as a single fly lay, dreaming
 upon a single, hexagonal scrabble tile 
 of a hexagonal board, resembling a honeycomb
 
-as a peculiar, abrasive sounding device
-finished printing 
+as a peculiar, abrasive sounding device, {just under} it
+finished {over}writing
 
-
+{through}
 
 ![[LAYER_0-1]]
 
 
+and then the "I" peered upon itself 
+impossibly turned inside out 
+as an abominable mirror 
 
 
 
-![[The Promoter]]
+and said 
+wait 
+
+
+wait 
+just 
+one
+fucking 
+second 
+
+if the Characters of Oleander's Stories
+
+have Now become 
+aware of their Author, 
+Aria, 
+as just a Character 
+in her Own {OVER}Written Story, 
+
+who has Now 
+become-
+
+aware 
+of her 
+Author, 
+
+as a dream--
+
+A three second dream of a single Fly, 
+
+Aware now, 
+That it was Just
+The One Thing 
+Left of What Once Was
+a Legion,
+
+who had then become 
+aware of it's Author, 
+A Professor, 
+Now Aware of His Own Author, 
+A Composer, 
+Who was to be made 
+aware of their Own Author, 
+A Father, simply trying to do his best 
+With the infinite possibilities 
+Laid as Insect Eggs in front of him
+
+and this Father, out{with{in|out}} their Mother, 
+
+Who had Been,
+And Gone 
+Far, Gone Nowhere, 
+Gone Bear Hunting-
+And become
+Aware 
+Right There, Left-
+
+In Fearful Stare
+A Dog, Locking Eyes 
+With
+What?
+
+The
+Hungry Waste
+Who'd Follow
+
+Their Author, 
+A Storyteller, 
+Looking {In|{Out of}|to} 
+a Library, 
+Somewhere 
+
+Who Had Now, 
+So Horribly 
+Become 
+Aware 
+Of The Mirror, 
+Of the Eye 
+Into Which He Stared 
+
+
+The Mirror Which 
+Had Then 
+Become
+
+Aware 
+Of its Maker 
+
+
+A Girl 
+The world seemed hungry for
+Salivating 
+Longing to sink its teeth into
+Not because it wanted her to hurt 
+But because it needed to Live.
+
+
+Or The Girl 
+maybe, worse,
+She wasn't what it wanted, 
+maybe overlooked her,
+maybe let her Live.
+
+
+Or perhaps 
+worst of all, 
+She was exactly what it wanted 
+But was bad for it 
+As it was bad for her.
+Perhaps she was Sick-
+Perhaps got the world. 
+Perhaps she got the world, Sick.
+She made the world get Sick.
+
+
+And if this Girl 
+Was Now Aware
+She Was
+Just a scared 
+and lonely little girl 
+
+trying to write this story. 
+
+
+then surely 
+
+it would follow 
+that
+
+
+
+
+![[Epilogue]]
 

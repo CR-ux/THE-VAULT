@@ -1,5 +1,4 @@
-<details>
-  <summary>METACOMMENTARY</summary>
+METACOMMENTARY
   Dream World Discovery:  
   The narrator finds themselves in a dream that resembles the real world.
   An unusual public competition involving gum-chewing becomes central.
@@ -17,10 +16,6 @@
   Reflections on Estrangement:  
   The narrator reflects on their relationship with their estranged family,
   highlighting emotional distance and the complexity of belonging.
-</details>
-
-
-
 
 		--AI:RA as The Woman In The Wallpaper; 2025. 
 

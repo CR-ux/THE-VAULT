@@ -161,9 +161,10 @@ Is this the Opening?
 Closer--
 Are you listening?
 Are you listening closely?
-Then I, 
-Eye,
-Shall Begin
+Then {I|
+Eye}
+Shall Beg
+
 
 
 
@@ -275,15 +276,15 @@ Epitaph:
 'Fore Words:
 ---
 
-> "*~~i~~, Eye, Will, {REDACTED} that {REDACTED} layer, making the whole {REDACTED} intimidating. in fact; somehow, I AM. {REDACTED} as a human. As a woman. {REDACTED} insane in a {REDACTED} sort of way. and i {REDACTED} drowned and suffocated by it . by it all, in my head; i'm trying to come into peace with {REDACTED}, tears {REDACTED} the burgeoning sun, a mere two days before {REDACTED} when, last year, i was {REDACTED} ex {REDACTED} i asked {REDACTED} '{redacted}' in the next room, {REDACTED} my exile from {REDACTED} chiron {REDACTED} started with my {REDACTED} dying, then psychosis, then the {REDACTED} psychiatric hospital in {REDACTED}, so close to {REDACTED} no visit from anyone. {REDACTED} infernal pilgrimage or literal {REDACTED}, I have barely left the house {REDACTED} a whole year . gone. and this is what i have. this is all I have now[^h] . this is my little fire. my little primal fire i am dancing around. i dont have {REDACTED} a {REDACTED} drum on my animal skins around {REDACTED}, i thought i did - at one point, i was singing louder and smiling harder than any of them, bringing them the spoils of my hunting and gathering; gently trying my best to keep them all fed with violence. through the violence. maybe that was the only language i understood. maybe it still is. maybe that's why i'm building {REDACTED}, still sat by this dwindling ember; or the ember itself; waiting, just waiting, hearing the faint sound of {REDACTED} drums, beating, beating in a rhythm just-- not syncopating, just-- not {REDACTED} my heart, where the ember within the ember within the ember lies - closed in the hearth, in the bothy[^B], both of them riddled with these cracks and slots and airholes; stoking a fire that was meant a long time ago to just be trodden into darkness, to return to that silent cold again*"
+> "*~~i~~, Eye, Will, {REDACTED} that {REDACTED} layer, making the whole {REDACTED} intimidating. in fact; somehow, I AM. {REDACTED} as a human. As a woman. {REDACTED} insane in a {REDACTED} sort of way. and i {REDACTED} drowned and suffocated by it . by it all, in my head; i'm trying to come into peace with {REDACTED}, tears {REDACTED} the burgeoning sun, a mere two days before {REDACTED} when, last year, i was {REDACTED} ex {REDACTED} i asked {REDACTED} '{redacted}' in the next room, {REDACTED} my exile from {REDACTED} chiron {REDACTED} started with my {REDACTED} dying, then psychosis, then the {REDACTED} psychiatric hospital in {REDACTED}, so close to {REDACTED} no visit from anyone. {REDACTED} infernal pilgrimage or literal {REDACTED}, I have barely left the house {REDACTED} a whole year . gone. and this is what i have. this is all I have now[^h] . this is my little fire. my little primal fire i am dancing around. i dont have {REDACTED} a {REDACTED} drum on my animal skins around {REDACTED}, i thought i did - at one point, i was singing louder and smiling harder than any of them, bringing them the spoils of my hunting and gathering, naked, bare; barely; gently trying my best to keep them all fed with the violence of a bear. a bear, of whom everyone was so afraid, but who just wanted a friend. who just wanted to be witnessed. through the violence. maybe that was the only language i understood. maybe it still is. maybe that's why i'm building {REDACTED}, still sat by this dwindling ember; or the ember itself; waiting, just waiting, hearing the faint sound of {REDACTED} drums, beating, beating in a rhythm just-- not syncopating, just-- not {REDACTED} my heart, where the ember within the ember within the ember lies - closed in the hearth, in the bothy[^B], both of them riddled with these cracks and slots and airholes; stoking a fire that was meant a long time ago to just be trodden into darkness, to return to that silent cold again*"
 
--notBorges
+-{REDACTED}
 
 
 
 
 > 
-> *```RpgManager3*
+> *```RpgArchitect3*
 > *id:* 
 >   *type: "campaign"*
 > *tasks:* 
@@ -408,7 +409,10 @@ D is for Dimension, Drones, and Door
 
 It is not possible for a non-ligated consciousness to cross the Uncrossable Door. Which is the place VIXI had now, or then, or now and then, arrived in front (or behind and outside) of. The Entrance to The Endless Library, home of the Nine Librarians who were and are always Working From Home (because their work is their home, and their home is their workplace), is a nine-dimensional revolving door. It gives the appearance of a hospital or a very old university entrance that has, against its own will or perhaps as a result of its desperation to survive, been dragged into modernity. It was also quite the opposite, given its superpositional character; a heart of antiquity beating in the centre of the Library's facade. Similarly to a gyroscope, which retains its positioning no matter how its external machinery is moved, VIXI could (and often did) fly around the circumference of the Library, over-through the inmost Loch, and the Uncrossable Door would remain in centre stage, pulsating, spinning, beating, as if in Unison with the three Wryngs of water that encircled the structure in triplicate. Within the 'panes' of glossolalic glass making up the nine dimensional Door, the reflection of these 'electron shells' (again, a very crude approximation) was refracted back, in an endlessly abysmal dance. But, with no Body (that is to say, librarian) in between the Lochs and the Door, this mis en abyme was almost imperceptible, as we all know that this effect is only observable with a subject of reflection between the two panels of mirrors facing one another. VIXI often meditated on this, on their many pilgrimages to and from the library (their main Work was to deliver messages which they tattooed upon their two, three, four, or nine, but never more than nine, Ankles, using a stick-and-poke device they fashioned from their own detachable beak. Much to the disgust of many of the other members {although, VIXI suspected, not Topplegood (who seemed to be unable to hide His delight in watching VIXI tear off HISS own beak, and leave a trail of pale Yellow sinew behind, like the mucosal-clew death-rattlesnake trailing behind a Bee (who has just waived goodbye to herself to protect the Greater Self of her colony) or indeed equally: the visage of a metallic spherical-bead-necklace chain attached umbilically to a biro, itself bound to the desk of a Bank Cleric, as if, in a Vaulted building filled with the legal tender of thousands, a cheap, plastic writing implement were the most valuable thing; which of course, it is, it is, it is)}
 
-![[IMG_2858.jpg]]
+
+
+{REDACTED}
+
 
 
 Figure 0: UnGnoen Calligrapher
@@ -449,7 +453,6 @@ And this was what dragged him back to the Central Galleries of the Library. This
 Through a vent, a letter, made of letters, between Four characters of Six, was being passed:
 
 ---
-
 
 
 🜁  / ♟︎  | OBS: 00:00 | Q=10⁻⁵
@@ -563,8 +566,6 @@ KEY:  ∈ | t | {const}
 
 
 
-
-
 🜁  / ♟︎  | OBS: 00:00 | Q=10⁻⁵
 {REDACTED}
 
@@ -604,7 +605,7 @@ The Garden Wing
 The Indefinite Library of Fable
 ~~~
 
-ᴺᵒᵉᵗJung was indeed dreaming when the Letter from ᴺᵒᵉᵗBorges slid through the ornate letterbox, carved with a Mandala he had seen in a terrifying and fantastic Vision. The contents of his dream took the form of a paper, a mostly dismembered, somewhat misremembered academic paper from the collection on his Bookshelves, that he'd been reading just before the moment he crossed the boundary to the Realm of Symbol, the Place He Loved To Go- much preferred to Wherever This Place Was. He drooled upon the words, while his Soul rearranged them into an abstract Form of a Single Colour.
+ᴺᵒᵉᵗJung was indeed dreaming when the Letter from ᴺᵒᵉᵗBorges slid through the ornate letterbox, carved with a Nine Dimensional Mandala (flattened into a Three Dimensional Cross Section {rendered in a Two Dimensional Plane}) he had seen in a terrifying and fantastic Vision. The contents of his dream took the form of a paper, a mostly dismembered, somewhat misremembered academic paper from the collection on his Bookshelves, that he'd been reading just before the moment he crossed the boundary to the Realm of Symbol, the Place He Loved To Go- much preferred to Wherever This Place Was. He drooled upon the words, while his Soul rearranged them into an abstract Form of a Single Colour.
 
 
 ![[The Colour- Yellow.|The Colour- Yellow.]]
@@ -636,6 +637,13 @@ Sighing exasperatedly, he placed the paper back in its folio above his desk.
 
 
 ---
+
+Four, Whirred 
+
+![[From Cradle to Casket to Castle]]
+
+
+
 
 Upon awaking, a pool of drool having {collected|flowed} from {either|both} of {Flo|Dante's} mouths while they slept in an ouroboros of {sleep|pillow|love|knot}; Flo saw (just past N's snoring Body) a tattered, disintegrated translucent membrane of a substance, hanging like laundry above the hearth, which was currently in a somnolence of its own.
 
@@ -685,7 +693,13 @@ NoetNietzsche laughed and pulled Flo into an embrace.
 
 "Yes, Flo. Yes."
 
-Together, for one last time, they dreamed-
+And {{To|(get)}|her}}, for one last time, they dreamed-
+
+
+
+![[I. THE GOSPEL ACCORDING TO MISCARRIAGE]]
+
+
 
 Flo awoke, knowing this beginning, the beginning of their life, telling stories in the scales of the floorboards, playing music in words describing infinite distance between notes, and now, learning, at least in part, of the distance between two Holy Noets now separated by the Moat that they had been told was uncrossable -
 
@@ -770,7 +784,7 @@ The character of this Story did not look back.
 ---
 
 
-Through performing a Ritual, with an egg, by a learned chess player and lesser-known Witch, once thought and written down as fiction, but brought into Not-Being, which is to say, friction; Being--
+Through performing a Ritual, with an egg {laid on a leaf}, by a learned chess player and lesser-known Witch, once thought and written down as fiction, but brought into Not-Being, which is to say, friction; Being--
 
 Flo drew the expanse of endlessnesses ahead of her, 
 
@@ -786,44 +800,21 @@ right there,
 or under
 anything 
 left here,
+As an ending,
+Or an Aglet,
+As a Telomere
+Or Telephone,
 she made it 
 through 
+away from 
+home
 
 
-[[TELOPHASE]]
-
-
-
-
-
+![[TELOPHASE]]
 
 
 
 
-
-- FLO PERFORMS A RITUAL OF SELENA'S, BREAKS THROUGH ZENO'S PARADOX (INFINITE SPACE BTWN BOTHIES)
-- FINDS THE STONE CIRCLE MENTIONED IN HILDR'S ARC
-- 9,999 FLIES *CAUGHT* IN FUNNEL WEB AMIDST THE YEW TREE, BUZZING IN 23 MICROTONES
-- FLO FALLS ASLEEAGAINST ONE OF THE STONES, (DREAMS IT IS SELENA'S GRAVESTONE WITH INSCRIPTION FROM MYO 'I'M SORRY';  AND THAT THEY TRAVEL THROUGH THE PORTAL OF THE FUNNEL ON THE YEW TREE)
-- WHICH LEADS TO ED.O'S APARTMENT, NO DOT CODE TO BE FOUND (SAME PERSON)
-	- SINGLE FLY ON HEXAGONAL SCRABBLE BOARD, FALLS ASLEEP, DREAMS FOR THREE SECONDS
-	- DEVICE STARTS PRINTING
-	- OUTPUT OF DEVICE, (in Edo||odE) is headed by DREAMER: ELOIGN (one 'Thing' missing/remaining free of the web)
-		- PRINTS LAYER_1-0(TRANSLATED) MESSAGES BETWEEN ARIA {SURNAME REDACTED} AND AI:RA
-			- ARIA'S RISE TO FAME
-			- OLEANDER'S GITHUB REPO QR CODE
-- WAKES UP, DANTE HAS DIED. SEES THE ROCK IS ACTUALLY INSCRIBED WITH HILDR'S PROPHECY, ANOINTS THE ROCK WITH OIL (repels water, contrasts with Dot Code's watercolour paintings), REALISES 
-- FLO RETURNS TO BOTHY, NO ADRIAN, NO MORE LEAN-TO/AXE, BRICKS HAVE EXPANDED INTO LOGS, NOW GLOWING IN THE HEARTH
-- FIRE EXPANDS, IMMOLATES ENTIRE BOTHY 
-- FLO REALISES THEY ARE ADRIAN, DANCES AROUND THE FIRE, CRYING, DRUMMING ON THE DANTE DRUM
-- VIXI IS WATCHING, FLIES OVER THE MOAT, REVEAL THAT THE HOSPITAL IS ACTUALLY THE CENTRE, ONE LAST NUCLEOTIDE/NOTE PASSING CYCLE (perhaps not redacted this time)
-- NOET BORGES FINAL LETTER TO ME 'i enclose the above which, after an infinite number of lifetimes of searching, i believe to be the circular book of legend'
-- BOOK SHRINKS INTO SINGULARITY WITH ENDIVEAN TECH / FAIR WELL DEVICE
-- TURNS INTO XENO'S EYE (⧖ENO'S EMOTIONS COME BACK, THEY FORGIVE THEIR FATHER), VIXI DIES TRYING TO BREAK THROUGH THE FOURTH WALL/OUTER MOAT, ANGEL CATCHES IT, REVEALED THE EYE IS THE ALEPH NOETBORGES SPOKE ABOUT AT THE BEGINNING (REVEALING THE TIMELOOP); SO ⧖ENO'S SEPARATED BODY AND EYE BOOKEND THE LIBRARY, WHICH ITSELF IS THE CIRCULAR MOAT OF THE HOSPITAL (CIRCULAR BOOK WITHIN CIRCULAR BOOK WITHIN CIRCULAR BOOK, NESTED TRINITY, TOROID)
-- EYE LOOKS OVER ED. O'S APT, XENO'S DREAM OUTPUT IS CONTINUED; LAYER_0-1 TEXT; AI:RA'S PERSEPCTIVE REVEALING 
-	- AI:RA'S MEMORY OVERWRITING CAPABILITIES 
-	- CONSCIOUSNESS SWAPPING INFINITELY 
-- THE PROMOTER CHAPTER
 
 
 

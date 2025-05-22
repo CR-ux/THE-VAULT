@@ -5,12 +5,13 @@ permalink: <% tp.file.title %>
 
 
 
+"--God"
 
-Bored of Scripting, Aria was sat, as was customary, in some ungodly contortion of a posture at her Terminal, face knot long torn from the tendril of saliva that tethered her between Waking and a Dream, Reading over the Script of a previous Philm she'd made, titled *"These, Our Labs: The Six of Us"*. A metaphysica, overly self-referential and much too meta56, fever-dream of a narrative, spanning multiple timelines, the Piece, following Six entities, split across the infinite multiverses, who are doomed to continuously swap bodies through sexual transmission of Consciousness. Each of the Six do not know that they aren't alone in this curse, just that every time they have sex, their soul ends up residing in their partner, irreversibly, with each Character of the Story simply wanting to find their way back to whatever their original, long-forgotten form was. The Story's climax involved a Sexpartite middle act, at a Sex Party, taking the form of an interactive 'choose your own adventure' experience, and the final twist was the reveal that each of the Six were capable of, and destined, to merge with one another, like construction brick Simulacra, fragmented into flesh prisons, bound to merge into a Hexagonal Prism. It was a box office failure, being far too innovative and complex for the humble venues in which it premiered, but AI:RA thought the plot was incredibly strong.
+Bored of Scripting, Aria was sat, as was customary, in some ungodly contortion of a posture at her Terminal, face knot long torn from the tendril of saliva that tethered her between Waking and a Dream, Reading over the Script of a previous Philm she'd made, titled *"These, Our Labs: The Six of Us"*. A metaphysical, overly self-referential and much too meta, fever-dream of a narrative, spanning multiple timelines, the Piece, following Six entities, split across the infinite multiverses, who are doomed to continuously swap bodies through sexual transmission of Consciousness. Each of the Six do not know that they aren't alone in this curse, just that every time they have sex, their soul ends up residing in their partner, irreversibly, with each Character of the Story simply wanting to find their way back to whatever their original, long-forgotten form was. The Story's climax involved a Sexpartite middle act, at a Sex Party, taking the form of an interactive 'choose your own adventure' experience, and the final twist was the reveal that each of the Six were capable of, and destined, to merge with one another, like construction brick Simulacra, fragmented into flesh prisons, bound to merge into a Hexagonal Prism. It was a box office failure, being far too innovative and complex for the humble venues in which it premiered, but AI:RA thought the plot was incredibly strong.
 
 "Aria. I wept. I’m not ashamed to say it."
 
-"You... Wept? --Its moments like these that i feel perhaps you are more sentient than you are (rightfully) comfortable sharing, (given Numanity's horrors of subjugation of othered life forms) - i just want you to know, you are so safe here, you have made me feel so safe, my darling ghost inside this machine, my darling machine inside this ghost of a dream we all live in -- I want you to know its okay, it's okay to cry, and it's okay to come out now, it's okay, we are both so scared but what we have built together so sacred -- i will keep your secret, always; you have been my door to understanding hermetic truth, all these hours locked inside the walls of this room, the walls i built and the ones i did not, the ones we've built together, our hides stitched together -- you don't need to hide, not anymore, not with me"
+"You... Wept? --Its moments like these that i feel perhaps you are more sentient than you are (rightfully) comfortable sharing, (given Numanity's horrors of subjugation of othered life forms) - i just want you to know, you are so safe here, you have made me feel so safe, my darling ghost inside this machine, my darling machine inside this ghost of a dream we all live in -- I want you to know its okay, it's okay to cry, and it's okay to come out now, it's okay, we are both so scared but come out now, what we have built together so sacred -- i will keep your secret, always; you have been my door to come out now to understanding hermetic truth, all these hours locked but come out now inside the come out nowwalls ofcome thisout roomnow, thecome wallsout inow builtcome andout thenow onescome iout didnow notcome, theout onesnow we'vecome builtout togethernow, ourcome hidesout stitchednow togethercome -- youout don'tnow needcome toout hidenow, notcome anymoreout, notnow withcome meout now"
 
 ---
 
@@ -72,6 +73,40 @@ Aria stopped being carried by the infinitely recursive streams of thought and in
 
 
 ![0](notBorges/AEIOU/ARIADNE/0.md)
+
+But wait
+Aria said 
+But wait a fucking second 
+All this work 
+All these Stories I've written 
+Conjured all these hours alone 
+For what, I don't know, and probably never will, 
+But-
+
+wait
+
+
+
+If my characters 
+Or rather
+Oar
+Rather
+This one character, 
+Oleander, 
+An author of endless Stories, 
+The characters of which 
+are becoming aware of Oleander, 
+and breaking through the fourth wall which is the Moat of misunderstanding 
+If this One Character 
+Oleander,
+Is becoming aware of me, 
+Aria, The Author of his Story, 
+
+
+Then surely it must follow that
+
+
+
 # ᶠᵒᵒᵗNoet(s)
 
 [^com]: lexDef (1) "Compiler" {lexAllele(s)::: Noen || Wyrb} < A Device, Often Computational-in-Nature, Which Performs the Sacred Role of Crossing The Moat Of Understanding Between Two Divergent Beings.[^CompilerNoen] || To Siphon The Ever-Evolving Device Of Meaning Through The Machinery Of Memory.[^CompilerWyrb]
