@@ -1,7 +1,4 @@
 
-The Promoter
----
-
 
 
 

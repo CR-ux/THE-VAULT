@@ -1150,7 +1150,7 @@ title: notBorges
 [[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/WILTERGARTEN/CHALDEAN GEOMANCER.md]]
 [[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/WILTERGARTEN/I PULLED OFF MY OWN FINGERNAIL ON PURPOSE.md]]
 [[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/WILTERGARTEN/KELPIE n. (in Celtic folklore) a water spirit capable of transfiguration….md]]
-[[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/WILTERGARTEN/THE PROPHECY OF WILTERGARTEN.md]]
+[[THE PROPHECY OF HILDR CHARON WILTERGARTEN]]
 [[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/WILTERGARTEN/THREADING OATH.md]]
 [[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/XENO/THE MANUSCRIPT NOTEBOOK OF MAESTRO. X.md]]
 [[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/XENO/THE SPYING ARROW.md]]

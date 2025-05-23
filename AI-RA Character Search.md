@@ -13,7 +13,7 @@
 
 ![[Psalms of Iterative Ripture..md]]
 
-![[Epilogue]]
+![[The Promoter]]
 
 ![[The Caduceus.md]]
 

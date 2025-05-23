@@ -1,7 +1,7 @@
 ---
 permalink: THE PROPHECY OF WILTERGARTEN
 ---
-THE PROPHECY OF HILDA CHARON WILTERGARTEN
+
 
 There Will come a day when an Idea is thought for the first time.
 It will be then that I truly die. 

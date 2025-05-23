@@ -401,7 +401,7 @@ An Extended [[lexDict]]
 
 [[Ennead]]
 
-[[Epilogue]]
+[[The Promoter]]
 
 [[Equal]]
 
@@ -1419,7 +1419,7 @@ An Extended [[lexDict]]
 
 [[THE NOWHERE - NINE EYED ANTHOLOGY of RECURSION]]
 
-[[THE PROPHECY OF WILTERGARTEN]]
+[[THE PROPHECY OF HILDR CHARON WILTERGARTEN]]
 
 [[THE UNKNOWN ONE; {WROTE WRONG NON-} ANONYMOUS PSYCHIATRIC PATIENT]]
 

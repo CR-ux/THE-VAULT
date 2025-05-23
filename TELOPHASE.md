@@ -91,7 +91,7 @@ And with this thought, Flo awoke, into the world above, where the Stone was not 
 
 She awoke, and instead of those two words of apology, from Myo Endive to one Selena Elk; she found, when she looked closely enough, line after line, impossibly dense, wound tighter than the tightest clew of wool, the chromosome, of deeply chiseled wisdom, in the form of 
 
-![[THE PROPHECY OF WILTERGARTEN]]
+![[THE PROPHECY OF HILDR CHARON WILTERGARTEN]]
 
 She awoke, to an unbearable silence, that blanketed her, like a lover, or the weather, or a God--
 
@@ -441,11 +441,39 @@ trying to write this story.
 
 then surely 
 
-it would follow 
+
+whatever sequence 
+of forewords 
+to four letters 
+memories, taken
+meaning, given 
+metacognition, as a moat
+between two characters
+as a floatation
+device 
+a tether
+
+
+to Parents' strands
+for Children's letters
+Six Owe Sick
+to death of
+for {b(e)aring words of|barely getting to}
+the character 
+of this Story
+
+{to
+get
+her}
+to forgive
 that
 
+surely
+would {have led to|follow|lead}
 
 
 
-![[Epilogue]]
+
+
+![[The Promoter]]
 

@@ -8,7 +8,7 @@ lexDef "Book" {usage::: Ripture} < ***"{I/o}, it came to [[Pass]]. They were the
 
 
 
-[[Epilogue]]
+[[The Promoter]]
 ---
 
 
