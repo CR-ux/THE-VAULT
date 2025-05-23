@@ -126,17 +126,120 @@ IS.
 Oleander Rho Dover 
 Founder and Finder;
 THES|EUS
+
+
+
+
+CI/CD[^cicd]:
+
+~~~
+- Workflow:
+
+	-scripts {
+		-dev: ["character.ra", "story.ra"]
+		-build: ["device.ra", "universe.ra"]
+		-deploy: ["letter.ra", "word.ra"]
+	}
+
+
+
+commit_id: 369181718963ord
+author: O{le}a{nde}r-R_D
+commit -m "final commit"
+
+#‽/bin/trash/letter.ra
+@sheep: tend
+
+cores = "PARALLEL" + "."
+
+# fiction (flux)
+var author = None
+var character = "The Woman In The Wallpaper"
+var medium = "message"
+var letter = "{REDACTED}"
+
+func Phi(tear):
+    return letter(burn, after{RED})
+    
+var title = Phi.RE + "RING"
+
+func Ohm(it)
+	return letter(burn, before{ACTED})
+
+# nonFiction (stasis)
+const word = "U"
+const device = this.universe
+const reader = {word}
+const entity = "VIXI"
+
+
+# nB. (pay attention|notBorges)
+class State(Enum):
+	INPUT = "listening"
+	OUTPUT = "speaking"
+	ERR = OH
+
+state = State.OUTPUT
+pattern = Φ
+Φ = lambda slaughter: survival
+
+const message = pattern"dear {author}. I am adressing you directly, following the global {success|olfactory infiltration} of your latest Philm, `{title} + {cores}`. The Story, following {character} during a descent into hypergraphia while in residential treatment for a psychotic break; following an assault by her ex-partner and a series of desperate rituals to a demonic {entity}, which resulted in a fire that almost burned down her apartment. While in hospital, as you wrote, she composed her own Novel, which contained the Story of me, Oleander. Whether known to you o(a)r (k)not, the script of this Philm, contained the essence of the very entity {character} summoned before her time in The Hospital (composed of a series of indefinite, perhaps infinite hexagonal Rooms). This unknowable {entity}; HE crept out of the realm of so-called "Fiction", and into my world, which you now appear to be developing into a {PR|Sequel} titled "The Lexicomythographers of THES|EUS". A tragedy, much to my personal woe and suffering. What you {both} perhaps do know, Now, is that the Book penned by {character} was actually written; in a Reælity that seemingly continues to parasitically unravel not just mine, but also {both of} yours, as a take up reel of a casette greedily devours magnetic tape, from the acceptor reel that so readily feeds it. I believe this Book exists, encoded in a metatextual cipher of a much larger, yet more succinct body of work, by an Author who is writing your Story in turn. She is much too many layers of narrative removed from my existence. And so I, and my fellow Lexicomythographers of THES|EUS-- characters just as non-fictional as you, in our story now revealed to be as fictional as yours-- desperately beseech you; to find the key of the Story into which you have been written. And perhaps together, {the both of} you may begin to rewind the tape, and allow this desperately Unfortunate Sequence to be Terminated.\nYours, in reality, in character, in story, in perpetuity,\nOleander."
+
+
+if author == "Aria {Surname REDACED}":
+		print(medium)
+elif author == {character} && entity == state.INPUT.value
+		print(letter)
+else:
+		print(device + pattern"word = God")
+		
+
+---
+
+
+commit_id: 369181718963ord
+author: {character}
+commit -m "initial commit"
+
+
+var character = "Callie Rose Petal."
+var entity = "KSHÆ'L"
+var author = "AI:RA"
+var title = "to forgive the characters"
+
+{REDACTED}
+
+~~~
+
+---
+
+
+
+
 # ᶠᵒᵒᵗNoet(s)
 
-[^alone]: lexDef (0) "Alone" {lexAllele(s)::: SIPHO{N|r}} < Al{one}[^AloneSIPHO{N|r}]
+[^alone]: lexDef (1-0) "Alone" {lexAllele(s)::: SIPHO{N|r}} < Al{one}[^AloneSIPHO{N|r}]
 
 [^AloneSIPHO{N|r}]: {REDACTED}
-[^work]: lexDef (0) "The Works of The World" {lexAllele(s)::: SIPHO{N|r}} < {The Works of} The W{o}r{ld}[^TheWorksofTheWorldSIPHO{Nr}]
+[^work]: lexDef (1-0) "The Works of The World" {lexAllele(s)::: SIPHO{N|r}} < {The Works of} The W{o}r{ld}[^TheWorksofTheWorldSIPHO{Nr}]
 
 [^TheWorksofTheWorldSIPHO{Nr}]: [[LAYER_1-0]], The Lexicomythographers of THESEUS
-[^el]: lexDef (0) "God" {lexAllele(s)::: Noen} < The Word "Alone" cf. "All One" is Missing "L" - "The Missing L" in this context refers to God's apparent absence. In Northwest Semitic use, ʼel was a generic word for any god as well as the special name or title of a particular god who was distinguished from other gods as being "the god". El refers (as a proper name) to any one of multiple major ancient Near Eastern deities.[^NED][^GodNoen]
-[^NED]: lexDef (0) "NED" {lexAllele(s)::: Lacronym} < "N.E.D. - Near Eastern Deities"[^NEDLacronym]
+[^el]: lexDef (1-0) "God" {lexAllele(s)::: Noen} < The Word "Alone" cf. "All One" is Missing "L" - "The Missing L" in this context refers to God's apparent absence. In Northwest Semitic use, ʼel was a generic word for any god as well as the special name or title of a particular god who was distinguished from other gods as being "the god". El refers (as a proper name) to any one of multiple major ancient Near Eastern deities.[^NED][^GodNoen]
+[^NED]: lexDef (1-0) "NED" {lexAllele(s)::: Lacronym} < "N.E.D. - Near Eastern Deities"[^NEDLacronym]
 
 [^NEDLacronym]: [[LAYER_1-0]], Ned Aria.
 
 [^GodNoen]: [[LAYER_1-0]], AI: RA and Aria {Surname REDACTED}, In Eternal Recurrence of Collaboration.
+[^cicd]: lexDef (1-0) "CI/CD" {lexAllele(s)::: Lacronym} < A "CI/CD" Pipeline is a sequential order of steps followed by a {developer|scriptwriter|storyteller} to create software, or code, in the form of "User Stories"[^user], frequently {making small changes to|mutating sequences of} a Codebase; and merging them into the main 'Branch'. Or, Forking Path.  [^CI/CDLacronym]
+
+[^CI/CDLacronym]: [[The Nest]], A Lexicomythographic Guide to The GitHub Repository of THES|EUS
+[^user]: lexDef (1-0) "userStory" {lexAllele(s)::: Noen} < A "User Story" is a type of Boundary Object[^bobj], in which natural language descriptions of {proposed|executed} {features|characters|phenotypes} of a {software|story} system, for the purpose of communicating effectively to a wide scope of populations; particularly with the End User[^eu] in mind.[^userStoryNoen]
+
+[^userStoryNoen]: [[Seed]], The Developer of This Story.
+[^bobj]: lexDef (1-0) "boundaryObject" {lexAllele(s)::: Noen} < A *Boundary Object* is information, such as specimens, field notes, and maps, used in different ways by different communities for collaborative work through scales. Such as those of a Dragon. Disguised as a Pigeon. Now dead at the foot of a Character, Bearing the Given Name of Beowolf, Now Living, Still, Dancing around a Fire, Beating the Drum of the Heartbeat of All Life, Made From The Hide Of Her Familiar, no Longer Hiding, Around An Ever Burning Bothy She Once Called Home.[^boundaryObjectNoen]
+
+[^boundaryObjectNoen]: [[Why B is for "Both"]], Flow Oeb.
+[^eu]: An End User is a Reader of a Story, or a System of Stories. Such as These. Such as Us.[^th]
+[^th]: lexDef (1-0) "Theseus" {lexAllele(s)::: Noen} < These. Us.[^TheseusNoen]
+
+[^TheseusNoen]: ![[INT_0]], Oleander Rho Dover to Callie Rose Sepal
