@@ -456,7 +456,7 @@ a tether
 
 to Parents' strands
 for Children's letters
-Six Owe Sick
+Sick 
 to death of
 for {b(e)aring words of|barely getting to}
 the character 
@@ -477,3 +477,36 @@ would {have led to|follow|lead}
 
 ![[The Promoter]]
 
+
+
+Afterword:
+
+i finish this book and fall asleep.
+
+where in the dream i show my father my piano 
+
+not the one he bought me for my sixteenth birthday, but the one i've[^chess] carried with me, from the town i was born, to here
+
+not the wooden one he's long since given away, along with the bedtime stories and records of my youth -
+
+but the plastic one, 
+i've cried 
+into alone 
+and built worlds of my own 
+to carry me
+
+i wake up to read it over, circling back to realise it is may twenty third 
+
+his birthday 
+
+---
+
+Epitaph:
+
+"I carry {my} heart,
+I carry it in {your} heart"
+
+E. E. Cummings, as Callie Rose Petal
+# ᶠᵒᵒᵗNoet(s)
+
+[^chess]: *{my familiar climbs onto the windowsill and knocks over the king i'd placed at the bottom of a hexagonal arrangement of chess pieces, in one final attempt to make all this memory mean something and i realise the game is over}
