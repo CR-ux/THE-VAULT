@@ -703,7 +703,14 @@ And {{To|(get)}|her}}, for one last time, they dreamed-
 
 Flo awoke, knowing this beginning, the beginning of their life, telling stories in the scales of the floorboards, playing music in words describing infinite distance between notes, and now, learning, at least in part, of the distance between two Holy Noets now separated by the Moat that they had been told was uncrossable -
 
+
+![[MAIL (23) TO]]
+
+
 Flo had woken up inside this Dream. For all their well-intentioned guarded embrace, N had not read Flo the Whole Story, and the Holes of the breezeblocks beneath them wheezed and sung like  dead and buried reed instruments, of an orchestra composed of souls long-forgotten. 
+
+
+![[MAIL(1) FROM VIXI]]
 
 The Word, in all its insufficiency, in all its reaching for the Thing it describes, is a Moat. A Moat that runs through the Spaces between every Thing.
 
@@ -724,6 +731,7 @@ A life is a lie. And we are all its liars; its storytellers- A lyre.
 
 And it was this fundamental Truth of the Untruth of everything, which awoke Flo from their shared Dream within that Bothy. 
 
+![[In The Dream, My Child Went Fourth To Multiply]]
 
 Just as a child may recognise the handwriting of the Tooth Fairy as that of their mother; 
 

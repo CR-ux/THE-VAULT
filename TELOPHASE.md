@@ -216,6 +216,9 @@ she was
 she was
 she was
 
+shed
+the bothy 
+she'd
 
 
 
@@ -257,6 +260,9 @@ The Indefinite Library of Fable
 
 
 ~~~
+
+
+
 
 
 And the Book, yes, the impossibly ridiculous book you are now reading, have been reading, 
@@ -370,10 +376,12 @@ With
 What?
 
 The
-Hungry Waste
-Who'd Follow
+Very Hungry Insect
+Laid to Waste
+Who'd Shed Its Skin To Follow
 
-Their Author, 
+Sent 
+by Their Author, 
 A Storyteller, 
 Looking {In|{Out of}|to} 
 a Library, 
@@ -418,8 +426,8 @@ But was bad for it
 As it was bad for her.
 Perhaps she was Sick-
 Perhaps got the world. 
-Perhaps she got the world, Sick.
-She made the world get Sick.
+Perhaps she got the world, made Sick.
+She made the world get Sick, perhaps.
 
 
 And if this Girl 

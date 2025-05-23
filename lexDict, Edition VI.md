@@ -426,7 +426,7 @@ Edition XVIII[^1].
 [[In My Beginning]]
 [[In my dream]]
 [[Why B is for 'Both']]
-[[In The Dream, My Child Went Forth To Multiply, And Met His Crushing End]]
+[[In The Dream, My Child Went Fourth To Multiply]]
 [[In]]
 [[Incantation]]  
 [[inCrease]]

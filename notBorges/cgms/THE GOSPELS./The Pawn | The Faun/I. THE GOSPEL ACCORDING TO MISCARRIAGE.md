@@ -6,10 +6,7 @@ permalink: I. THE GOSPEL ACCORDING TO MISCARRIAGE
 
 [[Why B is for 'Both']]
 ![[I arrived in the garden]]
-[[notBorges/CARPVS/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/I|I]] ,![[Phage 23]], [[all i've, a live, a lie, ally, a liar, a lair, a layer, all ire, all eyer, all eye her, a lyre]]: [[Plea of the Pawn]];
-[[this universe (which some call the hospital)]];
-[[The artist as dreamer]],
-[[the hospital, oar; the board]],
+[[notBorges/CARPVS/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/I|I]] ,![[Phage 23]]
 
 
 ![[Article by Dr Seuss on Enantiodromia Pending Acceptance From Publisher]]
@@ -111,18 +108,11 @@ bliʜɔ ϱniγb ɿɘʜɈonɒ ɘvɒʜ oɈ >
 
 *by The Pawn.* 
 
-[[Why B is for 'Both']]
-[[I arrived in the garden]]
-[[notBorges/CARPVS/lexicomythography/unit/Ãcademy of Ãschertology/ARTICLES, REFS/I|I]] ,[[Phage 23]], [[all i've, a live, a lie, ally, a liar, a lair, a layer, all ire, all eyer, all eye her, a lyre]]: [[Plea of the Pawn]];
-[[this universe (which some call the hospital)]];
-[[The artist as dreamer]],
-[[the hospital, oar; the board]],
-[[Genesis]], or: [[RHO (Ï or Ï±)]], or:
-[[Todayâs futile, silent surgical recovery screams into the endlessâ¦]]
-[[Article by Dr Seuss on Enantiodromia Pending Acceptance From Publisher]]
-[[Penultimate]] [[Pendulum left in sight]]:
-[[FIRST]], [[notBorges/aria-dne/LAST]], 
-[[THE END OF DAYS]]
+![[I arrived in the garden]]
+ ![[all i've, a live, a lie, ally, a liar, a lair, a layer, all ire, all eyer, all eye her, a lyre]]: ![[Plea of the Pawn]];
+
+![[The artist as dreamer]],
+![[Patient Welcome Pack]]
 
 
  >

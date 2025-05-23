@@ -99,8 +99,8 @@ are becoming aware of Oleander,
 and breaking through the fourth wall which is the Moat of misunderstanding 
 If this One Character 
 Oleander,
-Is becoming aware of me, 
-Aria, The Author of his Story, 
+Is becoming aware of me, or Us
+{AR{:}IA}, The Author of his Story, 
 
 
 Then surely it must follow that

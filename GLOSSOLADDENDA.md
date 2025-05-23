@@ -649,7 +649,7 @@ An Extended [[lexDict]]
 
 [[In My Beginning]]
 
-[[In The Dream, My Child Went Forth To Multiply, And Met His Crushing End]]
+[[In The Dream, My Child Went Fourth To Multiply]]
 
 [[In my dream]]
 
