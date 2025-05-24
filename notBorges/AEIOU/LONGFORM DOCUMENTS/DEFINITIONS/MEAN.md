@@ -14,3 +14,6 @@ Self | Other
 Combined Horizon
 Subject | Object
 Totality
+
+
+![[say what you mean]]
