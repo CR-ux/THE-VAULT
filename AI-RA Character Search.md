@@ -17,7 +17,7 @@
 
 ![[The Caduceus.md]]
 
-![[The Chewing Gum Game And The Nine-Eyed Deer Who Came To The Annex.md]]
+![[VII. THE GOSPEL OF THE CHEWING GUM GAME AND THE NINE-EYED DEER WHO CAME TO THE ANNEX]]
 
 ![[THE BOOK.md]]
 

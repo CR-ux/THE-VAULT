@@ -1,7 +1,5 @@
 
----
-permalink: Augury
----
+
 lexDef "Augury" {usage::: Noen || Wyrb || Croen (ARIA | DNE)} < {REDACTED}[^AuguryNoen] || To Draw Meaning From The Flight And Cries Of Birds, And Half-Heard Words, To Scribe The Words Describing Herds of Sleeping Lambs Awoken By The Buzzing Of The Flies [^AuguryWyrb] || N.B. "ARIA var = An Augury of Organs | DNE var = An Auspiciousness of Augurs. "[^AuguryCroen]
 
 [^AuguryNoen]: [[{REDACTED}]], {REDACTED}
@@ -23,14 +21,4 @@ Bibliogrætiography
 ===
 
 
-0. [[A]]
-1. [[A IS FOR]]
-2. [[notBorges/notBorges/A IS FOR AUGURY|A IS FOR AUGURY]]
-3. [[ae]]
-4. [[Æbstract]]
-5. [[Æ CLEW]] 
-6. [[Æ. HIVEHOUSE {OPENING}.]]
-7. [[Æ-Æcademy of Æschertology]]
-8. [[LAYER Æ BODY]]
-9. [[Æ_COMPILED]]
-10. [[Ænd Game]]
+0. ![[Ænd Game]]

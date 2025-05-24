@@ -182,7 +182,7 @@ Bibliogrætiography
 1. [[lexDict]], VIth Edition.
 2. *"Forward: A Lexicomythographer's Foreword*" - [[FOR WORD.]]
 3. [[READ.me]]
-4. [[The Chewing Gum Game And The Nine-Eyed Deer Who Came To The Annex]]
+4. [[VII. THE GOSPEL OF THE CHEWING GUM GAME AND THE NINE-EYED DEER WHO CAME TO THE ANNEX]]
 
 
 

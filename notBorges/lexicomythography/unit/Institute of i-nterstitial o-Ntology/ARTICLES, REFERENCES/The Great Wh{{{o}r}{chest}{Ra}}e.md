@@ -25,4 +25,4 @@ An aching of the gr{eat}est amplitude
 [^ritual]: Sex begins with Ritual[^sex]
 [^sex]: Sex =(/)= Ritual
 [^J]: ![[14CBA7B4-F3B4-4BBC-91BD-5FAE08458F5A 1.jpeg]]
-[^c]: [[The Chewing Gum Game And The Nine-Eyed Deer Who Came To The Annex]], Callie Rose Petal as notBorges. 
+[^c]: [[VII. THE GOSPEL OF THE CHEWING GUM GAME AND THE NINE-EYED DEER WHO CAME TO THE ANNEX]], Callie Rose Petal as notBorges. 

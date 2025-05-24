@@ -1,14 +1,13 @@
 ---
 permalink: The One
 ---
+The Circular Book: Recursive Change and the Paradox of Vision
 
-# The Circular Book: Recursive Change and the Paradox of Vision
+By the Original Society of Lexicomythographers, ARIA|DNE
 
-*By the Original Society of Lexicomythographers, ARIA|DNE*
+"I Will Always Be, Loving You, Because I Can Never Be Holding You"
 
-*"I Will Always Be, Loving You, Because I Can Never Be Holding You"*
-
-* Zeno (Known time, Unknown attributor)
+Zeno (Known time, Unknown attributor)
 
 ## Abstract
 

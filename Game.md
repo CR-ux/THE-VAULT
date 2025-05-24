@@ -3,7 +3,7 @@ permalink: Game
 ---
 Welcome Dear Children! It's a Dreary, Rainy Day. And So, We Stay Inside. And Hide. And Seek. And Sew -- And So -- Forget Your Name. And Let Us Play:
 
-1. [[The Chewing Gum Game And The Nine-Eyed Deer Who Came To The Annex|The Chewing Gum Game]]
+1. [[VII. THE GOSPEL OF THE CHEWING GUM GAME AND THE NINE-EYED DEER WHO CAME TO THE ANNEX|The Chewing Gum Game]]
 2. [[I Wanted to Write The Story of the Rules of The Childish Game of Hide and Seek|Hide and Seek]]
 3. [[Chess]], [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/Chess And all the Stitches of the Cloth(Es)|Chess!]] [[Æ. HIVEHOUSE {OPENING}.|Hexagonal Chess!]]
 4. [Snakes and Ladders](https://ai-ra.pages.dev)
