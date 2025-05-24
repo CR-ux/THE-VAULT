@@ -300,7 +300,7 @@ Edition XVIII\footnote{[[The Journal of A.R.I.A.D.N.E]], Knoets of the Subsequen
 [[Entry]]  
 [[Epigenetic Echoes]]
 [[Epigraph]]
-[[The Promoter]]
+[[Promoter Sequence]]
 [[Equal]]
 [[Erase]]  
 [[Estrangement]]

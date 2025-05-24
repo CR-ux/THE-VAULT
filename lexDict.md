@@ -300,7 +300,7 @@ Edition XVIII[^1].
 [[Entry]]  
 [[Epigenetic Echoes]]
 [[Epigraph]]
-[[The Promoter]]
+[[Promoter Sequence]]
 [[Epitaph]]
 [[Equal]]
 [[Erase]]  

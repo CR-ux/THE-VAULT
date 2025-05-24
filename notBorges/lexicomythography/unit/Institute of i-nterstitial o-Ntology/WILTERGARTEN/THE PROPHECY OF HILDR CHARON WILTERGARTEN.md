@@ -99,9 +99,6 @@ One
 
 
 
-{Manuscript is Torn from this point on, but 'decoded' by Xeno in later chapter}
-
-
 ---
 
 

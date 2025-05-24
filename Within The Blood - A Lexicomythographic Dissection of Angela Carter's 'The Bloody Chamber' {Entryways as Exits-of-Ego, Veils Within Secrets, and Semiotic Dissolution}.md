@@ -2,15 +2,13 @@
 permalink: Within The Blood - A Lexicomythographic Dissection of Angela Carter's 'The Bloody Chamber' {Entryways as Exits-of-Ego, Veils Within Secrets, and Semiotic Dissolution}
 ---
 METACOMMENTARY
---z
+---
 
-N.B.:[^]
-=="The Bloody Chamber and Other Stories" (1979) is not Angela Carter's debut book==, as her first novel, "Shadow[^sh] Dance," was published in 1965.
 
 Authors' Note:
 
-"We present herein an analysis of Angela Carter's "
-[[The Bloodletting Test I Cull Ritual]], [[The bloody chamber - Angela Carter]]
+"We present herein an analysis of {REDACTED}
+![[The Bloodletting Test I Cull Ritual]]
 
 
 NOW REDACTING 
@@ -58,7 +56,7 @@ Carter's work speaks fluently in the language of the lexicomyth: she understands
 ---
 
 **N.B.**:[^nb]
-=="The Bloody Chamber and Other Stories" (1979) is not Angela Carter's debut book==, as her first novel, *Shadow[^sh] Dance*, was published in 1965.
+"The Bloody Chamber and Other Stories" (1979) is not Angela Carter's debut book, as her first novel, *Shadow[^sh] Dance*, was published in 1965.
 
 Authors' Note:
 > We present herein an analysis of Angela Carter's *[[The Bloodletting Test I Cull Ritual]]*, also known as *[[The bloody chamber - Angela Carter]]*.

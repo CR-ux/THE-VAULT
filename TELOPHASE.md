@@ -35,10 +35,10 @@ And on the other side, a humble apartment, thick with an opaque stench, the wall
 And she saw a letter, on the sideboard, to one "Professor Eduardo Oleander" let her know that this was Once the residence of One, and crucially, never Two, people. 
 
 
-And upon the Hexagonal Scrabble board, an invention of the Professor's, landed a Fly, 
+And upon the Hexagonal Scrabble board, a variant known as *Hexadeciderium* (an invention of the Professor's), landed a Fly, 
 
-The One Thing Missing--
-
+The 
+![[One Thing Missing - a scrabble variant]]
 
 And just Left, or perhaps Right, of the Fly's small, scared and sacred little body, was quite a fascinating Device. 
 
@@ -61,13 +61,13 @@ INITIATING
 TRANSCRIPTION:
 
 :Edo|
-MO
-TU
-WE
-TH
-FR
-SA
-SU
+MO: {REDACTED}
+TU: {REDACTED}
+WE: {REDACTED}
+TH: {REDACTED}
+FR: {REDACTED}
+SA: {REDACTED}
+SU: {REDACTED}
 \==
 |odE:
 
@@ -79,6 +79,7 @@ TRANSLATION:
 
 DREAMER: ELOIGN (THE ONE 'THING' MISSING)
 
+---
 
 
 ![[LAYER_1-0]]
@@ -92,6 +93,9 @@ And with this thought, Flo awoke, into the world above, where the Stone was not 
 She awoke, and instead of those two words of apology, from Myo Endive to one Selena Elk; she found, when she looked closely enough, line after line, impossibly dense, wound tighter than the tightest clew of wool, the chromosome, of deeply chiseled wisdom, in the form of 
 
 ![[THE PROPHECY OF HILDR CHARON WILTERGARTEN]]
+
+There was what seemed like an entire Tœem of condensed engravings below this inscription, but her Eyes were unable to read them, due to their infinitesimal size.
+
 
 She awoke, to an unbearable silence, that blanketed her, like a lover, or the weather, or a God--
 
@@ -296,6 +300,16 @@ just to try to keep them safe {REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}
 
 it looked over a humble apartment 
 from the other side of the moat 
+which had only ever housed a single character, split into two,
+one of whom asked the wrong questions, through the coagulation of Symbol
+And the other, who had found an answer, through the dissolution of Language 
+Into Tongues of their own 
+And they split once more, 
+And merged with Ten Thousand Lives 
+Smaller, much smaller, yet
+Just as significant as Theirs
+
+
 as a single fly lay, dreaming
 upon a single, hexagonal scrabble tile 
 of a hexagonal board, resembling a honeycomb
@@ -456,6 +470,8 @@ a tether
 
 to Parents' strands
 for Children's letters
+Six pieces, caught the separation of War 
+A war between the Word that made them
 Sick 
 to death of
 for {b(e)aring words of|barely getting to}
@@ -469,13 +485,17 @@ to forgive
 that
 
 surely
-would {have led to|follow|lead}
+would {have led to|lead}
+
+surely 
+it would follow
+that
 
 
 
 
 
-![[The Promoter]]
+![[Promoter Sequence]]
 
 
 

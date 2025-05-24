@@ -288,7 +288,7 @@ Edition XVIII[^1].
 [[Engine]]
 [[Enlightenment]]
 [[Ennead]]
-[[The Promoter]]
+[[Promoter Sequence]]
 [[Equal]]
 [[Estrangement]]
 [[Ether Teeth, Fog. 2003.]]

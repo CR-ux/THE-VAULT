@@ -2,8 +2,6 @@
 permalink: and then
 ---
 
-![[and then.canvas|and then]]
-
 
 couldn't keep hold of it all anymore 
 

@@ -401,7 +401,7 @@ An Extended [[lexDict]]
 
 [[Ennead]]
 
-[[The Promoter]]
+[[Promoter Sequence]]
 
 [[Equal]]
 

@@ -286,7 +286,7 @@ Edition XVIII[^1].
 [[Entry]]  
 [[Epigenetic Echoes]]
 [[Epigraph]]
-[[The Promoter]]
+[[Promoter Sequence]]
 [[Equal]]
 [[Erase]]  
 [[Estrangement]]
