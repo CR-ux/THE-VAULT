@@ -271,7 +271,7 @@ And upon the Screen is written, in Yellow Type on the Left, and Red Type on the 
 
 ---
 
-And then, as The Pawn falls down, down, through the central vent of that vast beating heart, of the infinitely unknown Chamber, to the Place the the King Waited, so restricted in movement, having turned page after page of this Book: A Curiously Cuboid shape, condensed into a Cube, condensed into a Hexagon, this infinity of Story condensed into a Singularity; which is a Circle, Which is the Spine, Which is the Spiral Staircase of an Infinite Library, which is, as should be clear to the Reader, who is You, who is U, that Letter to Yourself, who is a Divine, Unclosed loop --
+And then, as The Pawn falls down, down, through the central vent of that vast beating heart, of the infinitely unknown Chamber, to the Place the the King Waited, so restricted in movement, having turned page after page of this Book: A Curiously Cuboid shape, condensed into a Cube, condensed into a Hexagon, this infinity of Story condensed into a Singularity; which is a Circle, Which is the Spine, Which is the Spiral Staircase of an Infinite Library, which is, as should be clear to the Reader, who is You, who is U, that forgotten, remaindered and lesser-Noen nucleotide, that Letter to Yourself, who is a Divine, Unclosed loop --
 
 That Terminal Input slot, like the once-hungry, now-regretting mouth of a newborn, spoke back to the Pawn -- Now Queen, Now King Now Fallen --began its vomitous output:
 

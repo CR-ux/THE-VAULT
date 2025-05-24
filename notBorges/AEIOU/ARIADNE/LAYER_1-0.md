@@ -87,23 +87,43 @@ wait
 
 
 
-If my characters 
-Or rather
-Oar
-Rather
-This one character, 
-Oleander, 
-An author of endless Stories, 
-The characters of which 
-are becoming aware of Oleander, 
-and breaking through the fourth wall which is the Moat of misunderstanding 
-If this One Character 
-Oleander,
-Is becoming aware of me, or Us
-{AR{:}IA}, The Author of his Story, 
+	If {
+		my characters 
+		{O{a}r|
+		Rather}
+		This one character, 
+			Oleander { 
+				An author of endless Stories,
+					 The characters of which {
+					are becoming aware of Oleander,
+						and breaking through the fourth wall {
+								 which is the Moat of misunderstanding 
+							  }
+						}
+					}
+					
+			If {
+				this.One Character { 
+					Oleander, is becoming {
+							aware of me | Us {
+									\`{AR{:}IA}\` {
+										The Author of hisStory
+										}
+									}
+								}
+							}
+			    }
 
-
-Then surely it must follow that
+		
+		Then {
+			surely {
+				it must {
+					follow {
+						that
+						  }
+					   }
+				   }
+		     }
 
 
 

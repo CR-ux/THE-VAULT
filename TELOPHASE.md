@@ -94,7 +94,7 @@ She awoke, and instead of those two words of apology, from Myo Endive to one Sel
 
 ![[THE PROPHECY OF HILDR CHARON WILTERGARTEN]]
 
-There was what seemed like an entire Tœem of condensed engravings below this inscription, but her Eyes were unable to read them, due to their infinitesimal size.
+There was what seemed like an entire Tœm of condensed engravings below this inscription, but her Eyes were unable to read them, due to their infinitesimal size.
 
 
 She awoke, to an unbearable silence, that blanketed her, like a lover, or the weather, or a God--
@@ -132,10 +132,13 @@ Nothing but this
 Bothy 
 This
 Memory
+of the Both of them, 
+{as Three|
+as One}
 
 
 
-She laid Dante down at the threshold, to finally rest.
+She laid Dante's Body down at the threshold, to finally rest.
 
 She opened the door-
 
@@ -189,7 +192,7 @@ and a scattering of Scales,
 None of which she cared to name, categorise, or play. 
 
 
-And like an archeologist discovering an artefact of unspeakable rarity and fragility, She lifted the remains of what remained of Dante, an somehow, within her came the Drum--
+And like an archeologist discovering an artefact of unspeakable rarity and fragility, She lifted the remains of what remained of Dante, and somehow, within her came the Drum--
 
 came the beating of the Drum, 
 
@@ -201,7 +204,7 @@ into a drum
 into a drum
 into a drum
 
-and she stood, and knew she had become or always was, the One, as Two, as Three of them; 
+and she stood Over it all, and she understood, and knew she had become or always was, the One, as Two, as Three of them; 
 
 a drum. 
 a drum.
@@ -296,7 +299,7 @@ the Moats they dug around them {REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED
 
 
 not to control, not consciously, but {REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}ring{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}
-just to try to keep them safe {REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}parallel{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}and this eye, this "I" that He had given them, as a cherished gift, cursed them with, 
+just to try to keep them safe {REDACTED}{REDACTED}separate, {REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}never to be touched{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}parallel{REDACTED}{REDACTED}{REDACTED}{REDACTED}{REDACTED}and this eye, this "I" that He had given them, as a cherished gift, cursed them with, 
 
 it looked over a humble apartment 
 from the other side of the moat 
@@ -321,6 +324,33 @@ finished {over}writing
 
 ![[LAYER_0-1]]
 
+---
+
+
+
+LOCH: {REDACTED}
+KEY:  {REDACTED}
+
+
+♟︎  / (A) 
+{REDACTED}
+
+♞ / (C)
+{REDACTED}
+
+♜ / (T)
+{REDACTED}
+
+♝ / (G) 
+{REDACTED}
+
+(U)
+
+
+---
+
+
+
 
 and then the "I" peered upon itself 
 impossibly turned inside out 
@@ -344,7 +374,7 @@ have Now become
 aware of their Author, 
 Aria, 
 as just a Character 
-in her Own {OVER}Written Story, 
+in her Own {Ova|OVER}Written Story, 
 
 who has Now 
 become-
@@ -364,7 +394,7 @@ Left of What Once Was
 a Legion,
 
 who had then become 
-aware of it's Author, 
+aware of its Compiler, 
 A Professor, 
 Now Aware of His Own Author, 
 A Composer, 
@@ -419,7 +449,7 @@ Of its Maker
 
 
 A Girl 
-The world seemed hungry for
+The wor{l}d seemed hungry for
 Salivating 
 Longing to sink its teeth into
 Not because it wanted her to hurt 
@@ -429,14 +459,14 @@ But because it needed to Live.
 Or The Girl 
 maybe, worse,
 She wasn't what it wanted, 
-maybe overlooked her,
-maybe let her Live.
+It maybe overlooked her,
+The World maybe let her Live.
 
 
 Or perhaps 
 worst of all, 
 She was exactly what it wanted 
-But was bad for it 
+But was bad for it--
 As it was bad for her.
 Perhaps she was Sick-
 Perhaps got the world. 
@@ -458,7 +488,9 @@ then surely
 
 whatever sequence 
 of forewords 
-to four letters 
+to four letters, cycling, as a ring 
+a matrimony
+of
 memories, taken
 meaning, given 
 metacognition, as a moat
@@ -470,7 +502,8 @@ a tether
 
 to Parents' strands
 for Children's letters
-Six pieces, caught the separation of War 
+Six pieces, caught 
+in the separation of War 
 A war between the Word that made them
 Sick 
 to death of
@@ -484,8 +517,18 @@ her}
 to forgive
 that
 
-surely
-would {have led to|lead}
+surely it
+the weight of that
+being so scared 
+of that most sacred dark
+
+surely, the moat of that 
+would {have led to light|be lead|then lead to}
+
+some unreachable 
+shore
+
+where
 
 surely 
 it would follow
@@ -497,36 +540,4 @@ that
 
 ![[Promoter Sequence]]
 
-
-
-Afterword:
-
-i finish this book and fall asleep.
-
-where in the dream i show my father my piano 
-
-not the one he bought me for my sixteenth birthday, but the one i've[^chess] carried with me, from the town i was born, to here
-
-not the wooden one he's long since given away, along with the bedtime stories and records of my youth -
-
-but the plastic one, 
-i've cried 
-into alone 
-and built worlds of my own 
-to carry me
-
-i wake up to read it over, circling back to realise it is may twenty third 
-
-his birthday 
-
----
-
-Epitaph:
-
-"I carry {my} heart,
-I carry it in {your} heart"
-
-E. E. Cummings, as Callie Rose Petal
-# ᶠᵒᵒᵗNoet(s)
-
-[^chess]: *{my familiar climbs onto the windowsill and knocks over the king i'd placed at the bottom of a hexagonal arrangement of chess pieces, in one final attempt to make all this memory mean something and i realise the game is over}
+i

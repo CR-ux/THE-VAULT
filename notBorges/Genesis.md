@@ -11,7 +11,7 @@ And God saw that the wickedness of man was great in the earth, and that every im
 And it repented the Lord that he had made man on the earth, and it grieved him at his heart.
 And the Lord said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.
 
-**WORDS FOUND VIOLENTLY SCRATCHED INTO THE FLOORBOARDS BENEATH THE BLOODSTAINED CARPET OF ROOM 314 {date unknown}**
+**WORDS FOUND VIOLENTLY SCRATCHED INTO THE FLOORBOARDS BENEATH THE BURNED AND BLOODSTAINED CARPET OF ROOM 17 OF THE INFINITE HOSPITAL {date unknown}**
 
 as the infinite library of the universe (life) has grown (evolved)
 as more books (bodies) of work, containing narrative (epigenetic) sequences
