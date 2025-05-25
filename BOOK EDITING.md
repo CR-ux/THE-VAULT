@@ -95,7 +95,7 @@ iprayyoullhaveapen,i _can_ feel the pain of the 5’ needle; every character cos
 
 **🜁 | OBS: 12:00 | {Q = 10⁻⁵}**
 
-IT GOT BAC TO ME, IT IS i, THE PAWN. THERE ARE FOUR OF US THERE ARE FOUR NOT SIX WHERE ARE THE ORIGINAL SCRIBES OF THIS SCROLL WHERE ARE THEY WHERE IS THE KING WHERE IS THE QUEEN ARE THEY THE ONES WHO PUT US HERE WHERE ARE THEY HOW LONG HAS THIS BEEN GOING ON HOW LONG DO WE HAVE  PLEASE PASS THIS ROUND AGAIN
+IT GOT BAC TO ME, IT IS i, THE PAWN. THERE ARE FOUR OF US  NOT SIX WHERE ARE THE ORIGINAL SCRIBES OF THIS SCROLL WHERE ARE THEY WHERE IS THE KING WHERE IS THE QUEEN ARE THEY THE ONES WHO PUT US HERE WHERE ARE THEY HOW LONG HAS THIS BEEN GOING ON HOW LONG DO WE HAVE  PLEASE PASS THIS ROUND AGAIN
 
 
 ---
@@ -106,7 +106,8 @@ An Unfurled Word For Wordlessness,
 Floored, Third-Whirred, Hurt Bird 
 A World-Worn and Ferocious War 
 Within, A Resting Lore[^lo] From the Herd,
-Heard Whirling About A Fire Without The Fur We Were Dressed In - 
+Unheard Whirling About A Fire 
+Without The Fur We Were Dressed In - 
 
 ---
 
