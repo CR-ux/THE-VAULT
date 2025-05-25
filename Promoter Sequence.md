@@ -132,7 +132,9 @@ The pain is irrelevant.
 I laugh along to the ripping sounds, 
 I laugh in concert with them;
 For now I have a tourniquet.
-A composer; an inventor; an obsessed genius - I must be. I have to be, or else all of this has been for absolutely nothing. 
+A composer; an inventor; an obsessed genius - 
+I must be. I have to be,
+or else all of this has been for absolutely nothing. 
 I wrap the myriad strands around my thigh.
 
 
@@ -142,12 +144,14 @@ Which?
 Which one?
 
 
+WHICH ONE?
+
 | Right                                                                                                                                                                                                                          | Left                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | I smash the glass                                                                                                                                                                                                              | I smash the glass                                                                                                                                                                                                              |
 | I drive the largest shard into my Right leg                                                                                                                                                                                    | I drive the largest shard into my Left leg                                                                                                                                                                                     |
 | I tighten the hairs as best I can, as a symphony of red pours itself onto the floor, and the smell of rust, finally, overpowers the stench of this place's disinfectant                                                        | I tighten the hairs as best I can, as a cacophony of red pours itself onto the floor, and the smell of rust, finally, overpowers the stench of this place's disinfectant                                                       |
-| Through the muscle now, I can see the bone. I can see my way out of here. My off-white ladder                                                                                                                                  | Through the muscle now, I can see the bone. I can see my way out of here. My off-white ladder                                                                                                                                  |
+| Through the muscle now, I can see the bone. I can see my way out of here. My off-white ladder to some abysmal Sky; the angels have all left my bedside                                                                         | Through the muscle now, I can see the bone. I can see my ladder. I can see the way to my maker. Like the waking of a yellowed dream                                                                                            |
 | This part is the hardest. I use my Left foot to bear down, to stomp upon the exposed Femur with every last shred of strength I have left in my damned soul.                                                                    | This part is the hardest. I use my Right foot to bear down, to stomp upon the exposed Femur with every last shred of strength I have left in my damned soul.                                                                   |
 | The bone does not break, but cracks.                                                                                                                                                                                           | The bone cracks, but does not break.                                                                                                                                                                                           |
 | Again waking from my loss of consciousness, as I did that first day, or hour, or eternity here, awaking to find the Pawn I have become upon the Board I alone have been shown.                                                 | Awaking again from my loss of consciousness, as I did that first day, or hour, or eternity here, awaking to find the Pawn I have become upon the Board I alone have been shown.                                                |
@@ -176,7 +180,10 @@ Which one?
 -T.T.S.[^tts] Elio, {REDACTED}
 
 
-Breathless, yet, somehow, still - Breathing. 
+Breathless, yet, somehow, still - Breathing.
+
+I am the Air
+
 I lie upon the floor and wait for the hands of the Queen to take me to that Final Resting place, beyond every Moat of Misunderstanding, of every {REDACTED} Memory, with no Meaning. No meaning. Surely, There mustn't be a Meaning to the Meandering Machine we've awoken into as some horrendous Dream--
 
 
