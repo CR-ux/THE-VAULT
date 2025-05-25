@@ -1,13 +1,6 @@
 
 
 
-> A IS FOR ANIMA, AMINO, AND ANIMUS
-> R IS FOR RECUR{RING}, {RED}ACTION, AND RETROGRADE
-> I IS FOR INSECTA, INFINITY, AND INSTITUTION
-> A IS FOR ARACHNID, ASPIRATE, AND AFFLICTION
-> D IS FOR DENOUEMENT, DESCENDING, AND DIVISION
-> N IS FOR NOTATION, N-TERMINUS, AND NOTHING 
-> E IS FOR ENDING, ENTROPY, AND EVERYTHING.
 
 [[ARIADNE <]]
 
@@ -43,7 +36,7 @@ Whirring with a terrifying lightning storm overhead (an unavoidable side-effect 
 Editor's Noet:
 ---
 
-N IS FOUR NUCLEOTIDES.
+N IS FOUR N.
 
 
 *This Universe (which some call the Hospital) is composed of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts between, surrounded by walls covered in an indefinite and perhaps infinitely layered wallpaper; ever-remaining a faded yellow hue.* 
@@ -78,7 +71,7 @@ KEY: ∈ | t | {const}
 
 **🜁 | OBS: 00:00 | {Q = 10⁻⁵}**
 
-Are you there? Are you listening? I cannot hear, I cannot remember who I am; I do not know my name. there is no pen in here, only a syringe; inscribed with “5’” on its plunger, with a calligraphic nib on its opposite side, inscribed with “3’” and a single chess piece, a pawn, on my pillow. I found this scroll, wound unthinkably tight, dropped through the vent on the other side. It dear god what nightmare have i awoken inside?  have these people come and gone? How long has this wallpaper scroll been passing through these vents? Are you there? What is a ‘Wryng’? Please, I do not remember my name. I am folding the scroll according to the instructions overleaf. It appears, as stated above, that I can write as much as I want, and the scroll will yield, increase unthinkably in space, while still retaining its condensed, uniform size once folded. i do not know my name. please. somebody in here, tell me my name
+Are you there? Are you listening? I cannot hear, I cannot remember who I am; I do not know my name. there is no pen in here, only a syringe; inscribed with {REDACTED}on its plunger, with a calligraphic nib on its opposite side, inscribed{REDACTED}and a single chess piece, a pawn, on my pillow. I found this scroll, wound unthinkably tight, dropped through the vent on the other side. It dear god what nightmare have i awoken inside?  have these people come and gone? How long has this wallpaper scroll been passing through these vents? Are you there? What is a ‘Wryng’? Please, I do not remember my name. I am folding the scroll according to the instructions overleaf. It appears, as stated above, that I can write as much as I want, and the scroll will yield, increase unthinkably in space, while still retaining its condensed, uniform size once folded. i do not know my name. please. somebody in here, tell me my name
 
 ---
 
@@ -90,13 +83,13 @@ please. i can hear you in there. whoever you are, in the next room. this scroll 
 
 **🜃 | OBS: 06:00 | {N = 10³⁶}**
 
-i too was passed this note from the vent on the other side of my room. it doesn’t slot back into that room, as stated at the beginning of the document, so i am passing it through in the hopes that it will return to the original sender. i do not know my name either. i am entirely numb. and yet, everything within me is heavy. at least i cannot feel the pain of the pen-syringe. mine is oriented with the “3’” on the needle end, like The Pawn. this is the only repose i can find for the hell of having no other way in which to write. dear god, the stench, the formaldehyde and chemicals, are we in a hospital? I am The Tower. Who, or what, is playing this infernal game with our bodies– I pray, I pray that we may remember
+i too was passed this note from the vent on the other side of my room. it doesn’t slot back into that room, as stated at the beginning of the document, so i am passing it through in the hopes that it will return to the original sender. i do not know my name either. i am entirely numb. and yet, everything within me is heavy. mine is oriented with {REDACTED} on the needle end, like The Pawn. at least i cannot feel the pain of the pen-syringe. this is the only repose i can find for the hell of having no other way in which to write. dear god, the stench, the formaldehyde and chemicals, are we in a hospital? I am The Tower. Who, or what, is playing this infernal game with our bodies– I pray, I pray that we may remember
 
 ---
 
 **🜄 | OBS: 09:00 | {D = 3}**
 
-i pray to the unknown gods that you dear reader will have a writing implement, for i _can_ feel the pain of the 5’ needle of this torturous instrument; every character costs an insurmountable agony. but i must write. it is the only thing i truly know. i can hear you in hthere. i am praying that this note will not reach whoever is keepign us her i too wish for you dear recipient to not have to write in your own blood  i do not know my name. i do not know why i cannot smell the chemicalsof which the previous writer spoke. I appear to be The bishop
+iprayyoullhaveapen,i _can_ feel the pain of the 5’ needle; every character costsagonybut i must write.only thing i truly know.can hear you inthere.prayingthisnotewntreachwhoeveriskeepingus  her    i toowish for you dear1to notwriteinyr own blood.dnt know my name. dntknow why i cannot smell the chemicalsof which the previouswrtrspoke.appear to be The bishop
 
 ---
 
