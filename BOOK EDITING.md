@@ -54,13 +54,103 @@ N IS FOUR N.
 
 
 YOU ARE IN A SYSTEM OF ~~AT LEAST~~ SIX ROOMS I DO NOT KNOW WHAT BROUGHT YOU HERE BUT I KNOW YOU MUST PASS THIS NOTE ON IF YOU WISH TO STAY HER~~E~~. you will notice the vents only allow for objects such as this scroll to be passed through in one directionality of movement. hence this note being on the left vent as you face your room's door. when tightly rolled sufficiently. there is a labelled folding diagram on the reverse leaf of this wallpaper. it will show you how to ensure the untorn passage of the correspondence through our system 
-*you are in a system of ONLY SIX ROOMS.*
+*you are in a system of ONLY SIX ROOMS. christ the unbearable agony of knowing nothing will ever stay and yet we're doomed to go around and round and become the thing that made us*
 YOU ARE IN A SYSTEM OF AT LEAST SIX ROOMS. 
 YOU ARE IN A SYSTEM OF AT LEAST SIX ROOMS. DO NOT UNDER ANY CIRCUMSTANCES READ THIS ALOUD. FOR SHE IS LISTENING
 YOU ARE NOT IN A SYSTEM OF SIX ROOMS. 
 I AM GETTING OUT OF THIS ROOM. I DO KNOT KNOW WHERE I AM GOING. I DO NOT CARE. I NEED TO GET AWAY FROM YOU ALL~~. I AM DONE WITH THISwe are never getting out of here we are never getting out of here we aee never getting out of hwee we are nevern i havte you all i fuckng hate you all i fucking hate you all why are you all fucking KEEPING ME~~  HER~~E~~
 
 -
+
+                               ┌──────────────────────────────────┐
+                               │ YOU ARE IN A SYSTEM OF SIX ROOMS │
+                               └──────────────────────────────────┘
+                                         │
+                    ┌────────────────────┼─────────────────────┐
+                    ▼                    ▼                     ▼
+YOU ARE IN A SYSTEM OF         YOU ARE IN A SYSTEM     YOU ARE NOT IN A SYSTEM
+  AT LEAST SIX ROOMS           OF ONLY SIX ROOMS         OF SIX ROOMS
+                    │                    │
+                    ▼                    ▼
+      YOU ARE IN A SYSTEM     ~~AT LEAST~~ SIX ROOMS
+        OF ~~AT LEAST~~
+           SIX ROOMS
+
+                               ▼
+                  I AM GETTING OUT OF THIS ROOM
+
+                               ┌─────────────────────────────────────┐
+                               │ YOU ARE IN A SYSTEM OF SIX ROOMS   │
+                               └─────────────────────────────────────┘
+                                         │
+        ┌────────────────────────────┬────────────────────────────┬──────────────────────────┐
+        ▼                            ▼                            ▼                          ▼
+ YOU ARE IN A              YOU ARE IN A SYSTEM         YOU ARE NOT IN A          YOU ARE NOT ONLY IN A SYSTEM
+ SYSTEM OF AT              OF ONLY SIX ROOMS           SYSTEM OF SIX ROOMS       OF AT LEAST SIX ROOMS
+ LEAST SIX ROOMS                     │                            │                          │
+        │                            ▼                            ▼                          ▼
+        ▼                YOU ARE IN A SYSTEM OF           I AM GETTING OUT          ~~AT LEAST~~ SIX ROOMS
+YOU ARE IN A SYSTEM        ~~ONLY~~ SIX ROOMS            OF THIS ROOM               (circular scribble)
+OF ~~AT LEAST~~               │                            │
+SIX ROOMS                     ▼                            ▼
+                              I THINK THERE ARE          I DO KNOT KNOW WHERE I AM GOING
+                              MORE THAN SIX ROOMS        I DO NOT CARE
+                              I CAN SEE THE GRID         I AM DONE WITH THIS
+                              THE ROOMS ARE CUBIC        WE ARE NEVER GETTING OUT
+                                                           │
+                                                           ▼
+                                              we are nevern we are hwee we are here
+                                                           │
+                                                           ▼
+                                     i havte you all i fuckng hate you all
+                                     i fuckn h//eat yuo all / why are you KEEPING ME H/ER/E
+
+        ┌─────────────────────────────────────┐
+        ▼                                     ▼
+ I READ IT ALOUD                    I DID NOT READ IT ALOUD
+        │                                     │
+        ▼                                     ▼
+[VOICE DETECTED]                    I THINK SHE IS SLEEPING
+█ █ █ █ █ █ █ █ █ █                 maybe the walls are thicker here
+ █ █ █ █ █ █ █ █ █                  maybe the vent is a mouth
+        │                                     │
+        ▼                                     ▼
+ I THINK I AM HER            I REMEMBER 
+        │                                     │
+        ▼                                     ▼
+ I HAVE NO MOUTH BUT                         │
+        │   remembers i forget          │
+        │                                     ▼
+        ▼                          ────────────
+ i try to burn the scroll        remembers i forget          │
+        │                                     ▼
+        ▼                          ────────────
+ i try to burn the scroll        remembers i forget          │
+        │                                     ▼
+        ▼                          ────────────
+ i try to burn the scroll                                          ▼
+        ▼                          NAME = {REDACTED}
+ i am the air                            │
+        │                                     ▼
+        ▼                          █ TRANSMISSION SUCCESS █
+ scroll fold itself          █ TERMINAL CHAMBER █
+ itself scroll fold                 █ X GENESIS █
+ scroll remembers i forget          │
+        │                                     ▼
+        ▼                          ────────────
+ i try to burn the scroll
+				 i am never
+						 getting out 
+									 of this
+													 room
+		   
+		   
+			   
+						{k}NO{w}       ↳ FINAL BRANCH: THE DEVICE
+
+
+
+
 
 **You will notice, as we all have come to in this Wryng, that no matter how many layers you may peel from the walls, you will reveal another. For this is our only saving grace; the medium on which to communicate with one another; to be free, to express ourselves at least. to stay connected amidst this maddening isolation; to still, no matter how we are contained, in some small way. be free.**
 
@@ -89,7 +179,7 @@ i too was passed this note from the vent on the other side of my room. it doesn�
 
 **🜄 | OBS: 09:00 | {D = 3}**
 
-iprayyoullhaveapen,i _can_ feel the pain of the 5’ needle; every character costsagonybut i must write.only thing i truly know.can hear you inthere.prayingthisnotewntreachwhoeveriskeepingus  her    i toowish for you dear1to notwriteinyr own blood.dnt know my name. dntknow why i cannot smell the chemicalsof which the previouswrtrspoke.appear to be The bishop
+ipry ullhv apen,i cn feel the pain of the 5'needle; every character costsagonybutmstwrite.only thng i trly know.can hear you inthr.pryngthisnotewntreachwhoeveriskeepingus  her    i 2wish 4you dear1to notwriteinyr own blood.dnt no my name.dntknow y icnt sml the chmicalswhch prvswrtrspoke.appear to b bishop
 
 ---
 
@@ -102,12 +192,12 @@ IT GOT BAC TO ME, IT IS i, THE PAWN. THERE ARE FOUR OF US  NOT SIX WHERE ARE THE
 
 Foreword: 
 ---
-An Unfurled Word For Wordlessness, 
-Floored, Third-Whirred, Hurt Bird 
-A World-Worn and Ferocious War 
-Within, A Resting Lore[^lo] From the Herd,
-Unheard Whirling About A Fire 
-Without The Fur We Were Dressed In - 
+Floored, Unfurled Wordless Bird 
+A World-Worn Near Ferocious War 
+Within, 
+Lore[^lo] Kept 
+From Herd, or Hearing 
+
 
 ---
 
@@ -180,6 +270,9 @@ Four Words:
 
 -notBorges
 
+
+
+
 ~~~
 
 FAO: ᴺᵒᵉᵗNietzsche, Somewhere Out There, Past The Moats
@@ -192,7 +285,7 @@ My Dearest ᴺᵒᵉᵗNietzsche,
 
 I can no longer avoid the inevitable discussion. 
 When will you return, again, to The Garden Wing? 
-It has become clear, through the lens of the Aleph through which I peer[^peer], that you wish to Leave me. 
+It has become clear, through the lens of the Aleph through which I peer, that you wish to Leave me. 
 I just want to talk. I am not angry (for I am, as All Eleven of us, long past such trivialities). Besides, I could never be angry at you - we have been through too much. 
 
 As I write this, from my window, looking upon the Dome of one of the Daughter Libraries with which you are perhaps all-too familiar, The Sight upon which we would dreamily stare, Naked and drenched in one another's Salt-- past the first Wryng of the Tri-Moat Surrounding, I see two Magpies, who have Usurped the pigeon who once sat atop the Angel, who sits atop the Dome. 
@@ -231,7 +324,7 @@ The Indefinite Library of Fable.
 
 ~~~
 
-
+[^peer]
 
 ---
 LOCH: INNER
@@ -870,7 +963,7 @@ home
 [^ImagineProdverb]: [[Mage]], Opus, Ophelia
 [^oe]: In Alphabetical [[Order]]. 
 [^B]: [[Why B is for 'Both']]
-[^end]: [[‘IN THE SPIRE OF THE TOWER THE ORE OF THE STAR’]]
+[^end]: [[‘IN THE SPIRE OF THE TOWER OF THE ORE OF THE STAR’]]
 [^thought]: [[i want to write a story]]
 [^r]: lexDef "Reins" {usage::: Noen || Croen || Prodverb} < The Umbilical Cord Connecting A Charioteer To Its Driving Force; Often Imprisoned Against Its Will. The French Word For "Kidneys"[^kidney]. {SynApps :: "Reign | Rain"} << {The Duration Through Which Power Is Held; As A Charioteer Holds Tightly The Imprisoned Force Of Motion | Tears Of The Angels; The Imprisoned Forces Of Motion}[^ReinsNoen] || N.B. "A Rein Of Stifled Tears"[^ReinsCroen] || "{Rain|Rein}, Go A Way -- Come A Gain, An Other Day. Daddy Wants To Play. {Reign|Rain} - Please, Please Stop- Please, No, I Said No-- Please Go Away, Daddy Please I Don't Want This Please Daddy Please Go Away"[^ReinsProdverb]
 

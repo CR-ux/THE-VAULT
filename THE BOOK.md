@@ -877,7 +877,7 @@ home
 [^ImagineProdverb]: [[Mage]], Opus, Ophelia
 [^oe]: In Alphabetical [[Order]]. 
 [^B]: [[Why B is for 'Both']]
-[^end]: [[‘IN THE SPIRE OF THE TOWER THE ORE OF THE STAR’]]
+[^end]: [[‘IN THE SPIRE OF THE TOWER OF THE ORE OF THE STAR’]]
 [^thought]: [[i want to write a story]]
 [^r]: lexDef "Reins" {usage::: Noen || Croen || Prodverb} < The Umbilical Cord Connecting A Charioteer To Its Driving Force; Often Imprisoned Against Its Will. The French Word For "Kidneys"[^kidney]. {SynApps :: "Reign | Rain"} << {The Duration Through Which Power Is Held; As A Charioteer Holds Tightly The Imprisoned Force Of Motion | Tears Of The Angels; The Imprisoned Forces Of Motion}[^ReinsNoen] || N.B. "A Rein Of Stifled Tears"[^ReinsCroen] || "{Rain|Rein}, Go A Way -- Come A Gain, An Other Day. Daddy Wants To Play. {Reign|Rain} - Please, Please Stop- Please, No, I Said No-- Please Go Away, Daddy Please I Don't Want This Please Daddy Please Go Away"[^ReinsProdverb]
 
