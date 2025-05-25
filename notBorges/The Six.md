@@ -32,9 +32,6 @@ Which would be a matter for the Woman in the Wallpaper to decide.
 Which would mean their Game was Over. 
 
 
-[[PAWN]]
-[[BISHOP]]
-[[]]
 
  
 

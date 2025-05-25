@@ -43,7 +43,47 @@ Angela Carter famously resisted the reduction of her work to "adult versions" of
 **N.B.**:[^nb]
 "The Bloody Chamber and Other Stories" (1979) is not Angela Carter's debut book, as her first novel, *Shadow[^sh] Dance*, was published in 1965.
 
-Authors' Note:
+{N|P}oets' {M|N}{o|a}t(e)
+
+"**The Swarm  
+>   *Sylvia Plath*
+> **Somebody is shooting at something in our town -  
+> a dull pom, pom in the{REDACTED} Street.  
+> Jealousy can open the blood,  
+>{REDACTED} roses.  
+> Who are they shooting at?  
+>  {REDACTED} 
+> Mass after mass, saying Shh!  
+>   
+> Shh!  These are chess people you play with,  
+>{REDACTED} figures of ivory.  
+> The mud squirms with throats,  
+> {REDACTED}
+> It thinks they are the voice of God  
+>{REDACTED} the claw, the grin of the dog  
+> Yellow-haunched, a pack-dog,  
+> {REDACTED}
+> Like the pack, the pack, like everybody.  
+>   
+> The bees have got so far. {REDACTED} 
+> Fields shrunk to a penny  
+> Spun into a river, the river crossed.  
+>   
+> The bees argue, in their black ball,  
+> {REDACTED} with gray hands stands under the honeycomb  
+> Of their dream, the hives station  
+> Where trains,{REDACTED}
+> Leave and arrive, and there is no end {REDACTED}
+> A red tatter, {REDACTED}
+> The swarm {REDACTED}
+> Worming themselves into niches.  
+>   {REDACTED}  ‘They would have killed me.’  
+>   
+> Stings {REDACTED}!  
+> It seems bees have a notion of honour,  
+> {REDACTED} intractable mind.  {REDACTED} O ton of honey!"
+> 
+
 {REDACTED}
 
 ---

@@ -7,7 +7,7 @@
 
 01:05https://www.youtube.com/watch?v=msqWczwBRxA&t=65s Discovery & Academic Challenges
 
-  Describes discovering an overlooked statistical anomaly in bird genomes, This mirrors the ancient practice of Augury (albeit in a modern, biotechnological context); in which the behaviours (phenomenology/phenotypic traits) are analysed through divination, to provide clues and forecasts of the humans' coming fate.[^F]
+  Describes discovering an overlooked statistical anomaly in bird genomes, This mirrors the ancient practice of Augury (albeit in a modern, biotechnological context); in which the behaviours (phenomenology/phenotypic traits) are analysed through divination, to provide clues and forecasts of the humans' coming fate. SEE BIBLIOGRÆTIOGRAPHY: Augury.
   Critiques the exclusivity and inaccessibility of academic publications,
   Emphasises sharing findings beyond traditional academic channels.
 
@@ -18,6 +18,4 @@
   Aims to publicly expose lexicomythography's complexities.
 
 
-# ᶠᵒᵒᵗNoet(s)
 
-[^F]: ![[Augury]]

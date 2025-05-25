@@ -40,13 +40,13 @@ Reflecting on this dream, my dreams of childhood and my longing
 I was the Starting of a Song so wrongly Strangled into Silence 
 And Shrunk, and head-shrunk, life-sapped, crest-fallen on word-swords and other S-words 
 
-And the bedroom of the child I was, the bookcase that had floated as a Sword above my dreaming
+And the bedroom of the child I was, the bookcase that had floated as a dagger o'er my dreaming
 still held the books now gone and given to some unknown soul, i hope, or worse, rotting in a landfill 
 Relinquished 
 reliquaries
 
 
-And the music of the child I was, the CD floating shelf that held the Songs I wished I was, and tried to write, but couldn't fit the words I'd birthed, with worse, the melodies that burst out from my heart like insects
+And the music of the child I was, the CD floating shelf that held the Songs I wished I was, and tried to write, but couldn't fit the words I'd birthed, with worse, the melodies that burst out from my heart like beaten bulbs, and pulses, insects
 
 none of this would fit together
 
@@ -69,7 +69,7 @@ And this palimpsest
 Heard my music, played by us, on a small, small, CD player 
 that tapping on my chamber door just made my heart swell louder 
 And turned it up, Become the loudness, that I did, I turned it up turned up into my Becoming
-He shouted over all the joy of racket, batting down the hatch I'd then Become
+He shouted over all the joy of racket, batting down the basement hatch I'd shrivelled into
 And battled down the door and entered, 
 And screamed I was not welcome 
 And then my friends were filtered out
