@@ -2,42 +2,7 @@
 permalink: knot by the 'I' who may write this story, but the Eye, by which the Story may be written
 ---
 <AUDIO FILE: {REDACTED}>
-
-Below is a Medieval manuscript discovered in the attic of Jorge Luis Borges after his death; hidden within a hexagonal Box, which appears, unthinkably, impossibly, to be of infinite capacity. 
-Inside, there may be heard Six Human Voices, Though they believe they are Four, crying for escape. 
-They Revolve About an Unknown Seventh - a so-called "Woman In The Wallpaper", some of the voices steeped in tones of a great reverence, some dripping with gripping fear. 
-They transcribe in tongues unknown, but are Translated with a small device affixed to the inside of the lid of the Box[^n] 
-
-
-
-
-
-
-
-
-*"That Mirrors 
-Have Something Monstrous
-Above Them*
-
-- Borges, Tlön, Uqbar, Orbis Tertius
-
-
-"and then, 
-in their Beingness
-They were,
-Being- 
-They, being 'Being' -
-Dreaming.
-Being Dreamed into Being.
-In Two 
-Being"
-
-Firstly. Before the beginning, but definitely after some sort of ending -
-it may be prudent (which is to say, far less wise a decision than just not entering this infernally convoluted labyrinth) to read the quote fractal below, in order to orient yourself as a burgeoning Lexicomythographer:
-
-
-> 	"*The currently accepted nomenclature for denoting Lexicomythographic Definitions, known as LexDefs since before the {ARIA|DNE} Schism of 1994, is as follows, with the exemplified titular camelCase as requisite, along with the heirarchical ordering of sentimental Units (i.e. The Associated Lexicomythographic Nouns, Collective Nouns, Verbs, Adverbs, and Proverbs, respectively.)
-> 		lexDef {usage:: Noen || Croen || Wyrb || badverb || prodverb } Do ⁿᵒᵗ See: ![[Opening Letters to Forgiven Characters, 9th Edition The Lexicomythographic Guide to Dictionaries]]*"
+*"
 			On The Relative Importance Of *LexDefs*: The Fundamental Definitions of Lexicomythography. (Borges, 1994)
 			- *Source Unknown*
 
@@ -191,7 +156,7 @@ With a mirror:
 [^o]: **lexDef { usage:: “lexSeed” < Noen || Vyrb } “Oulipian Games” < literature as a labyrinth || a constraint that reveals more than it conceals || the art of writing by binding one’s own hands, only to find new ways to speak.**>)
 [^h]: lexDef "Hearth" {usage:: Noen || Croen || Wyrb || badverb || prodverb } { {A Heart, Hurting | Healing} || Two or more Hearts, Healing through Hurting. || Archaic: To Hurt Another's Heart in order to Heal One's Own. Or, More Commonly, To Heal Another's Heart by Hurting One's Own. || To Be Hurtful In Your Healing Another; as in the burning of wood to warm your loved ones ||  "*Harness and Contain the Flame, to keep your children safe from it*"}[^re]
 [^c]: "[['to forgive the characters'. a lexicomythographic prodverb]]" - [[Opening Letters to Forgiven Characters, 9th Edition The Lexicomythographic Guide to Dictionaries]], April 17th, 1994
-[^and]: ![[and then]]
+[^and]: 
 [^u]: [[Upon a Throne He Sitteth, the Light of Lucifer in His Palm]], [^uu]
 [^uu]: "[[notBorges/notBorges/Upon Reading Fabienne Elina's Paper On The Sound Of A Single Vowel|Upon Reading Fabienne Elina's Paper On The Sound Of A Single Vowel]]" - From Callie Rose Petal's Unfinished PhD Thesis - [[c is for the ocean salt crystal pillars of used to be called upon shore after Turing calliope]]
 [^n]: affixed to the inside of the lid of the Box, nestled within a cut-out booksafe, within the middle chapter of the manuscript {now REDACTED}. The score lines around the perimeter of the secret pages appear to be bleeding; suggesting the violent pages now absent, and the potential of some supernatural Life, now snuffed out, that the Book itself once experienced.[^s]

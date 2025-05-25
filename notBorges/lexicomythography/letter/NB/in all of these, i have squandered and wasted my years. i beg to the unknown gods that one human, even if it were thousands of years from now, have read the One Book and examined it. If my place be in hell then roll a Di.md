@@ -38,4 +38,4 @@ data:
 Bibliography
 ===
 
-1. ![[this universe (which some call the hospital)]]
+1. [[this universe (which some call the hospital)]]

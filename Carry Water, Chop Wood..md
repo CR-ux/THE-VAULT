@@ -20,4 +20,4 @@ In Chaldean Geometry, The Tarot, and numerous spiritual systems built in Order t
 
 This may seem strange to us, Beings of Tens, with Ten fingers and Toes, with Metric Systems of Measurement, and therefore Memory. and therefore Meaning, and therefore the Marriage of These, into Metacognition. 
 
-We are (within our [[Perception]], at least, which is our Reality)
+We are (within our ![[Perception]], at least, which is our Reality)
