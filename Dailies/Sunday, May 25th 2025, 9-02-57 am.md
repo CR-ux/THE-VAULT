@@ -124,9 +124,9 @@ i am
 
 ## GOALS FOR TODAY
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Add epigraphs
+- [ ] Finalise structure 
+- [ ] Edit down as much as possible. Lead. Into. Gold. I know you can do this callie. You've already done it. I know you can do this. This is what you were born to do. If anybody can do it callie. you can. you can do it. you can do it callie. you can do it. you can. you can. you will. you will. you have the will. you will do it. 
 
 ---
 ``
