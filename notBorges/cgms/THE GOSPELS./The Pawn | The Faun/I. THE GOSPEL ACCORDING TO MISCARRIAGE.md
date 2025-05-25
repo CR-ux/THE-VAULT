@@ -3,55 +3,43 @@ permalink: I. THE GOSPEL ACCORDING TO MISCARRIAGE
 ---
 
 *by The Pawn.* 
-[[Why B is for 'Both']]
-![[I arrived in the garden]]
-[[notBorges/CARPVS/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/I|I]] ,![[Phage 23]]
+
+I arrived in the garden
+
+And a green pixelated spirit  
+Was spread about the place  
+And turned into a skinny stickman  
+Who was thrashing me about  
+Like a lion with a carcass in its jaw  
+And I told them I loved them  
+And then it shrunk  
+Into a child
+
+# Behind the waterfall
+
+Is a blackening tunnel  
+And the blackening whitens  
+And a pink sepia sky became visible  
+And a figure pulls me through  
+An anthropomorphic cow headed being  
+Reaches into the tunnel  
+And pulls me into the underworld  
+By my arm  
+And we are dancing together
+
+<AUDIO FILE{SOURCE REDACTED}>
+
+_Episode 23 of the Literary Critique podcast discussing The Woman In The Wallpaper's seminal Work, "Phage 23" {do knot, cite yore} source: an unreleased journal, "Red, Ring, Parallel," referenced in an art installation. **The journal entry** itself focuses on the book's content, and its controversial withdrawal. This Podcast was the first time the Work has been discussed publicly, and (following the outcry resulting from its release) was subsequently (within three seconds {of a {single drosophila('s)} dream}) removed from streaming platforms_
+
+"Author X, in their book 'Phage 23' explored a deeply intricate and complicated exploration of an alternate universe in which a virus pandemic consumed the world's population with an alarming death toll, leaving one member of the population with a superhuman ability of hearing, but the book was recalled from shelves due to the immediate outbreak of the coronavirus pandemic, in an event of sheer coincidence or of the very parapsychological abilities (though, precognitive, rather than auditory) the author herself was exploring in the work"
+
+This quote is taken from page 23 of Red, Ring, Parallel, the unreleased journal, written about in page 323, footnote 23, within the accompanying written material to the Immersive Art installation made by the woman in the wallpaper
+
 
 
 ![[Article by Dr Seuss on Enantiodromia Pending Acceptance From Publisher]]
 ![[Penultimate]]:
-![[FIRST]],
-
-
-
- >
- ɘm ɘbiƨni >
-bliʜɔ ϱniγb ɿɘʜɈonɒ ɘvɒʜ oɈ >
- ʞool Ɉʜϱim Ɉi woʜ wonʞ oɈ bɘɈnɒw i >
- >ni >
- ,ƨυ ʇo ʜɈod bnɒ >
- >
- .oɈ υoγ bɘɈnɒw i ɈʜϱυoʜɈ υoγ >
- >
- .ɘvɒɘl oɈ bɘɈnɒw υoγ ɈʜϱυoʜɈ i >
- Ɉυd ,ʜɈiw noʞɔɘɿ Ɉon oɈ ɘɔɿoʇ ɒ >
- bɘɈnɒw i >
- ɘɔɿoʇ >
- mɘʜɈ ʇo llɒ no >
- ƨɿυoʇ >
- ɿɘvɘɿoʇ Ɉƨol ƨɒw ɈʜϱυoʜɈ i ɘm ʇo Ɉɿɒq ɒ ɘbiƨni ʇlɘƨɿυoγ bɘʜƨυq υoγ >
- >
- >
- bɒʜ i ɈʜϱυoʜɈ i ɘʇil ɘʜɈ ɿo >
- >
- ɘʇil γm ʇo Ɉʜϱin Ɉƨɒl ɘʜɈ ƨɒw >
- Ɉʜϱin Ɉƨɒl >
-
-]]γʜɈod ɘʜɈ nI[[
-
-ʜɈiW
-
- moɿᆿ
-
- ɘldɒᆿ ʇo γɿɘdiɿઘ ɘʜɈ ϱniɈɒɿɒqɘƧ
-
- ɈɒoM ɘʜT ʇo
-
- ϱnγɿW ɿɘɈυO ɘʜT γd
-
-*nwɒԳ ɘʜT γd*[^1]
-
-[^1]:
+![[FIRST]]
 
 in the dream, i was a child again. 
 Again, I was a child, in the dream. 

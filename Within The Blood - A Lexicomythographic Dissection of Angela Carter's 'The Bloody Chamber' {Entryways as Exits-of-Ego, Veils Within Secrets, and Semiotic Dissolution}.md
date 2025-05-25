@@ -19,16 +19,12 @@ NOW REDACTING
 
 BEGIN OMISSION
 
-**Title: Lexicomythographic Dissection of Angela Carter's *The Bloody Chamber*: Entryways, Veils, and Semiotic Seductions**
+**Title: Lexicomythographic Dissection of Angela Carter's *The Bloody Chamber*: 
 
 **Abstract:**
-This paper approaches Angela Carter's *The Bloody Chamber* through the layered structural lens of *The Children's Gospel Music Songbook* (CGMS) and the lexicomythographic universe. We {REDACT} a hexagonal cell of confession, transformation, and epistemic violence, whose lexDef is written in the blood of prior narratives.
-
-**1. Introduction: Dictionary as Architecture**
-In the lexicomythographic frame, the dictionary is not a catalog of words but a map of Entryways. These Entryways—like rooms in Borges' Library, or hexes in the CGMS—are not flat. They are recursive, {REDACTED}the first wound, the first door, the first utterance.
-
+This paper approaches Angela Carter's *The Bloody Chamber* through the layered structural lens of *The Children's Gospel Music Songbook* (CGMS) and the lexicomythographic universe. We {REDACT} a hexagonal cell of 
 **2. The Chamber as Lexical Womb**
-The titular "bloody chamber" is not just the site of marital horror, but a metonym for the lexDef of "woman" in patriarchal text—a defaced and overwritten definition, overwritten again. The room is a semiotic trap: it bleeds meaning, but only through violation. In CGMS terms, it is the hexagonal Room of Air (Pawn), {REDACTED} Nucleotide{REDACTED}
+The titular "bloody chamber" is {REDACTED} room is a semiotic trap: it bleeds meaning, but only through violation. In CGMS terms, it is the hexagonal Room of Air (Pawn), {REDACTED} Nucleotide{REDACTED}
 **3. Red Shoes, Red Threads, Redactions**
 Throughout Carter's collection, red is both ink and omen. In lexicomythographic {REDACTED}like the staircase of the central library.
 
@@ -36,7 +32,7 @@ Throughout Carter's collection, red is both ink and omen. In lexicomythographic 
 Characters {REDACTED} script etched on the wallpaper. A Notation becomes a Noise.
 
 **5. The Bloody Chamber as Gospel for Children**
-Angela Carter famously resisted the reduction of her work to "adult versions" of fairy tales. Instead, she sought to **reveal the meanings that were always already buried inside**—a mission precisely mirrored{REDACTED}. The child is the Witness. The gospel is {REDACTED} bleeding with meaning.
+Angela Carter famously resisted the reduction of her work to "adult versions" of fairy tales. Instead,{REDACTED}. The child is the Witness. The gospel is {REDACTED} bleeding with meaning.
 {REDACTED}
 
 

@@ -614,7 +614,6 @@ The Indefinite Library of Fable
 CONCLUSION:
 ---
 
-[[RED_RING_PARALLEL_]]
 
 
 ᴺᵒᵉᵗJung awoke, quickly wiping the saliva from the paper, whose actual text, he noted, differed quite significantly from the contents of his dream, in ways, he deduced, must be synchronicity. With the right-to-left swipe of his sleeve, the ink bled, red, only serving to further obfuscate the work. 
@@ -700,8 +699,7 @@ NoetNietzsche laughed and pulled Flo into an embrace.
 And {{To|(get)}|her}}, for one last time, they dreamed-
 
 
-
-![[I. THE GOSPEL ACCORDING TO MISCARRIAGE]]
+[[RED_RING_PARALLEL_]]
 
 
 

@@ -350,7 +350,20 @@ KEY:  {REDACTED}
 ---
 
 
+> *And Father, how can I love you,*  
+> *Or any of my brothers more?*  
+> *I love you like the little bird*  
+> *That picks up crumbs around the door.*
 
+*William Blake, a Little Boy Lost*
+
+
+---
+
+
+and then
+in wake of this monstrous dream
+the Eye awoke
 
 and then the "I" peered upon itself 
 impossibly turned inside out 
@@ -447,6 +460,12 @@ Become
 Aware 
 Of its Maker 
 
+The mirror of a crystal 
+in the water of a tear 
+inside an Eye that peered upon the I 
+left in a door 
+right inside this oar-full story 
+
 
 A Girl 
 The wor{l}d seemed hungry for
@@ -512,10 +531,12 @@ the character
 of this Story
 
 {to
-get
+get|give
 her}
-to forgive
-that
+{two 
+four
+give|get
+that}
 
 surely it
 the weight of that
@@ -528,13 +549,29 @@ would {have led to light|be lead|then lead to}
 some unreachable 
 shore
 
-where
+where, the breathlessnesses 
+and senseless venting 
+all this unrelenting
+discontent 
+a cursed
+recursive childhood dying 
+in repeat
+a hex 
+an unchecked border 
+checkerboard
+
+unzipped sequence of
+events 
+
+surely all this was for something 
+dear god, or goddess, 
+in my everlasting ending 
+i am begging
+surely 
 
 surely 
 it would follow
 that
-
-
 
 
 

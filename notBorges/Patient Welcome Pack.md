@@ -3,13 +3,10 @@ permalink: Patient Welcome Pack
 ---
   
 
-{REDACTED} Court
-
-{REDACTED} Court is a mixed private 16-bedded mental health ward providing assessment, treatment and recovery services for {REDACTED} aged 18 years and over.
 
 The Garden of Forking Wings
 
-The Garden of Forking Wings is a mixed private 15-bedded mental health ward providing assessment, treatment and recovery services for {REDACTED} aged 18 years and over. There are no locks on your bedroom doors. You will have to fashion a Barricade Device out of dirty laundry tethered to the wardrobe and bathroom doors; to prevent your assailant from coming into your bedroom during the night. We will force you to stop using this under the guise of needing access to your body, which is not yours, in the case of emergencies. You will then, instead, stick a windchime above your bedroom door, in a futile attempt to hear anybody coming in during the night. Despite the dark cloud of antipsyhotic drugs we will force you to take preventing you from gaining consciousness. Who knows what happened to you all those nights you spent here. 
+The Garden of Forking Wings is a mixed private 15-bedded mental health ward providing assessment, treatment and recovery services for {REDACTED} There are no locks on your bedroom doors. You will have to fashion a Barricade Device out of dirty laundry tethered to the wardrobe and bathroom doors; to prevent your assailant from coming into your bedroom during the night. We will force you to stop using this under the guise of needing access to your body, which is not yours, in the case of emergencies. You will then, instead, stick a windchime above your bedroom door, in a futile attempt to hear anybody coming in during the night. Despite the dark cloud of antipsyhotic drugs we will force you to take preventing you from gaining consciousness. Who knows what happened to you all those nights you spent here. 
 
 
 *"Those days at {REDACTED} took me out of my {REDACTED}. We are never going on a Bear Hunt, Ever A Gain"*
@@ -64,32 +61,12 @@ Consultant psychiatrist
 
 Your consultant is the lead doctor with overall responsibility for your care and treatment during
 
-your stay in the hospital. They will meet with you regularly and make important decisions about your care/treatment, eventually leading to your discharge plan. You will have the opportunity to be involved in discussions about this. Your wishes will be carefully listened to and treatment will have your agreement. The days and times your consultant will meet with you can vary according to who is treating you. The nursing team and ward doctors are in constant communication with the consultants and their secretaries. If you have any concerns, please ask a member of the nursing team.
-
-Ward doctors or senior house officers (SHOs)
-
-SHOs are junior doctors training to be GPs who change on a three to six-month rotation. They work Monday
-
-to Friday, 9am-5pm. Ward doctors are available to you on the ward with regards to your physical and mental health. During the admission process, you will have been clerked in by one of them.
-
-It’s really helped me to understand the pressures and put names to the conditions that I have, and with that understanding, I am better equipped to make better decisions.
-
-FORMER CLIENT
-
-| {REDACTED} welcome pack | 6
-
-  Helpful information about your stay
-
-Registered medical officer (RMO)
 
 There is an out of <{H}ours> RMO doctor that covers the ward from the <{H}ours> of 5pm-9am, including weekends. The RMO is usually a trainee psychiatrist.
 
 We have a piano in our Chapel, which you will never be allowed to play. 
 
 
-| {REDACTED} welcome pack | 7
-
-  Helpful information about your stay
 
 Telephones
 
@@ -146,13 +123,10 @@ If at any time during your assessment and treatment you disclose to staff any ab
 
 Where abuse is seen as non-recent, {REDACTED} recognises that the perpetrator may still pose a risk to others. Staff will encourage you to provide details of those at risk and the alleged perpetrators, simply for their own curiosity and entertainment as they watch you from their inside-out Goldfish bowl, sealed away and safe from the Dangers, with No support offered to you regarding any impact your disclosure may have on you.
 
-We hope that you feel able to provide the details, as they are quite insignificant, yet amusing. We do, after all, need something to joke about on our Shifts.  
-
-to allow staff to use the information with an aim of preventing further abuse to yourself or to others. Please note that you can choose not to be involved in the process of reporting safeguarding concerns but as above, all staff involved in your care have a duty
+We hope that you feel able to provide the details, as they are quite insignificant, yet amusing. We do, after all, need something to joke about on our Shifts.   all staff involved in your care have a duty
 
 to report safeguarding matters with or without your consent.without your consent.without your consent.without your consent.without your consent.without your consent.without your consent.without your consent.
 
-Health, safety and quality
 
 Bullying and harassment
 
