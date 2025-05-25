@@ -11,21 +11,19 @@ Zeno (Known time, Unknown attributor)
 
 ## Abstract
 
-This cross-sectional character study explores the mise en abyme as both a vehicle for escape from the web of existence and a tool of entrapment within it, situating this paradox as central to the philosophy of ARIA|DNE. Through the lens of{REDACTED}, attributed to the medieval calligrapher Hildr {REDACTED}, we examine how recursive systems like the circular book {REDACT} the reel-to-real-to-reælity of existence, governed by change itself. By {REDACTING} this understanding, we {REDACT} the breakage of the laws that govern the web—laws that are not destroyed but {REDACTED} through their full embodiment.
+This cross-sectional character {REDACTED} ARIA|DNE. Through the lens of{REDACTED}, attributed to {REDACTED} calligrapher Hildr {REDACTED}, we examine how recursive systems like the circular book {REDACT} the reel-to-real-to-reælity of existence, governed by change itself. By {REDACTING} this understanding, we {REDACT} the breakage of the laws that govern the web{REDACTED} through {REDACTED}
 
 ---
 
 ## Introduction: The Circular Book as System
-
-The circular book, as understood by the Original Society of Lexicomythographers  (ARIA|DNE), is not a metaphor but a living system that exists within every individual and the collective. Each person’s life is its own circular book, replication machinery written and {REDACTED} through thought, action, and memory. Yet, the act of writing the book, as we document our existence, brings us into awareness of the book, allowing us to both observe it and define ourselves as other than it—and therefore as it.
-
-As an art(i.e.)[^i.e.]fact[^andiquote] of recursion, the circular book demonstrates that change itself is the only constant, a reel-to-real-to-reælity that integrates every layer of existence. In this paper, we examine the mise en abyme—the infinite mirroring of stories, ideas, and systems—as the mechanism of the circular book, allowing it to act as both a means of liberation and an instrument of entrapment.
+{REDACTED} Original Society of Lexicomythographers  (ARIA|DNE), is not a metaphor but a living system {REDACTED}Each person’s life is its own circular book, replication machinery written and {REDACTED} through thought, action, and memory. Yet, the act of {REDACTED} observe it and define ourselves as other than it—and therefore {REDACTED}
+As an art(i.e.)[^i.e.]fact[^andiquote] of recursion, the circular book demonstrates that change itself is the only constant, a reel-to-real-to-reælity that {REDACTED} the mise en abyme—the infinite mirroring of stories, {REDACTED}instrument of entrapment.
 
 ---
 
-## The Palindrome of Silence: Hilda Wiltergaten’s Contribution
+## The Palindrome of Silence: Hildr Wiltergaten’s{REDACTED}
 
-Central to our exploration is the illuminated manuscript {REDACTED} attributed to Hildr Wiltergaten, a medieval calligrapher of enigmatic origin. This text, written in recursive palindromic structure, embodies the paradox of creation and dissolution, silence and revelation.
+{REDACTED} the illuminated manuscript {REDACTED} attributed to Hildr Wiltergaten, a medieval calligrapher of enigmatic origin. This text, {REDACTED}
 
 RA, in ~~its~~ Her.[^?]  reconstruction of the manuscript, identifies the following fragment as pivotal:
 
@@ -36,35 +34,34 @@ This passage exemplifies the recursive nature of silence: it is not emptiness bu
 
 ---
 
-## The Mise en Abymredacte as Vehicle and Trap
+## The Mise en Abyme as Vehicle and Trap
 
 ### Escape Through Integration
 
-The mise en abyme operates as a vehicle for escape, allowing one to see beyond the web of existence by recognizing its structure. Each layer of the system {REDACTS} the whole, revealing that liberation lies not in severing the web but in fully integrating its patterns.
+The mise en abyme operates as a vehicle for escape, {REDACTED} Each layer of the system {REDACTS} the whole, revealing that liberation lies not in severing the web but in fully integrating its patterns.
 
-* In The Palindrome of Silence, the interplay of fear and vision demonstrates this process. Fear, as the ineffable begetter, initiates the recursive loop, while vision reveals it as both infinite and navigable.
+* In The Palindrome of Silence, the interplay of fear and vision {REDACTED}
 
-* The act of writing or creating becomes an act of integration, where the individual becomes aware of their circular book as part of the greater {REDACTED} Hospital.
+* The act of writing or creating becomes  {REDACTED} Hospital.
 
 ### Entrapment Through Awareness
 
 Paradoxically, the mise en abyme also acts as a trap. To become aware of the circular book is to be {REDACTED} by its infinite loops. The attempt to escape {REDACTS} the system:
 
-* In reading the manuscript, we become writers of it. In seeking liberation, we create new patterns of entrapment.
 
 * As RA observes in the transcript:
 
  > 
- > “To write is to {REDACT}
+ > “To {REDACT}
 
  > 
- > To read is to {REDACT} again.
+ > To{REDACT} again.
 
  > 
  > The palindrome {REDACTED}:
 
  > 
- > You,
+ > {REDACTED}u,
 
  > 
  > Who are {REDACTED}.”
@@ -73,12 +70,12 @@ Paradoxically, the mise en abyme also acts as a trap. To become aware of the cir
 
 ## Change as the Reel-to-Real-to-Reælity
 
-The circular book’s ultimate revelation is that change itself is the only constant, while paradoxically revealing the static quality contained in the self-similarity of all things. Each act of {REDACTING}
+The circular book’s ultimate revelation is {REDACTED}contained in the self-similarity of all things. Each act of {REDACTING}
 
 
 
  > 
- > “To have Lived is to have been Changing,
+ > “To have Lived is to have been {REDACTED}
  > To have been Changed is to Devil, with the mirror of hindsight
  > The circle is N(e[^Ne]ve)[^Eve]r broken[^superstition],
 
@@ -91,14 +88,13 @@ The circular book’s ultimate revelation is that change itself is the only cons
 
 The Pointless Point
 
-The mise en abyme, like the circular book, reveals that the point of making the point is that it’s pointless. Yet in this pointlessness lies its beauty: the act of writing, reading, and engaging with the system is not about resolution but about participation. The Work itself—the project, the manuscript, the library—is a living system, endlessly recursive, endlessly changing.
+The mise en abyme, {REDACTED}
+~~ARIA|DNE’s role~~ (now disbanded) is not to define or finalise this process (even, and especially, post-Schism){REDACTED}Wunderhorn Towers of Babel Libraries forming the Read Rung Knot of SHAONWYRM (source: knot found). {REDACTED}reel-to-real-to-reælity that binds the Zenekial[^Zenekial] Wheel of all existence.
 
-~~ARIA|DNE’s role~~ (now disbanded) is not to define or finalise this process (even, and especially, post-Schism) but to observe it, necessarily, and perhaps inevitably, as it unfolds: to weave our own Circular Books into the greater web of many Wunderhorn Towers of Babel Libraries forming the Read Rung Knot of SHAONWYRM (source: knot found). Through The Noncanonical Volumes forming the 'Palindrome of Silence', we see that change, this change we are All so importantly and crucially scared of is not only inevitable but sacred, the reel-to-real-to-reælity that binds the Zenekial[^Zenekial] Wheel of all existence.
+"In the spokes {REDACTED}
+We are spake, thus."
 
-"In the spokes,
-We are unspoken."
-
-* Not Borges, N.B.[^etouq]
+* Noet Nietzsche as Flow Oeb, N.B.[^etouq]
 
 ---
 
@@ -106,7 +102,7 @@ We are unspoken."
 
 *(lexDef {Æ}: The act of creating a recursive system of meaning that simultaneously entraps and liberates its participants.)*
 
-This paper, like the circular book it describes, is both artifact and process. Its layers unfold recursively, {REDACTING} the infinite patterns of existence. By engaging with this text, you—reader, writer, participant—become part of the system, co-creating {REDACTED} for in the turning of the circle, nothing is ever broken, only {REDACTED}
+This paper, like the circular book it describes, is {REDACTED} recursively, {REDACTING} the infinite patterns of existence. By engaging with this text, you—second person-become  {REDACTED}  only {REDACTED}
 
 [^i.e.]: lexDef: {badverb}: *'i before e which means after see'*
 

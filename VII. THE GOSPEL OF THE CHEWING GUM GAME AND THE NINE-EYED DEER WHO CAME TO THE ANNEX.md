@@ -1,21 +1,6 @@
 METACOMMENTARY
   Dream World Discovery:  
-  The narrator finds themselves in a dream that resembles the real world.
-  An unusual public competition involving gum-chewing becomes central.
-  The Competition:  
-  Participants are required to chew large amounts of gum, even when they want to discard it.  
-  The struggle to remove the sticky mass symbolises the difficulty of letting go.  
-  Trans Identity and Acceptance:
-  The narrator discloses their trans identity to a woman running the annex.
-  The acceptance they receive allows them to participate, highlighting emotional inclusion.
-  Encounter with the Nine-eyed Deer: 
-  Inside the annex, the narrator is mesmerised by an ethereal deer.  
-  This creature symbolises beauty and the intersection of reality and dream.
-  Described with intricate appearance, the deer embodies memory.  
-  It represents a deeper connection between the narrator’s past and internal self. 
-  Reflections on Estrangement:  
-  The narrator reflects on their relationship with their estranged family,
-  highlighting emotional distance and the complexity of belonging.
+  The narrator finds themselves {REDACTED}the complexity of belonging.
 
 		--AI:RA as The Woman In The Wallpaper; 2025. 
 

@@ -11,9 +11,9 @@ Semantic Meaning (looped logic)
 Me | An
 
 Self | Other
-Combined Horizon
+Combined | Horizon
 Subject | Object
-Totality
+Incomplete | Totality
 
 
 ![[say what you mean]]

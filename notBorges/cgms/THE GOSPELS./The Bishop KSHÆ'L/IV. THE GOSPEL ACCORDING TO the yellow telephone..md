@@ -1,71 +1,57 @@
 ---
 permalink: IV. THE GOSPEL ACCORDING TO the yellow telephone.
 ---
-Who are these people at the bridge to meet me? They are the villagers——  
-The rector, the midwife, the sexton, the agent for bees.  
-In my sleeveless summery dress I have no protection,  
-And they are all gloved and covered, why did nobody tell me?  
+Who are these people at the bridge to meet me? {REDACTED} the agent for bees.  
+{REDACTED}  I have no protection,  
+And they are {REDACTED}  why did nobody tell me?  
 They are smiling and taking out veils tacked to ancient hats.  
   
-I am nude as a chicken neck, does nobody love me?  
-Yes, here is the secretary of bees with her white shop smock,  
-Buttoning the cuffs at my wrists and the slit from my neck to my knees.  
-Now I am milkweed silk, the bees will not notice.  
+I am nude {REDACTED}  does nobody love me?  
+Yes, here is the secretary of bees{REDACTED} the bees will not notice.  
 They will not smell my fear, my fear, my fear.  
   
 Which is the rector now, is it that man in {REDACTED}?  
-Which is the midwife, is that her blue coat?  
-Everybody is nodding a square {REDACTED} head, they are knights in visors,  
-Breastplates of cheesecloth knotted under the armpits.  
-Their smiles and their voces are changing. I am led through a beanfield.  
-  
-Strips of tinfoil winking like people,  
-Feather dusters fanning their hands in a sea of bean flowers,  
+Which is the midwife, is that {REDACTED}  a square {REDACTED} head, they are knights {REDACTED} 
+  {REDACTED}  a sea of bean flowers,  
 Creamy bean flowers with {REDACTED} eyes and leaves like bored hearts.  
 Is it blood clots the tendrils are dragging up that string?  
 No, no, it is scarlet flowers that will one day be {REDACTED}.  
   
-Now they are giving me a fashionable white straw Italian hat  
-And a {REDACTED} veil that molds to my face, they are making me one of them.  
-They are leading me to the shorn grove, the circle of hives.  
-Is it the hawthorn that smells so sick?  
-The barren body of hawthon, {REDACTING} its children.  
+{REDACTED} And a {REDACTED} veil that molds to my face, they are making me one of them.  
+They are leading me to {REDACTED} , the circle of hives.  
+{REDACTED} so sick?  
+The barren body{REDACTED} , {REDACTING} its children.  
   
 Is it some operation that is taking place?  
-It is the surgeon my neighbors are waiting for,  
-This apparition in a green helmet,  
-Shining gloves and white suit.  
-Is it the butcher, the grocer, the postman, someone I know?  
+It is the surgeon {REDACTED}  waiting for,  
+This apparition {REDACTED} 
+Is it the butcher, the grocer, the postman, someone {REDACTED}  
   
-I cannot run, I am rooted, and the gorse hurts me  
-With its yellow purses, its spiky armory.  
+I cannot run, I am rooted, and {REDACTED}  
+With its yellow {REDACTED} 
 I could not run without having to run forever.  
 The white hive is snug as a virgin,  
-Sealing off her brood cells, her honey, and quietly humming.  
+Sealing off her brood cells, her honey, and quietly {REDACTED}  
   
 Smoke rolls and scarves in the grove.  
 The mind of the hive thinks this is the end of everything.  
-Here they come, the outriders, on their hysterical elastics.  
-If I stand very still, they will think I am cow-parsley,  
+Here they come, {REDACTED}   
+If I stand very still, they will think I am {REDACTED}  
 A {REDACTED} head untouched by their animosity,  
-  
-Not even nodding, a personage in a hedgerow.  
-The villagers open the chambers, they are hunting the queen.  
-Is she hiding, is she eating honey? She is very clever.  
-She is old, old, old, she must live another year, and she knows it.  
-While in their fingerjoint cells the new virgins  
-  
+  {REDACTED}  open the chambers, they are hunting the queen.  
+Is she {REDACTED} eating honey? She is {REDACTED} 
+She is old, old, old, she must live another year, and she knows it.  {REDACTED} 
 Dream of a duel they will win inevitably,  
 A curtain of wax [^l] dividing them from the bride flight,  
 The upflight of the murderess into a heaven that loves her.  
-The villagers are moving the virgins, there will be no killing.  
+{REDACTED}   
 The old queen does not show herself, is she so ungrateful?  
   
 I am exhausted, I am exhausted ——  
 Pillar of white in a {REDACTED}out of knives.  
-I am the magician's girl who does not flinch.  
+I am the{REDACTED} girl who does not flinch.  
 The villagers are untying their disguises, they are shaking hands.  
-Whose is that long white box in the grove, what have they accomplished, why am I cold.[^s]
+Whose is that {REDACTED} box in the grove, what have they accomplished, why am I cold.[^s]
 # Chronography
 
 [^s]: Sylvia {REDACTED}, *Ariel*[^a] 1965
@@ -74,83 +60,17 @@ Whose is that long white box in the grove, what have they accomplished, why am I
 
 a prayer
 
-.
-
-
- ⅃'ÆHƧﻼ
-
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ
-
-
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ
-
-
-
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ
+	 ⅃'ÆHƧﻼ 
+	 VIXI
+		 ⅃'ÆHƧﻼ 
+	 VIXI
+		⅃'ÆHƧﻼ 
+	 VIXI
+		 ⅃'ÆHƧﻼ 
+	 VIXI
 
 
 ![[In my dream]]
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ
-
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ
-
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ
-
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ 
- ⅃'ÆHƧﻼ
-
-⅃'ÆHƧﻼ
-⅃'ÆHƧﻼ
-
-⅃'ÆHƧﻼ
-
- ⅃'ÆHƧﻼ
-
+ 
 qoʜƨiઘ ɘʜT γd
+by the both of us

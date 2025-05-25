@@ -4,80 +4,43 @@ permalink: II. THE GOSPEL ACCORDING TO THE MOAT SURROUNDING
 > "**The Swarm  
 >   *Sylvia Plath*
 > **Somebody is shooting at something in our town -  
-> a dull pom, pom in the Sunday Street.  
+> a dull pom, pom in the{REDACTED} Street.  
 > Jealousy can open the blood,  
-> It can make black roses.  
+>{REDACTED} roses.  
 > Who are they shooting at?  
->   
-> It is you the knives are out for  
-> At Waterloo, Waterloo, Napoleon,  
-> The hump of Elba on your short back,  
-> And the snow, Marshaling its brilliant cutlery  
+>  {REDACTED} 
 > Mass after mass, saying Shh!  
 >   
 > Shh!  These are chess people you play with,  
-> Still figures of ivory.  
+>{REDACTED} figures of ivory.  
 > The mud squirms with throats,  
-> Stepping stones for French bootsoles.  
-> The gilt and pink domes of Russia melt and float off  
->   
-> In the furnace of greed.  Clouds, clouds.  
-> So the swarm balls and deserts  
-> Seventy feet up, in a black pine tree.  
-> It must be shot down.  Pom!  Pom!  
-> So dumb it thinks bullets are thunder.  
->   
+> {REDACTED}
 > It thinks they are the voice of God  
-> Condoning the beak, the claw, the grin of the dog  
+>{REDACTED} the claw, the grin of the dog  
 > Yellow-haunched, a pack-dog,  
-> Grinning over its bone of ivory  
+> {REDACTED}
 > Like the pack, the pack, like everybody.  
 >   
-> The bees have got so far.  Seventy feet high!  
-> Russia, Poland and Germany!  
-> The mild hills, the same old magenta  
+> The bees have got so far. {REDACTED} 
 > Fields shrunk to a penny  
 > Spun into a river, the river crossed.  
 >   
 > The bees argue, in their black ball,  
-> A flying hedgehog, all prickles.  
-> The may with gray hands stands under the honeycomb  
+> {REDACTED} with gray hands stands under the honeycomb  
 > Of their dream, the hives station  
-> Where trains, faithful to their steel arcs,  
->   
-> Leave and arrive, and there is no end to the country.  
-> Pom!  Pom!  They fall  
-> Dismembered, to a tod of ivy.  
-> So much for the charioteers, the outriders, the Grand Army!  
-> A red tatter, Napoleon!  
->   
-> The last badge of victory.  
-> The swarm is knocked into a cocked straw hat.  
-> Elba, Elba, bleb on the sea!  
-> The white busts of marshals, admirals, generals  
+> Where trains,{REDACTED}
+> Leave and arrive, and there is no end {REDACTED}
+> A red tatter, {REDACTED}
+> The swarm {REDACTED}
 > Worming themselves into niches.  
+>   {REDACTED}  ‘They would have killed me.’  
 >   
-> How instructive this is!  
-> The dumb, banded bodies  
-> Walking the plank draped with Mother France’s upholstery  
-> Into a new mausoleum,  
-> An ivory palace, a crotch pine.  
->   
-> The man with gray hands smiles -  
-> The smile of a man of business, intensely practical.  
-> They are not hands at all  
-> But asbestos receptacles.  
-> Pom!  Pom!  ‘They would have killed me.’  
->   
-> Stings big as drawing pins!  
+> Stings {REDACTED}!  
 > It seems bees have a notion of honour,  
-> A black intractable mind.  
-> Napoleon is pleased, he is pleased with everything.  
-> O Europe!  O ton of honey!"
+> {REDACTED} intractable mind.  {REDACTED} O ton of honey!"
 > 
 
 **OR -I DREAMED OF PHAROAH AND A WOMAN WHO DIDN'T KNOW SHE WAS A PHAROAH DREAMING**
-
 
 by the Knight
 
@@ -129,10 +92,10 @@ Time passes.
 And then -
 
 
-Upon discussing the fundamental Truth of the Paradox of Imminence Vs. Transcendence through the lens of the Pantheon vs. the Pleroma or Oneness, Selene reveals herself in the midst, directly ahead of me, from the still-open eye of my unblinded window. 
+Upon discussing the fundamental Truth of the Paradox of Imminence Vs. Transcendence through the lens of the Pantheon vs. the Pleroma or Oneness with my{REDACTED}self, Selene reveals herself in the midst, directly ahead of me, from the still-open eye of my unblinded window. 
 
-I realise that Selene is transfeminine and Endymion is her assigned perceived identity at birth, forever coming back to this pain, itself wishing for eternal sleep, or potentially 
-
+I realise that Selene is transfeminine and Endymion is her assigned perceived identity at birth, forever coming back to this pain, itself wishing for eternal sleep, or 
+{REDACTED}
 
 
 
