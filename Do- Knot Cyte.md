@@ -10,6 +10,10 @@
 > ***I hope to simultaneously embody this concept, while also paradoxically dismantle it,*** 
 > ***As it is only from within the Cage that we can start to build a Framework,*** 
 > ***for escaping its chains.*** 
+> 
+> In this small, hidden, yet dizzyingly large-scale effort, 
+> a durational literary project that will undoubtedly last the rest of my life, 
+> I aim to frame the conditions of marginalisation I, and so many others have been dealt, not as absences, but as generative states of meaning.
 
 
 Callie Rose Petal 
