@@ -81,7 +81,7 @@ permalink: ⁿᵒᵗBorges
       <li><strong>Your Shirt (2014)</strong><br>
         Collaboration with <em>Car Seat Headrest</em>. Experimental spoken word.</li>
       <li><strong>WAR SORE</strong><br>
-        Noise cabaret EP merging theatricality and abrasion. Precursor to Katabasis.</li>
+        Noise cabaret EP merging theatricality and abrasion. Precursor to Katabasis. Now pulled.</li>
     </ul>
   </section>
 
