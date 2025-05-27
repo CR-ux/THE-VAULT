@@ -76,7 +76,8 @@ permalink: ⁿᵒᵗBorges
       <li><strong>KATABASIS: an underworld opera</strong><br>
         Studio debut album supported by Help Musicians UK. Themes of descent, ritual, trans* identity. Vinyl release with ritual live shows.</li>
       <li><strong>IF ONLY HANDS COULD SPEAK</strong><br>
-        Performance piece exploring trauma. Shown in Glasgow and at <em>Homografia Festival</em>, Brussels (2023).</li>
+        Performance piece exploring trauma, involving staged self-mutilation with theatrical blood, a prosthetic tongue, live painting, and ending with aggressive extended vocal technique in an open, industrial venue, addressing themes of forced vulnerability and biological essentialism imposed on trans women. Shown in Glasgow and at <em>Homografia Festival</em>, Brussels (2023)."a multidisciplinary performance-as-ritual, evoking the severance of her own tongue and live painting using stage blood with the paintbrush of her naked transfeminine body, expressing what it has meant for her to overcome her own abuse and sexual trauma, severing all which can no longer serve her." </li>
+        <a href="https://homografia.com/event/1062/perfo-4-if-only-hands-could-speak/" target="_blank">"a multidisciplinary performance-as-ritual, evoking the severance of her own tongue and live painting using stage blood with the paintbrush of her naked transfeminine body, expressing what it has meant for her to overcome her own abuse and sexual trauma, severing all which can no longer serve her."</a>
       <li><strong>Your Shirt (2014)</strong><br>
         Collaboration with <em>Car Seat Headrest</em>. Experimental spoken word.</li>
       <li><strong>WAR SORE</strong><br>
@@ -87,9 +88,11 @@ permalink: ⁿᵒᵗBorges
   <section class="section">
     <h2>Performance & Residencies</h2>
     <ul>
-      <li><strong>HOW MUCH DO I HAVE TO BLEED...</strong> (Arthur’s Seat)</li>
+      <li><strong>HOW MUCH DO I HAVE TO BLEED...</strong> (Endurance Artwork performed on Arthur’s Seat at the height of the COVID-19 pandemic)</li>
       <li><strong>Summerhall (Edinburgh)</strong><br>
-        Ritual performances in a cursed, circular, pew-like classroom setting. Visceral conceptual performance art confronting gender, identity, and transcendence.</li>
+        Two Ritual performances in the cursed, circular, pew-like classroom setting of a veterinary Anatomy Lecture Theatre. Visceral conceptual performance art confronting gender, identity, and transcendence.</li>
+      <li><strong>IF ONLY HANDS COULD SPEAK.</strong> <br>
+      Commission for Homografia festival in Brussels, </li>
       <li><strong>Banshee Labyrinth (Edinburgh)</strong><br>
         Self-curated an all-trans lineup of noise artists for Edinburgh Pride, funded by <strong>Spit It Out</strong> (SCIO), a feminist org co-founded by notBorges and a collective of women and enby artists.</li>
       <li>Residency: Creative Informatics</li>
@@ -111,7 +114,7 @@ permalink: ⁿᵒᵗBorges
   <section class="section">
     <h2>Film</h2>
     <p><strong>What It Means to Be</strong> by Lea Luiz de Oliveira<br>
-      Subject & score composer. Award-winning documentary featured at Mumbai International Queer Film Festival & Homografia Festival.</p>
+      Subject & score composer. Premiering in Glasgow and Edinburgh as part of the Aye Festival, Winner of the Best Short Documentary Award at KASHISH Film Festival in Mumbai & Shown at a Special Screening and live Q&A event at Homografia Festival, Brussels.</p>
   </section>
 
   <section class="section">
@@ -123,7 +126,7 @@ permalink: ⁿᵒᵗBorges
   </section>
 
   <section class="section">
-    <h2>Transmedia & ARG</h2>
+    <h2>Transmedia & ARG Trailheads</h2>
     <ul>
       <li><strong>Lexicomythography</strong>: ritual narrative operating system with tarot, apps, conlang/esolang creation (SIPHO{N|r}, :Edo||odE:), trans-centred theology</li>
       <li><strong>Journals of ARIA|DNE</strong>: <a href="https://cr-ux.github.io/thejournalsofariadne/" target="_blank">a Metanarrative Github Repository.</a> </li>
