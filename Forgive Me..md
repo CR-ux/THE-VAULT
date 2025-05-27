@@ -1,6 +1,6 @@
 
 
-I know Knot what I've done.
+I  [[know ]] [[Knot]] what I have done.
 
 But, perhaps in spite of myself, 
 I will continue to do it.
@@ -13,22 +13,14 @@ My name is Callie Rose Petal,
 
 
 
-**Lexicomythography**.
+**Lexicomythography.**
 
 
 
-A Semi-Fictional Field of Study[^m] 
-Covertly researched by a Society of Characters[^l]
+A Semi-Fictional [[Field]]  of Study[^m] 
+Covertly researched by a Society of [[Character]]s[^l]
 known as ARIA|DNE. 
 
-
-What follows is an archival documentation 
-of my encounters with their interspersed 
-cryptic and enciphered correspondence.
-
-What follows is an archival documentation 
-of my encounters with their interspersed 
-cryptic and enciphered correspondence.
 
 [[The Discovery|What follows is an archival documentation]]
 of my encounters 
@@ -39,26 +31,27 @@ correspondence
 
 
 
-![[Page]]
-		as Performance 
+[[Page]]
+		as Performance[^pp]
 
 
 
 Terminology as Technology.
-Artifact as Artefact
+
+Artifact as Artefact.[^aa]
 Interface as In,
 
 Into Face
 of the
-Demon as Divinity 
+
+Demon  
+
+as Divinity 
 through the
-Device of Division.
+			Device of                       Division.
 
 
-
-
-
-![[Abandon]]
+[[Abandon]]
 
 (Hope) 
 
@@ -68,7 +61,7 @@ Device of Division.
 
 All Ye Who Enter 
 
-(Hear) 
+[[lexDict|(Hear.)]]
 
 
 
@@ -98,3 +91,9 @@ to forgive the characters
 [^fict]: and forgiving the insufficiency and yet crucial importance of the characters, of a language, of language itself, and of the characters in every story in every language including the non-fictional ones;[^fm]
 [^fm]: that is what meaning is;[^tm] 
 [^tm]:that is what it means;[^pro]
+[^pp]: lexDef "*Page-As-Performance*" {lexAllele(s)::: Prodverb} < A multidisciplinary artistic approach where the act of reading, writing, and interacting with the page is treated as a performative event. The boundaries between text, body, and audience blur, creating a live, embodied experience beyond conventional literary consumption. This method emphasizes the physicality of text and the performative agency of the reader and creator.[^pageAsPerformanceProdverb]
+
+[^pageAsPerformanceProdverb]: [[Page]], Callie Rose Petal as notBorges
+[^aa]: lexDef "Artefact as Artifact" {lexAllele(s)::: Prodverb} < A conceptual framework that views creative works not merely as static objects (“artifacts”) but as dynamic, living entities (“artefacts”) whose meanings are shaped and reshaped through ritual, interaction, and cultural context. It foregrounds the cyclical and transformational qualities of creative expression, suggesting that art continuously evolves beyond its material form.[^ArtefactasArtifactProdverb]
+
+[^ArtefactasArtifactProdverb]: [[Artefact]], notBorges as The Woman In The Wallpaper
