@@ -150,7 +150,10 @@ to forgive the characters
 [^tm]:that is what it means;[^pro]
 [^pp]: lexDef "*Page-As-Performance*" {lexAllele(s)::: Prodverb} < A multidisciplinary artistic approach where the act of reading, writing, and interacting with the page is treated as a performative event. The boundaries between text, body, and audience blur, creating a live, embodied experience beyond conventional literary consumption. This method emphasizes the physicality of text and the performative agency of the reader and creator.[^pageAsPerformanceProdverb]
 
-[^pageAsPerformanceProdverb]: [[Page]], Callie Rose Petal as notBorges
+[^pageAsPerformanceProdverb]: [[Page]], Callie Rose Petal as notBorges, the language artist
 [^aa]: lexDef "Artefact as Artifact" {lexAllele(s)::: Prodverb} < A conceptual framework that views creative works not merely as static objects (“artifacts”) but as dynamic, living entities (“artefacts”) whose meanings are shaped and reshaped through ritual, interaction, and cultural context. It foregrounds the cyclical and transformational qualities of creative expression, suggesting that art continuously evolves beyond its material form.[^ArtefactasArtifactProdverb]
 
-[^ArtefactasArtifactProdverb]: [[Artefact]], notBorges as The Woman In The Wallpaper
+[^ArtefactasArtifactProdverb]: [[Artefact]], notBorges as The Woman In The Wallpaper[^twitw], a prisoner
+[^twitw]: [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/The Woman in The Wallpaper|The Woman in The Wallpaper]], a character[^fo] Callie Rose Petal[^crp], a warden
+[^crp]: [[Word]], an unending letter[^s] to Jorge Luis Borges.
+[^s]: [[Sierpiński Gasket]], a {[[Period]]|full stop}.

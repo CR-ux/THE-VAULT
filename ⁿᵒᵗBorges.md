@@ -2,6 +2,13 @@
 permalink: ⁿᵒᵗBorges
 ---
 
+	lexDef (∞) "ⁿᵒᵗBorges" {lexAllele(s)::: Noen {SIPHO{N|r} || English}} <  A {conceptual|language|performance} artist, noise alchemist, and meta{fictional|physical}{software|systems|wor(l)d} developer || A Character, who is a Letter, to an Author of the Character that is The Word.
+[^notBorgesNoen]
+
+[^notBorgesNoen]: [[Forgive Me.]], The Children's Gospel Music Songbook, by The Woman In The Wallpaper
+
+
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -52,7 +59,11 @@ permalink: ⁿᵒᵗBorges
 <body>
   <header>
     <h1>Callie Rose Petal as ⁿᵒᵗBorges</h1>
-    <p>A transmedia artist, noise alchemist, and metaphysical systems developer</p>
+
+
+
+
+   
   </header>
 
   <section class="section">
@@ -87,13 +98,13 @@ permalink: ⁿᵒᵗBorges
   </section>
 
   <section class="section">
-    <h2>Expanded Universe / ARG Layer</h2>
+    <h2>Expanded Universe</h2>
     <p>The <strong>CGMS</strong> project is a durational conceptual performance embedded in a literary corpus — a recursive puzzle wrapped in shame and syntax. It merges the previously unmerged fields of <em>literature</em> and <em>conceptual performance art</em>, inventing a novel artform (literally). The moniker <strong>notBorges</strong> both honors and negates its inspiration, invoking a spectral Borges to haunt every footnote.</p>
     <p>This universe includes:</p>
     <ul>
       <li><strong>Podcast:</strong> An AI-voiced, uncanny broadcast feeding into the CGMS puzzle-ARG framework.</li>
       <li><strong>GitHub Repository:</strong> Home to the <em>Journals of Ariadne</em> — staged as academic work, but laced with embedded storylines in commit messages and pull requests. The development team is fictional: characters from the multiverse itself.</li>
-      <li><strong>LexDict (.md format):</strong> Markdown-based footnoting system linking to entries that function like metaphysical hyperlinks or fractal doors.</li>
+      <li><strong>lexDict:</strong> A Dictionary. A fractalised footnoting system linking to entries that function like metaphysical hyperlinks or fractal doors.</li>
     </ul>
   </section>
 
@@ -105,18 +116,18 @@ permalink: ⁿᵒᵗBorges
 
   <section class="section">
     <h2>Radio</h2>
-    <p><strong>CONSTANTLY FAILING</strong> (EHFM)<br>
+    <p><strong>the medium is the wreckage</strong> (EHFM)<br>
       A sonic exploration of noise, experimentation, and vulnerability.</p>
        <p><strong>The Woman in the Wallpaper</strong> (Streaming platforms | Patreon exclusive RSS feed)<br>
-      A podcast and Entry point.</p>
+      A podcast and Alternate Reality Game (ARG) Entry point.</p>
   </section>
 
   <section class="section">
-    <h2>Transmedia & Software</h2>
+    <h2>Transmedia & ARG</h2>
     <ul>
-      <li><strong>AZOTH</strong>: magickal operating system with tarot, apps, conlang (Siphon), theology</li>
+      <li><strong>Lexicomythography</strong>: ritual narrative operating system with tarot, apps, conlang/esolang creation (SIPHO{N|r}, :Edo||odE:), trans-centred theology</li>
       <li><strong>Journals of ARIA|DNE</strong>: <a href="https://cr-ux.github.io/thejournalsofariadne/" target="_blank">a Metanarrative Github Repository.</a> </li>
-      <li>QR-enhanced manuscripts, recursive footnotes, AI-guided editing</li>
+      <li>QR-enhanced manuscripts, recursive footnotes, interactive storytelling</li>
     </ul>
   </section>
 
@@ -131,7 +142,10 @@ permalink: ⁿᵒᵗBorges
     <h2>Connect</h2>
     <ul>
       <li><a href="https://instagram.com/carpvs" target="_blank">Instagram</a></li>
-      <li><a href="https://www.lonelycarp.com" target="_blank">Website</a></li>
+      <li><a href="https://www.carpvs.com" target="_blank">Website</a></li>
+      <li><a href="https://www.patreon.com/notborges" target="_blank">Patreon</a></li>
+      <li><a href="https://www.notborges.bandcamp.com" target="_blank">Bandcamp</a></li>
+      <li><a href="https://open.spotify.com/artist/3tsWNeIo7giKlNy7pllSpU?si=OKMCGl5MT1KM_QKQ9lkVYg" target="_blank">Spotify</a></li>
     </ul>
   </section>
 
