@@ -1,3 +1,55 @@
+	For {these} Words {
+		
+		if {
+			in her Body of Work
+			her Characters became aware of
+			this.Girl
+			and reached out of the page
+			she trapped them in
+			to try to take her place
+			&& would not forgive 
+			}
+					
+				if {
+					The unforgivable Wor{l}d 
+					she had built
+					from letters written
+					to and by The Word 
+					seemed hungry for her Body
+					Salivating 
+					to sink its teeth into it
+
+					Not because it wanted her to hurt 
+					But because it needed to Live.
+					}
+						else {
+							this.Woman 
+							maybe, worse,
+							She wasn't what it wanted, 
+							It maybe overlooked her,
+							The World maybe let her Live.
+							}   
+							  OR
+								perhaps {
+								worst of all, 
+								She was exactly what it wanted 
+								But was bad for it--
+								As it was bad for her.
+								Perhaps she was Sick-
+								Perhaps got the world. 
+								Perhaps she got the world, made Sick.
+								She made the world get Sick, perhaps.
+								}
+										then {
+										surely
+										this.Girl 
+										Was Now Aware
+										She Was
+										Just a scared 
+										and lonely little girl,
+										trying to write this story. 
+										}
+							}
 
 
 I  [[know ]] [[Knot]] what I have done.
@@ -7,7 +59,12 @@ I will continue to do it.
 
 
 My name is Callie Rose Petal, 
-	A Multidisciplinary Creator
+	A Multidisciplinary Creator not known as Borges
+	or notBorges
+
+A Woman 
+Gone quite mad
+Behind the Wallpaper
 										Behind  
 												This 
 
