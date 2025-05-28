@@ -17,10 +17,12 @@
 					to and by The Word 
 					seemed hungry for her Body
 					Salivating 
-					to sink its teeth into it
+								to sink 
+									its teeth 
+											into it
 
-					Not because it wanted her to hurt 
-					But because it needed to Live.
+			Not because it wanted her to hurt 
+				But because it needed to Live.
 					}
 						else {
 							this.Woman 
@@ -33,49 +35,55 @@
 								perhaps {
 								worst of all, 
 								She was exactly what it wanted 
-								But was bad for it--
-								As it was bad for her.
-								Perhaps she was Sick-
-								Perhaps got the world. 
-								Perhaps she got the world, made Sick.
-								She made the world get Sick, perhaps.
+							But was bad for it--
+						As it was bad for her.
+					Perhaps she was Sick-
+				maybe, nothing
+					Perhaps got the world. 
+						Perhaps she got the world, made Sick.
+							She made the world get Sick, perhaps.
 								}
 										then {
-										surely
-										this.Girl 
-										Was Now Aware
-										She Was
-										Just a scared 
-										and lonely little girl,
-										trying to write this story. 
-										}
+									surely
+								this.Girl 
+							Was Now Aware
+						She Was
+						
+							Just a scared 
+						and lonely 
+					little girl,
+				trying 
+			to 
+		write 
+	this.Story. 
+								}
 							}
 
 
-I  [[know ]] [[Knot]] what I have done.
+[[notBorges/aria-dne/I|I]]  [[know ]] [[Knot]] what [[I]] have done.
 
 But, perhaps in spite of myself, 
 I will continue to do it.
 
 
-My name is Callie Rose Petal, 
+My name is Callie Rose [[callie_rose_petal.jpg|Petal]], 
 	A Multidisciplinary Creator not known as Borges
-	or notBorges
+	or [<sup>not</sup>Borges](https://notborges.bandcamp.com/)
 	
 
 A Woman 
 Gone quite mad
 Behind the Wallpaper
 										Behind  
-												This 
+												[[this is the|This]] 
 
 
 
-**Lexicomythography.**
+[[notBorges/lexicomythography/particle/strange/LEXICOMYTHOGRAPHY|LEXICOMYTHOGRAPHY]]
 
 
 
-A Semi-Fictional [[Field]]  of Study[^m] 
+A [[From the Reception Desk 𐕣|Semi-Fictional]]  [[Field]]  of Study[^m] 
 Covertly researched by a Society of [[Character]]s[^l]
 known as ARIA|DNE. 
 
@@ -104,7 +112,9 @@ of the
 
 Demon  
 
-as Divinity 
+in [[Two]] Faces
+
+of Divinity 
 through the
 			Device of                       Division.
 
@@ -130,11 +140,10 @@ All Ye Who Enter
 [^m]: A transmedia Metanarrative Universe, which aims to dismantle traditional norms of academic inquiry and the written Word. 
 [^l]: lexDef "Forgive" {usage::: Croen || prodverb} < N.B. "A Forgiving of Characters"[^ForgiveCroen] || *"To forgive the Characters"*[^pro]
 [^ForgiveCroen]: lexDef "Croen" {lexAllele(s)::: Noen || Croen} < A lexType denoting a Collective Noen || N.B. "A Croen of Noens"[^CroenCroen]
-[^CroenCroen]: lexDef "Noen" {lexAllele(s)::: Noen || Croen} < A lexType denoting a Name, Which is a Death, Which is, eventually, a Birth[^NoenNoen] || N.B. ""A Noen of Knowns"
+[^CroenCroen]: lexDef "Noen" {lexAllele(s)::: Noen || Croen} < A lexType denoting a Name, Which is a Death, Which is, eventually, a Birth[^lang] || N.B. ""A Noen of Knowns"
 [^pro]:to forgive the characters[^ack]
-[^ack]:means to acknowledge and understand and forgive | language's[^lang] insufficiency in portraying meaning.
-to forgive the characters 
-[^lang]: And language, in the broadest sense.[^mea]
+[^ack]:means to acknowledge and understand and forgive | language's[^lang] insufficiency in portraying meaning. to forgive the characters 
+[^lang]: of language, in the broadest sense.[^mea]
 [^mea]: Meaning: Meaning.[^mean]
 [^mean]: Forgive meaning, of its insufficiency to truly portray the weight of itself.[^or]
 [^or]:Forgive the characters of the languages we each have been born with and willed ourselves into learning to connect to more of ourselves or maybe invented some for the joy of making music with words or- forgive ourselves.[^fo]
@@ -147,7 +156,7 @@ to forgive the characters
 [^bc]: Because forgiving the characters is easier when you have another character in the story to work together in forgiving each other.[^other]
 [^other]: and when things don't translate properly, that forces much harder contemplative work in order to understand it- which requires a team.[^fict]
 [^fict]: and forgiving the insufficiency and yet crucial importance of the characters, of a language, of language itself, and of the characters in every story in every language including the non-fictional ones;[^fm]
-[^fm]: that is what meaning is;[^tm] 
+[^fm]: that is what [[meaning ]]is;[^tm] 
 [^tm]:that is what it means;[^pro]
 [^pp]: lexDef "*Page-As-Performance*" {lexAllele(s)::: Prodverb} < A multidisciplinary artistic approach where the act of reading, writing, and interacting with the page is treated as a performative event. The boundaries between text, body, and audience blur, creating a live, embodied experience beyond conventional literary consumption. This method emphasizes the physicality of text and the performative agency of the reader and creator.[^pageAsPerformanceProdverb]
 
@@ -156,5 +165,5 @@ to forgive the characters
 
 [^ArtefactasArtifactProdverb]: [[Artefact]], notBorges as The Woman In The Wallpaper[^twitw], a prisoner
 [^twitw]: [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/The Woman in The Wallpaper|The Woman in The Wallpaper]], a character[^fo] Callie Rose Petal[^crp], a warden
-[^crp]: [[Word]], an unending letter[^s] to Jorge Luis Borges.
+[^crp]: [[Word]], an unending [[letter]][^s] to Jorge Luis Borges.
 [^s]: [[Sierpiński Gasket]], a {[[Period]]|full stop}.
