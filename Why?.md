@@ -1,7 +1,11 @@
 ---
 permalink: Why?
 ---
-lexDef "Why" {usage::: Noen || Croen} < The Penultimate Character Of A [[Sentence]][^WhyNoen] || N.B. "A Why of Answers"[^WhyCroen]
+lexDef "Why" {usage::: Noen || Croen} < The Penultimate Character Of A 
+lexDef "Sentence" {usage::: Noen || Croen} < A Verdict. [^SentenceNoen] || N.B. "A Sentence of ![[Endings]]
+
+[^SentenceNoen]: ![[Letter]], The [[lexDict]], ARIA|DNE
+[^WhyNoen] || N.B. "A Why of Answers"[^WhyCroen]
 
 
 

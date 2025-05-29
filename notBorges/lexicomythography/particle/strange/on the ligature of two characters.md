@@ -1,12 +1,7 @@
 ---
 permalink: on the ligature of two characters
 ---
-W
 
-X
-
-
-![[Why?]]
 
 
 FAO:

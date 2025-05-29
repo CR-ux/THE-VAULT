@@ -1,7 +1,7 @@
 ---
 permalink: LIFE
 ---
-[[Live]]
+[[Lives]]
 
 
 

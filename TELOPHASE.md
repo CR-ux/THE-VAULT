@@ -37,8 +37,8 @@ And she saw a letter, on the sideboard, to one "Professor Eduardo Oleander" let 
 
 And upon the Hexagonal Scrabble board, a variant known as *Hexadeciderium* (an invention of the Professor's), landed a Fly, 
 
-The 
-![[One Thing Missing - a scrabble variant]]
+The One Thing Missing.
+
 
 And just Left, or perhaps Right, of the Fly's small, scared and sacred little body, was quite a fascinating Device. 
 

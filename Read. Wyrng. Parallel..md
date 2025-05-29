@@ -9,7 +9,7 @@ permalink: Read. Wyrng. Parallel.
 
 ![[notBorges*]]
 
-![[N.ear]]
+![[Close]]
 
 ![[The Citadel of Tœms]]
 

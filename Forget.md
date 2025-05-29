@@ -26,7 +26,7 @@ permalink: Forget
 Bibliogorætiography
 --
 
-1. ![[Book VI]]. The Gospel According To ᴺᵒᵉᵗZeno (As Recounted By ᴺᵒᵉᵗAristotle). 350 BCE. 
+1. [[Book VI]]. The Gospel According To ᴺᵒᵉᵗ⧖eno (As Recounted By ᴺᵒᵉᵗAristotle). 350 BCE. 
 # Chronography
 
-[^k]: [[Key]]: Polycosmogram (Dimensionᴺ) ↲ **[[lexCode]]**  
+[^k]: [[Key]]: Polycosmogram (Dimensionᴺ) ↲ **![[lexCode]]**  

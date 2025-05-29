@@ -681,7 +681,6 @@ Oar: {an}**Thr**{opomorhism||ough|ead}
 
 
 
-
 They dreamed that 
 They were,
 They dreamed that they are
@@ -779,7 +778,7 @@ Oar: As{I}n, Asparagine
 
 ---
 
-
+![[From Cradle to Casket to Castle]]
 
 
 
@@ -842,22 +841,6 @@ And {{To|(get)}|her}}, for one last time, they dreamed-
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 
@@ -867,19 +850,11 @@ And {{To|(get)}|her}}, for one last time, they dreamed-
 
 ---
 
+{R            ED.               
+                          ACTED}
 
 
-
-
-
-
-
-
-
-
-
-
-
+![[One Thing Missing - a scrabble variant]]
 
 
 ---
@@ -893,17 +868,50 @@ And {{To|(get)}|her}}, for one last time, they dreamed-
 
 
 
+~~~
+FAO: ᴺᵒᵉᵗTuring, The Server Room
+BCC: VIXI.  
+From the Desk of ᴺᵒᵉᵗBorges,  
+
+---  
+
+
+Dearest ᴺᵒᵉᵗTuring, 
+
+
+Is your Device yet complete?
+I ask, perhaps in vain-
+simply because
+without you, 
+
+I will never be. 
 
 
 
 
+Yours, Yores, Urs--  
+
+-ᴺᵒᵉᵗBorges  
+
+Department Of Infinite Reflections,  
+The Garden Wing  
+The Indefinite Library of Fable
 
 
 
+~~~
 
 
 
+ᴺᵒᵉᵗTuring's Device, deep, down in the basement of the Library, was indeed nearing completion. 
+But through his many hours focussed work, he would often have it set to Silent.
 
+And the silence, his silence, 
+not transcribed, but heard, half-heard, 
+between the waves of possibility 
+the two of them had once been, 
+
+it told Borges everything he needed to know. 
 
 
 
@@ -915,6 +923,16 @@ And {{To|(get)}|her}}, for one last time, they dreamed-
 **Oar: Arg**
 
 ---
+W
+
+X
+
+
+![[Why?]]
+
+
+
+![[on the ligature of two characters]]
 
 
 
@@ -923,17 +941,7 @@ And {{To|(get)}|her}}, for one last time, they dreamed-
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+![[From Aria, to AI-RA]]
 
 
 
@@ -950,23 +958,77 @@ And {{To|(get)}|her}}, for one last time, they dreamed-
 
 
 
+[[RED_RING_PARALLEL_]]
 
 
 
+Flo awoke, knowing this beginning, the beginning of their life, telling stories in the scales of the floorboards, playing music in words describing infinite distance between notes, and now, learning, at least in part, of the distance between two Holy Noets now separated by the Moat that they had been told was uncrossable -
 
 
+![[MAIL (23) TO]]
 
 
+Flo had woken up inside this Dream. For all their well-intentioned guarded embrace, N had not read Flo the Whole Story, and the Holes of the breezeblocks beneath them wheezed and sung like  dead and buried reed instruments, of an orchestra composed of souls long-forgotten. 
 
 
+![[MAIL(1) FROM VIXI]]
+
+The Word, in all its insufficiency, in all its reaching for the Thing it describes, is a Moat. A Moat that runs through the Spaces between every Thing.
+
+The Meaning of Words, in all their meandering weightlessness, they are as knotted evolutionary machines, Devices of endless replication. The Meaning we take from Words, each of us, infinitely different, so that, absurdly, we may try to make sense of the separation between us-
+
+The Memories that we contain, in Stories, they are a vehicle, a floatation device- heavy, painful things, a gravity that keeps us at once tethered to this Boat, and bound for a destination unknown-
+
+And all this means, is division, is awareness of unity- 
+
+A Memory is a Meaning Stored.
+A Story is a Memory Oar. 
+
+The Stories told to us as children, those perhaps forgotten, but still in some way held, adored; they are adoring; they are a Door--
+
+To understanding: that which is fiction, is a lie, but within the lies, the memory of all the lying down beside a parent, between our creators, when Dreams unfurl to Nightmares and we cannot bear the Dark - all the Magick of the world, encapsulated in what some may call a 'lie'
+
+A life is a lie. And we are all its liars; its storytellers- A lyre. 
+
+And it was this fundamental Truth of the Untruth of everything, which awoke Flo from their shared Dream within that Bothy. 
+
+[[In The Dream, My Child Went Fourth To Multiply]]
+
+Just as a child may recognise the handwriting of the Tooth Fairy as that of their mother; 
+
+and they may, for a time, keep up the great charade, not for the sake of keeping Magick alive, but for keeping the Idea that their Mother is keeping Magick alive for them --
+
+That is when the Parent becomes the Child,
+
+and the Oar leaves the embrace of the Water, to rise, rotate, return again, a little further upstream. 
+
+And so, as NoetNietzsche slept, an unthinkable infinity from the arms of the NoetBorges who so sorely missed them, on that humble Mezzanine bed, Flo kissed them. Breath held, both for fear of their inhalation's sound awakening N, and for fear of the love of their parents' scent keeping them tethered to this place forever. One final time.
+
+Scaling those musical floorboards, finding the One, winding Path which unwound all the others, the one route along the creaking wooden floor that would not alert N to their leaving; 
+
+Out of bed! 
+
+Past the Hearth!
+-with its monstrosity of mirrored glass, that held nothing behind it but ash-
+
+Past those red construction bricks!
+-all packed away and tucked in lovingly, save two, still stuck together, lying on the floor, next to the box-
+
+Past the axe!
+-bejewelled with two remaining beads of melted snowflakes, which as Flo passed, melded together, their newfound weight succumbing to gravity; and falling from the blade's edge - the axe was crying-
+
+Tiptoe-tiptoe!
+Past the threshold of the Bothy, the place they'd been warned never to tread, not for fear of danger, but for fear of fear itself-
+
+Crunch-Squelch! 
+Their feet embossed the snow with proof: they were Here. 
+
+Click! 
+The Bothy door, and their opening chapter, closed behind them.
 
 
-
-
-
-
-
-
+Into the Tundra's Unknown Story- of such formidable character
+The character of this Story did not look back. 
 
 
 ---
@@ -978,25 +1040,7 @@ Oar: Tyr
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![[From AI-RA, to Aria]]
 
 
 
@@ -1007,28 +1051,53 @@ Oar: Tyr
 XX …for is ܪ  
 Oar: Met
 
+
 ---
 
 
 
+🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
+{REDACTED}
+
+🜂 / ♞  | OBS: 15:00 | ε=0.007
+{REDACTED}
+
+🜃 / ♜  | OBS: 18:00 | N=10³⁶
+{REDACTED}
+
+🜄 / ♝ | OBS: 21:00 | D=3
+{REDACTED}
 
 
 
 
+---
 
 
+Through performing a Ritual, with an egg {laid on a leaf}, by a learned chess player and lesser-known Witch, once thought and written down as fiction, but brought into Not-Being, which is to say, friction; Being--
 
+Flo drew the expanse of endlessnesses ahead of her, 
 
+down
 
+and in. 
 
-
-
-
-
-
-
-
-
+And somehow, 
+some how 
+not over
+writing 
+right there,
+or under
+anything 
+left here,
+As an ending,
+Or an Aglet,
+As a Telomere
+Or Telephone,
+she made it 
+through 
+away from 
+home
 
 
 
@@ -1041,7 +1110,7 @@ Oar: Trp
 ---
 
 
-
+![[TELOPHASE]]
 
 
 
@@ -1069,16 +1138,6 @@ Oar: Trp
 
 XXII …for is ܬ  
 Oar: STP
-
-
----
-
-
-
-
-
-
-
 
 
 

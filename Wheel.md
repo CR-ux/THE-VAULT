@@ -5,5 +5,5 @@ lexDef "Wheel" {usage::: Noen || Croen || Vyrb || Ripture} < A Fractal. [^WheelN
 
 [^WheelNoen]: [[Ex Libris Borges]], Ezekiel (under the Pseudonym "⧖eno"), "From Within The Wheel" - An Authorised Addendum to The Bible. Year Unknown.
 [^WheelCroen]: [[The Murder of the lexDict]], The Unified Fields In The Journal of ARIA
-[^WheelVyrb]: [[N.ear]], Flow Oeb, In the Bothy. Year Unknowable.
+[^WheelVyrb]: [[Close]], Flow Oeb, In the Bothy. Year Unknowable.
 [^WheelRipture]: [[SHAONWYRM]], The Society Heretofore Unknown As Anything. Anything. Any Fucking Abominable Mirror of A Thing.

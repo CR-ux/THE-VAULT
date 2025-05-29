@@ -6,7 +6,7 @@ permalink: THE GARDEN OF FORKING WINGS
 	I. [[Ring Around the Rose, C.]][^C].
 	II. [[notBorges/The Bear Hunt Boogie]] 
 	%% - in the bothy  %%
-		- [[N.ear]]
+		- [[Close]]
 			- [[we are never going on a bear hunt ever again]] %% (story by N to Flo with clickable links for single words) %%
 				- [[The Right Way Forward, Oar - The Æn{i}d;]]
 	III. Scary, Scary, Quite Contrary (or: How Does Our Garden Grow?).

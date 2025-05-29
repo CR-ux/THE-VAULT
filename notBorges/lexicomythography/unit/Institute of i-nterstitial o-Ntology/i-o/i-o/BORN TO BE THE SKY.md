@@ -386,4 +386,4 @@ Where Selkie's Breath Was Heard No More,
 There now stood Lonely Stones a Four
 # ᶠᵒᵒᵗNoet(s)
 
-[^f]: ![[THE PROPHECY OF HILDR CHARON WILTERGARTEN]]
+[^f]: [[THE PROPHECY OF HILDR CHARON WILTERGARTEN]]

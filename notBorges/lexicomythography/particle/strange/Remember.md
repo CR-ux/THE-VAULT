@@ -6,7 +6,7 @@ title: Remember
 > For you, and me--
 > And I know I'll Remember
 > You Were,
-> so [[N.ear]] --
+> so [[Close]] --
 > And {I|Eye}
 > Will Always Remember"
 

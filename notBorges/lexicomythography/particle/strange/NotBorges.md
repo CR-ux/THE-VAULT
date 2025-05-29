@@ -19,4 +19,4 @@ Don't worry if you {can't reply | don't feel like talking to me} I get it, I'm j
 [^ex]:Ex.[^char]
 [^char]:a character. Donut Site. your source is: [[notBorges/aria-dne/The Visions]]
 [^ok]: [[ok sudo]] do not cyte; yore source is.
-[^l]: [[Live]]
+[^l]: [[Lives]]
