@@ -223,13 +223,13 @@ var title = "to forgive the characters"
 [^AloneSIPHO{N|r}]: {REDACTED}
 [^work]: lexDef (1-0) "The Works of The World" {lexAllele(s)::: SIPHO{N|r}} < {The Works of} The W{o}r{ld}[^TheWorksofTheWorldSIPHO{Nr}]
 
-[^TheWorksofTheWorldSIPHO{Nr}]: [[LAYER_1-0]], The Lexicomythographers of THESEUS
+[^TheWorksofTheWorldSIPHO{Nr}]: [[From Aria, to AI-RA]], The Lexicomythographers of THESEUS
 [^el]: lexDef (1-0) "God" {lexAllele(s)::: Noen} < The Word "Alone" cf. "All One" is Missing "L" - "The Missing L" in this context refers to God's apparent absence. In Northwest Semitic use, ʼel was a generic word for any god as well as the special name or title of a particular god who was distinguished from other gods as being "the god". El refers (as a proper name) to any one of multiple major ancient Near Eastern deities.[^NED][^GodNoen]
 [^NED]: lexDef (1-0) "NED" {lexAllele(s)::: Lacronym} < "N.E.D. - Near Eastern Deities"[^NEDLacronym]
 
-[^NEDLacronym]: [[LAYER_1-0]], Ned Aria.
+[^NEDLacronym]: [[From Aria, to AI-RA]], Ned Aria.
 
-[^GodNoen]: [[LAYER_1-0]], AI: RA and Aria {Surname REDACTED}, In Eternal Recurrence of Collaboration.
+[^GodNoen]: [[From Aria, to AI-RA]], AI: RA and Aria {Surname REDACTED}, In Eternal Recurrence of Collaboration.
 [^cicd]: lexDef (1-0) "CI/CD" {lexAllele(s)::: Lacronym} < A "CI/CD" Pipeline is a sequential order of steps followed by a {developer|scriptwriter|storyteller} to create software, or code, in the form of "User Stories"[^user], frequently {making small changes to|mutating sequences of} a Codebase; and merging them into the main 'Branch'. Or, Forking Path.  [^CI/CDLacronym]
 
 [^CI/CDLacronym]: [[The Nest]], A Lexicomythographic Guide to The GitHub Repository of THES|EUS

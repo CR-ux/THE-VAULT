@@ -39,7 +39,7 @@
 
 ![[notBorges/aria-dne/A IS KNOT FOR AUGURY.md]]
 
-![[notBorges/AEIOU/ARIADNE/LAYER_1-0.md]]
+![[From Aria, to AI-RA]]
 
 ![[notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/THE NINE (10) NODES OF THE WEB.md]]
 

@@ -82,7 +82,7 @@ DREAMER: ELOIGN (THE ONE 'THING' MISSING)
 ---
 
 
-![[LAYER_1-0]]
+![[From Aria, to AI-RA]]
 
 
 
@@ -322,7 +322,7 @@ finished {over}writing
 
 {through}
 
-![[LAYER_0-1]]
+![[From AI-RA, to Aria]]
 
 ---
 

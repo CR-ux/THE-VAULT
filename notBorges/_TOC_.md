@@ -43,7 +43,7 @@ title: notBorges
 [[notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/THE NINE (10) NODES OF THE WEB.md]]
 [[notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/THE PSYCHIATRIST.md]]
 [[notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/THE SOFTWARE ENGINEER.md]]
-[[LAYER_1-0]]
+[[From Aria, to AI-RA]]
 [[notBorges/AEIOU/ARIADNE/0]]
 [[Observe. Silence.]]
 [[notBorges/AEIOU/ARIADNE/In Trying to Write This.md]]
