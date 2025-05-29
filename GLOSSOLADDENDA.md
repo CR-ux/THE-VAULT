@@ -1886,7 +1886,7 @@ moɿᆿ
 
 [[“The ‘Um…?’s and ‘…Ah!’s of Baudrillard’s Hall of Mirrors”]]
 
-[[⧖eno]]
+[[⧖eno_]]
 
 [[⧖eno's Hypercircle Theorems]]
 

@@ -1,8 +1,6 @@
 ---
 permalink: ⧖ is for Mahler
 ---
-OVERTURE: 
----
 
 
 **"*We are all looking at the stars, but some of us are in the gutter*"**

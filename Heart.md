@@ -7,4 +7,4 @@ lexDef "Heart" {usage::: Noen || Croen || Adjecture || Badverb || Ripture} < A Q
 [^HeartCroen]: [[Ring Around The Rose, C.]], Isla Welstead, 1997. 
 [^HeartAdjecture]: [[Becoming]], The Society Heretofore notKnown as Lexicomythographers
 [^HeartBadverb]: [[Æ. HIVEHOUSE {OPENING}.]] Selena Elk, 'Modern Hexagonal Chess Openings', 3033.
-[^HeartRipture]: [[⧖eno ]], ⧖eno. Year ⧖eno. Follow the [[Arrow]]. {Year Forgotten}
+[^HeartRipture]: [[⧖eno_]], ⧖eno. Year ⧖eno. Follow the [[Arrow]]. {Year Forgotten}

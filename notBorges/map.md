@@ -6,7 +6,7 @@ aliases:
 
 ![[The One]]
 
-![[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/i-o/i-o/⧖eno]]
+![[notBorges/lexicomythography/unit/Institute of i-nterstitial o-Ntology/i-o/i-o/OVERTURE]]
 ![[The Colour- Yellow.]]![[LAYER i-o BODY]] ![[LAYER U BODY]]
 ![[Ænd Game]]
 

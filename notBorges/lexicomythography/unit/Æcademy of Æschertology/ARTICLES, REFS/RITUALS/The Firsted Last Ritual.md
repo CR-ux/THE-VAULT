@@ -27,8 +27,6 @@ the lasted first ritual
 
 
 
-![[Pasted image 20241111214436.png]]
-
 definition found 
 AI[^AI][^G]
 synchronized[^G]

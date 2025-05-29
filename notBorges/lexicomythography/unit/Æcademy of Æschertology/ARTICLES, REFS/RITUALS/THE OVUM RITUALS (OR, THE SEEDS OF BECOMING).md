@@ -15,7 +15,6 @@ permalink: THE OVUM RITUALS (OR, THE SEEDS OF BECOMING)
 11. Still hungry, you take the final two eggs and repeat from step 1, this time, you have no script. This feels correct in its uncertainty. 
 
 
-![[The Egg, Cracked]]
 Bibliogrætiography
 --
 

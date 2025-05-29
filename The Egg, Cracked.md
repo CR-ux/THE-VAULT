@@ -1,7 +1,6 @@
 
 
 
-
 ---
 
 
@@ -191,4 +190,4 @@ See? I couldn't make an omelette even if I wanted to
 ---
 # ᶠᵒᵒᵗNoet(s)
 
-[^W]: ![[BORN TO BE THE SKY]]
+[^W]: [[BORN TO BE THE SKY]]

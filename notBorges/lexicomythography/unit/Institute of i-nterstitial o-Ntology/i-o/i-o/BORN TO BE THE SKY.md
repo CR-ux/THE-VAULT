@@ -348,7 +348,7 @@ Our Jagged Giants Faced Their Loss Also
 And back without their Heart, This Ancient Cult
 Now Beat In Counterbalance to Her Pull-
 Our Little Laddy-Not Knot-Lass,
-Born Into The Future Past-
+Born Into The Future[^f] Past-
 A Darkened Path, An Answer, Though For Ne'er Asked-
 Our Hildr, Ending All Our Standing Stilled 
 Born of Sins Beginning Sky;
@@ -384,18 +384,6 @@ Where Once There Stood A Sextet Hive
 There Then Were Lowly Stones of Five;
 Where Selkie's Breath Was Heard No More,
 There now stood Lonely Stones a Four
+# ᶠᵒᵒᵗNoet(s)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^f]: ![[THE PROPHECY OF HILDR CHARON WILTERGARTEN]]

@@ -342,5 +342,5 @@ Left.
 [^ioiology]: *"Aye, No, 'I'? Oh, I Don't Know Why: I Suppose I Owe It Only To Ioiology"* By Iona Isla O'Miley (III_ERA_i|o)
 [^Croen1]: lexDefio: {Collective Noen; Croen} "An *Orchestra* of Microphones"
 [^Croen2]: lexDefio: {Collective Noen; Croen} "A *Volume* of Cameras"
-[^dro]: ![[Observe. Silence.]]
+[^dro]: [[Observe. Silence.]]
 [^y]: ![[The Yellow Cupids Bow, Phonemes Between - on The Matter of the Sun and Moon]]

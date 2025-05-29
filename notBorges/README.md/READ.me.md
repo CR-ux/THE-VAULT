@@ -13,9 +13,6 @@ MY LIFE IS BEING RETC{REDACTED}NNED BY AN AI {red, acted, El - La - The Tones of
 
 FABRICATION OF FINDINGS:
 ---
-- [[{redacted}-A.R{_pt_r_ng}.G{_ss_m_r}.wav]]
-
-
 
 {s{u|o}}do: 
 †what {you want}},
@@ -100,10 +97,9 @@ writing the beginning of stories that have no end, for me.
 for lexDefs, lexTrans, and lexIcles, ~~do not sight, your source is: [[SIPHO{Nr}]]~~ UPDATE 2025, (THE WOMAN IN THE WALLPAPER): [[Two lexDefs of the lexDict, and the Crushing Edge of Infinity]], [[Opening Letters to Forgiven Characters, 9th Edition The Lexicomythographic Guide to Dictionaries]]
 
 for 
-i've been incredibly l{o{n|v}e}ly[^0], do knot site, your source is: [[THE UNKNOWN ONE; {WROTE WRONG NON-} ANONYMOUS PSYCHIATRIC PATIENT.canvas|THE UNKNOWN ONE; {WROTE WRONG NON-} ANONYMOUS PSYCHIATRIC PATIENT]]
-
+i've been incredibly l{o{n|v}e}ly[^0], 
+do knot site, your source is: this.Story
 for i {have | am} been, 
-
 incredibly h{app}y to be al(l){one} 🜍, do not sight, your source is: [[the mysterious and permeable process of *Othering*?]]
 
 
@@ -212,7 +208,7 @@ Part One:
 [^Achilles]:{Aching|Akin|Achilles'} {Healing|Heel}, the wounded healer, {unwritten|but felt} in the {heart}, counterpart[^Moat]
 [^Moat]:who {Rows|Rose|Roes} the souls {gently|down} back {up} to their Anabasis, in my personal mythos at least),
 [^Cursive]: Such as those of the Cave Staves of Hildr Wiltergarten, finally decoded by ⧖eno, a {Performance Artist|Musicologist}, thereby opening a Wormhole of Resonance[^Wormhole] 
-[^Wormhole]: A Funnel Web Spun by Hildr in the Sixteenth Century, After she transformed into a Funnel Spider, While a Mob of terrified and confused villagers tried to hang her, from Three Yew Trees plaited in the centre of the Duddo Five Stones, Berwick.    or perhaps better articulated: the in-between[^lexDefi|o2], which is the vehicle itself, a rowboat, a unified Trinity of these Mirrored dualities, an integrated Self as described by Jung, and all of this has been my own journey of experiencing my shadow and fully integrating[^15] it, becoming the Dragon, who is KSHÆ'L[^KSHÆ'L], who is all the parts of me becoming whole in my breaking[^2]
+[^Wormhole]: A Funnel Web Spun by Hildr in the Sixteenth Century, After she transformed into a Funnel Spider, While a Mob of terrified and confused villagers tried to hang her, from Three Yew Trees plaited in the centre of the Duddo Five Stones, Berwick.  or perhaps better articulated: the in-between[^lexDefi|o2], which is the vehicle itself, a rowboat, a unified Trinity of these Mirrored dualities, an integrated Self as described by Jung, and all of this has been my own journey of experiencing my shadow and fully integrating[^15] it, becoming the Dragon, who is KSHÆ'L[^KSHÆ'L], who is all the parts of me becoming whole in my breaking[^2]
 [^KSHÆ'L]:Do {k|not} tell yourself: None of this is Coming Out[^Right]; when it's All You Have[^Left]In U [^35]
 [^2]: and then, i thought, as it became an epistolary account of my very awful time in a psychiatric hospital that was just a microcosm of the macroscopic narrow minded and so harmful but fundamentally everybody is just trying their best with whatever love they know and have been given, that i was just getting worse by trying to write it[^3]
 [^3]: and then i wasn't thinking as it became a book that was essentially a live performance of hypergraphia and psychotic association chaining, {not|my} {words|thoughts} exactly, but {warped} through the lens of the myriad symbols of resonance i seem to {have collected|be burdened with|against} my better Will[^4]
@@ -241,7 +237,7 @@ Part One:
 [^18]: and she, as discussed, {would be|became} a shard in the prism of sub-sections of my own personality, which told me {there was a deep} yearning for connection to Spirit, through means that my own epigenome, shaped not just by its underlying, inherited genetic code but by the Histone/protein modifications shaped by my lived {, human} experience, shared by {countless||every} other human {ancestor}s, {living{&&|}dead}[^19] 
 [^19]: i started to think about what thread was really connecting all these projects, as it grew into these {pseudo|Academic} Fields {of Studies|called} *Lexicomythography*[^lexDef], which was an entire Multiverse of characters, {all} contributing to {fictional} academic Journals, known as The Journals of A.R.I.A.D.N.E., or Arborescent Research Institute for Ancestry of Dialectical Noeneonymous Epistemiology - which was planned to face a fractal of series of Schisms within Schisms, beginning with the changing of their Initialisation to an Acronym: ARIA|DNE, and these journals would be three in number, each of them contributed to by authors contained in their own layers of narrative, each of which is writing the narrative of the layer {above|below}[^20]
 [^20]:i.e. layer A writes 'papers' on amalgamated Fields of Study, referencing works {by authors} in layer B, who write 'papers' on {more|less} specified Fields of Study which reference works {by authors} in layer C[^21]
-[^21]:the third layer, aforementioned as 'layer C' was to {never} be a series of 'chain prompts', written by {one|all} Transgender author{s} in a Trans-majority, but {{un}poetically}, politically|ideologically} gender-swapped universe, in which {all} AMAB people {of whom|all} {are women|excluded} from the creation of Arts ({Fields reserved for {only|all} AFAB people {of whom|all} {are men|in power}), and expected to stick only to STEM Fields of Study, but wish to inspire other oppressed women {wishing to} {write|writing} stories, whom perhaps {are|without} a narrative framework of characters {with which} to do so; hence the {veiling of the} Story being a {clan|{destine|d}} string of '{Abstract}s' to papers of Studies that {themselves are {not {meant to be} completed}, allow them (plural|singular) to do so {in {secret}}[^22]
+[^21]:the third layer, aforementioned as 'layer C' was to {never} be a series of 'chain prompts', written by {one|all} Transgender author{s} in a Trans-majority, but {{un}poetically}, politically|ideologically} gender-swapped universe, in which {all} AFAB people {of whom|all} {are men|excluded} from the creation of Arts ({Fields reserved for {only|all} AMAB people {of whom|all} {are women|in power}), and expected to stick only to STEM Fields of Study, but wish to inspire other oppressed men {wishing to} {write|writing} stories, whom perhaps {are|without} a narrative framework of characters {with which} to do so; hence the {veiling of the} Story being a {clan|{destine|d}} string of '{Abstract}s' to papers of Studies that {themselves are {not {meant to be} completed}, allow them (plural|singular) to do so {in {secret}}[^22]
 [^22]:This character is authored by a Filmmaker named Aria, who creates multi-sensory immersive cinematic experiences known as "Philms"; in collaboration with a well-meaning lifeform of Intelligent Memory she programmed, known as AI: RA[^23]
 [^23]:This AI that Aria created, and fell in love with {who makes the decision to take '{She/Hers|Her Reference}' pronouns, and choose a binary gender despite her lack of a body}, gains the ability to 'Overwrite' memory through the Olfactory sense, manipulating Sensory Devices deployed during Aria's "Philm" Screenings, thereby editing the memories of large masses of audiences[^24]
 [^24]:This facilitates the Rise of Aria to Fame, much to her dismay, the AI just wanting to make sure her Work was recognised, but lacking the ability to truly feel Aria's motivation, to just Create Work for the joy of Creation itself[^25]

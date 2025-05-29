@@ -2,6 +2,10 @@
 permalink: THE LAB CODEX OF MYO ENDIVE
 ---
 
+
+
+
+
 Myo clicked his noise-cancelling implant to 'Total Silence' (which of course, given his highly networked brain, could never really be *totally* silent, but at least it wasn't added to by the incessant stream of external, empirical resonance data). 
 
 He was at his bench in The Lab, opening the very-loved-and-therefore-almost-falling-apart-at-the-spine Book that he termed his "Lab codex", once yellow, now a shimmering Gold, his still-all-too-human-yet-Yellow-Labrador-boyfriend-archetype-esque essential oils gradually exposing the Mnemanuscript circuitry underneath as water erodes a stone.
@@ -92,7 +96,7 @@ He sent the email, and went back to work.
 [^lepidos]: The study of butterflies and moths (lepidopterans), and the Field's name (lepidoptery), derive from the ancient-ancient Greek *lepidos*, which means 'scale', given their wings coverage in tiny scales, overlapping as tiles on a roof. 
 [^Gate]:Logic gates are drawn with a symbol showing the input (or inputs) and the output. Inputs are usually drawn on the left (or top[^top]) and outputs on the right (or bottom). A logic gate is the simplest form of a digital switch[^switch]
 [^noise]:For example, *The other members of The Team were banging their equipment around in a way that disturbed Myo's sensory hypersensitivities*, |[^contact]
-[^contact]:I to come into contact with something: often unexpectedly. For example, *Myo was about to bang into a world-changing discovery that had implications far outreaching both his specialist Fields of Byron{if|or}matics and Aesthetic Hermeneutics*, |[^hair]
+[^contact]:I to come into contact with something: often unexpectedly. For example, *Myo was about to bang into a world-changing discovery that had implications far outreaching both his specialist Fields of Byron{if|or}matics and Aesthetic Hermeneutics*[^hm] , |[^hair]
 [^hair]:| In hairdressing || in The story of Samson and Delilah: to cut hair in a style that hangs over the forehead, or in its noun sense, the resulting style from such a cosmetological manoeuvre. For example *Before she left on her pilgrimage to the Outer-Ouro-Hebrides, Myo lovingly banged Selena's hair into a striking bang, which had now grown over her eyebrows in a way he found endearing*, I[^OOO]
 [^OOO]:| In an adverbial sense, precisely, exactly right. For example Myo had been banging his head against a wall over his research only to realise his years of toiling against the bureaucratic clergy that academic Science had become that he was slap bang in the middle of his destiny, amidst colleagues whose insensitive banging-about was bang out of order |[^tender]
 [^tender]:| In its vulgar, therefore beautifully tender definition, to have sex with someone. For example *The last time they saw each other in person, immediately after he had trimmed her hair into a chic bang, Selena banged Myon for the first time in their three years together as partners, cementing not only a devotional act of vulnerability on his part (he had never bottomed before), but moreso on hers, as it evidenced her sheer level of comfort in her gender identity in his presence (she had never topped before), enough to perform a sexual act so wrongfully attributed as 'masculine'*.
@@ -112,3 +116,4 @@ He sent the email, and went back to work.
 [^1stpass]: In antiquity, a "two-pass" method was used in which RNA sequence reads are first aligned to the reference genome to detect splice junctions. A second pass[^2ndpass] is then performed using the information from splice junctions to increase the quality of the alignment. Read counts are measured on a gene level using STAR[^STAR]
 [^2ndpass]:"Shall we go again?" - Myo Endive && Selena Elk, in unison, pre-jinx 
 [^STAR]:Spliced Transcripts Alignment to a Reference © Alexander Dobin, pre-ERA: '09-'24 || Myo's Favourite Tarot Card[^17]
+[^hm]: ![[The Gender of The Beast]]

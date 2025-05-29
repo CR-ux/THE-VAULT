@@ -3,6 +3,10 @@ permalink: MARS FIGHTING MINERVA
 ---
 
 # MARS FIGHTING MINERVA FIGHTING GOD FIGHTING MYSELF 
+-S. Endive, M. Endive, ERA_Æ
+
+
+
 
 Minerva Fighting Mars (Combat de Mars contre Minerve) is an oil-on-canvas painting once thought to be created in 1771 by who was thought to be the French artist Jacques-Louis David.
 

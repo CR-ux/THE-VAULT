@@ -2,23 +2,8 @@
 permalink: Gordian Knotation of the Chords of The Hystorian Oak
 ---
 
-The [[Mangle]] Is The Message 
+![[Mangle]]
 
-
-
-THE CHOKE 
-
-
-
-
-THE KNOTS 
-
-
-
-
-> *"Devised as a system of Communication in The Era of Silent Dark in a Violent Mark Upon Hystory, The yolkFolk of the Hystorian Oak,* 
-> *There, They Spoke with The Gordian Choke"*
-- Dr Seuss, 1994
 
 > *"The Universe[^egg] which some call the Egg, others call the nucleus, some others call the Womb, Others Still) is comprised of a system of Cords, Threaded into a System of Knots* 
 > *Chords Played upon Chords with with* 
@@ -28,31 +13,12 @@ THE KNOTS
 - Jorge Luis Borges, 2025.
 
 
-
-
-THE CHORDS 
-
-3' People Vibrate the Cords through to the opposite side, 5' People 
-and Vice Versa 
-3'--> 5' 
-5' --> 3'
-
-Movement towards centre condenses meaning as Branchpoints converge [[Solve]]
-Movement outwards from centre dissolves meaning [[Coagula]]
-
-Yaldabaoth -  Gordius / Arachne
-and Lucifer - Alexander / Icarus 
-A Gideon of Knots 
-A Gordian of Severances 
-
-
-
 # Chronography
 
 [^egg]: Which some call The [[Nucleus]][^n]
 
 [^n]: Which some call The [[Atom]][^a]
-[^a]: Which some call The [[Genome]][^l]
+[^a]: Which some call The [[Genome]][^l][^st]
 [^l]: Which some call The [[Letter]](s)[^c]
 [^n]: Which some call The [[Character]](s)[^w]
 [^w]: Which some call The [[Word]][^wo]
@@ -74,10 +40,15 @@ A Gordian of Severances
 [^can]: Which some call The [[Branch]]es [^branch]
 [^branch]: Which some call [[Decision]] [^dec]
 [^dec]: Which some call [[Number]][^numb]
-[^numb]: Which some call 
+[^numb]: Which some call The Pattern[^st]
 
-[^trans]: Which some call The [[Boundary]][^im]
-[^bo]: Which some call the  [[Staircase]][^im]
-[^st]:
+[^trans]: Which some call The [[Boundary]][^bo]
+[^st]: Which some call the  [[Staircase]][^li]
+[^li]: Which some call the Library[^im][^ga]
+[^ga]: Which some call the Garden[^beg]
+[^beg]: To some, the Beginning[^om]
+[^om]:And others, a Wing[^wing]
+[^wing]: Within which, the Patience of a Bird[^sky]
+[^sky]: Or Patients, threaded, components in a greater Beast[^w]
 [^bo]:Which some call [[Immanent]][^im]
 [^im]: Which some call The Centre[^egg]
