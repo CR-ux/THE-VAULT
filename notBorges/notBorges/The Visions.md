@@ -16,7 +16,7 @@ X also bears (as in, that which we are all on a hunt) the appearance of (fo)u(r)
 
 X also means negation, or You Have Got This All Wrong or There Must Be Some Mistake but it also means You Are Right Here Where You Are And Therefore Need To
 
-Be[^v]
+Be[^b]
 
 
 
@@ -110,4 +110,5 @@ space - Y (which is a question which splits an answer of agreement down the midd
 [^peg]: 'peg'[^pegged] - a way to fuck someone {over, and over again}
 [^pegged]:'being pegged' - being *Seen*; having your whole[^ho] 'thing' worked out 
 [^ho]:Hole*
-[^v]: Do Not Dream. For ![[Upon a Throne He Sitteth, the Light of Lucifer in His Palm]]
+[^v]: Do Not Dream. For Upon a Throne He Sitteth, the Light of Lucifer in His Palm.
+[^b]: is for {Bear|Barely} {A Sin|As In} the {Thing} for {Witch|We Are All On A}Hunt.
