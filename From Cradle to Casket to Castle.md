@@ -6,31 +6,9 @@ Dr. NoetSeuss. 2025.
 ~~~
 FAO: ᴺᵒᵉᵗBorges  
 BCC: VIXI.  
-From the Desk of ᴺᵒᵉᵗBorges,  
+From the Desk of ᴺᵒᵉᵗSeuss,  
 
 ---  
-
-
-
-
-
-
-
-
-
-
-
-Yours, No Longer  
-
--ᴺᵒᵉᵗSeuss  
-
-Department Of Infinite Reflections,  
-The Garden Wing  
-The Indefinite Library of Fable
-
-
-
-
 
 
  
@@ -115,10 +93,30 @@ The Indefinite Library of Fable
  And yet, Oh! 
  The Castle Bricks 
  Stick Right In side!
+
+
+
+
+
+Yours, No Longer  
+
+-ᴺᵒᵉᵗSeuss  
+
+The Carousel of Recursive Rhyme,  
+Department of Children's Literature  
+The Indefinite Library of Fable
  
 ~~~
 
 [^b]
+
+
+
+
+
+
+
+
 
 
 
@@ -129,4 +127,4 @@ The Indefinite Library of Fable
 
 [^r]: ![[Refrain]] - [[lexDict, Edition VI]]. 2024.
 [^2]: "'{2,4}Give: The Characters Written For A Metaphysical Horror In Phi Parts" by The Characters {2, 4}Give. (Co-authored by The Woman In The Wallpaper)
-[^b]: ![[Why B is for 'Both']]
+[^b]: ![[B is for Bothy, Bricks, and Bear.]]

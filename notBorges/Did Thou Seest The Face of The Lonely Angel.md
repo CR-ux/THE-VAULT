@@ -210,6 +210,6 @@ _“But she only lifted her brush, and she {REDACTED}, and the paint dripped fro
 
 
 
-[^e]: ![[knot by the I]]
+[^e]: ![[One I Left, Knot Right]]
 
 [^m]: The Moat, Author Unattributed, 2024

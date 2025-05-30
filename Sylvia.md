@@ -11,6 +11,6 @@ Bibliogrætiography
 ---
 
 1. [[For Sylvia]], Callie Rose Petal. 2025.[^1]
-[^1]: [[REFERENCE ONE]] - [[U]][^u]
+[^1]: [[The Bee Box.]] - [[U]][^u]
 [^u]: [[REFERENCE TWO]] - [[You]][^y]
 [^y]: [[Why?]] - Sylvia {SURNAME REDACTED}, 2022.

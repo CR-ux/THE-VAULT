@@ -89,7 +89,7 @@ With a mirror:
 [^NII]: As in, [[NII]] [^NIII]
 [^NIII]: As in, [[NIII]]
 [^A]: [[amen.mp3]]
-[^s]: [[REFERENCE ONE]]
+[^s]: [[The Bee Box.]]
 [^sw]: nB: creating reality. 
 [^cc]: [[REFERENCE TWO]]
 [^lex]: lexDef {usage:: Vyrb} ||| to "Bee" is a lexicomythographic verb (Vyrb) which means to exist in a state of interdependence within a collective system of inextricably interconnected, self-same components, within a hierarchy necessary for its survival. 

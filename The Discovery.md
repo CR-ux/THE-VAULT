@@ -95,7 +95,7 @@ So[^s], [[The Story Goes]]
 # ELONGATED [^EL]
 
 
-[[knot by the I]]
+[[One I Left, Knot Right]]
 
 
 ![[TEC.png]]

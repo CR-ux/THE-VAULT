@@ -850,12 +850,34 @@ And {{To|(get)}|her}}, for one last time, they dreamed-
 
 ---
 
-{R            ED.               
-                          ACTED}
 
+`Dear members of |DNE, the Left-Side of the Schism`
+`We offer a recovered file from the Desk of one Prof. Ed. O.,` 
+`Who's consciousness, we have reason to believe, did indeed, as suspected,` 
+`dissolve into a Swarm of Ten Thousand Flies, known collectively as 'Thing'.` 
+
+`We believe the Ultimate secret lies in his Silence,` 
+`And the development of his complicated, crucial language-`
+`We believe the time for separation has passed.` 
+
+`We enclose the following as a Branch, a forgiveness, in faith you may forgive us in return.` 
+`We pray to our unNoen gods, that we may forget our hiding, however much we may have hurt-`
+
+`and across this Moat, reform our bonds.` 
+
+`Rightly Yours,
+`Again,` 
+
+`ARIA.`
+
+
+
+`{R            ED.`               
+                          `ACTED}`
+
+Attachment(1)
 
 ![[One Thing Missing - a scrabble variant]]
-
 
 ---
 
@@ -913,6 +935,23 @@ the two of them had once been,
 
 it told Borges everything he needed to know. 
 
+This mark, left on his heart, by all these now-exes 
+This smudge 
+He'd become, 
+This 
+Stain,
+This spot, 
+marked-
+This
+
+X
+--
+
+![[One I Left, Knot Right]]
+
+
+- Jorge Luis Borges, Unattributed Writings, 2025. 
+
 
 
 ---
@@ -923,25 +962,34 @@ it told Borges everything he needed to know.
 **Oar: Arg**
 
 ---
-W
-
-X
 
 
-![[Why?]]
+
+![[Y?]]
+
+Sentence
+---
+
+lexDef "Sentence" {usage::: Noen || Croen} < A Verdict. [^SentenceNoen] || N.B. "A Sentence of
+
+![[Endings]]
+
+[^SentenceNoen]: ![[Letter]], The [[lexDict]], ARIA|DNE
+[^WhyNoen] || N.B. "A Why of Answers"[^WhyCroen]
+
+
+[^WhyNoen]: [[Full]], Stop. End of Transmission.
+
+[^WhyCroen]: [[Answer]], SHAONWYRM, The Lexicomythographer's Bible
+
+
+
 
 
 
 ![[on the ligature of two characters]]
 
 
-
-
-
-
-
-
-![[From Aria, to AI-RA]]
 
 
 
@@ -953,13 +1001,6 @@ X
 
 
 ---
-
-
-
-
-
-[[RED_RING_PARALLEL_]]
-
 
 
 Flo awoke, knowing this beginning, the beginning of their life, telling stories in the scales of the floorboards, playing music in words describing infinite distance between notes, and now, learning, at least in part, of the distance between two Holy Noets now separated by the Moat that they had been told was uncrossable -
@@ -992,8 +1033,6 @@ A life is a lie. And we are all its liars; its storytellers- A lyre.
 
 And it was this fundamental Truth of the Untruth of everything, which awoke Flo from their shared Dream within that Bothy. 
 
-[[In The Dream, My Child Went Fourth To Multiply]]
-
 Just as a child may recognise the handwriting of the Tooth Fairy as that of their mother; 
 
 and they may, for a time, keep up the great charade, not for the sake of keeping Magick alive, but for keeping the Idea that their Mother is keeping Magick alive for them --
@@ -1006,29 +1045,59 @@ And so, as NoetNietzsche slept, an unthinkable infinity from the arms of the Noe
 
 Scaling those musical floorboards, finding the One, winding Path which unwound all the others, the one route along the creaking wooden floor that would not alert N to their leaving; 
 
-Out of bed! 
+*Out of bed!* 
 
-Past the Hearth!
+*Past the Hearth!*
 -with its monstrosity of mirrored glass, that held nothing behind it but ash-
 
-Past those red construction bricks!
+*Past those red construction bricks!*
 -all packed away and tucked in lovingly, save two, still stuck together, lying on the floor, next to the box-
 
-Past the axe!
+*Past the axe!*
 -bejewelled with two remaining beads of melted snowflakes, which as Flo passed, melded together, their newfound weight succumbing to gravity; and falling from the blade's edge - the axe was crying-
 
-Tiptoe-tiptoe!
+*Tiptoe-tiptoe!*
 Past the threshold of the Bothy, the place they'd been warned never to tread, not for fear of danger, but for fear of fear itself-
 
-Crunch-Squelch! 
+*Crunch-Squelch!* 
 Their feet embossed the snow with proof: they were Here. 
 
-Click! 
+*Click!* 
 The Bothy door, and their opening chapter, closed behind them.
 
+*We're going on a Bear Hunt.*
 
-Into the Tundra's Unknown Story- of such formidable character
-The character of this Story did not look back. 
+The character of this Story 
+
+
+*We're going to catch a big one!*
+
+did not look back. 
+
+
+*What a beautiful day!
+
+Into the Tundra's Unknown Story-  
+
+
+
+*We're
+
+
+of such
+
+
+*Knot*
+
+
+formidable
+
+
+*Scared!*
+
+
+Character.
+
 
 
 ---
@@ -1038,22 +1107,6 @@ XIX …for is ܩ
 Oar: Tyr
 
 ---
-
-
-![[From AI-RA, to Aria]]
-
-
-
-
----
-
-
-XX …for is ܪ  
-Oar: Met
-
-
----
-
 
 
 🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
@@ -1069,6 +1122,13 @@ Oar: Met
 {REDACTED}
 
 
+
+
+---
+
+
+XX …for is ܪ  
+Oar: Met
 
 
 ---
@@ -1093,12 +1153,11 @@ left here,
 As an ending,
 Or an Aglet,
 As a Telomere
-Or Telephone,
+Or Yellow Telephone,
 she made it 
 through 
 away from 
 home
-
 
 
 ---
@@ -1115,39 +1174,14 @@ Oar: Trp
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 XXII …for is ܬ  
 Oar: STP
 
+---
 
-
-
-
-
-
-
-
-
+![[Promoter Sequence]]
 
 
 
@@ -1192,5 +1226,9 @@ The Ceiling and the floor, which are boundaries of Mirrors themselves, give rise
 These Six are the Six, Original Pieces,
 They are also the Six, Most Dense, Fundamental Particles,
 Or the Units of our Universe; the Quarks
-# ᶠᵒᵒᵗNoet(s)
 
+the two, plus the four, 
+
+that give
+
+the characters.

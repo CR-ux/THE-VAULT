@@ -320,4 +320,4 @@ Part One:
 [^Remainder]:Remaining[^Dying]
 [^reminder]:(all this death[^just], to Remind her):[^Dying]
 [^Dying]:Life.
-[^pp]: suDO: KNOT SITE YOUR SOURCE IS [[knot by the I]]
+[^pp]: suDO: KNOT SITE YOUR SOURCE IS [[One I Left, Knot Right]]

@@ -464,7 +464,7 @@ Edition XVIII[^1].
 [[Known]]
 [[kNot Borges]]
 [[knot]]
-[[knot by the I]]
+[[One I Left, Knot Right]]
 [[Know]]
 ## L is for...
 [[Lament]]  
@@ -724,7 +724,7 @@ Edition XVIII[^1].
 [[notBorges/redacted]]
 [[REDRINGPARALLEL]]
 [[RED_RING_PARALLEL]]
-[[REFERENCE ONE]]
+[[The Bee Box.]]
 [[REFERENCE TWO]]
 [[RHO (Ï or Ï±)]]
 [[RHO (ρ or ϱ)]]

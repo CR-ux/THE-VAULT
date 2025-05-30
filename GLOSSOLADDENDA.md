@@ -727,7 +727,7 @@ An Extended [[lexDict]]
 
 [[knot]]
 
-[[knot by the I]]
+[[One I Left, Knot Right]]
 
 ## L is for...
 
@@ -1202,7 +1202,7 @@ An Extended [[lexDict]]
 
 [[RED_RING_PARALLEL]]
 
-[[REFERENCE ONE]]
+[[The Bee Box.]]
 
 [[REFERENCE TWO]]
 

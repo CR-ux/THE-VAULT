@@ -42,7 +42,7 @@ Bibliogrætiography
 
 
 
-[[knot by the I]]
+[[One I Left, Knot Right]]
 
 - Jorge Luis Borges, Unattributed Writings, 2025. 
 

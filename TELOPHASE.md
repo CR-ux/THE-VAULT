@@ -573,8 +573,3 @@ surely
 it would follow
 that
 
-
-
-![[Promoter Sequence]]
-
-i

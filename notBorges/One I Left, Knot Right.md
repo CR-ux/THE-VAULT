@@ -11,7 +11,7 @@ Low, I thought,
 and Eye, Quote:
 Q: "I want to write a story."
 
-*(Well[^w]*
+*(Well*
 *I wanted to write a reæl story.*
 I wanted to become it; as well
 As well as I could. Well,
@@ -43,25 +43,14 @@ A Hearth[^h] [^u]
 of the Ineffable. 
 
 
-Sonography
----
-
-1. <AUDIO FILE{SOURCE REDACTED}>
-2. <AUDIO FILE{SOURCE REDACTED}>
-
-# Chronography
 
 [^w]: lexDef "Well" {usage:: Noen } A penetrating structure as a vessel of death. See:
 
-Epigraph
+EPIGRAPH
+---
 *"The Box is only temporary."[^s]*
 
-# For Wyrd 
-%3CAUDIO FILE {SOURCE REDACTED}%3E
-- <sup>not</sup>Borges, "I", track the First from the yet to be released Music Album titled 'Xˡᶦᵇʳᶦˢ' {Format: Cassette Tape | Label: Venalism }. 
-
-
-
+# FOR WYRD 
 
 
 "*Dear Nema, --*"
@@ -71,7 +60,7 @@ he began.
 
 Borges Was writing his final letter. He would go on to pen more, but <sup>not</sup>[^not] by The mechanism of his own fingers. His vision had dissolved to a faded yellow hue, which pervaded [[Everything]]. He knew this colour was the final vestige of his visual sense. 
 
-[[notBorges/CRUCIBLE/A|A]] creeping red hexagon forming from the Blood of a Goat, or a scapegoat or a human scapegoat, or Six human scapegoats, or Six seeds of human cells, entering Metaphase; destined to each split into Two Commandments, to begin the infernal, interphasing Once. Again. 
+A creeping red hexagon forming from the Blood of a Goat, or a scapegoat or a human scapegoat, or Six human scapegoats, or Six seeds of human cells, entering Metaphase; destined to each split into Two Commandments, to begin the infernal, interphasing Once. Again. 
 
 Only, a sense of incompleteness, Five edges, promising a Sixth
 
@@ -97,15 +86,15 @@ Anyway, as "I" was saying, which is to say She, by whom I mean ᴺᵒᵉᵗNima,
 
 He grew, Older, 
 Colder - [^w]
-Unlike the unborn Sylvia[^s], he didn't need to ask why-
+Unlike the yet to be born <sup>Noet</sup>Plath[^s], he didn't need to ask why-
 
-He knew why he was cold.[^cc]
+He knew why he was cold.
 
 
 Knowing this, there was a certain urgency, but decidedness to his movements. In the dark of his attic, our main character, the main character of every story, the writer, was finishing his final letter, of a sentence, of a final sentence, of a certain storied character. The letter, within a letter within a word within a letter, was the Twenty Fourth letter of the english alphabet. Which may also be used to denote a number, if one opts. This particular letter is also a symbol, perhaps one scrawled over labels of poison within pots, or for marking a location whose importance is of note, or, indeed, "The Spot".
 
 X, as in, the middle letter of the word 'Sixth'; Ex, as in, a denotation of the now long gone but unforgotten past; 
-X as in, [[The Letter]] of a certain [[CHARACTER (Φ)]][^C]
+X as in, The Letter of a certain Character.
 
 
 As in, the cross, 
@@ -114,7 +103,7 @@ as in, the rebirth
 as in, a palindrome of two values, greater than the value they bookend, which is nothing.[^p] 
 
 He looked at that almost-hexagon upon the wall, that open-and-irregular (due to its openness) pentagonal polygon, and took out his notebook, which itself resembled the shape of a hexagonal chess board. Which was itself a map: \<img src: knot found>
-Fig. 1: *A facsimile of  ᴺᵒᵉᵗBorges' diagram. nB: this is a copy, of a copy, of a copy, and may or may <sup>not</sup> bear resemblance to the Original, not-circular-but-so-compact-as-to-be-viewed-as-such Hexagonal Book in the Centre of [[this universe (which some call the hospital)]][^b]*
+Fig. 1: *A facsimile of  ᴺᵒᵉᵗBorges' diagram. nB: this is a copy, of a copy, of a copy, and may or may <sup>not</sup> bear resemblance to the Original, not-circular-but-so-compact-as-to-be-viewed-as-such Hexagonal Book in the Centre of this universe (which some call the hospital) [^b]*
 
 intersecting 
 
@@ -126,25 +115,18 @@ With a mirror:
 
 *"Dear Nema -*
 
-
-*ameN*"[^A]
+*ameN*"
 
 
 # Chronography
 
 [^I]: lexDef {usage:: Noen || Croen || badverb || prodverb } Do ⁿᵒᵗ See:
 [[Opening Letters to Forgiven Characters, 9th Edition The Lexicomythographic Guide to Dictionaries]]
-[^nb]: "*'W': A Single Character of Dual Identity* " - ⁿᵒᵗBorges, 1994. From his Deathbed. In the Attic. In the Ocean. [[Born From The Moon]].
-[^Ne]: Ne is a Cuneiform sign. [[The Work of One]], Footnote \[1].
-[^cu]: As in Nema, as in Nima, as in Anima, as in [[NI]][^NII]
-[^C]: [['to forgive the characters'. a lexicomythographic prodverb]]
-[^w]: [[Ritual steps for warming]]
-[^NII]: As in, [[NII]] [^NIII]
-[^NIII]: As in, [[NIII]]
-[^A]: [[amen.mp3]]
-[^s]: [[REFERENCE ONE]]
+[^nb]: "*'W': A Single Character of Dual Identity* " - <sup>Noet</sup>Borges, 1994. From his Deathbed. In the Attic. In the Ocean.
+[^Ne]: Ne[^cu] is a Cuneiform sign. Or the symbol for a chemical that Bears light by {ascent|descent}.
+[^cu]: Ne As in Nema, as in Nima, as in A is for Anima, as in, Us, as in, the End of Animus, as in, Amino.
+[^s]: ![[The Bee Box.]]
 [^sw]: nB: creating reality. 
-[^cc]: [[REFERENCE TWO]]
 [^lex]: lexDef {usage:: Vyrb} ||| to "Bee" is a lexicomythographic verb (Vyrb) which means to exist in a state of interdependence within a collective system of inextricably interconnected, self-same components, within a hierarchy necessary for its survival. 
 [^p]: \>|< - The Character 'X', when split down its middle, can also be visualised as a greater than symbol (>), followed by a less than symbol (<). Which can also be visualised as a moth, or a butterfly, or a denotation of cellular mitosis: a schism giving rise to two, self-same, daughters, or complementary pairs of DNA. [^d]
 [^d]: which, written backwards, is a word which means "also", or the addition of the two complementary strands to form a whole[^h] again.
