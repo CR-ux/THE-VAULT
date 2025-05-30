@@ -247,7 +247,7 @@ An Extended [[lexDict]]
 
 [[Character]]
 
-[[Chess And all the Stitches of the Cloth(Es)]]
+[[notBorges/aria-dne/Chess And all the Stitches of the Cloth(Es)]]
 
 [[Chest]]
 
@@ -995,7 +995,7 @@ An Extended [[lexDict]]
 
 [[notBorges/notBorges/Boat]]
 
-[[notBorges/notBorges/Chess And all the Stitches of the Cloth(Es)]]
+[[Chess And all the Stitches of the Clothes]]
 
 [[notBorges/notBorges/I]]
 

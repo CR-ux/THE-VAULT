@@ -1253,7 +1253,7 @@ title: notBorges
 [[notBorges/notBorges/BEGINNING TO END (AGAIN).md]]
 [[notBorges/notBorges/Boat.md]]
 [[notBorges/notBorges/CODE.md]]
-[[notBorges/notBorges/Chess And all the Stitches of the Cloth(Es).md]]
+[[Chess And all the Stitches of the Clothes]]
 [[notBorges/notBorges/ENDYMION.md]]
 [[notBorges/notBorges/Full of the wrath of my father.md]]
 [[notBorges/notBorges/HERALD 1.md]]

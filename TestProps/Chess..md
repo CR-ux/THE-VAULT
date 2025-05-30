@@ -26,7 +26,7 @@ Most of it has to do with the movement and pull of the Moon.
 I cannot, nor should not explain the Logic behind this madness. 
 I can only explain my Little Way of playing this Absurdly Difficult and Oh So Simple Game. 
 
-![[notBorges/notBorges/Chess And all the Stitches of the Cloth(Es)|Chess And all the Stitches of the Cloth(Es)]]
+![[Chess And all the Stitches of the Clothes|Chess And all the Stitches of the Clothes]]
 
 
 ![[Æ RITUAL]]

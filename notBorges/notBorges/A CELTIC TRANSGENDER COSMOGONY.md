@@ -452,5 +452,5 @@ Important cards:
 
 Important 'games'
 - Scrabble
-- [[notBorges/notBorges/Chess And all the Stitches of the Cloth(Es)]]
+- [[Chess And all the Stitches of the Clothes]]
 - 
