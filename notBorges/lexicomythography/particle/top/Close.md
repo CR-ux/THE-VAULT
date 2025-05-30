@@ -76,27 +76,76 @@ they were.
 {Love}. 
 {Forever}.
 
-Always, due to both necessity and proximity {ever-near was the Well}, would they bring a Red pale of water back to the cabin, the bucket never losing its beautiful shine, Dante's source of water, but remaining the visage of a fire hydrant, sitting next to the {uncontain{ed}}|able} element of Fire, within that wrought iron Hearth they gathered around, as if the unassuming, supposedly inanimate vessel's very appearance held dualistic and equally necessary meanings: impending {nourishment | restriction} from threat. 
+Always, due to both necessity and proximity {ever-near was the Well}, would they bring a Red pale of water back to the cabin, the bucket never losing its golden shine, Dante's stash of water.
 
-N. had just finished writing a story for Flow, and besides the one, constant watchful eye they kept open while sleeping, which still, as ever, peered itself {metaphorically} upon the summoning stone-circle of those little bricks that brought Flow so much joy, whose joy, in tur{{n}ing}, brought this, small nest of a Family's Dog, just as much. 
+But, still--
+that redness
+remaining a suggestion of burning, 
+early yearning for an urn; 
+reminding them, that all they'd built 
+could just as soon be silt,
+and wilted, tilled of red
+a
+rose 
+doomed to despise 
+its growing
+made to hold, 
+and yet, be emptied
 
-Never wanting to restrict their creativity, N could never place the bricks back in the ever-empty box for bricks {which resembled {unintentionally but not accidentally} identically, the structure of the lean-to} for fear of rearranging some structure of a plan for a yet-to-be structure that Flow may have been, consciously or not, in the process of taking shape, by their fingers' spidery and shimmering murmurations. 
+into hungry mouths, 
+or moats;
+or bailing out, 
+for
+rowing, going-
 
-At the same time, being, ineffably, a Parent, they were ever-all-too-aware of the potential of a choking hazard, for both their child, and the beloved Familiar which Flo had so competently assumed their own parentage of. That is to say, this lovely fixture of innocence, in the corner of their cabin, had become a simultaneous reminder of {dualistic|equally necessary} meanings: impending cognitive {nourishment | restriction} from threat.
+to fall, as water but
+in rising fire
+of cradling arms
 
-By the nature of their apparent difference in Form, the duty of chopping wood, and indeed carrying water {or rather, carrying the carrying of water which was the duty of the Red pale} fell to N. Because of their {plural, Flo and Ædrian's} respective sensory sensitivities {and|or} appetites {respectively} the latter's wood-chopping was never observed directly by the former. Never seen, only heard was that thunderous, splendiferous 'crack'. 
+be ash, 
+remains. 
+
+The visage of a fire hydrant.
+Sitting next to the {uncontain{ed}}|able} element of Fire, within that wrought iron Hearth they gathered around, as if the unassuming, supposedly inanimate vessel's very appearance held dualistic and equally necessary meanings: impending {nourishment | restriction} from threat. 
+
+N. had just finished writing a story for Flow, and besides the one, constant watchful eye they kept open while sleeping, which still, as ever, peered itself {metaphorically} upon the summoning stone-circle of those little bricks, 
+the little bricks that brought Flow --his owner --so much joy, 
+in tur{{n}ing}, brought this, returning, 
+fetched as brittle as a twig: 
+the smallest nest, this sacred Family's Dog, 
+his own. 
+
+Never wanting to restrict their creativity, N could never place the bricks back in the ever-empty box for bricks {which resembled {un{intentionally}|identically}, the structure of the lean-to} for fear of rearranging some structure of a plan, for a yet-to-be structure, that Flow may have been, {{un}consciously}, in the process of {tak|giv}ing shape, by their fingers' {spidery|shimmering} murmurations. 
+
+At the same time, being, ineffably, a Parent, they were ever-all-too-aware of the potential of a choking hazard, for both their child, and the beloved Familiar which Flo had so competently assumed their own parentage of. The {box|bricks {the{y'}re}|with|in} become a reminder of {dualistic|equally necessary} meanings: impending cognitive {nourishment | restriction} from threat.
+
+By the nature of their apparent difference in Form, the duty of chopping wood, and indeed carrying water {or rather, carrying the carrying of water which was the duty of the Red pale} fell to N. Because of their {plural, Flo and Ædrian's} respective sensory sensitivities {and|or} appetites {respectively} the latter's wood-chopping was never observed directly by the former. 
+Never seen, only heard,
+was that thunderous, splendiferous 'crack'. 
 
 What N didn't know {or, perhaps, did}, but Flo did {or, rather, didn't} was that the uncanny resemblance of the lean-to and the brick box was not just resemblance of meaning in memory, but, meaningfully, in actuality {whatever that means}. They were one and the same, but only through the act of interaction. This meant with every chop of the axe, and only with the Will of the axe's chopping, were the branches of causality in our, 'real' world, or, within The 'What?' of 'Real' Forms. 
 
-Unnoticed or noticed but taken for granted by the Two of them, or Three of them, was the multiplication of bricks in the box, corresponding exactly to the dwindling of the kindling in the lean-to. And, in complementarity, as logs were brought into the lean-to, bricks would disappear in equal numbers from the box.
+{un{noticed}} but {not taken|granted} by the {One|Two|Three} of them, was the multiplication of the bricks, corresponding exactly to the {dw|kindling} in the lean-to. And, in complementarity, as logs were brought into the lean-to, bricks would disappear-- in equal numbers-- from the box.
 
-With every axe-crack {and only then}, or every brick ligation {and only then}, would the bridge between these two seemingly unconnected objects in temporal space be revealed in phenomenological space. As N. often made their water-carrying, wood-chopping excursions in the death of night {pre- morning floorboard game}, or in the early dawn {pre- morning floorboard game}, the two would never be performing their respective actions simultaneously. Rather, the two {or, as I've said, Three}, would be locked in an inevitable dance of action {*wei*} and 'absence of action' {*wu*} by virtue of forces unknown, but deeply felt, to them {*wu wei*}. As the wind is not seen, but rather the effect it leaves, upon the leaves; as a lost lover is not seen, but rather their effect, in their leaving, is both seen and felt; and the wind, as the lover that it is, moves about, within, and perhaps even outside of the space it occupies, it makes new space of its own, between the leaves, in thE--
+With every axe-crack {and only then}, or every brick ligation {and only then}, would the bridge between these two seemingly unconnected objects in temporal space be revealed in phenomenological space. As N. often made their {water|wood} {carrying|chopping} {ex|re}cursions in the death of night {pre- morning floorboard game}, or in the early dawn {pre- morning floorboard game}, the two would never be performing their respective actions simultaneously. Rather, the two {or, as I've said, Three}, would be locked in an inevitable dance of action {*wei*} and 'absence of action' {*wu*} by virtue of forces unknown, but deeply felt, to them {*wu wei*}. As the wind is not seen, but rather the effect it leaves, upon the leaves; as a lost lover is not seen, but rather their effect, in their leaving, is both seen and felt; and the wind, as the lover that it is, moves about, within, and perhaps even outside of the space it occupies, it makes new space of its own, between the leaves, in thE--
 
-*-xcuse me, a pigeon just flew into my window, I had to run to check if she was okay, she left a stain upon the unforgiving glass, a trickery of transparency; I wonder if she was trying to get in, to tell me something; or if she was simply going about her business; I wonder if perhaps the message she was trying to carry is embedded in the cipher of the stain; It bears the illustration of a dandelion clock, waiting in anticipation for the Breath of a Parent who is a child-- 
+*-xcuse me, a pigeon just flew into my window, I had to run to check if she was okay, she left a stain upon the unforgiving glass, a trickery of transparency; I wonder if she was trying to get in, to tell me something; or if she was simply going about her business; I wonder if perhaps the message she was trying to carry is embedded in the cipher of the stain; N.B.: It bears the illustration of a dandelion clock, waiting in anticipation for the Breath of a Parent who is a child-- 
 
 As eye was saying, or rather, as I was writing, or indeed as you were reading and I wasn't writing, as a pigeon had flown through the veil of my story into the world we call 'Real', forcing my head to jolt to the right, and my eyes to read a symbol that was or was not written by the Pigeon's leaving body, whether leaving this world as a result of the impact or simply leaving from my field of view {as I suppose, in a solipsistic sense, these are one and the same}, what was it I was saying? In the silent sense of the word "saying", I mean to say, by writing, and I hope you reader read it as such, but either way, perhaps my writing that you are reading is being "said", in a way, by yourself, through the vessel of my "voice", again, in the silent, creative sense of the word "voice", an attempt to creatively convey the idea that the Word, or one's "voice" has both an immanent and transcendent quality, or character, to it, no matter the character of the character reading the characters written in the form of a letter to the reader. 
 
--N. was distractedly in the midst of t{he{i|s}r} latest attempt to reproduce the labyrinthine musical sequence {that had, so many times, so effortlessly flown from} Flo {Or, Board game} had assigned as the 'Dorian' path, from her picturesque, attic's eye view, young forever. With each 'incorrect' 'note' they 'played' with the padding of their careful footsteps, Flo would {rather sadistically, like a ray of Sun upon a wanderer in a desert} shriek a high pitched "No!" - it was only today, for some reason, N. had realised the homophonic nature of the words "No" and "Know"; and this realisation seemed to set something into motion, as if the act of negation gave birth to propagation. N. wondered, between steps, between tones even, in the microtonal space of timeless singularity, for an uncountable moment, if perhaps they should include this 'propagation-by-negation' theme in their story for Flo, before another 'No' from above, provided a facsimile of the Divine Voice, as if t{w}o say "No, N, no more revisions, no more additions, the balance comes from you reading what you have written, to your child, and together, the two of you creating meaning, in an iteration of interaction". 
+-N. was distractedly in the midst of t{he{i|s}r} latest attempt to reproduce the labyrinthine musical sequence {that had, so many times, so effortlessly flown from} Flo {Or, Board game} had assigned as the 'Dorian' path, from her picturesque, attic's eye view, young forever. With each 'incorrect' 'note' they 'played' with the padding of their careful footsteps, Flo would {rather sadistically, like a ray of Sun upon a wanderer in a desert} shriek a high pitched "No!" - it was only today, for some reason, N. had realised the homophonic nature of the words "No" and "Know"; and this realisation seemed to set something into motion, as if the act of negation gave birth to propagation. N. wondered, between steps, between tones even, in the microtonal space of timeless singularity, for an uncountable moment, if perhaps they should include this 'propagation-by-negation' theme in their story for Flo, before another 'No' from above, provided a facsimile of the Divine Voice, as if t{w}o say:
+"No, N, 
+no more revisions, 
+no more additions, 
+the balance comes from you 
+reading what you have written, 
+to your child, 
+and together, 
+the two of you 
+creating 
+meaning, 
+
+in an i{n}tera{c}tion. 
 
 This 'Divine Voice' or rather, was and is of course, their own voice, removed from the tethers that kept her seeing the bricks as a suffocation device, or indeed the Pale as a protective shield, or indeed the bricks as a creative tool, or indeed still the Pale as a crucible for nourishment of their bodies. 
 
@@ -107,7 +156,37 @@ So, the greyness of the day passed, as it always must, the Two, soon to be Three
 
 Flo performed their usual stimming ritual, clapping but not clapping, rather knocking the bones of their hands together with their fingers outstretched and overextended, forming an X with each impact. Every time N. had the sheer joy {and it really was the sheerest joy they had ever, and would ever, feel} of observing their child's sheer joy in its all-embodied, primal state. Simply expressing, involuntarily, the sentiment "I have been moved to move", or, more movingly: "You have moved me to move".
 
-This *mis en abyme* of movement, beginning with the very seed of Love that had birthed them, through all the burning blocks of wood and all the melted bricks of plastic, was the spark that wrote their {singular} stories {plural}. It was, and is, also the same spark that the very first humans {plural} danced around and hit their own bones {perhaps in the form of instruments constructed of animal bone, perhaps, like Flo, in a beautiful manifestation of the glimmering hope of neurodivergent Being}. It was, and is, and always will be, the spark that moves the fingers writing this story. Swollen-jointed and succumbing to a most-likely auto-immune flare, I think about this restriction, this pain, and this limitation, and about all the 'limitations' placed upon all thinkers of this Library of Libraries. I think about a quote by my favourite author, The Once One of Nine ex-Noet Borges, which goes something like:
+This *mis en abyme* of movement, beginning with the very seed of Love that had birthed them, through all the burning blocks of wood and all the melted bricks of plastic, was the spark that wrote their {singular} stories {plural}. It was, and is, also the same spark that the very first humans {plural} danced around and hit their own bones {perhaps in the form of instruments constructed of animal bone, perhaps, like Flo, in a beautiful manifestation of the glimmering hope of neurodivergent Being}. 
+
+It was, and is, and always will be, the spark that moves the fingers writing this story, as any other. 
+Swollen-jointed and succumbing, perhaps, to a sickness, 
+this pain of purging;
+this lamentation in libretto. 
+The 'limitations' placed 
+upon all thinkers, 
+of this Library of Libraries. 
+These lies,
+dressed as fiction;
+dressed as bedtime stories; 
+a structure of brick, 
+of Ore. of all the awe, 
+of awful Stories, 
+real, unreeled, 
+as wheels have spoke, 
+
+and all of them, as oars, surrounded; 
+
+by Moat, 
+	around a Moat, 
+		around, 
+			a Roundness
+				of a  Moat. 
+
+
+Or, 
+
+
+as The Once One of Nine, ex-Noet Borges, once wrote:
 
 "*Limitation to the art brings liberation to the artist*"
 
@@ -117,7 +196,7 @@ History is not only written by the victors, it is written by the Meaning that th
 
 But moving forward, back to the Bothy, where N was being moved, by the movement Flo was moved into, by N's own metaphorical movement, to a promised point in time that held a new narrative movement still - 
 
-Still, N. inhaled, and the projection of the document onto the ceiling just above the mezzanine bed faded into being, through the movement of not her form, but the movement of t{he{i}}r Will, which as we know is the only real movement there is. Flo shrieked again, this time at a lower register {only they would be able to accurately state which pitch or perhaps mode this note fell within, which is to say, they wouldn't be able to, because they had a depth of understanding far beyond what I could possibly tran{s|literate|scribe|late|pose} onto this Two dimensional box of word-bricks you are currently reading; but they likely would have answered something that suggested every pitch contains all the others}. 
+Still, N. inhaled, and the projection of the document onto the ceiling just above the mezzanine bed faded into being, through the movement of not their form, but the movement of t{he{i}}r Will, which as we know is the only real movement there is. Flo shrieked again, this time at a lower register {only they would be able to accurately state which pitch or perhaps mode this note fell within, which is to say, they wouldn't be able to, because they had a depth of understanding far beyond what I could possibly tran{s|literate|scribe|late|pose} onto this Two dimensional box of word-bricks you are currently reading; but they likely would have answered something that suggested every pitch contains all the others}. 
 
 They flopped backward, away from N., but very much so toward them {plural}, toward the story they {singular {plural {triplicate {singular}}}} had written, purely out of Love, and the Will, the crackling Hearth of Will, that was birthed from Love Observed, or rather Love Observing Itself, and the Love of the Will that was birthed from the Infinitely Reflected Observation of Love - 
 
@@ -129,10 +208,10 @@ And, reaching the top of the ascent, an adventurer, ready to read the adventures
 And the roll-out futon was a mirror -
 And the ceiling was a mirror -
 And the two of them, lying next to One Another, were mirrors
-And the mirrors were, far from abominable but rather, abysmal, not in its commonly-used, {and therefore} warped sense, but in its lesser-trodden, ever-downtrodden shadow sense; by which I mean its realest sense, in that, it points to where the Truth of Light can be found: abysmal, as in, boundless. Abysmal, as in, bottomlessness. Abysmal, as in, the ocean of all potential, which holds the privilege of an amnesty from Gravity as we know it, which it begets to us with each of our own submerging in its unknowable womb; where our Two {and very almost soon to be Three} characters were lying, not sitting, but still, ineffably content, and yes, very comfortably. 
+And the mirrors were, far from abominable but rather, abysmal, not in its commonly-used, {and therefore} warped sense, but in its lesser-trodden, ever-downtrodden shadow sense; by which I mean its realest sense, in that, it points to where the Truth of Light can be found: abysmal, as in, boundless. Abysmal, as in, bottomlessness. Abysmal, as in, the ocean of all potential, which holds the privilege of an amnesty from Gravity as we know it, which it begets to us with each of our own submerging in its unknowable womb; where our {One|Two|Three} {and very almost soon to be {Three|Fo{u}r} characters were lying, not sitting, but still, ineffably content, and yes, very comfortably. 
 
 N, I shall begin, 
-had unveiled the title of their latest offering of Love, which the ceiling now reflected back and into the parent and child, who in their holding one another, somehow swapped places, and in the swapping, became a Third, smaller, yet infinitely greater thing. 
+had unveiled the title of their latest offering of Love, which the ceiling now reflected back and into the parent and beloved of parent and beloved of child beloved by parent, who, in their holding, and holding of the holding of one another, somehow changed, somehow changed their places, and in the permutation, became a Third, or Fo{u}rth, definitely smaller, yet indefinitely, greater Thing. 
 
 They became the memory of that moment, of the beginning of this Story. 
 They became the infinitely expanding and breathing meanings that each of them ascribed to the memory of that moment of the beginning of this Story. 
