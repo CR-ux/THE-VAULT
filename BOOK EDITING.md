@@ -530,7 +530,7 @@ ax.set_zlabel("Z-axis ({redacted})
 
 
 
-[[Æ. HIVEHOUSE {OPENING}.]]
+[[Hivehouse Chess Openings]]
 
 VIXI detested being interrupted. Particularly for such trivial things as *Romance*. No matter how 'charming' (HE, even in HISS infinite (or perhaps indefinite) wisdom, was unable to perceive such a quality). Tearing HYMNself from the Characters above, HE doubled back and recalculated his flight path. HE, a messenger, as Medium of the Eternal Messenger of this Infernal Mess of All Messages, had a job to do, {{after|over}seeing} All. 
 

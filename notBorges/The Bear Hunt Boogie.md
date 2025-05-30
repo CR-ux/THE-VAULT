@@ -17,6 +17,6 @@ Bibliography
 
 
 
-[^6]:[[Æ. HIVEHOUSE {OPENING}.]] *(Initial Hexagonal Chess Openings for Beginners, 1994)*
+[^6]:[[Hivehouse Chess Openings]] *(Initial Hexagonal Chess Openings for Beginners, 1994)*
 [^12]:[[“Previously, she was diagnosed as being emotionally unstable. She has never been happy with the diagnosis of borderline personality disorder, as she does not think it explains her presentation.”]] (*Musics of Accompaniment to Spiritual Dissolution, Selena Elk, 3322)*
 [^18]: [[II. THE GOSPEL ACCORDING TO THE MOAT SURROUNDING]] (*Transcendental Epigraphs of Botanical Cookery Books; a tale as Old as Thyme, Sunny Baudelaire, 2021*)

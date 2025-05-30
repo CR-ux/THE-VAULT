@@ -29,4 +29,4 @@ permalink: And all the stitches of the clothes
 
 [^PM]:as in -card or -no birthday or -coital or -Schrödinger now more into Goethe or -mortvvm
 [^c]: [[notBorges/notBorges/Chess And all the Stitches of the Cloth(Es)|Chess And all the Stitches of the Cloth(Es)]], The Woman in the Wallpaper, Some Unforgettable Time in Late 2024. 
-[^s]: [[Æ. HIVEHOUSE {OPENING}.]] - Chapter Six of The Book Heretofore Known As The Children's Gospel Music Songbook (Publication Date {REDACTED}
+[^s]: [[Hivehouse Chess Openings]] - Chapter Six of The Book Heretofore Known As The Children's Gospel Music Songbook (Publication Date {REDACTED}

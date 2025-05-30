@@ -1,6 +1,6 @@
 # hex-3-6
 
-![[Æ. HIVEHOUSE {OPENING}.]]
+![[Hivehouse Chess Openings]]
 
 
 ## Exits

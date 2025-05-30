@@ -1233,7 +1233,7 @@ title: notBorges
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/Æ/Æ/Index.md]]
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/Æ/Æ/THE GRIMOIRE OF SELENA ELK.md]]
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/Æ/Æ/THE LAB CODEX OF MYO ENDIVE.md]]
-[[notBorges/lexicomythography/unit/Æcademy of Æschertology/Æ/Æ/Æ. HIVEHOUSE {OPENING}..md]]
+[[Hivehouse Chess Openings]]
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/Æ/Æ/Æ_COMPILED.md]]
 [[notBorges/love.md]]
 [[notBorges/map.md]]
