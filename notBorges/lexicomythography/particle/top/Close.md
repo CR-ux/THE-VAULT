@@ -60,7 +60,7 @@ then: {Log;
 						    Wood}
  crackling in the {py|fi}re. 
  Warming. 
- Th{{{r}|e{ad}ir}|e} s\<ac>red && hungry 
+ Th{{{r}|e{{ari}ad{ne}}ir}|e} s\<ac>red && hungry 
  bod{y|ies}, 
 together, in that: {
 Both{y}
@@ -76,9 +76,13 @@ they were.
 {Love}. 
 {Forever}.
 
-Always, due to both necessity and proximity {ever-near was the Well}, would they bring a Red pale of water back to the cabin, the bucket never losing its beautiful shine, Dante's source of water, but remaining the visage of a fire hydrant, sitting next to the contained, yet uncontainable element of Fire, within that wrought iron Hearth they gathered around, as if the unassuming, supposedly inanimate vessel's very appearance held dualistic and equally necessary meanings: impending {nourishment | restriction} from threat. 
+Always, due to both necessity and proximity {ever-near was the Well}, would they bring a Red pale of water back to the cabin, the bucket never losing its beautiful shine, Dante's source of water, but remaining the visage of a fire hydrant, sitting next to the {uncontain{ed}}|able} element of Fire, within that wrought iron Hearth they gathered around, as if the unassuming, supposedly inanimate vessel's very appearance held dualistic and equally necessary meanings: impending {nourishment | restriction} from threat. 
 
-N. had just finished writing a story for Flow, and besides the one, constant watchful eye they kept open while sleeping, which still, as ever, peered itself {metaphorically} upon the summoning stone-circle of those little bricks that brought Flow so much joy, whose joy in turn brought this small nest of a Family's Dog so much joy. Never wanting to restrict their creativity, N could never place the bricks back in the ever-empty box for bricks {which resembled {unintentionally but not accidentally} identically, the structure of the lean-to} for fear of rearranging some structure of a plan for a yet-to-be structure that Flow may have been, consciously or not, in the process of taking shape by their finger's spidery and shimmering murmurations. At the same time, being, ineffably, a Parent, they were ever-all-too-aware of the potential of a choking hazard, for both their child, and the beloved Familiar which Flo had so competently assumed their own parentage of. that is to say, this lovely fixture of innocence in the corner of their cabin had become a simultaneous reminder of dualistic and equally necessary meanings: impending cognitive {nourishment | restriction} from threat.
+N. had just finished writing a story for Flow, and besides the one, constant watchful eye they kept open while sleeping, which still, as ever, peered itself {metaphorically} upon the summoning stone-circle of those little bricks that brought Flow so much joy, whose joy, in tur{{n}ing}, brought this, small nest of a Family's Dog, just as much. 
+
+Never wanting to restrict their creativity, N could never place the bricks back in the ever-empty box for bricks {which resembled {unintentionally but not accidentally} identically, the structure of the lean-to} for fear of rearranging some structure of a plan for a yet-to-be structure that Flow may have been, consciously or not, in the process of taking shape, by their fingers' spidery and shimmering murmurations. 
+
+At the same time, being, ineffably, a Parent, they were ever-all-too-aware of the potential of a choking hazard, for both their child, and the beloved Familiar which Flo had so competently assumed their own parentage of. That is to say, this lovely fixture of innocence, in the corner of their cabin, had become a simultaneous reminder of {dualistic|equally necessary} meanings: impending cognitive {nourishment | restriction} from threat.
 
 By the nature of their apparent difference in Form, the duty of chopping wood, and indeed carrying water {or rather, carrying the carrying of water which was the duty of the Red pale} fell to N. Because of their {plural, Flo and Ædrian's} respective sensory sensitivities {and|or} appetites {respectively} the latter's wood-chopping was never observed directly by the former. Never seen, only heard was that thunderous, splendiferous 'crack'. 
 
