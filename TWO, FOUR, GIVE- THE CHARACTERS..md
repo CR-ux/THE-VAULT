@@ -214,7 +214,7 @@ SIX ROOMS                     ▼                            ▼
 
 
 
-**You will notice, as we all have come to in this Wryng, that no matter how many layers you may peel from the walls, you will reveal another. For this is our only saving grace; the medium on which to communicate with one another; to be free, to express ourselves at least. to stay connected amidst this maddening isolation; to still, no matter how we are contained, in some small way. be free.**
+no matter how many layers you may peel from the walls, you will reveal another.{REDACTED}are contained, in some small way. be free.
 
 {k}NO{w}
 
@@ -224,16 +224,16 @@ KEY: ∈ | t | {const}
 
 **🜁 | OBS: 00:00 | {Q = 10⁻⁵}**
 
-Are you there? Are you listening? I cannot hear, I cannot remember who I am; I do not know my name. there is no pen in here, only a syringe; inscribed with {REDACTED}on its plunger, with a calligraphic nib on its opposite side, inscribed{REDACTED}and a single chess piece, a pawn, on my pillow. I found this scroll, wound unthinkably tight, dropped through the vent on the other side. It dear god what nightmare have i awoken inside?  have these people come and gone? How long has this wallpaper scroll been passing through these vents? Are you there? What is a ‘Wryng’? Please, I do not remember my name. I am folding the scroll according to the instructions overleaf. It appears, as stated above, that I can write as much as I want, and the scroll will yield, increase unthinkably in space, while still retaining its condensed, uniform size once folded. i do not know my name. please. somebody in here, tell me my name
+Are you there? listening? I can't hear, or remember who I am; I do not know my name. there is no pen in here, only a syringe; inscribed with {REDACTED}on its plunger. calligraphic nib on its opposite side, inscribed{REDACTED}and a chess piece, pawn, on my pillow. Found this scroll, wound unthinkably tight, dropped through vent on other side. Fuck; what nightmare have i awoken?  have these people come and gone? How long has this wallpaper scroll been passing through these vents? Are you there? Please, some body. I do not remember my name. I'm folding the scroll according to the instructions overleaf. As stated above, I can write as much as I am able to, and the scroll will yield, increase impossibly in space, while still retaining its size once folded. i do not know my name. please. somebody in here, tell me my name
 
 
 **🜂 | OBS: 03:00 | {ε = 0.007}**
 
-please. i can hear you in there. whoever you are, in the next room. this scroll came from the other side of my room. i also awoke to only find the same inscribed pen-syringe (but the numbers are reversed) and a single chess piece on my pillow. my walls also form a hexagonal shape. i want to let the original sender know that they are not alone. i pray to the unknown gods that it makes it back to them. we are not alone. at least we are not alone. i can only see yellow, everything is in faded shades of yellow. even the blood in which i write this to you is a dark, mustard yellow. if you are keeping me here, i just wan t to remember my name . i can’t rmemeber how long i have been here but i am not hungry and i do not know my name. We must identify ourselves. We must build a map of this Incestuous Kafka palimpsest. I suppose, given the chess piece I have been given; I will call myself The Knight.
+please. i can hear you in there. whoever you are, in next room. scroll came from the other side. also awoke to the same inscribed pen-syringe (but the numbers are reversed) & single chess piece on my pillow. walls also form a hexagon. want to let the original sender know that they aren't alone.  we are not alone. at least we arein  not alone. i can only see yellow, everything: a faded shade of yellow. even the blood  i write this to you is a dark, mustard yellow. if you are keeping me here, i just wan t to remember my name . i can’t rmemeber how long i have been here . i am not hungry. i do not know my name. We must identify ourselves. We must build a map.  given the chess piece I have been given; mine = The Knight.
 
 **🜃 | OBS: 06:00 | {N = 10³⁶}**
 
-i too was passed this note from the vent on the other side of my room. it doesn’t slot back into that room, as stated at the beginning of the document, so i am passing it through in the hopes that it will return to the original sender. i do not know my name either. i am entirely numb. and yet, everything within me is heavy. mine is oriented with {REDACTED} on the needle end, like The Pawn. at least i cannot feel the pain of the pen-syringe. this is the only repose i can find for the hell of having no other way in which to write. dear god, the stench, the formaldehyde and chemicals, are we in a hospital? I am The Tower. Who, or what, is playing this infernal game with our bodies– I pray, I pray that we may remember
+i too was passed this note from the vent on the other side of my room. doesn’t slot back into that room, as stated at the beginning of the document, so im passing it through in the hopes that it will return to the original sender. do not know my name either. i am entirely numb.  yet, everything within me heavy. my pen is oriented with {REDACTED} on the needle end, like The Pawn. at least i cant feel pain. this only repose i can find from the hell of having no other way in which to write. dear god, the stench, the formaldehyde and chemicals, are we in a hospital? I am The Tower. Who, or what, is playing this infernal game with our bodies– I pray, I pray that we may remember
 
 
 **🜄 | OBS: 09:00 | {D = 3}**
