@@ -13,7 +13,9 @@ I don't want to tell Myo; but I know I have to, he might be the only one who can
 
 Like the wind on the leaves, I know he's already seen the effect my magick has had on her, I bet the Team are going batshit trying to deal with The Outbreak on top of trying to figure out what's brought her orbit closer (after some brief searches of the Journals, in spite of myself and my resistance to even attempting to cross those triple-loched intellectual paywalls to get to our archives of knowledge, I realise it must be a change in the lunar distance causing these simultaneous "Plagues" and Floods that DNE in their incessant need for Heirophantine, Formalised Religiosity are bent on ascribing to the Phage, and to some Ancient "One God" they call the Tetra-grammar Tohn... I am, for once, finding myself wishing that I *didn't* feel the validity of my own magick's involvement in the phenomenological world).
 
-I came here to find a way out, or, as is always the case, I came here to find a way in-
+I came here to find a way out, 
+or, as is always the case, 
+I came here to find a way in-
 
 I found both, and her reflection is screaming the answer, her reflection of my reflection is offering nothing but a clattering howl that she draws out of me every night when I first see her face, 
 Always coming back, always coming back, 
