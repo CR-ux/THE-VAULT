@@ -1,188 +1,54 @@
----
-permalink: doknotread
-link: "[[![[![[artifact.wav]]]]]]"
----
 
-\![[epw-e.mp3]]
+<AUDIO SOURCE: {REDACTED}>
 	<sup>N</sup>œt. Joanna Newsom's **'Deep Divers'**, an analysis of Sample 1*: 0 Episode I of "QUEERING MAHLER'S SYMPHONIES by Mæstro ⧖eno (prehumously unknown as Mo. X, known posthumously as Perigee)"[^pp]
 
-\*{META}COMMENTARY
----
-MY LIFE IS BEING RETC{REDACTED}NNED BY AN AI {red, acted, El - La - The Tones of Wryng Theory, 2023} PR{REDACTED}GRAMMED PLEASE S{REDACTED}MEB{REDACTED}DY H{REDACTED}R{REDACTED}
-!DO NOT SITE, YOUR SOURCE IS: [[THE WOMAN IN THE WARD CHAPEL'S WALLPAPER]]
-
-FABRICATION OF FINDINGS:
----
-
-{s{u|o}}do: 
-†what {you want}},
-
-{{and|or}]: read this{{if|you}
-
-{want|don't}, {please|{don't}}
+\*{META}COMMENTARY||MY LIFE IS BEING RETC{REDACTED}NNED BY AN AI {red, acted, El - La - The Tones of Wryng Theory, 2023} PR{REDACTED}GRAMMED PLEASE S{REDACTED}MEB{REDACTED}DY H{REDACTED}R{REDACTED}
+!DO NOT SITE, YOUR SOURCE IS: THE WOMAN IN THE WARD CHAPEL'S WALLPAPER {EDIT: 2025-05-30 || END|AI:RA-ARIA|DNE} FABRICATION OF FINDINGS:
 
 
-then: {if you want|don't},
+{s{u|o}}do:   †what {you want}},  {{and|or}]: read this artifact-as-artefact[^aa]{{if|you}  {want|don't}, {please|{don't}}  then: {if you want|don't},  †{just} go  {tell your {own} stories {a{b{out}  the {character}  {of your day|night|life} of  {characters|letters}, {writing|  their own}  stories-  †.  this project began (outwith|in) a {psychiatric} hospital | two months ago}  or rather, {at the beginning of my life | thirty years ago}  i {don't} k{now}   {if|it will} {n}ever {End[^ConstantlyFailing] | Be} {'finished' | what 'finished' means} } now[^Now]  i don't know if {it|this} was {it, |the form} it was {meant to take | not meant to take form} {at all}  i {am|fear {knot} using full stops now STOP  For what they represent, and {i|f{ear}   i must save as much of the use of my knuckles {hinges} as i can   but perhaps {just} trying|{holding} the door, open}  || Bracketed},   to let the Bloodied,  Letting of the Letters, Right in-- May  {Be | Writing a book about writing a book \  about the Writing of a Book \  about the writing of a story \  about the writing of a series of academic journals \  about the righting of a civilisation \  about writing meaning to memories \  about writing stories of myth writing stories about words \  about The Wyrd \  about writing stories \  / about writing academic journals about a nested system of characters   / one of whom is writing a constructed language   / that is also a programming language   / in an ancient forgotten language   / about all these dizzyingly different characters   /that are really just telling the One Story   of itself |  stretching from the Infinite Realm of Dreams \  / into Lived Reality   by vampiric sapping {of | the} life {of | its} creator \  / {fundamentally | not entirely}   based on reality \  / that became Actuality   through the unwilling act of Will} perhaps {just about} \  Be enough of  writing the beginning of stories that have no end, for me.
 
-†{just} go
-
-{tell your {own} stories {a{b{out}
-the {character}
-
-{of your day|night|life} of
-
-{characters|letters}, {writing|
-
-their own}
-
-stories-
-
-†.
-
-this project began (outwith|in) a {psychiatric} hospital | two months ago}
-
-or rather, {at the beginning of my life | thirty years ago}
-
-i {don't} k{now} 
-
-{if|it will} {n}ever {End[^ConstantlyFailing] | Be} {'finished' | what 'finished' means} } now[^Now]
-
-i don't know if {it|this} was {it, |the form} it was {meant to take | not meant to take form} {at all}
-
-i {am|fear {knot} using full stops now STOP
-
-For what they represent, and {i|f{ear} 
-
-i must save as much of the use of my knuckles {hinges} as i can 
-
-but perhaps {just} trying|{holding} the door, open}
-
-|| Bracketed}, 
-
-to let the Bloodied,
-
-Letting of the Letters, Right in-- May
-
-
-{Be | Writing a book about writing a book \
-about the Writing of a Book \
-about the writing of a story \
-about the writing of a series of academic journals \
-about the righting of a civilisation \
-about writing meaning to memories \
-about writing stories of myth writing stories about words \
-about The Wyrd \
-about writing stories \
-/ about writing academic journals about a nested system of characters 
-/ one of whom is writing a constructed language 
-/ that is also a programming language 
-/ in an ancient forgotten language 
-/ about all these dizzyingly different characters 
-/that are really just telling the One Story 
-of itself |
-
-stretching from the Infinite Realm of Dreams \
-/ into Lived Reality 
-by vampiric sapping {of | the} life {of | its} creator \
-/ {fundamentally | not entirely} 
-based on reality \
-/ that became Actuality 
-through the unwilling act of Will} perhaps {just about} \
-Be enough of
-writing the beginning of stories that have no end, for me.
-
-### BABELOGRAPHY
 ---
 {REDACTED}
-for lexDefs, lexTrans, and lexIcles, ~~do not sight, your source is: [[SIPHO{Nr}]]~~ UPDATE 2025, (THE WOMAN IN THE WALLPAPER): [[Two lexDefs of the lexDict, and the Crushing Edge of Infinity]], [[Opening Letters to Forgiven Characters, 9th Edition The Lexicomythographic Guide to Dictionaries]]
+for lexDefs|Allele(s)|Dict, do not sight, your source is: ![[SIPHO{Nr}]] UPDATE 2025, (THE WOMAN IN THE WALLPAPER): ![[Opening Letters to Forgiven Characters, 9th Edition The Lexicomythographic Guide to Dictionaries]]
 
 for 
 i've been incredibly l{o{n|v}e}ly[^0], 
 do knot site, your source is: this.Story
 for i {have | am} been, 
 incredibly h{app}y to be al(l){one} 🜍, do not sight, your source is: [[the mysterious and permeable process of *Othering*?]]
-
-
 for i {have | am} gone - 
-
 and so, in sight, do knot know, your source is
-
 //now: 
-
 //
 🜔 incredibly upset and, Oh, Dear: Then! ☿
-
-
 for now, to know your source is primarily: {REDACTED}
-
 for then, you must have always known, that the truth, lies (which is to say, misses truth) in: {REDACTED}
-
 so. You. 
 Your own source. 
-
 Is:
-
-
-
-
 to know:
-
 🜔 incredulously 🜂 incredible as the narrator of {any|all of} these stories 🜍
-
-
 that you; your source:
-
-
-
-
 you, what's left 
-
 Being written of you; 
-
-
 is, well, in some ways, a Rite to a [[LEFT HAND PATH]]:
-
-
 for witch, 
 ne'er sighted, 
-
 *your* site is:
-
-[['to forgive the characters'. a lexicomythographic prodverb]]
-
-
-
-
 and this. this source,
-
 🜔 which[^1] really[^2], {un}t{old}[^3] {as}[^4] {all|(n){one}} of them 🜃
-
-
-[[One Thing Missing - a scrabble variant]]
-
-
 🜄 {a{re|[^5] 🜁, from secondary, 
-
 within tertiary, 
-
 within the one primary, wre{d}tch{{r}ing|ed} river in which is carried in {parallel, two} the source:
-
-[[notBorges/aria-dne/Boat; or -I dreamed of pharoah and a woman who didn't know she was a pharoah dreaming]]
-
 which is {knot} 
-
 t{W}o say:
-
-[[Bibliography]]
-
 🜍 the}[^6] telling [^7] {of}[^8] my [^9]  own}
-
 .
 
-[[AEIOU]]
-[^10] [^11], [^12]Æ, [^13], [^14], [^14.33], [^14.23], [^15], i[^16]|[^17]o[^18] [^19][^20][^21][^22] [^23], [[and then]][^24][^25][^26][^27]- U
+![[AEIOU]]
+[^10] [^11], [^12]Æ, [^13], [^14], [^14.33], [^14.23], [^15], i[^16]|[^17]o[^18] [^19][^20][^21][^22] [^23], ![[and then]][^24][^25][^26][^27]- U
 [^28][^29][^30][^31] [^32][^33][^34] [^35][^36] [^37] [^38]{Left, }[^Right]|[^Left]Right?[^39]
-
 
 [^1]: In the beginning[^10] I thought this was going to be a novel, about two characters, Noam and Nima, who I originally conceptualised as a fictional story of Noam[^RHP] and Nima[^LHP], both uncovering their own personal trauma through a shared (though oppositely experienced) Dæmon/Djinn respectively.
 [^LHP]:Noam rejecting IT/THEM and framing as a possession obtained through childhood trauma 
@@ -223,7 +89,7 @@ t{W}o say:
 [^12]: {which was ({k}not)|written by} a team {of {fictional} developers}, {one|all} contributing to a 'project' on Github in{different} languages, {programming|other|wise &&}, {having} the metanarrative {be|hidden} in the pull requests, code reviews and {discussions between different characters, writing} comments on their {respective} commit hi{stories}, fulfilling {all} the {user} stories on their visible Kanban board|TODO section of the {attached} {READ}ME file {right at the front {page} {of the repository}[^13]
 [^13]:and during the process of writing the {non|fictional} characters, {to be}|{not to be}, that is {(k)not} the question} contributors to the GitHub project, each of them in their own {binomial pairs|}relationships {of duality}, with each of these pairs forming part of a Nine Thread intersecting knot of tri-nested pairs, i realised i was just writing fractional aspects of the only character in my Story, myself[^14.33]
 [^14.33]:and trying to create this one Unified place for all the disparate facets of my creative practice to go; to even {just|maybe} exclusively, write about the Ideas themselves[^14]
-[^14]:"as {Noet.} Borges himself said: to have an Idea for a Story is enjoyable, the actual Writing of it is just an exaggeration[^WhatFor]" (- Adria, N., _Language, Ontology, and the Fabrication of Findings in Tlon, Uqbar, Orbis Tertius_[^LayerN] Do Knot ↩ Sight Your ↪ Source Is: [[Islands within Islands]] )[^14.23]
+[^14]:"as {Noet.} Borges himself said: to have an Idea for a Story is enjoyable, the actual Writing of it is just an exaggeration[^WhatFor]" (- Adria, N., _Language, Ontology, and the Fabrication of Findings in Tlon, Uqbar, Orbis Tertius_[^LayerN] Do Knot  Sight Your  Source Is: [[Islands within Islands]] )[^14.23]
 [^14.23]: this was then a {great|most overwhelming} source of {strength|terror} for me; as i {, rea{{l{,}}{i/y}sed} that {i} was discovering who (i) was; as a w{h{a/o}le}, through {the|an} abstraction of {all|these} self-generating, self-same {components of} so-called: 'selfhood'-[^15]
 [^15]: gripped every night {now|then} by {the} most heart-wrenching {agony of} grief && solitude, terror and empowerment {was|is} swirling into {one} Being, as (i) thought, perhaps (this) is what (Jung) was talking {about when he said} 'Integration'|what the Alchemists really meant by the 'Divine Matrimony'|a {spiritual|mental|autoimmune} sickness|awakening but not framed as such, because {without|more than} a community of understanding or connection {to something} {smaller|greater|more} than {one}self {every|single|not present} framework becomes a cage}[^16]
 [^16]: and i thought again of the hypergraphic period of everything {becoming|rituals}, in which the placing of {two|an} egg(s) into an air fryer had some sort of heavenly significance, that simply must {be|have been} recorded in {mythopoeic|written} instructions {see: [[hardening-SOFTENING ritual]]}, else it{'}s absolutely {in|effable} awe-inspiring fleetingness {have|be} g{o|un}e to waste[^17] 
@@ -256,7 +122,7 @@ t{W}o say:
 [^exiled]:/excommunicating him[^NoetBorges] from the Polymathecule.
 [^Right]:Right, i thought, perhaps, this could have been the true home for my App[^Un|der|Developed|Wor(l)d] concept {which {never} came to Light}, 'TENDRITE'[^39], 
 [^Un|der|Developed|Wor(l)d]:the subject of my over-over-over-extended residency with Creative Informatics that ended up being much more about the Artist as Developing Software Developer[^Enveloped] than the Artistic Development of Software Developed[^39] 
-[^Enveloped]:Do Knot ↩ Sight Your ↪ Source Is: http://bit.ly/3ZGoUdj
+[^Enveloped]:Do Knot  Sight Your  Source Is: http://bit.ly/3ZGoUdj
 [^39]:'TENDRITE' was originally conceptualised as an interactive, time-sensitive generative music experience, but over such a senselessly sensitive time, became Aria_dne, a mythopoeic journey through a series of 10 {binary} questions of increasing vulnerability, as I became {in|creasingly}[^lexDefi|o2] vulnerable 
 [^Edo||Ode]:Edo||OdE 'SYMPHONEMES' - Each 'codon block', or modular component of the 'Sophtware' is comprised of Nine, and only ever Nine, lines - These component blocks are to be termed 'Symphonies', and are the smallest possible 'unit' of communication - they are written in Boustrophedon, as in, following the machinery that powers the Lesser Known, but Ever-Present Origin[^BTF] of the School of Boustrophilology[^Boustrophilology]
 [^Boustrophilology]:Boustrophilology is the 'Devouring Mother' of our Society, the Boustrophedon Trans Form[^BTF] Being the 'conceptual dissolution machinery' of the various Fields of Lexicomythography
@@ -296,7 +162,7 @@ t{W}o say:
 [^lexDef]:lexDef {Noen} "**Lexicography**"[^lexDefÆ]: The recursive exploration of meaning-making, where individual sub-components of language shape myth, and myth shapes reality, feeding back into itself in infinite, fractal complexity (*the Lexicomythographer's Dictionary of {Meaning|Making|Memory}, 2020*)
 [lexDefÆ]:lexDefÆ {Noen} "**Lexicography**"[^lexDefi|o]: {λέξις}:Lexico|speech|Word- || {μῦθος}:mytho|story|narrative- || {γραφή}graphy|writing|inscription
 [^lexDefi|o]:lexDefi|o {Noen} "**Lexicography**"[^lexDefU]: {Lex-First|Last Pet|Familiar|Tarantula|Friend|Maya|Magick-Show|Illusion|Light|Lux|Looks|Sight|Eye} || {Eye|(I)|Aye} || Co-{g}|Together|System|Axe{l}|Bias|Binding|Severance|Limitation{\=/\|/\=}Liberation || Rap-{t}|Song|Sing|Word|Story|Swaddled || Hy-Connecting with|the Hyoid Arch|Janus|Archway|Threshold|Doorway|To-Goodbye|Hi-Greeting|Crying|High-Rising|About {To} Fall|Hy-oid bone in the anterior midline of the neck, between the chin and thyroid cartilage {'shaven' down during {Facial Feminisation} Surgery} 
-[^lexDefU]: Mo: Le⧖ 🜂 (i) 🜃 Co || Graph | Y // ↩ Tu: Why? | Plot || With 🜄 (Inter{Sol}stice) 🜁 Spider ↪ We: Lex G (i) T Co || Graph | Y // ↩ Th: Why? | Plot || With C (Inter{Sol}stice) A Spider ↪ Fr: Love †† Obsession ↩ Sa: Togetherness †† Web  ↪ Su: (E)dO: ↩ = ↪ :Od(E)
+[^lexDefU]: Mo: Le⧖ 🜂 (i) 🜃 Co || Graph | Y //  Tu: Why? | Plot || With 🜄 (Inter{Sol}stice) 🜁 Spider  We: Lex G (i) T Co || Graph | Y //  Th: Why? | Plot || With C (Inter{Sol}stice) A Spider  Fr: Love †† Obsession  Sa: Togetherness †† Web   Su: (E)dO:  =  :Od(E)
 [^0]: *AI Overview:* "/search?q=lonely+carp": lonely carp is a {conceptual artist | experimental musician} who creates music that explores the complexity of the trans experience. The work is influenced by {fictional} industrial and {Gnoeneo|neo}classical S. O.{und}S., and often incorporates field recordings|noise †† music. Lonely Carp's music is {un}available on Spotify, and they({single|knot|singular|plural}) have released multiple concept albums including[^Descent]
 [^Descent]:KATABASIS: an underworld opera. {She}[^0] has also performed Live Art Works to audiences in Scotland, Belgium, and The Other Place, mixing electric double bass and keys with field recordings, noise, and queer industrial music. {She had} also hosted the show 'Constantly Failing' on EHFM, which document{s|ed} the music and noise that has accompanied t{he(i)r} life as a trans[^BTF] artist.[^ConstantlyFailing]
 [^ConstantlyFailing]:In the End[^1], the Naming of my {Radio|Live|Life|Waves|Lap|Tongue|Tide|Diet|Tied|Died|Dyed|Fabric|Woven|Into|Waves|Radio } {Show|Site|Sight|Blinding|Light|Show} as "Constantly Failing", was the perfect example[^e.g.]
@@ -315,3 +181,25 @@ t{W}o say:
 [^reminder]:(all this death[^just], to Remind her):[^Dying]
 [^Dying]:Life.
 [^pp]: suDO: KNOT SITE YOUR SOURCE IS [[One I Left, Knot Right]]
+[^aa]: lexDef "Artefact as Artifact"[^lt] {lexAllele(s)::: Prodverb} < A conceptual framework that reframes {obfuscated|abrasive|“noisy”} creative works not as flawed outputs bearing static errors (“artifacts”), but as dynamic, evolving artefacts — living entities with mutable histories. Their meanings are forged through ritual, interaction, and {reader|observer} positioning. This framework foregrounds art as a dance between the {witness|witnessed} — a tapestry of meaning whose true patternicity emerges from its drop-stitches.[^ArtefactasArtifactProdverb]
+[^lt]: lexTrans {lexAllele(s)::: SIPHO{N|r}[^si]} << {RE:}Framed {f}laws of Art < {{witness}|dance|ed}, {observe{r|meaning|d}}[^v] < {{read}|er}. i.e. Art{i|e}fact < tapestry{{{drop}|stitches}|letters|{for{g|{l}}{o|i}v{{in}g}|characters}. [^-SIPHO{N|r}]
+[^si]:lexDef (∞) "SIPHO{N|r}" {lexAllele(s)::: Noen || Prodverb} < SIPHO{N|r} is an entirely real, but fictional language, from some unNoen[^croencroen] source, which utilises programming logic to {condense|ligate[^lig]} complex sentiment into one-liners of re{combined|annealed} meaning, often {separated|"siphoned"} into "pipelines", akin to Bash scripting. || "Trying to amalgamate the practices of conLang[^conlang] and esoLang[^esolang] creation in an attempt to give commentary on integration of opposites is somewhat like Bashing the reader over the head with self-referential verbosity" [^SIPHO{N|r}Noen]
+[^lig]: [[on the ligature of two characters]], notBorges, on egress from psychiatric hospital.
+[^esolang]: lexDef (∞) "esoLang" {lexAllele(s)::: Noen} < Esoteric Programming Language. A type of programming language whose purpose is not efficiency, but Character.[^esoLangNoen]
+[^conlang]: lexDef (∞) "conLang" {lexAllele(s)::: Noen} < Constructed Language. A type of language whose purpose is not efficiency, but Character.[^conlangnoen]
+[^esoLangNoen]: [[The Fundamental Fiction of Language]], Prof. Ed. O.
+[^conlangnoen]: [[The Fundamentals of Fictional Languages]], Dr. Dot Code.
+[^SIPHO{N|r}Noen]: [[The Fundamental Fiction of Language]], Dr. Dot Code.
+[^prod]:lexDef "prodverb" {lexAllele(s)::: Noen[^n]} < A prodverb is the lexDef of a Lexicomythographic proverb, which is designed to {div|al{ert}} the reader {to|from} a narrative point of {mythopoeic|vulnerable} importance. [^N.B] 
+[^n.b]: Nota Bene[^nb] A Favourite Prodverb of Jorge Luis Borges {{went} | something like}: "A mistake is an escape route - like a drop stitch of knitting being a way out of a labyrinth"[^N.B.]
+[^n.b.]: ![[Labyrinth]]
+[^NB]: N.B. < {Nota Bene | notBorges | N[^n]{ever} Becoming}
+[^n]: N = {Null | Nothing | Nobody | Noen | Noet | Nima | Noam | Nascent | Near | Nadir | Nest | Noumenon | Nexus | Net | Narthex | Noise}
+[^v]: lexTrans (t{vamps}ax[^vamp]) {lexAllele(s)::: SIPHO{N|r}} << a "'dance' between "witness" and "witnessed", "'meaning' forged between 'observer' and 'observed'"
+[^vamp]:{"refers to (the SIPHO{N|r} lang{dingbat capabilities}uage)" == "refers to the 'dingbat' quality of syntax capabilities (within "the SIPHO{N|r} language")"}) 
+[^-SIPHO{N|r}]: [[The Fundamentals of Fictional Languages]], Prof. Ed. O.
+
+[^ArtefactasArtifactProdverb]: [[Artefact]], notBorges as The Woman In The Wallpaper[^twitw], a prisoner
+[^twitw]: [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/The Woman in The Wallpaper|The Woman in The Wallpaper]], a character[^fo] Callie Rose Petal[^crp], a warden
+[^crp]: [[Word]], an unending [[letter]][^s] to Jorge Luis Borges.
+[^s]: [[Sierpiński Gasket]], a {[[Period]]|full stop}.

@@ -43,7 +43,7 @@
 
 ![[notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/THE NINE (10) NODES OF THE WEB.md]]
 
-![[notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/STRUCTURE OF RELATIONSHIPS/LAYER STRUCTURE/No file.md]]
+![[The Journals of THESEUS/No file]]
 
 ![[notBorges/AEIOU/ARIADNE/A IS NOT FOR ALEPH/B IS FOR BAPHOMET.md]]
 
@@ -61,12 +61,12 @@
 
 ![[notBorges/lexicomythography/particle/strange/LAYER TABLEAU.md]]
 
-![[notBorges/lexicomythography/particle/charm/TODO.md]]
+![[The Journals of THESEUS/TODO]]
 
 ![[Chapter Eight - Jorge Luis Borges as {t{He{i}r{m}} Selves.md]]
 
 ![[CHARACTER DEVELOPMENT/THE NINE (10) NODES OF THE WEB.md]]
 
-![[CHARACTER DEVELOPMENT/STRUCTURE OF RELATIONSHIPS/LAYER STRUCTURE/No file.md]]
+![[exp/CHARACTER DEVELOPMENT/STRUCTURE OF RELATIONSHIPS/LAYER STRUCTURE/No file]]
 
 ![[A IS NOT FOR ALEPH/B IS FOR BAPHOMET.md]]

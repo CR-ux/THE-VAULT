@@ -82,6 +82,14 @@ permalink: i want to write a story
 > think in
 > think i
 > think
+> ink
+> in
+> ink
+> think
+> think callie.
+> i think i am callie
+> i think, therefore, callie
+> i am
 > callie
 > callie
 > callie

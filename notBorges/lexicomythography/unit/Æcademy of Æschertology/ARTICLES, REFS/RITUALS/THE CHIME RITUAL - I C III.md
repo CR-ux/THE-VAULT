@@ -60,4 +60,4 @@ In your Body
 of sacred, infinitely separated, yet self-same, 
 Work.
 
-[[BODY OF THE CITADEL]][[lexicomythography/particle/charm/TODO|TODO]]
+[[BODY OF THE CITADEL]][[The Journals of THESEUS/TODO|TODO]]

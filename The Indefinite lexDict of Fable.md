@@ -518,7 +518,7 @@ Edition XVIII[^1].
 [[lexLang]]
 [[Locken]]
 [[langConsts]]
-[[lexicomythography/particle/charm/TODO]]
+[[The Journals of THESEUS/TODO]]
 ## M is for...
 
 [[Maceration]]

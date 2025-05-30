@@ -1,7 +1,7 @@
 ---
 permalink: on the ligature of two characters
 ---
-
+![[SIPHO{Nr}]]
 
 
 FAO:

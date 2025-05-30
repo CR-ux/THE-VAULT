@@ -22,10 +22,9 @@ left to our own devices, will make our own meaning (of what to make of it), from
 †(through devising interactively interchangeable narrative devices)
 
 really loud, churning--
----
 
 Still
-[[lexicomythography/particle/charm/TODO|TODO]]
+[[The Journals of THESEUS/TODO|TODO]]
 
 
 

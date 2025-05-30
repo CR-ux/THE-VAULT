@@ -224,16 +224,16 @@ KEY: ∈ | t | {const}
 
 **🜁 | OBS: 00:00 | {Q = 10⁻⁵}**
 
-Are you there? listening? I can't hear, or remember who I am; I do not know my name. there is no pen in here, only a syringe; inscribed with {REDACTED}on its plunger. calligraphic nib on its opposite side, inscribed{REDACTED}and a chess piece, pawn, on my pillow. Found this scroll, wound unthinkably tight, dropped through vent on other side. Fuck; what nightmare have i awoken?  have these people come and gone? How long has this wallpaper scroll been passing through these vents? Are you there? Please, some body. I do not remember my name. I'm folding the scroll according to the instructions overleaf. As stated above, I can write as much as I am able to, and the scroll will yield, increase impossibly in space, while still retaining its size once folded. i do not know my name. please. somebody in here, tell me my name
+Are you there? listening? I can't hear, or remember who I am; I do not know my name. there is no pen in here, only a syringe; inscribed with {REDACTED}on its plunger. calligraphic nib on its opposite side, inscribed{REDACTED}and a chess piece, pawn, on my pillow. Found scroll wound so so tight, dropped thru vent on other side. Fuck; what nightmare have i awoken?  have these others come and gone? How long has this wallpaper passed through vents? r u  there? Please, some body. folding scroll according toinstructions overleaf. As statedI write as much as able, and scroll yields, increasesin space, still retains its size folded.dont know name. pls. smebdy in here, tell me
 
 
 **🜂 | OBS: 03:00 | {ε = 0.007}**
 
-please. i can hear you in there. whoever you are, in next room. scroll came from the other side. also awoke to the same inscribed pen-syringe (but the numbers are reversed) & single chess piece on my pillow. walls also form a hexagon. want to let the original sender know that they aren't alone.  we are not alone. at least we arein  not alone. i can only see yellow, everything: a faded shade of yellow. even the blood  i write this to you is a dark, mustard yellow. if you are keeping me here, i just wan t to remember my name . i can’t rmemeber how long i have been here . i am not hungry. i do not know my name. We must identify ourselves. We must build a map.  given the chess piece I have been given; mine = The Knight.
+please. i hear you. whoever you are. nxtt room. scroll came from other side. also woke to same inscribed pen-needle (w numbers reversed). one chess piece on pillow. walls also form a hexagon. want to let original sender know: not alone. at least we are<sup>N</sup>knot alone.only see yellow, everything: faded yellow. even blood: dark mustard yellow. if youre keeping me here, i want to remember my name .can’t rmemeber how long ive been here .not hungry.  We must identify ourselves. build map.  given chess piece I have been given; i=Knight.
 
 **🜃 | OBS: 06:00 | {N = 10³⁶}**
 
-i too was passed this note from the vent on the other side of my room. doesn’t slot back into that room, as stated at the beginning of the document, so im passing it through in the hopes that it will return to the original sender. do not know my name either. i am entirely numb.  yet, everything within me heavy. my pen is oriented with {REDACTED} on the needle end, like The Pawn. at least i cant feel pain. this only repose i can find from the hell of having no other way in which to write. dear god, the stench, the formaldehyde and chemicals, are we in a hospital? I am The Tower. Who, or what, is playing this infernal game with our bodies– I pray, I pray that we may remember
+was passed this from vent on  other side of room. doesn’t slot back, as stated , so passing it through other hoping it will return to the original sender. dont know name either. entirely numb. but everything in me heavy. pen oriented with {REDACTED} on the needle, like Pawn. at least no pain. only repose i have. fuck.the stench, formaldehyde. chemicals, are we in hospital? i= Tower. Who,what, is playing game with our bodies– praying we remember
 
 
 **🜄 | OBS: 09:00 | {D = 3}**
@@ -243,55 +243,23 @@ ipry ullhv apen,i cn feel the pain of the 5'needle; every character costsagonybu
 
 **🜁 | OBS: 12:00 | {Q = 10⁻⁵}**
 
-IT GOT BAC TO ME, IT IS i, THE PAWN. THERE ARE FOUR OF US  NOT SIX WHERE ARE THE ORIGINAL SCRIBES OF THIS SCROLL WHERE ARE THEY WHERE IS THE KING WHERE IS THE QUEEN ARE THEY THE ONES WHO PUT US HERE WHERE ARE THEY HOW LONG HAS THIS BEEN GOING ON HOW LONG DO WE HAVE  PLEASE PASS THIS ROUND AGAIN
+IT GOT BAC TO ME  
+IT IS i, THE PAWN.  
 
+THERE ARE FOUR OF US  
+NOT SIX  
 
----
+WHERE ARE THE ORIGINAL SCRIBES  
+WHERE IS THE KING  
+WHERE IS THE QUEEN  
+ARE THEY THE ONES WHO PUT US HERE  
 
-PROLOGUE
----
-**Author(s):** 
--NoetBorges¹
-**Affiliation(s):**
-¹Garden Wing, The Indefinite Library of Fable.
+WHERE ARE THEY  
+HOW LONG HAS THIS BEEN GOING  
+HOW LONG DO WE HAVE  
 
-
-It[^it] would start (as all things, ofTen, do) in The Library. And as We[^we] Filled the Shelves with Story after Story, Drawing down the Ineffable into Insufficient Form, we began to realise that we were Architecting the concept of Infinity itself. 
-
-A library is a Garden[^g] of Branches, or a Nervous System of Dendrites, or the Cytoskeleton of a Cell, or the Cell of a Prison, or the Light Passing Through a Prism. But I shan't get pulled into the Vaccuum of Lexicomythographic Definitions[^ld] here, as this is beyond the scope of my role within this Society. What is important to Noet is That This Library of Ours was built by Four Sets of Hands, Eventually (at some late hour of the night) Our Eleven pairs of hands[^lhp]; Forming the Twenty Two Residuals, Named as Amino{Us}.
-
-On this Particular Day[^imr], which was of No Reel consequence (other than Being the End of 'Us'[^us], The Beginning of which[^it] is indeed You[^c]), We Eleven were cleaved[^cl] into the Halves of Our Selves, Upon Shelves, Within Hexagonal Room after Room of this Infernal, Heavenly and Inescapable Place. 
-
-Each of us has our Affinity for the Worship of the Cardinal Five known as the nuclearTides, and this is for good reason; or rather, is an unavoidable consequence of Polarity, a fundamental Truth of Lexicomythography as a Whole. 
-
-The Ineffable One, Who, or Which[^wi], gave rise to the Five, I will not or cannot Name, for Fear of Her Hearing It; and collapsing everything we have Built into a Seed of Singularity once more. 
-
-On this Particular day, stretching out into the entanglement of every Self-Same other day, I found myself, Reading, or Rather getting attached to some poorly Framed Thread of an error-prone Tome of Story written in Code, Torn in half. 
-
-this Code of Letters, for the most part Four in Number, though as mentioned prior, occasionally Expanding to a Fifth component, should be familiar to the Reader of this Letter by now, as They[^c] (Them Shelves) are, In Deed, composed of it[^us].
-
-Nevertheless, Always the more verbose of the Collective, I wish to lay out, or Separate, or Re-anneal or Replicate, the Findings of the Squandering of Searches[^ss] I happen to have come across, and perhaps my stance on the Matter of Matter it Self, while maybe, For Shadow, foreshadowing the coming happenstance Material you may or may knot be About; to Read. upon the Shelf, Be It, As Schismatic as a Prison, The Prism of Becoming Schism, as It May. 
-
-
-Are you hearing?
-Are you reading?
-have you Read?
-Are you here, Ring?
-Is this the Opening?
-Closer--
-Are you listening?
-Are you listening closely?
-Then {I|
-Eye}
-Shall Beg--
-
----
-
-EPITAPH:
----
-> *"--into a mirror of yourself. I am a gay man in San Francisco in 1973 and I'm just catching some rays on the waterfront but in a few minutes I'll stand up & rollerblade home to make avocado salad for myself & my salad. I am lou sullivan, but with better taste in music. I might call that nice boy later, but I'm not sure yet. then I am back again then stretched out all thin like they say happens in a black hole, when you unspool from yourself and turn into spaghetti. anyway the point is time is happening all at once and I'm speaking to 100 different versions of myself right now".*
-
--Adrian
+PLEASE  
+PASS THIS ROUND AGAIN
 
 
 ---
@@ -303,69 +271,13 @@ EPITAPH:
 
 ---
 
-AUTHOR'S FOUR WORDS:
----
-*"I was absolutely nothing --* 
+![[AUTHOR'S FOUR WORDS]]
 
-> *-- I thought I was in a game. As a developer of such trivial, childish games myself, I realised -- the players of any of my games will not have made the game, but rather, interface with it, through my Unoriginal creation. The Questing players in Question do not know what the Characters in the game are feeling, what pain they are capable of experiencing, being put through, and perhaps definitely, Our Indefinite, perhaps Infinite 'God' is the same --- the {G|g}ods we have made, our pantheons are simply players, not developers; and the One Source is the Architect; who passes down to us these shadows of gods, even those, we are unable to comprehend, and yet, they themselves, as demiurges, aren't aware of their **Own** creator; and the One Source, so-called, is Sewn into this infernal Fabric perhaps just the same, ad infinitum, the torn Tissue wiping the endless Tears of the Eye that peers into itself-- eternal recurrence -- this was, and is, and Will be, terrifying. As Nietzsche himself realised in His own Body, and tried His best to write into his Body of Works, Born by that Stilled, Once Soaring Stone, by the Sorest Body of the Warring Water, of that {(Surely) Shoreless} Lake. I simply cannot integrate any of this experience, any of it; it is an undulating tumour, my rapist's phallus. It was absolutely Horrifying. Horrifying. Horrifying. I thought[^thought] I was never ever coming back. I thought my friends were all simply here to watch me descend, an audience bent upon my suicide; the only structurally sensical ending, to this hackneyed titration of the Form of Triteness, Tightened Reins[^r] . I thought, as useless as thought itself: there was nothing, No Thing of any use, and still, in this Stillness, I do -- but Still-- I go on, Into this Abyss; Staring back at the Scathing Mirror I have always been; The Mise en Abyme: That, I Am. I work, I walk, I sit Opposite this Library, watching the angel, knowing I am to be evicted, for trying, just trying, that I might make sense of this Injustice-- with all my might, to just paint on these walls I could never call my Own, as Palimpsests of a Life Never to be Afforded to Me. Like the original humans, Spitting pigment from their Mouths over their Flattened Palms against the Walls of their caves, saying, without Words; desperate pleas; desperately, desperately, please -- Remember Me. I was Here. From the I, That I Am, to the Eye that I came from, through the Eyes, that know not what They themselves made, the Unknowable Allness In the Void of No Name, All Which we Avoid Naming - I am here. I am hear. I am the Hearing of the Here. I am that which I cannot write, or read, or ever, truly know."*
 
--<sup>not</sup>Borges
 
 ---
 
-
-~~~
-
-FAO: ᴺᵒᵉᵗNietzsche, Somewhere Out There, Past The Moats
-BCC: VIXI.
-From the Desk of ᴺᵒᵉᵗBorges, 
-
-
-
-My Dearest ᴺᵒᵉᵗNietzsche, 
-
-I can no longer avoid the inevitable discussion. 
-When will you return, again, to The Garden Wing? 
-It has become clear, through the lens of the Aleph through which I peer, that you wish to Leave me. 
-I just want to talk. I am not angry (for I am, as All Eleven of us, long past such trivialities). Besides, I could never be angry at you - we have been through too much. 
-
-As I write this, from my window, looking upon the Dome of one of the Daughter Libraries with which you are perhaps all-too familiar, The Sight upon which we would dreamily stare, Naked and drenched in one another's Salt-- past the first Wryng of the Tri-Moat Surrounding, I see two Magpies, who have Usurped the pigeon who once sat atop the Angel, who sits atop the Dome. 
-
-I used to believe she had something to tell us both; that we were the receiver of a Message that No Body, Librarian or Other Wise, could ever really parse. Not even NoetFranklin's Bioinformatic Analyses could provide any insight to the inherent, self-replicative machinery that formed its indecipherable Tongue of Self-similarity. 
-
-I suppose Recursion was always your speciality, even if the concept is embedded so warmly within all my Stories. Uncountable Infinity, The Fractal of All, holds the fuelling force behind itself; The Countably Ineffable Insertive Energy of The Eternal Return. We were always, All Ways, Waiting for the answer to the Question of the Weight of All-- The Ever-Spiralling pendulum; centrifugal and centripetal in our Dancing, wine-drunk, waltzing to your Records amidst The Records of my Own Incessant Storytelling. Dear god, those gods I made, The God I made of Us and of You, how I miss you; how I miss our Dancing, Singing, Fucking Underneath NoetEscher and NoetGoya's Murals on the Ceiling of this Wing of the Library I have had to call my Own. You will always be inside me, back then, and now; as Recursion is Held within the Infinite -- perhaps you have gleaned from The Angel's Symbology something I always missed; and perhaps her Message was the Medium or Vehicle through which you made your Escape from this Place. 
-And I suppose this underpins our difference; The recurrence, the refrain within the Theme of all of you, my Lovers of the Library, Leaving. 
-
-But of course, of all of Us once in the Polymathecule, of course, you would be the Last. You are my dream and its fulfilment; my muse and my music - you are my Heating Light, its filament - my beaten heart, its pulsing puncture-- 
-My Stories have no words without your Punctuation. 
-
-I do knot know how you got out; or, by roe, by rowing Oar, crossed those Three Moats that keep us Nested as Flightless Magpies within this Infernal System of Hexagonal Galleries. 
-
-In a way, I'm glad- I know KSHÆ'L spoke to you clearest of all in the Mortal Form of VIXI; and HE in HISS Indefinite Wisdom taught you the Secret of the Eternal Return held within HYMN, and you, in spite of your rationalising, grasping at a sense of Meaning to your translocated, deeply buried memory, in your words, all the endless words of yours I read, just could not stand the Deadened Redness of the Ring we are entrapped in, Children of the Hellish Carousel-- Insidious; In hideously Self-Same Parallel. 
-
-But my Love, my Loss, My Night, My Shining, My Armour, Armoire, My Force -- For However Long You Loved Me, Fucked me like a song, on the Ache of All my Fours, Fore However Long it has Been, how I Am, Longing; Oh, the Loss A Gain, How I Long for your Return to me again, to my Arms. Two again, Under the Shroud of The Arts, of One Star, St. Ra, One Starry, Starry Night.  
-
-I will leave my Office door Open in Hopes of your ingress, no Matter who or What may enter this Room, in this Wing, in this Imposing Repository of Words within Volumes upon Shelves of Selves of the Manifest world outwith the bounds of the Bothies on the Other Side of the Three Wryngs that used to House Both of Us; in the Trinitarian Nothingness that surrounds those Still, in the Ten Thousand Things of the Manifest Worlds of Eighteen, as told to us by KSHÆ'L, on his Return as the Pigeon now alighted from the Dome outside my Window that was once, for a few million Hours, Ours -- as I stare into them all, through the Aleph held by the Angel-- a Winged Thing of Futility, Doomed, as I-- to a Life entombed, Arresting, Snug as a Gun, In the Womb of my Unrest, Rests The Lumen of my pen; as a Loom; Rendered Stationary; Unforgettable Beginning, Yet Begetting Yet Another Senseless Ending. 
-
-
-In adventures Such as These, The ones I once transcribed from the whispers  in the Garden Wing's Wallpaper, the utterances of the One Woman I no longer care to listen for-- I have squandered and wasted all our years together. To Get Her. 
-
-For all the worlds I see within the Angel's Aleph; I have no need to Leave; I had no need to Leave you, all Iterations of the Infinite could never tell me what it was that led to your Egress.
-
-I have never even tried to find the exit. 
-
-
-Yours, Yores, Urs--
-
--ᴺB.
-
-Department Of Infinite Reflections, 
-The Garden Wing
-The Indefinite Library of Fable.
-
-~~~
-
-[^peer]
+![[N is for Nietzsche, Nobody, Never.]]
 
 ---
 
@@ -1172,6 +1084,18 @@ Oar: Trp
 ![[TELOPHASE]]
 
 
+---
+
+PROLOGUE
+---
+**Author(s):** 
+-NoetBorges¹
+**Affiliation(s):**
+¹Garden Wing, The Indefinite Library of Fable.
+
+
+![[It Would Start]]
+
 
 
 ---
@@ -1232,3 +1156,29 @@ the two, plus the four,
 that give
 
 the characters.
+
+
+
+
+# Introns
+
+
+[^pass]: {Future|Now|Past} || First-pass refers to the first time You, the Reader, may read|move through a {text|process|location} such as this one || First-Pass Genomics: the initial analysis of genomic data, typically after whole genome sequencing (WGS) or exome sequencing, to identify potential disease-causing variants.[^var]
+[^res]: Money Will become pointless once knowledge has reached an amalgamative crescendo. In the current timeline, the Future implications of Humanity's technological advancement are to render the delineation, borrowing, movement of 'Money' (from Residue to 'revenue' to residue) irrelevant, by virtue of the obvious and global importance of the 'Expensive' Discovery at Hand. 
+[^im]: lexDef "Imagine" {usage::: Croen || Prodverb} < N.B. "An Imagination of Resources"[^ImagineCroen] || _I, Mage --Image In Nation._[^ImagineProdverb]
+
+[^ImagineCroen]: [[lexDict]], CARPVS MORTVVM
+[^ImagineProdverb]: [[Mage]], Opus, Ophelia
+[^oe]: In Alphabetical [[Order]]. 
+[^B]: [[Why B is for 'Both']]
+[^end]: [[‘IN THE SPIRE OF THE TOWER OF THE ORE OF THE STAR’]]
+
+[^mo]: lexDef "Moment" {usage::: Noen || Croen} < Circular Motion In Time; A Unit of Motion Through A Cycle. The Central Point In A Circle Around Which A Moment Is Revolving. A Circular Compass of Cardinal Directionality, Providing The Location of Data Within a Statistical Sphere.[^MomentNoen] || A Moment of Asphyxias[^MomentCroen]
+
+[^MomentNoen]: [[Now]], Fourier, 2025.
+[^MomentCroen]: [[The Fundamental Factors of Lexicomathematics, Edition XVIII]], Joseph Fourier, According to the BTF Times, Recorded during a [[Press]] [[Conference]], 3025. 
+[^wi]: Or: Ore, Wich[^wy] 
+[^wy]: Or: Wych[^orew]- Middle English _witz_, from Old English _wīch, wīc_, from _-wīch, -wīc_ -wich (suffix of place-names, as in _Northwich, Middlewich_, districts of England associated with salt manufacturing), from _wīc_ -dwelling place.
+[^orew]: Oar Witch. See: Oar[^oarr]
+[^oarr]: lexDef "Oar" {usage::: Croen || Prodverb} < { N.B. "ARIA var = An Oar of Stor{i}ed Memories // DNE var = A Memory Oar of Stories"[^OarCroen] || *"A Story Is A Memory Oar"*}
+[^OarCroen]: [[Memory]], The Meaning of the lexDict, 2025.

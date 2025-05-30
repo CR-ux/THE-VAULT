@@ -10,4 +10,4 @@ lexDef "Museme" {usage::: edoNoen || Croen || prodverb} < An [[edoType]] [^edo] 
 [^edoTypeNoen]: "The Light Noeneoneme, A: Beginning of The Tunnel." Unknown Source: [[Knot]], Yet Written. 
 lexDef "Noeneoneme: A." {usage::: Noen} < One of the Residual Holy Noets of The Founding Constituents of Lexicomythographers, (ofTen initiated as "A".)[^Noeneoneme]
 
-[^Noeneoneme]: A Noen Knot of Amino{Us} [[Residue]]s, [[lexDict]] "The Light Nowhere [[Nima]]: Beginning of The Tunnel."
+[^Noeneoneme]: A Noen Knot of Amino{Us} ![[Residue]]s, [[lexDict]] "The Light Nowhere [[Nima]]: Beginning of The Tunnel."

@@ -3,6 +3,9 @@ lexDef "Anguish" {usage::: Croen} \< N.B. "An Anguish of Angles"[^1]
 lexDef "Answer" {usage::: Noen \|\| Croen} \< A Paradox.[^2] \|\| N.B.
 "An Answer of Intentions"[^3]
 
+
+![[Fear]]
+
 [^1]: \[\[The Fundamental Factors of Lexicomathematics, Edition
     XVIII\]\], Ockham's Protractor, Ockham, 1300
 
