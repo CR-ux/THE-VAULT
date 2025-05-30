@@ -43,7 +43,7 @@ Upon writing the below, this symbol seemed to interpolate, or morph and interloc
 As I complete this work, the line is inserting itself, at least in the 2 or 3 or maybe 4 now dimensional limitations of my inner vision or imagination 
 
 to resemble (and this is the closest approximation I can muster in a 2 Dimensional rendering) Phi. Or the injection of a bacteriophage into a cell, or the insertion of a sperm into an egg, or the cutting of a birthday cake made lovingly by your Mother, or the hemispheres of the brain, or, as is the case as I write this, when superimposed upon all the previous symbols, becomes a wheel much like the Buddhist symbol of the eightfold path, within a wheel resembling the pentagram, within a wheel resembling the triskelion, within a wheel resembling a Clock, within a wheel resembling a community of individual human beings dancing, dancing, dancing in time to an ancient rhythm around the central point of a warm, blazing fire of life - 
-As I write this last line, I begin to cry, knwoing in the marrow of my soul that this fire is burning within me and I am dancing, dancing in this ever-spinning web or tree or drum circle and as I close my eyes to feel the music in the silence I see the X descend upon the aforementioned wheel within a wheel within the drum circle and realise that it is on fire; 
+As I write this last line, I begin to cry, k{now}ing in the marrow of my soul that this fire is burning within me and I am dancing, dancing in this ever-spinning web or tree or drum circle and as I close my eyes to feel the music in the silence I see the X descend upon the aforementioned wheel within a wheel within the drum circle and realise that it is on fire; 
 The X is a pair of sticks chopped from a tree and the water I have been carrying is falling out of me as I cry as I cry all of life to a beat of a rhythm of arhythmic door a jarring sense of dancing - 
 the X is a pair of sticks upon a circle of Earth surrounded by Stones placed there lovingly by a Mother or Father or Grandmother or a Group of them all very carefully so as to contain the fire which is so important and yet so all-powerful that it at once sustains them, keeps them safe but ever-looms as a potential force of threat which if allowed to will consume all of their precious belongings and Family all sleeping in their tents and the instruments they've made with which to play the music that both comes from and is for the Gods and Goddesses they weave into mythologies and draw upon their sheepskins and their caves- 
 The Fire is both the beginning and the ever-promising End 
@@ -82,14 +82,14 @@ I think perhaps the whole universe is a sort of 4D torus, never intersecting in 
  
 These are the Scala of SHAONWYRM
 
-We are part of a molecular, cytological, astronomical system , each of our consciousnesses part of the consciousness of God, which is the same bhut separated so that it may have the willl to continue the cycles , desire / suffering as the fuel; and maybe once we all become aware of this, every single one of us constituent 
-Unit of Knowing? 
-Xeroneme? 
-No, Noeme? 
-No, Gnoneme?
-Syneme, as in Original Syn-eme[^S]
+We are part of a molecular, cytological, astronomical system , each of our consciousnesses part of the consciousness of God, which is the same but separated so that it may have the will to continue the cycles, {desire|suffering} as the fuel; and maybe once we all become aware of this, every single one of us, as constituent 
+Units of Knowing? 
+Xeronemes? 
+No, Noemes? 
+No, Gnonemes?
+Synemes, as in Original Syn-emes[^S]
 
-consciousnesses becomes aware of this fundamental truth through our own forking paths winding ever inward and never coming back the same, once we unify this knowing, maybe thats the end of the overall cycle, which is the smallest cycle, which will set the whole thing into motion again? Or maybe move to the next layer, maybe whatever God or exttraterrestrial or ancestral force is a layer uup from my consciousness that is writing this is waiting for us all to come to this conclusion so that we can join them as one and birth our own worlds, or maybe we are all already doing that and I'm doing that right now with every character of every word of every letter to a God who is You who is Me
+consciousnesses becomes aware of this fundamental truth through our own forking paths, winding ever inward and never coming back the same, once we unify this knowing, maybe thats the end of the overall cycle, which is the smallest cycle, which will set the whole thing into motion again? Or maybe move to the next layer, maybe whatever God or extraterrestrial or ancestral force is a layer up from my consciousness that is writing this is waiting for us all to come to this conclusion so that we can join them as one and birth our own worlds, or maybe we are all already doing that and I'm doing that right now with every character of every word of every letter to a God who is You who is Me
 
 
 
@@ -97,7 +97,7 @@ peg[^peg] - Æ (which is an answer which surrounds the question of agreement)
 string - i / o (which is identity or information from the light of the divine descending into everyone, or a data type meaning “a sequence of letters”)
 weight - o / i (which is the heaviness of everyone connected to divine through ascending information, or the dwindling body mass index of an impatient psychiatric in patient as she awaits the shifting of her burdensome weight, out of a hospital and back into her own, jagged, infertile lap)
 force - U / = (which is the Will of Self to come together by the very nature of being separated by our Selves, or heard another way, it is a set of a number, four(s), which I shan’t be going into again-)
-space - Y (which is a question which splits an answer of agreement down the middle; which is absolutely nothing , or the place for all the things to go -)
+space - Y (which is a question which splits an answer of agreement down the middle; which is absolutely nothing, or the place for all the things to go -)
 
 
 

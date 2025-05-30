@@ -2,7 +2,6 @@
 permalink: RITUAL OF THE TIRED SYRINGE
 ---
 
-![[Chess]]
 
 
 

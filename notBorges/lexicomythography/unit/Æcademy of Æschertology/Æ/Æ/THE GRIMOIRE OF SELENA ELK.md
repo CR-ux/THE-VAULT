@@ -54,9 +54,9 @@ date: XVII_XXIII_ERA_Æ
 
 
 
-Last night, I am certain of it, I felt them 'kick', or whatever their version of 'kick' might be (I know I can look it up in a second, but your Gnoeneogenomic andBryon{if|or}matic facts are the closest thing I have to you reading to me here - can you let me know what developmental stage Perigee would be at right now? And as always, I *need* the associated Bryon{if|or}matic Symbology)
+Last night, I am certain of it, I felt them 'kick', or whatever their version of 'kick' might be (I know I can look it up in a second, but your Gnoeneogenomic and Bryon{if|or}matic facts are the closest thing I have to you reading to me here - can you let me know what developmental stage Perigee would be at right now? (As always, I *need* the associated Bryon{if|or}matic Symbology)
 
-I hope hearing/reading this provides a sense of catharsis, rather than a pang of pain. As I write this I realise it will most likely be both. It's always both, as we say.
+I hope hearing/reading this provides a sense of catharsis, rather than a pang of pain. As I write this I realise it will most likely be both. It's always both. As{we}say.
 
 How's the sample analysis going? I just know you're knocking their socks off. I have a very strong one of my "feelings" as you so lovingly term them, that it will be you, my Light, who saves us all from this terrifying Phage. 
 
@@ -72,7 +72,7 @@ Hope the code is coding kindly dear light,
 - S
 # ᶠᵒᵒᵗNoet(s)
 
-[^†]: I know you find him self-important and somewhat pretentious in his recursive fiction, but I was reading the latest Gnoeneoeng. translation of The Citadel of Tohms last night and I thought it was the perfect fit for today's *Prologuemania - hope you will forgive me for (finally!!!) taking up our little email opening ritual with the Noet. who is perhaps the one artist we disagree on the genius of (although, I look forward to uncovering, or not, the smatterings of whatever the Two (soon to be Three!!!!!) of us disagree on. Or agree on. I look forward to it all. Dear Goddess how I miss your smell, My Light)
+[^†]: I know you find him self-important and somewhat pretentious in his recursive fiction, but I was reading the latest Gnoeneoeng. translation of The Citadel of Tœms last night and I thought it was the perfect fit for today's *Prologuemania - hope you will forgive me for (finally!!!) taking up our little email opening ritual with the Noet. who is perhaps the one artist we disagree on the genius of (although, I look forward to uncovering, or not, the smatterings of whatever the Two (soon to be Three!!!!!) of us disagree on. Or agree on. I look forward to it all. Dear Goddess how I miss your smell, My Light)
 
 
 
