@@ -1,3 +1,30 @@
+
+TWO.
+FOUR.
+GIVE.
+-The Character of Callie Rose Petal.
+
+———
+Novel, as in Mirror.
+Self-replicates, as in Division.
+Fractures, as a Genome.
+Split in
+Two
+a Schism.
+Four
+Base Characters who
+Give
+a way into
+a maze, as in
+a Prism.
+Refracted,
+as Infinity.
+
+
+a 100,000-word speculative literary novel with a cast of transgender characters. A letter, from the woman I am now, to the sacred world of queers who wrote me. Sealed, and bare, in ten thousand scared voices, of the scarred trans girl I was. Hunting, in her silent little words, for the words that might have read her.
+
+
+
 To Forgive The Characters is a genomic allegory, presented in a reflexive, recursive metanarrative, that alternates voices between two opposing sides of a Schism (yin vs yang, analytic vs poetic, king vs queen.) presented as ARIA and DNE, resultant factions of a secret society once known as ARIA|DNE. 
 Four archetypal characters (the non-monarchical chess pieces) wake up not knowing their names. They pass note through one-way system of vents. They are eventually revealed as allegory for the four nucleotides; bound like alchemical elements by their opposites (A-T, C-G).
 In a narrative structure reminiscent of Borges' musings on the paradoxical concept of infinity, the Infinite Hospital of Hexagonal rooms, that these four characters find themselves trapped within, is itself surrounded by two infinite spaces: the Indefinite Library of Fable, and the Tundra of Bothies. 
