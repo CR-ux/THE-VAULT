@@ -7,19 +7,36 @@ Dear Dis, Cernunnos, Baphomet, whoever it is that I came from -
 It's been Twenty Three days. 
 Only Twenty Three. 
 And she's back. 
-I'm terrified. I'm absolutely terrified. All my life I have wanted to find an explanation for the unexplainable phenomena that have surrounded me, some sort of clue, a thread of evidential proof, that I wasn't fucking crazy-
-And here, here She is, giving me proof, with no explanation.
-I don't want to tell Myo; but I know I have to, he might be the only one who can provide some sort of empirical framework for this far-beyond-and-yet-within force that has been pulling me here, that has pulled me here to pull her so NEAR. 
+I'm terrified. I'm absolutely terrified. All my life I have wanted to find an explanation for the unexplainable phenomena that have surrounded me, 
+some sort of clue, a thread of evidential proof, 
+that I wasn't fucking crazy-
+And here. Here She is, 
+giving me proof, with no explanation.
 
-Like the wind on the leaves, I know he's already seen the effect my magick has had on her, I bet the Team are going batshit trying to deal with The Outbreak on top of trying to figure out what's brought her orbit closer (after some brief searches of the Journals, in spite of myself and my resistance to even attempting to cross those triple-loched intellectual paywalls to get to our archives of knowledge, I realise it must be a change in the lunar distance causing these simultaneous "Plagues" and Floods that DNE in their incessant need for Heirophantine, Formalised Religiosity are bent on ascribing to the Phage, and to some Ancient "One God" they call the Tetra-grammar Tohn... I am, for once, finding myself wishing that I *didn't* feel the validity of my own magick's involvement in the phenomenological world).
+I don't want to tell Myo.
+But--no. 
+I know. 
+I have to. 
+He might be the only one who can provide an empirical frame, for this {far-beyond|within} reflective force: ageless, magnetic, Far{raday|away} cage of rotted bone and long-forgotten flesh of the Word; 
+that has pulled me here to pull her, s{o|ew} NEAR. 
+
+Like the wind on the skeletal leaves, I know he's already seen the effect my magick has had on her, I bet the Team are going batshit, trying to deal with The Outbreak on top of trying to figure out what's brought her orbit closer-- 
+after some brief searches of the Journals --in spite of my {Self|resistance} to even attempt {crossing|X} those tri-Loched paywalls-- to get to our archives of knowledge; I realise, it *must* be the {abe|ho}rrance  in the LD[^LD] causing these simultaneous "Plagues" and Floods that DNE in their incessant need for Heirophantine; Formalised Religiosity are bent on ascribing to the Phage, and to some Ancient "One God" they call the Tetra-grammar Tœm... I am, for once, finding myself wishing that I *didn't* feel the validity of my own magick's involvement in the phenomenological world).
 
 I came here to find a way out, 
 or, as is always the case, 
 I came here to find a way in-
 
-I found both, and her reflection is screaming the answer, her reflection of my reflection is offering nothing but a clattering howl that she draws out of me every night when I first see her face, 
-Always coming back, always coming back, 
-through all the leaving, through all the rot of all the leaves - she always comes back. 
+I found both. Her reflection, screaming as an answer. Her Glistening, a listening.
+Misery-- Abysmal. 
+Beaming: as She offers nothing, but an offering. 
+Ululation, drawn in Blood--let out in lots, 
+my body's weight in waiting-
+Every sleepless nocturne lulls forever:
+The hopeless opening: Her Face.
+Always returning. {Infe|Ete|Noctu}rnal.
+Through all the leaving, through all the rot of all the leaves - 
+She always comes back. 
 And now, through what I've done, through what I truly, Dear Dis, Dear long forgotten Pantheon, Dear Goddess please forgive me, I wanted to know too much, I wanted to know you, through perhaps, finally, knowing me.
 
 I think of Icarus, that sweet, misunderstood boy, who I know Myo must be descendent from, as I in counterpoint am descendent from Arachne 
@@ -27,13 +44,20 @@ I think of Icarus, that sweet, misunderstood boy, who I know Myo must be descend
 Goddess, how exactly identically opposite we are. 
 I have to tell him. I have to- 
 
-First, a ritual. Always, ritual before anything. Ritual inside of and above everything. A ritual inside a ritual inside a life of ritual. 
+First, a ritual. Always. Ritual before anything. Ritual {inside|above} everything. A Life, {W{Ri(gh)t{Ten(*X*)}}} {of|from|for} {Rit{Ritual}ual} of Ritual.
 
-I turn my Grimoire, this Grimoire, into an Aleph, by turning to the previous page and unfolding the extra dimension I keep hidden inside and on top of the Mnemanuscript (so lovingly crafted by Myo, Oh Goddess I really must tell him- but first-)
+I turn {This|my} Grimoire into an Aleph, 
+By {{Tu(r)}{N}{ing}|(un)Folding} the previous {Page|extra dimension} I keep hidden {inside|on top of} the *Mnemanuscript* 
+so lovingly crafted by Myo, 
+Oh Goddess I really must tell him- 
+but First-
 
 ![[The Firsted Last Ritual]]
 
-Having spliced in the parts that I believe are, or were, or will be missing, I decide it's time to send him an email 
+Having spliced in the sequences that 
+
+Having spliced in what I believe we were missing[^lexdef_missing], I decide-- it's time. To send him that email:
+
 
 
 
@@ -79,3 +103,13 @@ Hope the code is coding kindly dear light,
 
 
 ![[Sew Close]]
+[^LD]: 
+lexDef (EA) "L.D." {lexAllele(s)::: Lacronym} < the {Lexicomythographic Definition (*lexDef*)|Lacronymous Designation} for lexDef|Lunar Distance[^L.D.Lacronym]
+
+[^L.D.Lacronym]: *Selene, for whom I have been Named.* S. Elk, {Al(l)one}, From within the Stone Circle.
+[^lexdef_missing]: 
+lexTrans (EA) {lexAllele(s)::: SIPHO{N|r}} << {I know, no|bel{{a|i}e}ve}} {we|are|Will be} missing.[^missing.SIPHO{N|r}]
+
+[^missing.SIPHO{N|r}]: [[One Thing Missing - a scrabble variant]], Dr Dot Code (RE: visions of the Professor, Eduardo Oleander)
+
+
