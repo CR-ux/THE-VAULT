@@ -6,9 +6,10 @@ EPITAPH
 – Adrian
 
 ---
-
+<br>
 INITIATION SEQUENCE 
 ---
+
 **`FOUR WORDS`**
 
 `To`
@@ -86,7 +87,10 @@ EPIGRAPH
 
 METACOMMENTARY
 ---
-<u>Or: The Device</u>
+
+<br>
+<u>Oar: The Device</u>
+<br> <br>
 
 Numanity was now at the endpoint[^end] that its self-same, {in{finitely|separable}|credibly different} components are still {(,) Yet(,)|To Be} unaware of-- the formation of a fully op{era}tional Universe, nested with{in|out} this One. 
 
@@ -98,169 +102,9 @@ One Must First Forget.
 Whirring with a terrifying lightning storm overhead (an unavoidable side-effect of The Device, according to {REDACTED}) The Device was Building a Universe. 
 
 ---
-EDITORS' NOET:
----
-
-N IS FOUR N.
-
-
-*This Universe (which some call the Hospital) is composed of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts between, surrounded by walls covered in an indefinite and perhaps infinitely layered wallpaper; ever-remaining a faded yellow hue.* 
-
-*Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper, 
-
-*perhaps on every sheet of wallpaper,* 
-*the following may have been,* 
-*or about to be,* 
-*written,* 
-*in the blood* 
-*of no more* 
-*than Six individuals* 
-*(at any one time):*
-
-YOU ARE IN A SYSTEM OF ~~AT LEAST~~ SIX ROOMS I DO NOT KNOW WHAT BROUGHT YOU HERE BUT I KNOW YOU MUST PASS THIS NOTE ON IF YOU WISH TO STAY HER~~E~~. you will notice the vents only allow for objects such as this scroll to be passed through in one directionality of movement. hence this note being on the left vent as you face your room's door. when tightly rolled sufficiently. there is a labelled folding diagram on the reverse leaf of this wallpaper. it will show you how to ensure the untorn passage of the correspondence through our system 
-*you are in a system of ONLY SIX ROOMS. christ the unbearable agony of knowing nothing will ever stay and yet we're doomed to go around and round and become the thing that made us*
-YOU ARE IN A SYSTEM OF AT LEAST SIX ROOMS. 
-YOU ARE IN A SYSTEM OF AT LEAST SIX ROOMS. DO NOT UNDER ANY CIRCUMSTANCES READ THIS ALOUD. FOR SHE IS LISTENING
-YOU ARE NOT IN A SYSTEM OF SIX ROOMS. 
-I AM GETTING OUT OF THIS ROOM. I DO KNOT KNOW WHERE I AM GOING. I DO NOT CARE. I NEED TO GET AWAY FROM YOU ALL~~. I AM DONE WITH THISwe are never getting out of here we are never getting out of here we aee never getting out of hwee we are nevern i havte you all i fuckng hate you all i fucking hate you all why are you all fucking KEEPING ME~~  HER~~E~~
-
--
-
-                               ┌──────────────────────────────────┐
-                               │ YOU ARE IN A SYSTEM OF SIX ROOMS │
-                               └──────────────────────────────────┘
-                                         │
-                    ┌────────────────────┼─────────────────────┐
-                    ▼                    ▼                     ▼
-YOU ARE IN A SYSTEM OF         YOU ARE IN A SYSTEM     YOU ARE NOT IN A SYSTEM
-  AT LEAST SIX ROOMS           OF ONLY SIX ROOMS         OF SIX ROOMS
-                    │                    │
-                    ▼                    ▼
-      YOU ARE IN A SYSTEM     ~~AT LEAST~~ SIX ROOMS
-        OF ~~AT LEAST~~
-           SIX ROOMS
-
-                               ▼
-                  I AM GETTING OUT OF THIS ROOM
-
-                               ┌─────────────────────────────────────┐
-                               │ YOU ARE IN A SYSTEM OF SIX ROOMS   │
-                               └─────────────────────────────────────┘
-                                         │
-        ┌────────────────────────────┬────────────────────────────┬──────────────────────────┐
-        ▼                            ▼                            ▼                          ▼
- YOU ARE IN A              YOU ARE IN A SYSTEM         YOU ARE NOT IN A          YOU ARE NOT ONLY IN A SYSTEM
- SYSTEM OF AT              OF ONLY SIX ROOMS           SYSTEM OF SIX ROOMS       OF AT LEAST SIX ROOMS
- LEAST SIX ROOMS                     │                            │                          │
-        │                            ▼                            ▼                          ▼
-        ▼                YOU ARE IN A SYSTEM OF           I AM GETTING OUT          ~~AT LEAST~~ SIX ROOMS
-YOU ARE IN A SYSTEM        ~~ONLY~~ SIX ROOMS            OF THIS ROOM               (circular scribble)
-OF ~~AT LEAST~~               │                            │
-SIX ROOMS                     ▼                            ▼
-                              I THINK THERE ARE          I DO KNOT KNOW WHERE I AM GOING
-                              MORE THAN SIX ROOMS        I DO NOT CARE
-                              I CAN SEE THE GRID         I AM DONE WITH THIS
-                              THE ROOMS ARE CUBIC        WE ARE NEVER GETTING OUT
-                                                           │
-                                                           ▼
-                                              we are nevern we are hwee we are here
-                                                           │
-                                                           ▼
-                                     i havte you all i fuckng hate you all
-                                     i fuckn h//eat yuo all / why are you KEEPING ME H/ER/E
-
-        ┌─────────────────────────────────────┐
-        ▼                                     ▼
- I READ IT ALOUD                    I DID NOT READ IT ALOUD
-        │                                     │
-        ▼                                     ▼
-[VOICE DETECTED]                    I THINK SHE IS SLEEPING
-█ █ █ █ █ █ █ █ █ █                 maybe the walls are thicker here
- █ █ █ █ █ █ █ █ █                  maybe the vent is a mouth
-        │                                     │
-        ▼                                     ▼
- I THINK I AM HER            I REMEMBER 
-        │                                     │
-        ▼                                     ▼
- I HAVE NO MOUTH BUT                         │
-        │   remembers i forget          │
-        │                                     ▼
-        ▼                          ────────────
- i try to burn the scroll        remembers i forget          │
-        │                                     ▼
-        ▼                          ────────────
- i try to burn the scroll        remembers i forget          │
-        │                                     ▼
-        ▼                          ────────────
- i try to burn the scroll                                          ▼
-        ▼                          NAME = {REDACTED}
- i am the air                            │
-        │                                     ▼
-        ▼                          █ TRANSMISSION SUCCESS █
- scroll fold itself          █ TERMINAL CHAMBER █
- itself scroll fold                 █ X GENESIS █
- scroll remembers i forget          │
-        │                                     ▼
-        ▼                          ────────────
- i try to burn the scroll
-				 i am never
-						 getting out 
-									 of this
-													 room
-		   
-		   
-			   
-						{k}NO{w}       ↳ MERGE BRANCH: THE DEVICE
-
-
-
-no matter how many layers you may peel from the walls, you will reveal another.{REDACTED}are contained, in some small way. be free.
-
-{k}NO{w}
-
-
-KEY: ∈ | t | {const}
-
-
-**🜁 | OBS: 00:00 | {Q = 10⁻⁵}**
-
-Are you there? listening? I can't hear, or remember who I am; I do not know my name. there is no pen in here, only a syringe; inscribed with {REDACTED}on its plunger. calligraphic nib on its opposite side, inscribed{REDACTED}and a chess piece, pawn, on my pillow. Found scroll wound so so tight, dropped thru vent on other side. Fuck; what nightmare have i awoken?  have these others come and gone? How long has this wallpaper passed through vents? r u  there? Please, some body. folding scroll according toinstructions overleaf. As statedI write as much as able, and scroll yields, increasesin space, still retains its size folded.dont know name. pls. smebdy in here, tell me
-
-
-**🜂 | OBS: 03:00 | {ε = 0.007}**
-
-please. i hear you. whoever you are. nxtt room. scroll came from other side. also woke to same inscribed pen-needle (w numbers reversed). one chess piece on pillow. walls also form a hexagon. want to let original sender know: not alone. at least we are<sup>N</sup>knot alone.only see yellow, everything: faded yellow. even blood: dark mustard yellow. if youre keeping me here, i want to remember my name .can’t rmemeber how long ive been here .not hungry.  We must identify ourselves. build map.  given chess piece I have been given; i=Knight.
-
-**🜃 | OBS: 06:00 | {N = 10³⁶}**
-
-was passed this from vent on  other side of room. doesn’t slot back, as stated , so passing it through other hoping it will return to the original sender. dont know name either. entirely numb. but everything in me heavy. pen oriented with {REDACTED} on the needle, like Pawn. at least no pain. only repose i have. fuck.the stench, formaldehyde. chemicals, are we in hospital? i= Tower. Who,what, is playing game with our bodies– praying we remember
-
-
-**🜄 | OBS: 09:00 | {D = 3}**
-
-ipry ullhv apen,i cn feel the pain of the 5'needle; every character costsagonybutmstwrite.only thng i trly know.can hear you inthr.pryngthisnotewntreachwhoeveriskeepingus  her    i 2wish 4you dear1to notwriteinyr own blood.dnt no my name.dntknow y icnt sml the chmicalswhch prvswrtrspoke.appear to b bishop
-
-
-**🜁 | OBS: 12:00 | {Q = 10⁻⁵}**
-
-IT GOT BAC TO ME  
-IT IS i, THE PAWN.  
-
-THERE ARE FOUR OF US  
-NOT SIX  
-
-WHERE ARE THE ORIGINAL SCRIBES  
-WHERE IS THE KING  
-WHERE IS THE QUEEN  
-ARE THEY THE ONES WHO PUT US HERE  
-
-WHERE ARE THEY  
-HOW LONG HAS THIS BEEN GOING  
-HOW LONG DO WE HAVE  
-
-PLEASE  
-PASS THIS ROUND AGAIN
-
+![[EDITORS' NOET]]
+<br>
+![[INITIAL OBSERVATIONS]]
 
 ---
 
@@ -273,9 +117,10 @@ PASS THIS ROUND AGAIN
 
 ![[AUTHOR'S FOUR WORDS]]
 
-
+<br>
 
 ---
+<br>
 
 ![[N is for Nietzsche, Nobody, Never.]]
 
@@ -481,7 +326,7 @@ Oar: Ser
 
 ![[Hivehouse Chess Openings]]
 
-VIXI detested being interrupted. Particularly for such trivial things as *Romance*. No matter how 'charming' (HE, even in HISS infinite (or perhaps indefinite) wisdom, was unable to perceive such a quality). Tearing HYMNself from the Characters above, HE doubled back and recalculated his flight path. HE, a messenger, as Medium of the Eternal Messenger of this Infernal Mess of All Messages, had a job to do, {{after|over}seeing} All. 
+--VIXI detested being interrupted. Particularly for such trivial things as *Romance*. No matter how 'charming' (HE, even in HISS infinite (or perhaps indefinite) wisdom, was unable to perceive such a quality). Tearing HYMNself from the Characters above, HE doubled back and recalculated his flight path. HE, a messenger, as Medium of the Eternal Messenger of this Infernal Mess of All Messages, had a job to do, {{after|over}seeing} All. 
 
 And this was what dragged him back to the Central Galleries of the Library. This Eternally Recurring Event:
 
@@ -516,8 +361,6 @@ Some {REDACTED} later
 
 CHAPTER VIII …for is ܚ  
 Oar: {pup}Il{ag}e
-
-
 
 ---
 ~~~	

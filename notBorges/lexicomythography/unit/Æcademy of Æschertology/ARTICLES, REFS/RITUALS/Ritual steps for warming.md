@@ -1,7 +1,7 @@
 ---
 permalink: Ritual steps for warming
 ---
-Ritual steps for warming
+
 
 1. Turn on your central heating, which is a fire, inside a box
 2. If this is not possible, and it is more likely than not that it is not, pull another layer of clothing which is the skin of an animal over your sacred Body which is an animal 

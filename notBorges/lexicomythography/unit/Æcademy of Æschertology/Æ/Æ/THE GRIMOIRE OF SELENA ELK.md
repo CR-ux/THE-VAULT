@@ -37,17 +37,38 @@ The hopeless opening: Her Face.
 Always returning. {Infe|Ete|Noctu}rnal.
 Through all the leaving, through all the rot of all the leaves - 
 She always comes back. 
-And now, through what I've done, through what I truly, Dear Dis, Dear long forgotten Pantheon, Dear Goddess please forgive me, I wanted to know too much, I wanted to know you, through perhaps, finally, knowing me.
+And now, through what I've done, 
+through what I truly, Dear Dis, 
+Dear long-forgotten Pantheon, 
+Dear Goddess please forgive me, 
+I wanted to know too much, 
+I wanted to know *You*, 
+through perhaps, finally, 
+knowing me.
 
-I think of Icarus, that sweet, misunderstood boy, who I know Myo must be descendent from, as I in counterpoint am descendent from Arachne 
+I think of Icarus--sweet, shining Will to Light; 
+Standing tall, and yet, just a boy
+And Myo: His descendent.
+While I, in retrograde, spin down, 
+from Arachne 
 
-Goddess, how exactly identically opposite we are. 
+Goddess, how identically 
+oppositely paired we are. 
 I have to tell him. I have to- 
 
-First, a ritual. Always. Ritual before anything. Ritual {inside|above} everything. A Life, {W{Ri(gh)t{Ten(*X*)}}} {of|from|for} {Rit{Ritual}ual} of Ritual.
+First, a ritual. Always. 
+Ritual before anything. 
+Ritual {inside|above} everything. 
+A Life, 
+	{W{Ri(gh)t{Ten(*X*)}}} 
+		{of|from|for} 
+			{Rit{Ritual}ual} 
+						of Ritual.
 
 I turn {This|my} Grimoire into an Aleph, 
-By {{Tu(r)}{N}{ing}|(un)Folding} the previous {Page|extra dimension} I keep hidden {inside|on top of} the *Mnemanuscript* 
+By {{Tu(r)}{N}{ing}|(un)Folding} 
+the previous {Page|extra dimension} I keep hidden 
+{inside|on top of} the *Mnemanuscript* 
 so lovingly crafted by Myo, 
 Oh Goddess I really must tell him- 
 but First-

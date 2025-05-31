@@ -16,11 +16,11 @@ Perigee's speaking voice had developed incredibly late - they did not utter a wo
 
 By the age of Nine, Perigee had developed a rather endearingly precocious quirk of beginning each sentence with "Why," as a stoic philosopher might open a dialectical argument. This gave their communication a Superpositional quality, both suggestive of a question {as in: "Why(,) is everything okay?"} or, equally, the sense of an asserted answer to a question {as in: (this is) "Why(,) I'm cold"}. To Perigee, "Why" was not a Word, it was a Sound. It was a Letter[^Y], to a recipient they had not yet seen with their Eye- which of course, was another letter.  
 
-Shivering, Perigee wrapped their blanket, meant only for 'security' and far too tattered and unravelled to provide any real warmth, around them. This embodied action caused Myo's FFFs to converge upon a majority (showing Perigee going inside to ask Selena for a cup of Cauldron Chai), and it was this, threat of Selena getting the upper hand in the child's relative 'early game' of psychological development, that caused him to finally pay attention to them. 
+Shivering, Perigee wrapped their blanket, meant only for 'security' and far too tattered and unreeled to provide any real warmth, around them. This {embodied action} caused Myo's FFFs to converge, upon a majority --showing Perigee going inside to ask Selena for a cup of Cauldron Chai-- and it was this. This threat of Selena getting the upper hand, in the child's relative 'early game' of psychosocial development, that caused him to {finally} pay attention to them. 
 
-"Oh, Glimmer!" Myo exclaimed (using his chosen term of affection for Perigee, yet, still, not taking his eyes off the terminal), while turning up the floor heating of the Treehouse Lab. 
+"Oh, Glimmer!" Myo exclaimed --using his chosen term of affection for Perigee, yet, {still} not lifting his eyes {over} the terminal-- while turning up the {under}floor heating; waves of warmth running, lapping {through} the {surely, unfinishable} Treehouse Lab. 
 
-The Treehouse in the Endive's back garden was the primary locale of Father-Progeny interaction, being where Myo spent probably 77% of his waking (and indeed, sleeping) hours. It was a curious structure that had become curiouser and curiouser with each passing year of Perigee's development. As his research took various forking paths, new equipment was installed, old equipment cast aside and dismantled, leading to a scrapyard of an obstacle course leading to it. 
+The Treehouse in the Endive's back garden was the primary locale of Father-Progeny interaction, being where Myo spent 77%,{probab{i}l{it}y}, of his waking (and indeed, sleeping) hours. It was a curious structure, becoming curiouser and curiouser with each passing year of Perigee's development. As his research took various forking paths, new equipment was installed; old equipment cast aside, dismantled, abandoned[^ab] - leading to a scrapyard of an obstacle course leading to it. 
 
 Perigee enjoyed this playground of technological memory, seeing the obstacles as a way to sweeten the reward of spending time with their father. Myo was entirely indifferent, or perhaps enjoyed the physical barrier it created between him and his family (it was both. It's always both). Selena of course, absolutely despised it, and certainly didn't hide her feelings on the matter. 
 
@@ -421,5 +421,4 @@ Enough of their reality had been stripped away, unwinded like the mangled tape o
 There is a certain liberation in Loss, as many struggling souls will know; a saturation point of grief, where the only part of oneself left is the most fundamental component. 
 
 The finalisation of this installation sapped the last of their Father's inheritance, which he earned, in part, through the mutilation of their body; which would become their Beginning, and their end. ⧖eno held the crazed resolve of an exhausted and underpaid actor, knowingly entering their Final Act. 
-
-
+[^ab]: ![[Abandon]]

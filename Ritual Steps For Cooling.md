@@ -1,4 +1,3 @@
-Ritual Steps For Cooling
 
 1. Keep going.
 2. If this is not possible, and it is impossible that it is not, let me hold you, which is a fire, destined for a box
