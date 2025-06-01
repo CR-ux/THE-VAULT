@@ -7,72 +7,9 @@ EPITAPH
 
 ---
 
-INITIATION SEQUENCE 
----
 **`FOUR WORDS`**
-
-`To`
-`Forgive`
-`The`
-`Characters.`
-
-
-**`FOREWORD`**
-
-`DNA ||`
-`AND then, 'you', breathes. Then:`
-`DNA breathes you.`
-
-**`FORWARD`** 
-
-`Motion is backward perception`
-
-**`FOR`** 
-
-`Whom these words are dedicated:`
-
-**`WARD.`** 
-
-`The patients who took residence -`
-`From october 1st to november 4th,`
-`within 'garden wing'`
-`of {redacted} psychiatric hospital, {redacted},`
-`{redacted}.`
-`Within the Grounds of this Hospital`
-`I found nothing there but Dirt,`
-`The Home of Garden Wing,`
-`Wings Broken of the Dead Pigeon I buried there,` 
-`where the thorns did draw their symbols on my Ankle.`
-`Within this Garden,`
-`I planted Three Seeds, or maybe even more;`
-`The Trees Hold my Secrets;`
-`Within the Trees, within the dirt, the rot, decay;`
-`I left clues recorded on cassette tapes.`
-`I buried them`
-`I am within`
-`The Wallpaper of The`
-
-
-**`FOUR WORDS`**
-
-`Children's`
-`Gospel`
-`Music`
-`Songbook`
-
-
 ---
-
-EPIGRAPH
----
-
-> _“In the light of the moon, a little egg lay on a leaf…”_
-
--The Very Hungry Caterpillar, Eric Carle. 
-{Read To Me, Before Dreaming
-	 Of The Woman
-		  In The Wallpaper 
-	  I Would Become}.
+Adrian. Rest in Poems.
 
 
 ---
@@ -87,9 +24,8 @@ EPIGRAPH
 METACOMMENTARY
 ---
 
-<br>
 <u>Oar: The Device</u>
-<br> <br>
+<br>
 
 Numanity was now at the endpoint[^end] that its self-same, {in{finitely|separable}|credibly different} components are still {(,) Yet(,)|To Be} unaware of-- the formation of a fully op{era}tional Universe, nested with{in|out} this One. 
 
@@ -104,7 +40,6 @@ Whirring with a terrifying lightning storm overhead (an unavoidable side-effect 
 
 
 ![[EDITORS' NOET]]
-<br>
 
 ![[INITIAL OBSERVATIONS]]
 
@@ -123,3 +58,11 @@ Whirring with a terrifying lightning storm overhead (an unavoidable side-effect 
 
 
 ![[N is for Nietzsche, Nobody, Never.]]
+
+EPITAPH
+---
+> *listen! I am telling you I love you!*
+> 
+> *I am telling you in a poem that I do not read to you; I am telling you in the shape of the clouds and what we say about them. I am telling you by looking – and, more often, by not looking. I am telling you by leaving the gate open – yes, the one I normally close. I am telling you in my dreams and I am telling you in a text I wrote but forget to send. I am telling you when I dress up to see you, and I am telling you even more when I don’t. I am telling you in the silence of my listening.I am telling you when I take myself less seriously. I am telling you in the centimetres between our knees – aren’t they different, those centimetres? bigger, fuller? I am telling you in small words, loaded up like pack-mules as they cross the 2m endless plain between us. I am telling you in many ways, and I am telling you the many ways in which I love you. I am telling you without telling, when I trust that you feel it too. I am waiting for you to catch up, and I am waiting for a time with words.*
+
+-Adrian

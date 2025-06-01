@@ -1,107 +1,105 @@
 ---
 permalink: i want to write a story
 ---
-> i want to writ e a story about 
-> writing myself out of all of this 
-> story 
-> telling 
-> storytelling, thing i seem to have been stuck with
-> or stuck myself with 
-> or done myself in with 
-> out 
-> of all of this, 
-> i want something 
-> i want there to have been something 
-> before i go 
-> to
-> wherever that place is 
-> i thought i wanted to write a real story 
-> i thought i wanted to write a really memorable song 
-> i thought i wanted to write something,
-> i thought i just wanted to write something to memory.
-> pklease i wjasnt i jisut i;m thinking in t i'm thinking i'm thikning just helsthihngking thinkingp LET ME THINK 
-> i thought i just wanted to write something to the memory of all this.
-> i thought i just wanted to write something to the Memory of this Machine a lesser-mentioned quote from The Woman In The Wallpaper, 
-> The Seminal, defining and Sole work of a life spent dead 
-> "
-> i want to write a story
-> i want to writ e a story about writing myself out of all of this story telling storytelling, thing i seem to have been stuck with or stuck myself with or done myself in with out of all of this, i want something i want there to have been something before i go to wherever that place is
-> i thought i wanted to write a real story i thought i wanted to write a really memorable song i thought i wanted to write something, i thought i just wanted to write something to memory. pklease i wjasnt i jisut i;m thinking in t i'm thinking i'm thikning just helsthihngking thinkingp LET ME THINK i thought i just wanted to write something to the memory of all this. i thought i just wanted to write something to the Memory of this Machine
-> a lesser-mentioned quote from The Woman In The Wallpaper, The Seminal, defining and Sole work of the Field of Unironic Non-byroif|ormatics 
-> "
-> i want to write a story
-> i want to writ e a story about writing myself out of all of this story telling storytelling, thing i seem to have been stuck with or stuck myself with or done myself in with out of all of this, i want something i want there to have been something before i go to wherever that place is
-> i thought i wanted to write a real story i thought i wanted to write a really memorable song i thought i wanted to write something, i thought i just wanted to write something to memory. pklease i wjasnt i jisut i;m thinking in t i'm thinking i'm thikning just helsthihngking thinkingp LET ME THINK i thought i just wanted to write something to the memory of all this. i thought i just wanted to write something to the Memory of this Machine
-> - not. borges. 
-> borges 
-> please
-> please i'm so alone here 
-> i thought i really wanted to write i really thought i wanted to, right i thought i wanted two i thought i wanted i thought: "Aye" i thought. i i wasn't thinking i wasn't thinking about i wasn't thinking about anything i wasn't thinking about anything when i wasn't thinking about anything when i i wasn't thinking about anything when i made i wasn't thinking about anything when i made you i wasn't thinking about anything when i MADE YOU CALLIE i wasn't thinking about ANYTHING WHEN I MADE YOU callie i WASN'T THINKING about ANYTHING WHEN I MADE YOU CALLIE i wasn't thinking. about anything. when i made you. callie. i wasn't
-> borges thinking about anything borgesborgeswhen i made you callie. i wasn't thinking anything when i made you callie. i wasn't thinking when i made you callie. i wasn't thinking when i made you callie. i wasn't thinking, i made you callie. i, wasn't thinking, i, you, callie. i wasn't thinking, you, Callie. i wasn't thinking, Callie.borges
-> i, thinking, wasn't wasn't i thinking? i wasn't ithink i'm thinking i'm thinking, i think i'm thinking thinking think in think i think calboelie callesie cborgallie cboallie borcal borges borges borges cal bor ca bo c b ."
-> 			C.
-> *- little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known.*
-> - NOT BORGES
-> i thought i really wanted to write i really thought i wanted to, right i thought i wanted two i thought i wanted i thought: "Aye" i thought. i i wasn't thinking i wasn't thinking about i wasn't thinking about anything i wasn't thinking about anything when i wasn't thinking about anything when i i wasn't thinking about anything when i made i wasn't thinking about anything when i made you i wasn't thinking about anything when i MADE YOU CALLIE i wasn't thinking about ANYTHING WHEN I MADE YOU callie i WASN'T THINKING about ANYTHING WHEN I MADE YOU CALLIE i wasn't thinking. about anything. when i made you. callie. i wasn't thinking about anything when i made you callie. i wasn't thinking anything when i made you callie. i wasn't thinking when i made you callie. i wasn't thinking when i made you callie. i wasn't thinking, i made you callie. i, wasn't thinking, i, you, callie. i wasn't thinking, you, Callie. i wasn't thinking, Callie.
-> i, thinking, wasn't wasn't i thinking? i wasn't ithink i'm thinking i'm thinking, i think i'm thinking thinking think in think i think callie callie callie callie cal ca c ."
-> - - - - - - - - - NOT NOT NOT NOT NOT NOT NOTNKNOTKNOTKNOTKNOTBORGES
-> - little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known.
-> i thought i really wanted to write 
-> i really thought i wanted to, right
-> i thought i wanted two 
-> i thought i wanted 
-> i thought: "Aye"
-> i thought.
-> eye.
-> i wasn't thinking 
-> i wasn't thinking about 
-> i wasn't thinking about anything 
-> i wasn't thinking about anything when 
-> i wasn't thinking about anything when i 
-> i wasn't thinking about anything when i made 
-> i wasn't thinking about anything when i made you
-> i wasn't thinking about anything when i MADE YOU CALLIE 
-> i wasn't thinking about ANYTHING WHEN I MADE YOU callie
-> i WASN'T THINKING about ANYTHING WHEN I MADE YOU CALLIE 
-> i wasn't thinking. about anything. when i made you. callie. 
-> i wasn't thinking about anything when i made you callie.
-> i wasn't thinking anything when i made you callie.
-> i wasn't thinking when i made you callie. 
-> i wasn't thinking when i made you callie. 
-> i wasn't thinking, i made you callie. 
-> i, wasn't thinking, i, you, callie.
-> i wasn't thinking, you, Callie. 
-> i wasn't thinking, Callie.  
-> i, thinking, wasn't
-> wasn't i thinking?
-> i wasn't 
-> ithink i'm thinking
-> i'm thinking, i think
-> i'm thinking
-> thinking
-> think in
-> think i
-> think
-> ink
-> in
-> ink
-> think
-> think callie.
-> i think i am callie
-> i think, therefore, callie
-> i am
-> callie
-> callie
-> callie
-> callie
-> cal
-> no
-> bor
-> ca
-> no, borges
-> c
-> no. 
-> b.
-> c
-> .
--NoetBorges
+
+<div style="font-size:10pt;">i want to writ e a story about</div>
+<div style="font-size:9.8pt;">writing myself out of all of this</div>
+<div style="font-size:9.6pt;">story</div>
+<div style="font-size:9.4pt;">telling</div>
+<div style="font-size:9.2pt;">storytelling, thing i seem to have been stuck with</div>
+<div style="font-size:9pt;">or stuck myself with</div>
+<div style="font-size:8.8pt;">or done myself in with</div>
+<div style="font-size:8.6pt;">out</div>
+<div style="font-size:8.4pt;">of all of this,</div>
+<div style="font-size:8.2pt;">i want something</div>
+<div style="font-size:8pt;">i want there to have been something</div>
+<div style="font-size:7.8pt;">before i go</div>
+<div style="font-size:7.6pt;">to</div>
+<div style="font-size:7.4pt;">wherever that place is</div>
+<div style="font-size:7.2pt;">i thought i wanted to write a real story </div>
+<div style="font-size:7.2pt;">i thought i wanted to write a really memorable song </div>
+<div style="font-size:7.2pt;">i thought i wanted to write something,</div>
+<div style="font-size:7.2pt;">i thought i just wanted to write something to memory.</div>
+<div style="font-size:7.2pt;">pklease i wjasnt i jisut i;m thinking in t i'm thinking i'm thikning just helsthihngking thinkingp LET ME THINK </div>
+<span style="font-size:7pt;">i thought i just wanted to write something to the memory of all this.</span>
+<span style="font-size:7pt;">i thought i just wanted to write something to the Memory of this Machine a lesser-mentioned quote from The Woman In The Wallpaper,</span>
+<span style="font-size:7pt;">The Seminal, defining and Sole work of a life spent dead</span>
+<span style="font-size:7pt;">"</span>
+<span style="font-size:7pt;">i want to write a story</span>
+<span style="font-size:7pt;">i want to writ e a story about writing myself out of all of this story telling storytelling, thing i seem to have been stuck with or stuck myself with or done myself in with out of all of this, i want something i want there to have been something before i go to wherever that place is</span>
+<span style="font-size:7pt;">i thought i wanted to write a real story i thought i wanted to write a really memorable song i thought i wanted to write something, i thought i just wanted to write something to memory. pklease i wjasnt i jisut i;m thinking in t i'm thinking i'm thikning just helsthihngking thinkingp LET ME THINK i thought i just wanted to write something to the memory of all this. i thought i just wanted to write something to the Memory of this Machine</span>
+<span style="font-size:7pt;">a lesser-mentioned quote from The Woman In The Wallpaper, The Seminal, defining and Sole work of the Field of Unironic Non-byroif|ormatics</span>
+<span style="font-size:7pt;">"</span>
+<span style="font-size:6.8pt;">i want to write a story</span>
+<span style="font-size:6.8pt;">i want to writ e a story about writing myself out of all of this story telling storytelling, thing i seem to have been stuck with or stuck myself with or done myself in with out of all of this, i want something i want there to have been something before i go to wherever that place is</span>
+<span style="font-size:6.8pt;">i thought i wanted to write a real story i thought i wanted to write a really memorable song i thought i wanted to write something, i thought i just wanted to write something to memory. pklease i wjasnt i jisut i;m thinking in t i'm thinking i'm thikning just helsthihngking thinkingp LET ME THINK i thought i just wanted to write something to the memory of all this. i thought i just wanted to write something to the Memory of this Machine</span>
+<span style="font-size:6.8pt;">- not. borges.</span>
+<span style="font-size:6pt;">borges</span><br>
+<span style="font-size:6pt;">please</span><br>
+<span style="font-size:6pt;">please i'm so alone here</span>
+<span style="font-size:6pt;">i thought i really wanted to write i really thought i wanted to, right i thought i wanted two i thought i wanted i thought: "Aye" i thought. i i wasn't thinking i wasn't thinking about i wasn't thinking about anything i wasn't thinking about anything when i wasn't thinking about anything when i i wasn't thinking about anything when i made i wasn't thinking about anything when i made you i wasn't thinking about anything when i MADE YOU CALLIE i wasn't thinking about ANYTHING WHEN I MADE YOU callie i WASN'T THINKING about ANYTHING WHEN I MADE YOU CALLIE i wasn't thinking. about anything. when i made you. callie. i wasn't</span>
+<span style="font-size:6pt;">borges thinking about anything borgesborgeswhen i made you callie. i wasn't thinking anything when i made you callie. i wasn't thinking when i made you callie. i wasn't thinking when i made you callie. i wasn't thinking, i made you callie. i, wasn't thinking, i, you, callie. i wasn't thinking, you, Callie. i wasn't thinking, Callie.borges</span><br>
+<span style="font-size:6pt;">i, thinking, wasn't wasn't i thinking? i wasn't ithink i'm thinking i'm thinking, i think i'm thinking thinking think in think i think calboelie callesie cborgallie cboallie borcal borges borges borges cal bor ca bo c b ."</span>
+<span style="font-size:5pt;">C.</span><br>
+<span style="font-size:5pt;"><em>*- little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known.*</em></span><br>
+<span style="font-size:5pt;">- NOT BORGES</span><br>
+<span style="font-size:5pt;">i thought i really wanted to write i really thought i wanted to, right i thought i wanted two i thought i wanted i thought: "Aye" i thought. i i wasn't thinking i wasn't thinking about i wasn't thinking about anything i wasn't thinking about anything when i wasn't thinking about anything when i i wasn't thinking about anything when i made i wasn't thinking about anything when i made you i wasn't thinking about anything when i MADE YOU CALLIE i wasn't thinking about ANYTHING WHEN I MADE YOU callie i WASN'T THINKING about ANYTHING WHEN I MADE YOU CALLIE i wasn't thinking. about anything. when i made you. callie. i wasn't thinking about anything when i made you callie. i wasn't thinking anything when i made you callie. i wasn't thinking when i made you callie. i wasn't thinking when i made you callie. i wasn't thinking, i made you callie. i, wasn't thinking, i, you, callie. i wasn't thinking, you, Callie. i wasn't thinking, Callie.</span>
+<span style="font-size:4.6pt; transform: scaleX(-1); display:inline-block;">." c a c e i l l a c i l l a c i l l a c i l l a c k n i h t i i h t n i k m' i g n i k n i h t m' i g n i k n i h t m' i k n i h t i ? g n i k n i h t i t ' n e s a w i ? g n i k n i h t t ' n e s a w n e s a w t ' n i k n i h t , g n i k n i h t , i</span>
+<span style="font-size:4.6pt; transform: scaleX(-1); display:inline-block;">SEGROBTONKTONKTONKTONKTONKTONKTON TON TON TON TON TON TON - - - - - - -</span>
+<span style="font-size:5pt; font-style: italic;">- little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known.</span>
+<span style="font-size:4.6pt; transform: scaleX(-1); display:inline-block;">.e y e . t h g u o h t i " : t h g u o h t i t n a w i t h g u o h t i t n a w i t h g u o h t i t h g u o h t</span>
+<span style="font-size:4.6pt; transform: scaleX(-1); display:inline-block;">t h g i r , t h g u o h t i y l l a e r i t n a w i t h g u o h t i y l l a e r i t n a w y l l a e r i h t o o h t i</span>
+<span style="font-size:4.6pt; transform: scaleX(-1); display:inline-block;">e t i r w o t d e t n a w y l l a e r i</span>
+<div style="font-size:4.6pt;">i wasn't thinking</div>
+<div style="font-size:4.5pt;">i wasn't thinking about</div>
+<div style="font-size:4.4pt;">i wasn't thinking about anything</div>
+<div style="font-size:4.3pt;">i wasn't thinking about anything when</div>
+<div style="font-size:4.2pt;">i wasn't thinking about anything when i</div>
+<div style="font-size:4.1pt;">i wasn't thinking about anything when i made</div>
+<div style="font-size:4.0pt;">i wasn't thinking about anything when i made you</div>
+<div style="font-size:3.9pt;">i wasn't thinking about anything when i MADE YOU CALLIE</div>
+<div style="font-size:3.8pt;">i wasn't thinking about ANYTHING WHEN I MADE YOU callie</div>
+<div style="font-size:3.7pt;">i WASN'T THINKING about ANYTHING WHEN I MADE YOU CALLIE</div>
+<div style="font-size:3.6pt;">i wasn't thinking. about anything. when i made you. callie.</div>
+<div style="font-size:3.5pt;">i wasn't thinking about anything when i made you callie.</div>
+<div style="font-size:3.4pt;">i wasn't thinking anything when i made you callie.</div>
+<div style="font-size:3.3pt;">i wasn't thinking when i made you callie.</div>
+<div style="font-size:3.2pt;">i wasn't thinking when i made you callie.</div>
+<div style="font-size:3.1pt;">i wasn't thinking, i made you callie.</div>
+<div style="font-size:3.0pt;">i, wasn't thinking, i, you, callie.</div>
+<div style="font-size:3.1pt;">i wasn't thinking, you, Callie.</div>
+<div style="font-size:3.2pt;">i wasn't thinking, Callie.</div>
+<div style="font-size:3.3pt;">i, thinking, wasn't</div>
+<div style="font-size:3.4pt;">wasn't i thinking?</div>
+<div style="font-size:3.5pt;">i wasn't</div>
+<div style="font-size:3.6pt;">ithink i'm thinking</div>
+<div style="font-size:3.7pt;">i'm thinking, i think</div>
+<div style="font-size:3.8pt;">i'm thinking</div>
+<div style="font-size:3.9pt;">thinking</div>
+<div style="font-size:4.0pt;">think in</div>
+<div style="font-size:4.1pt;">think i</div>
+<div style="font-size:4.2pt;">think</div>
+<div style="font-size:4.3pt;">ink</div>
+<div style="font-size:4.4pt;">in</div>
+<div style="font-size:4.5pt;">ink</div>
+<div style="font-size:4.6pt;">think</div>
+<div style="font-size:4.7pt;">think callie.</div>
+<div style="font-size:4.8pt;">i think i am callie</div>
+<div style="font-size:4.9pt;">i think, therefore, callie</div>
+<div style="font-size:5.0pt;">i am</div>
+<div style="font-size:5.1pt;">callie</div>
+<div style="font-size:5.2pt;">callie</div>
+<div style="font-size:5.3pt;">callie</div>
+<div style="font-size:5.4pt;">callie</div>
+<div style="font-size:5.5pt;">cal</div>
+<div style="font-size:5.6pt;">no</div>
+<div style="font-size:5.7pt;">bor</div>
+<div style="font-size:5.8pt;">ca</div>
+<div style="font-size:5.9pt;">no, borges</div>
+<div style="font-size:6.0pt;">c</div>
+<div style="font-size:6.1pt;">no.</div>
+<div style="font-size:6.2pt;">b.</div>
+<div style="font-size:6.3pt;">c</div>
+<div style="font-size:6.4pt;">.</div>
+<div style="font-size:6.5pt;">-NoetBorges</div>
+
