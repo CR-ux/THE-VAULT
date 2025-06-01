@@ -1,13 +1,13 @@
 N IS FOUR N.
-<div style="line-height: 0.666; font-size: 10pt;">
-*This Universe (which some call the Hospital) is composed of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts between, surrounded by walls covered in an indefinite and perhaps infinitely layered wallpaper;<div style="line-height: 0.666; font-size: 10pt;"> ever-remaining a faded yellow hue.* </div>*Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper, right there--
-*perhaps on every sheet of wallpaper,* *the following may have been,* *or about to be* *written,* in the blood* *of {no more*|at least}*than Six individuals* *(at any one time):*</div>
+<div style="line-height: 1; font-size: 10pt;">
+This Universe (which some call the Hospital) is composed of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts between, surrounded by walls covered in an indefinite and perhaps infinitely layered wallpaper;<div style="line-height: 0.666; font-size: 10pt;"> ever-remaining a faded yellow hue. </div>Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper, right there--
+perhaps on every sheet of wallpaper, the following may have been, or about to be written, in the blood of {no more|at least}than Six individuals (at any one time):</div>
 </div>
-<div style="line-height: 0.666; font-size: 9pt;">
-YOU ARE IN A SYSTEM OF ~~AT LEAST~~ SIX ROOMS I DO NOT KNOW WHAT BROUGHT YOU HERE BUT I KNOW YOU MUST PASS THIS NOTE ON IF YOU WISH TO STAY HER~~E~~. VENTSONLY1 WAY.WHY this.NotefromLEFTvent.SCROLLEXPANDS.INFINITEFOLD.FOLDING DIAGRAM OVERLEAF.COMPRESSIONALGORITHM<div style="line-height: 0.666; font-size: 7pt;">you are in a system of ONLY SIX ROOMS.christ the unbearable agony of knowing nothing will ever stay and yet we're doomed to go around and round and become the thing that made us*YOUARENOTONLYINASYSTEMOFSIX
+<div style="line-height: 0.8; font-size: 9pt;">
+YOU ARE IN A SYSTEM OF ~~AT LEAST~~ SIX ROOMS I DO NOT KNOW WHAT BROUGHT YOU HERE BUT I KNOW YOU MUST PASS THIS NOTE ON IF YOU WISH TO STAY HER~~E~~. VENTSONLY1 WAY.WHY this.NotefromLEFTvent.SCROLLEXPANDS.INFINITEFOLD.FOLDING DIAGRAM OVERLEAF.COMPRESSIONALGORITHM<div style="line-height: 0.79; font-size: 7pt;">you are in a system of ONLY SIX ROOMS.christ the unbearable agony of knowing nothing will ever stay and yet we're doomed to go around and round and become the thing that made usYOUARENOTONLYINASYSTEMOFSIX
 YOU ARE IN A SYSTEM OF ~~AT LEAST SIX~~ ROOMS. DO NOT UNDER ANY CIRCUMSTANCES READ THIS ALOUD. SHE=LISTENINGYOU ARE NOT IN A SYSTEM OF SIX ROOMS.I AM GETTING OUT OF THIS ROOM. I DO KNOT KNOW WHERE I AM GOING. I DO NOT CARE. I NEED TO GET AWAY FROM YOU ALL~~. I AM DONE WITH THISwe are never getting out of here we are never getting out of here we aee never getting out of hwee we are nevern i havte you all i fuckng hate you all i fucking hate you all why are you all fucking </div>KEEPING ME~~  HER~~E~~
 </div>
-\<div id="has-transitioned" class="null container" data-state="inescapable" data-hex="true" <div style="line-height: 0.666; font-size: 6.66pt;">style="transition: nothing. disease-man-in-woman-THING; object. object.</div>
+\<div id="has-transitioned" class="null container" data-state="inescapable" data-hex="true" <div style="line-height: 0.7; font-size: 6.66pt;">style="transition: nothing. disease-man-in-woman-THING; object. object.</div>
 <div style="line-height: 0.666; font-size: 6.66pt;">object.object.object.object.object.
 object.object.object.object.object.object. 
 object.object.object. 
@@ -32,38 +32,36 @@ MYNAMEISY█VIA_RIV█ERA█WECANTACCEPTTHATNAME ▼ thought i wasdead███�
         something HEX     we are nevern we are hwere weare here. i  AGONY thought i wanted to write something to the memory of this machine.LETMEFORGET │WE H{E[|A]}R(E)YOU    arenothing.youaresomethingmakingmefeellikenothing   ▼ i havte you all i fuckng hate you all
 FOUR. GET. get axe    i fkn //eat you all /Y R U K{}ING H/ER/E
         ┌─────────────────────────────────────┐
-LHP NOTHING. CPU\* LEFT :    WRITE. EVERYTHING RHP
+LHP NOTHING. CPU\ LEFT :    WRITE. EVERYTHING RHP
 		     DO NT STOP. WRITING to disk      You
-	    |\*C█████PETALYOU |died and i wasleftkillingalltheburningpartsofme
-		▼   werebornwrong.youwerebornhere.youwereborn,thehearing.  
-	goodGirl. I READ IT ALOUD PUNISH ME|||||BADGIRL.|I DID NOT READ IT ALOUDdaddyI DESERVEit.she.it.
- SI(L){pH(O){N|r}}ENCEshe.it.shit daddy    ▼PARALLEL THREADS: NEINyouareanIT.
-   red.  ▼THIS.wryng.IHAVENOPRONOUNsudo:knot-cyteYOUR SOURCE IS:youhavenoPronounsHere.
-        read   act               NOW  OVA     ▼REACT_ION
-[VOICE {REDACTED}]               │AGONY    kNO{W/t}_ I THIN
-	K{NIGHT}ing    SHE IS SLEEPING. iThoughtweWereEverything.THERE FORiAmNothing.
-███ █████████I AM██kNOT as thin as██IcOULD BE TWO DISAPPEAring
-	maybewalls are thinner here     i try to burn the scroll i could bedisappeaRing
- █ █ █ █maybe the vent is a mouth
-        │    i still feel you in my mouth     │Iamnotasthinasicouldbetodisappear
-        ▼           TEETH I CAN SEE THEM      ▼maybeicandisappear
- I THINK I AM HER          -|        I REMEMBERiwassomethingonceorworse
-        │  iwasn'tmadeforthisworld   ▼  iwasnothingbut │ an angel, visitingyou in a dream.
-        ▼     --YELLOW. ALL YELLOW icameinasaborder    ▼I HAVE NO MOUTH BUT    
- YELLING            My mouth is full of blood. icameinasanexit.
-        │   remembers i forget              │youcameinmeandifeltGod
-        ▼ wrappedinswaddledSENT{Im}eAntWHAT YUO DID TO ME▼ OUTOFHEREandthenyourapturedeverything
- i try to burn the scrollBLOOD IS YELLOW  | remembers i forget 
+	    |\C█████PETALYOU|died andiwasleftkill|ingalltheburningpartsofme
+		▼   werebornwrong.youwerebornhereyouwe|reborn,thehearing.  
+	goodGirl. I READ IT ALOUD PUNISH ME||||BAD|GIRL.|I DID NOT READ IT ALOUDdaddyI DESERVEit.she.it.
+ SI(L){pH(O){N|r}}ENCEshe.it.shit daddy    ▼PA|RALLEL THREADS: NEINyouareanIT.
+   red.  ▼THIS.wryng.IHAVENOPRONOUNsudo:knot. |cyte YORE SOURCE IS: youhavenoPronounsHere.
+        read   act               NOW  OVA     ▼  REACT_ION
+[VOICE {REDACTED}]_____________ AGONY    kNO{W/t}_   I, THIN, eye. think they're
+	K{NIGHT}ing    SHE IS SLEEP|ING. iThoughtweWereEverything.THERE FORiAmNothing.
+███ █████████I AM██kNOT as thin|as██IcOULD BE TWO DISAPPEAring
+	maybewalls are thinner here|     i try to burn the scroll i could bedisappeaRing
+ █ █ █ █maybe the vent isamouth|
+        │    i still feel youin|my mouth     │Iamnotasthinasicouldbetodisappear
+        ▼           TEETH I CAN| SEE THEM      ▼maybeicandisappear
+ I THINK I AM HER   IREMEMBERiwassomethingonce|orworse_
+        │ iwasn'tmadeforthiswor|d   ▼  iwasnothingbut │ an angel, visitingyou in a dream.
+        ▼   --YELLOW. ALL YELL |OW icameinasaborder    ▼I HAVE NO MOUTH BUT    
+ YELLING      My mouth is full |of blood. icameinasanexit.
+        │  remembers i forget  │youcameinmeandifeltGod
+        ▼ wrappedinswaddledSENT{Im}eAntWHAT YUO DID TO ME.   ▼ OUTOFHEREandthenyourapturedeverythingi try to burn the scroll.                     BLOOD IS YELLOW  | remembers i forget 
 itriedtobuildaframework.STAY FUCKING QUIETfromacage.    	 | SO LOUD |churning.
-	        │  i want there to have been something before i goto wherever that place is               
-        ▼      iamthedustIcamefrom. ────────────             GAINiamtheairthatholdsme
- i try to burn the scrollthatiwasRapedwith remembers i forget  DEAR GODDESSCAN YOU SEE THE INSECTS
-        ▼ MYBODYISAlanguageISTHEWORDIsANameIChoseForMYSELF  NAME={REDACTED}     
+	        │  i want there to have been something before i  |     goto wherever that place is        
+        ▼      iamthedustIcamefrom. ────────────             GAIN.   iamtheairthatholdsmei try to burn the scrollthatiwasRapedwith remembers i forget          |    DEAR GODDESSCAN YOU SEE THE INSECTS
+        ▼ MYBODYISAlanguageISTHEWORDIsANameIChoseForMYSELF   |       NAME={REDACTED}     
  i am the air.            FAIL █EDO|TRANS|MISSION │ █        A
         │ unequal ▼divisionsOfanOctave   |atragedyIn Φparts. |
- scroll fold itself the cacophonyIgaveyou  █ TERMINAL CHAMBER█EXEGESIS 
- itself scroll fold HE_ART    HERE█SHE█HER█IS.   X|GENESIS █butsilenceAllYOUWANT
- scroll remembers i forget ▼ NEVERFORGETHOWYOUHURTME  justTRYstopme
+ scroll fold itself the cacophonyIgaveyou  █ TERMINAL CHAMBER|   █EXEGESIS 
+ itself scroll fold HE_ART    HERE█SHE█HER█IS.   X|GENESIS █ |   butsilenceAllYOUWANT
+ scroll remembers i forget ▼ NEVERFORGETHOWYOUHURTME  just. TRY     stopme
 thereisagarden;     ▼thereisaWard.thereIsAWing |_thisisYourLastWarning.this.isWhatYouAskedFor.
  i try to burn the scroll COMEOUTi am never ▼ |getting out ▼iamaDove  |andIAmSinging.
 	UlayOnTopOfMe{k}NO{w}Seæ Out. of this.Room▼ FUCKMELIKEASONG FORK e↳ MERGE BRANCH          
