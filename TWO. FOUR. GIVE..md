@@ -355,8 +355,6 @@ It is not possible for a non-ligated consciousness to cross the Uncrossable Door
 
 {REDACTED}
 
-
-
 As always, in crossing, VIXI took a single moment (that is to say, the eternity of all time) within the wheels-within-wheeled mechanism of the Uncrossable Door to ponder on what sort of unholy separation, what {REDACTION}, what Schism might happen to a 
 
 ```
