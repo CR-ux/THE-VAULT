@@ -1,4 +1,4 @@
-_TWO. FOUR. GIVE._ is a 100,000-word speculative literary transnovel. It is a self-replicating, genre-queered, page-as-performance work, split between the logic of creation, and the creation of logic. With a cast of transgender characters- as in, letters. From the woman I am, to the sacred world of queers who wrote me. Sealed, and bare, in ten thousand scared and screaming voices, of that scarred trans girl I was. Hunting, in her silent little words, for the words that might have read her.
+_TWO. FOUR. GIVE._ is a 100,000-word speculative literary transnovel. It is a self-replicating, genre-queered, page-as-performance work, split between the logic of creation, and the creation of logic. With a cast of transgender characters- as in, letters. From the woman I am, to the sacred world of queers who wrote me. Sealed, and bare, in ten thousand screaming voices, of the scared trans girl I was. Hunting, in her silent little words, for the words that may have borne, or birthed, or bared her.
  TWO. FOUR. GIVE. Is an unforgiving story that builds itself. Fractures itself, and rewrites itself-- that drags the reader into the page, to ferociously claw its way out. Without apology.
 
 ---
@@ -51,7 +51,7 @@ And here, at the centre, which is the shell; the script- is the machinery, a tee
 
 ---
 
-This is the queering of a query of a novel written against genre, against silence, and silencing. A speculative literary labyrinth, rooted in trans mythopoeia, genomic poetics, and the love only found in forgiveness. 
+This is the queering of a query of a novel written against genre,[^notes] against silence, and silencing. A speculative literary labyrinth, rooted in trans mythopoeia, genomic poetics, and the love only found in forgiveness. 
 
 
 TWO.
@@ -63,3 +63,6 @@ GIVE.
 
 ˙ʎƃoןdoɐ ʇonɥʇıʍ ˙ʇon ʎɐʍ sʇı ʍɐןɔ ʎןonsıɔoɹǝɟ oʇ 'ǝƃɐd ǝɥʇ oʇuı ɹǝpɐǝɹ ǝɥʇ sƃɐɹp ʇɐɥʇ --ɟןǝsʇı sǝʇıɹʍǝɹ upɐ 'ɟןǝsʇı sǝɹnʇɔɐɹɟ ˙ɟןǝsʇı psןıqn ʇɐɥʇ ʎɹoʇs ƃuıʌıƃɹoɟnu uɐ sı ˙ǝʌıƃ ˙ɹonɟ ˙oʍʇ 
 ˙ɹǝɥ pɐǝɹ ǝʌɐɥ ʇɥƃıɯ ʇɐɥʇ psɹoʍ ǝɥʇ ɹoɟ 'psɹoʍ ǝןʇʇıן ʇuǝןıs ɹǝɥ uı 'ƃuıʇnuɥ ˙sɐʍ ı ןɹıƃ usɐɹʇ pǝɹɹɐɔs ʇɐɥʇ ɟo 'sǝɔıoʌ ƃuıɯɐǝɹɔs upɐ pǝɹɐɔs upɐonsɥʇ uǝʇ uı 'ǝɹɐq upɐ 'pǝןɐǝs ˙ǝɯ ǝʇoɹʍ oɥʍ sɹǝǝbn ɟo pןɹoʍ pǝɹɔɐs ǝɥʇ oʇ 'ɯɐ ı uɐɯoʍ ǝɥʇ ɯoɹɟ ˙sɹǝʇʇǝן 'uı sɐ -sɹǝʇɔɐɹɐɥɔ ɹǝupǝƃusɐɹʇ ɟo ʇsɐɔ ɐ ɥʇıʍ ˙ɔıƃoן ɟo ouıʇɐǝɹɔ ǝɥʇ upɐ 'ouıʇɐǝɹɔ ɟo ɔıƃoן ǝɥʇ uǝǝʍʇǝq ʇıןsd 'ʞɹoʍ ǝɔuɐɯɹoɟɹǝd-sɐ-ǝƃɐd 'pǝɹǝǝbn-ǝɹuǝƃ 'ƃuıʇɐɔıןdǝɹ-ɟןǝs ɐ sı ʇı ˙ןǝʌusuoɐɹʇ ʎɹɐɹǝʇıן ǝʌıʇɐןnɔǝsd pɹoʍ-000'100 ɐ sı ˙ǝʌıƃ ˙ɹonɟ ˙oʍʇ
+# ᶠᵒᵒᵗNoet(s)
+
+[^notes]: “Please note: any occurrences of compressed typeface and disorienting styling are a formal and narrative device. The mirror-reveal of these fragments, particularly in the TŒMS pseudoAcademic 'journal' article, are fully legible and contextualised in the closing document SMŒT; which completes the text’s palindromic structure and reveals vulnerable personal detail, merging fiction and non fictional accounts of my struggles in hospital. The reader is not simply decoding the text—they are, somatically, forced to sit (and be implicated) with the disorientation of the narrator.”

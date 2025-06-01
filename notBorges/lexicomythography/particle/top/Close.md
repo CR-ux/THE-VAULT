@@ -3,13 +3,6 @@ permalink: N.ear
 
 title: N.ear
 ---
-
-For: Ward - Adrian. *Rest In Poems.*
-
-
-
-
-
 Hear, lay our Ædrian.
 
 On The Twenty Third Day, 

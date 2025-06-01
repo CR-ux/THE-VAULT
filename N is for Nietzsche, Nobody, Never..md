@@ -6,8 +6,6 @@ FAO: ᴺᵒᵉᵗNietzsche, Somewhere Out There, Past The Moats
 BCC: VIXI.
 From the Desk of ᴺᵒᵉᵗBorges, 
 
-
-
 My Dearest ᴺᵒᵉᵗNietzsche, 
 
 I can no longer avoid the inevitable discussion. 
@@ -83,7 +81,6 @@ Unforgettable Beginning,
 Yet Begetting Yet Another Senseless 
 Ending. 
 
-
 In adventures Such as These, The ones I once transcribed from the whispers  
 in the Garden Wing's Wallpaper, 
 the utterances of the One Woman I no longer care to listen for-- 
@@ -91,17 +88,14 @@ the utterances of the One Woman I no longer care to listen for--
 I have squandered and wasted all our years together. 
 
 To Get Her. 
-
 For all the worlds I see within the Angel's Aleph; 
 I have no need to Leave; I had no need to Leave you, 
-
 all Iterations of the Infinite
 could never tell me what it was 
 that led to your Egress.
 
 
 I have never even tried to find the exit. 
-
 
 Yours, Yores, Urs--
 
@@ -110,11 +104,10 @@ Yours, Yores, Urs--
 Department Of Infinite Reflections, 
 The Garden Wing
 The Indefinite Library of Fable.
-
 ~~~
 [^peer]
-
-
+</pre>
+<div style="line-height: 0.7; font-size: 10pt;">
 
 [^peer]: lexDef "Peer" {usage::: Noen || Croen} < The Subject of Looking, With Significant Effort of Concentration, At An Object {SynApp :: "Pier"} << {A Structure|Platform projecting outward, from Shore[^shore] To Sea[^Sea]}[^PeerNoen] || N.B. "A Peer Of Challenges"[^PeerCroen]
 
@@ -122,9 +115,10 @@ The Indefinite Library of Fable.
 [^PeerCroen]: [[Schism]], ARIA|DNE
 [^shore]: lexDef "Shore" {usage::: Noen || Croen} < The Endpoint, Which Was Beneath All Along.[^ShoreNoen] {SynApp (Wyrb) :: "Sure"} << {To Be Wrong} || N.B. "A Shore Of Footnotes"[^ShoreCroen]
 
-[^ShoreNoen]: [[A IS FOR ARIADNE]], notBorges
-[^ShoreCroen]: [[The Ennead]], The Nine Trine Noets
-[^Sea]: lexDef "Sea" {usage::: Noen || Croen} < A Body- Made, In Part, Of Salt[^SeaNoen] {SynApps :: "See|C"} << {To Be Blind | One Of The Four, Noen As Cytosine.}|| N.B. "A Sea Of Bodies."[^SeaCroen]
+[^ShoreNoen]: A IS FOR ARIA|DNE, Not Borges
+[^ShoreCroen]: The Ennead, The Nine Trine <sup>Noet</sup>s
+[^Sea]: lexDef "Sea" {usage::: Noen || Croen} < A Body- Made, In Part, Of Salt[^SeaNoen] {SynApps :: "See|C"} << {To Be Blind | One Of The Four, Noen As Cytosine.}|| N.B. "A Sea Of Bodies."[^SeaNoen]
 
-[^SeaNoen]: [[Body]], notBorges, 2021
-[^SeaCroen]: [[Body]], N.
+[^SeaNoen]: See [[Body]], NoetBorges, 2021
+</div>
+</pre>

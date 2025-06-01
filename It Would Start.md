@@ -13,14 +13,7 @@
  - [ ] Think about Being High; How It Is to Bellow. About: "How is it? On The Outside?"
 
 
-
-
-
-
-
 - [x] Leave (@2025-04-12 17:00)
-
-
 
 
 'Fore Word:
