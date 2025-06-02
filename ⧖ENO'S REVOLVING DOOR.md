@@ -12,20 +12,19 @@ DREAM INPUT:
 OUTPUT ANALYSIS:
 
 
-Article by Dr Seuss on Enantiodromia Pending Acceptance From Publisher
 
-Perhaps once a protective form of sociological containment to ensure bonds between constituent members of a stratum, for the purposes of preventing the interaction with an external threat (be it outwithintra-species, (in(out in)without group) or inwithouter-species (out(in, out)within group) in nature) but, through the iterative passage of a series of self-propagating events perceived subjectively as temporally linear, and the enantiodromic evolution of both human intelligence and ignorance, continues to cause a disproportionate amount of harm until the real meaning of minerva fighting mars is found through their own vehicle be it an empty chariot with a lion's head door knocker that looks more like a sabre tooth tiger until you look at the same thing a little differently, or a train, or a plane, or a car, or a star, or the wind, or the trees, or through you, or through me,  
-I do not like Myself{:/;} 'I am'.  
-I do knot like _them_'s 'Am'{;/./,(Eye)?}
+Bibliogrætiography:
 
-> (I) am.
+> 1. "Perhaps once a protective form of sociological containment to ensure bonds between constituent members of a stratum, for the purposes of preventing the interaction with an external threat (be it outwithintra-species, (in(out in)without group) or inwithouter-species (out(in, out)within group) in nature) but, through the iterative passage of a series of self-propagating events perceived subjectively as temporally linear, and the enantiodromic evolution of both human intelligence and ignorance, continues to cause a disproportionate amount of harm until the real meaning of minerva fighting mars is found through their own vehicle be it an empty chariot with a lion's head door knocker that looks more like a sabre tooth tiger until you look at the same thing a little differently, or a train, or a plane, or a car, or a star, or the wind, or the trees, or through you, or through me,  
+> 2. I do not like Myself{:/;} 'I am'.  
+> 3. I do knot like _them_'s 'Am'{;/./,(Eye)?}
+> 4. (I) am.
+> 5. An article by Dr Seuss on Enantiodromia Pending Acceptance From Publisher:
+> 6. ![[Patient Welcome Pack]]
 
 
-![[Patient Welcome Pack]]
+
 ![[redacted]]
-
-
-
 
 
 
@@ -103,14 +102,14 @@ The villagers are untying their disguises, they are shaking hands.
 Whose is that {REDACTED} box in the grove, what have they accomplished, why am I cold.
 # Chronography
 
-- Sylvia {REDACTED}, *Ariel*  1965
+- Sylvia {REDACTED}, Watching. Reading. Passive. Passing something {up|down|over|through}, like a note scrawled in blood on wallpaper. Like the stave of an indecipherable song of unmanageable scale. *Ariel*  1965
 - lexDef **{Noen||prodverb} “Ariel” ||| a word, a wind, a lion, a gallop, a ghost | “Shakespeare’s air spirit, Hebrew’s lion of God, Sylvia {REDACTED}’s {named | untamed} steed || freedom reins, reins are severed.”
 
 
 V:
 ---
 DREAM INPUT:
-![[V. THE GOSPEL ACCORDING TO THE NEWBORN BLISTERED IN THE HEARTH]]
+![[V. THE GOSPEL ACCORDING TO THE NEWBORN]]
 OUTPUT ANALYSIS:
 {REDACTED}
 ![[and then]]
@@ -458,7 +457,7 @@ VII:
 DREAM INPUT:
 ![[VII. THE GOSPEL OF THE CHEWING GUM GAME AND THE NINE-EYED DEER WHO CAME TO THE ANNEX]]
 OUTPUT ANALYSIS:
-Doe. A Dear. A Female,Dear. Ray, a Drop of Yellow Son. Nima, a Name, I Call, My Self. Far: A long, long, Weigh to Run. Sew. A Needle-Sticking Thread. La; a Noet to Follow, So: Tea; for Truth, Ass-jammed and Bred. That will Bring Us Back, to Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat.  } ![[ON DREAMING]]
+Doe. A Dear. A Female,Dear. Ray, a Drop of Yellow Son. Nima, a Name, I Call, My Self. Far: A long, long, Weigh to Run. Sew. A Needle-Sticking Thread. La; a Noet to Follow, So: Tea; for Truth, Ass-jammed and Bred. That will Bring Us Back, to Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat.  } 
 
 
 
@@ -515,100 +514,12 @@ The speaker{REDACTED}trans friends, further explores themes of identity and acce
 
 DREAM INPUT:
 
-Saturday, {REDACTED}, May 2025.
-
-in the dream, i was 
-in primary school
-and I spoke with Mrs W 
-A figure of neutrality, but stable support, while I was young.
-She didn't believe that I had gone there 
-and I struggled to explain my transition. 
-Eventually, she trusted me and who I was; even if with some doubt. 
-She showed me round the School, as it was now-
-Everything seemed so small. 
-
-As I write the recall of this dream and try to sift through its fog,
-I realise that my School, St. John's, had a Coat of Arms 
-Depicting a lamb, a little lamb, laid down; in a position of hypnogogia
-Holding a flag--
-
-
-I search for what the motto is now; not remembering what it was for the time I was there, perhaps it has changed, like I see the roster of staff has; but the deputy head I believe is the mother of the girl that was my first kiss; {REDACTED} Henderson. 
-
-The girl, who I would grow apart from and not speak to until many years later, when we were both adults;
-Both queer now, 
-Me Now, and then, and always, a woman, them Now, and then, and always, Nonbinary.
-We would have a psychedelic trip together, and they would tell me about their Brain tumour 
-Which had grown through their skull, wrapped around their optic nerve 
-At this time, I would be with my abusive ex partner, and they would tell me about theirs, now, thankfully, departed. 
-They had so much anger. Rightfully so. 
-I would sit with them during their last Chemotherapy session, 
-And ride the train back from Birmingham alone. 
-And eventually, they would go into remission.
-And as I descended into my own survival, and the abuse became clear, 
-They would leave my life, for good. For their own good. 
-As they survived their cancer, 
-And I died, in my own way. 
-
-And back to the dream, perhaps more real than this, waking memory-
-
-
-Where, walking to the assembly hall that I would spend each morning for Seven Years of my life, the three of us, Mrs W, myself, and an unknown feminine presence, who seemed to be the deputy headteacher, who I now realise was the Mother of my now departed, but very much so alive and surviving Friend, would have to traverse with a great sense of fear of falling, as always seems to be the case in my dreams, a rickety, fragile and unstable bridge, with a terrifyingly clear view of the fall beneath me, or a system of railings, or a scaffold--
-
-{*And on my bed writing this, where I remember collecting pictures of scaffolding for {REDACTED}, the Welsh-born abuser who would follow the aforementioned one, who catalysed yet another survival, because they told me they wanted to compile a photography project of Scaffoldings built around structures, structure within structure, obfuscating and obscuring the view of the structure nested beneath*}
-
-Where I would not fall, but somehow make it across; and within the framework, or scaffold, of the dream, as is often the case in dreams, this traversal seemed to overwrite my waking memory of this place; to hijack the music box of songs I have stored in myself; and make me believe that it had always been this way.
-
-And the three of us, in the Hall, would take in its visage, 
-Where I would squat down, not on all fours, like I was in the boys' bathroom behind me, past the scaffold, having the shit, the mangled remains of the packed lunch my Mother made, wiped off my ass by an angry, angry, adult woman- a teaching assistant, who even now, I believe simply detested me, for the flower of womanhood that was budding inside me; 
-
-*{Where in this cruelly unreal, waking and nightmarish world, back then, she would leave the cubicle door open, perhaps for her great size being unable to fit inside a little child's flimsy metal defecation Bothy, and the boys, not like I was, would be running in, and out to call in all the others of my class, so they could point and laugh, at the accident I was; soiling my underwear for reasons I simply didn't understand, for reasons apparently not important or telling enough for my parents to realise I was autistic; and the woman, Mrs Eaves, would be sputtering, sickened to the depths of the void of where her soul may have once been:
-
-"You're *disgusting.* *You're absolutely disgusting.*"}*
-
-
-but steady Now, on two feet; evolved--
-I crouched down, clean, 
-And I regarded how small this place was, 
-How I dwarfed the chairs stacked up in structures either side of me, 
-Where the two female figures stood, regarding me in turn. 
-
-
-Where there was a giant Bee, a parade float of a Bee, 
-Rolling around the assembly hall, as a Choir of girls rehearsed their performance. 
-
-Where a teacher, a facsimile of the Teacher, a Darling, called Mr Darling, the first queer person I'd ever met-
-Who encouraged me to follow the song of my heart, 
-Would be throwing his body in front of the float and diverting it from running over the children. 
-
-The floors were still as polished, smooth, and reflective as they'd always been, A mirror, as I'd always remembered, looking down into them as I sang the morning Hymn, 
-
-Not Him, but Hymn, 
-
-A burned, browned Daffodil, I so desperately wished would turn into a Rose.
-
+![[Monday, June 2nd 2025, 10-32-40 am]]
 
 
 
 OUTPUT ANALYSIS:
 im {REDACTED} replaced by a pigeon/serpent chimera in the form of ![[VIXI]], who flo, the symbol of the child i was, {REDACTED}Dante, her familiar's corpse and this {REDACTED} drum from his hide, {REDACTED} the bothy where she grew up ). VIXI is the djinn that i once, or maybe still do, believe, that my rapist tethered to me, during his own schizophrenia, that i tried so hard to untether from him, {REDACTED} didnt tell me he was HIV+ ; {REDACTED} he still had enough mercy to use protection{REDACTED} i am the interstice -- a vehicle for all this pain, {REDACTED}work to crawl its way out, legion, but Eloign when{REDACTED} wintered and severed -- never to be merged again with the hoarde, but {REDACTED}
-
-
-
-- [ ] BOOK INTERFACE
-	- [ ] Begin work on the Labyrinth of lexDefs, a liveChat or popup feature to display on the right side of the page turning interface of the Book
-		- [x] KV store of index.json
-		- [ ] The lexDefs, following the logic already implemented in the https://ai-ra.pages.dev interface, should show 'exits' as outgoing links from the lexDef currently highlighted/clicked.
-		- [ ] The collected lexDefs should be recorded in state per user token
-		- [ ] once the reader reaches a lexDef that has no outgoing links, they are at a 'dead end' of the Labyrinth - and all lexDefs previously clicked in the book become {REDACTED}, live, before the user's eyes. 
-	
-- [ ] BOOK EDITING
-	- [X] RED, RING, PARALLEL section
-		- [ ] Redact using AI:RA inspired script, utilising keyterms from symbols gathered in dreams of ⧖eno's dream analysis inputs in the preceding chapters
-	- [ ] Other AI:RA Chapter (Layer_0-1) additions:
-		- [ ] Write a ChatGPT conversations.json parsing script, that splits into a table of Request() and Response(), depending on inputs either nest further, into cols within cols, or swaps the Req & Res, the I/O of Aria/AI:RA -- to show the gradual fractal dissolution and merging of these two characters.
-	- [x] ⧖ENO'S REVOLVING DOOR 
-		- [x] Add / refine dream inputs (find dream journal entries of resonance) and outputs
 
 
 		my washing machine has broken my washing machine has broken and my dirty laundry hangs sodden as it was that journey back from the hospital i try to wring it out i try so hard but all of this weight of all of this water is far too much for one scared scared lonely little girl to carry i try to hang it up out of my opened window and the sky starts to pour with rain
@@ -621,10 +532,9 @@ im {REDACTED} replaced by a pigeon/serpent chimera in the form of ![[VIXI]], who
 
 1. ![[Augury]]
 FAIR WELL
-2. Two as an Impossibility: ![[The Gender of The Beast]]
-3. ![[Mean]]
+2. ![[Aromorphosis]]
+3. ![[Mean.]]
 4. Source UnNoen
-5. ![[The Bee Box.]], ![[The Six]]
-6. ![[notBorges/notBorges/The Woman In The Yellow Wallpaper- In Modern Context|The Woman In The Yellow Wallpaper- In Modern Context]]
-7. ![[notBorges/notBorges/Lying almost sitting body folded in half with my head above my heart…|Lying almost sitting body folded in half with my head above my heart…]]
-nOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWN
+5. ![[The Bee Box.]]
+6. ![[notBorges/notBorges/Lying almost sitting body folded in half with my head above my heart…|Lying almost sitting body folded in half with my head above my heart…]]
+nOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWN

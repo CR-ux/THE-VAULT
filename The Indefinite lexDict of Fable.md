@@ -556,7 +556,7 @@ Edition XVIII[^1].
 [[notBorges/CRUCIBLE/MURMURATION]]
 [[Muse]]
 [[Mythopoesis]]
-[[mean]]
+[[Mean.]]
 [[moat]]
 [[Machine]]
 [[Metastasising]]
@@ -943,7 +943,7 @@ Edition XVIII[^1].
 [[Void]]  
 [[Vyrb]]  
 
-[[V. THE GOSPEL ACCORDING TO THE NEWBORN BLISTERED IN THE HEARTH]]
+[[V. THE GOSPEL ACCORDING TO THE NEWBORN]]
 [[VI. THE GOSPEL ACCORDING TO THE LUSTING CANDLE]]
 [[Vehicle]]
 [[Virgo]]

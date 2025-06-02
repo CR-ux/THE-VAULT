@@ -1,6 +1,27 @@
 ---
 permalink: V. THE GOSPEL ACCORDING TO THE NEWBORN BLISTERED IN THE HEARTH
 ---
+# BLISTERED IN THE HEARTH
+<br\>
+\> <br\>
+\> `\br\\>`
+\> `<broke\>`
+\> `\<broken\>`
+\> `\<brokenInShoes\>`
+\> `\<brokenIntoSong\>`
+\> `\<brokenIntoMusic\>`
+\> `\<brokenInTheNews\>`
+\> `\<brokenAsInPieces\>`
+\> `\<brokenGameOfRules\>`
+\> `\<brokenAsInEggShell\>`
+\> `\<brokenOutOfCells\>`
+\> `\<brokenIntoBlemishes\>`
+\> `\<brokenInsideYou\>`
+
+![[Friday, May 30th 2025, 11-40-03 am]]
+
+
+
 by The Rook
 i could not close the windows.
 screens of blood, distorted faces 

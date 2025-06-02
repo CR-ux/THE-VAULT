@@ -6,14 +6,14 @@ CARD PULL
 --
 
 
-|     | Card              |
-| --- | ----------------- |
-| 🜁  | King of Swords    |
-| 🜂  | Ace of Pentacles  |
-| 🜄  | Seven of Wands    |
-| 🜃  | Five of Pentacles |
-| 🝪  | Nine of Pentacles |
-| 🝧  | The Chariot       |
+| Blanket (*Wyrb*) | Shroud (*Noen*)   |
+| ---------------- | ----------------- |
+| 🜁               | King of Swords    |
+| 🜂               | Ace of Pentacles  |
+| 🜄               | Seven of Wands    |
+| 🜃               | Five of Pentacles |
+| 🝪               | Nine of Pentacles |
+| 🝧               | The Chariot       |
 
 The stalk of the leaf, collected in hospital, and kept safe, locked, held inside my tarot box, severed itself from the Stalk. 
 

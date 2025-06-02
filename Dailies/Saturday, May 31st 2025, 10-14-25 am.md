@@ -6,14 +6,14 @@ CARD PULL
 --
 
 
-|     | Card                     |
-| --- | ------------------------ |
-| 🜁  | The Emperor              |
-| 🜂  | Queen of Swords Reversed |
-| 🜄  | Queen of Pentacles       |
-| 🜃  | Princess of Swords       |
-| 🝪  | Ten of Wands Reversed    |
-| 🝧  | Seven of Cups            |
+| Blanket (*Wyrb*) | Shroud (*Noen*)          |
+| ---------------- | ------------------------ |
+| 🜁               | The Emperor              |
+| 🜂               | Queen of Swords Reversed |
+| 🜄               | Queen of Pentacles       |
+| 🜃               | Princess of Swords       |
+| 🝪               | Ten of Wands Reversed    |
+| 🝧               | Seven of Cups            |
 
 
 

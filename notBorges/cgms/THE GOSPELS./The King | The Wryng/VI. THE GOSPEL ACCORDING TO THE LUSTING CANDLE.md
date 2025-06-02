@@ -1,7 +1,7 @@
 ---
 permalink: VI. THE GOSPEL ACCORDING TO THE LUSTING CANDLE
 ---
-
+![[Thursday, May 29th 2025, 11-10-25 am]]
 
 
 VI THƎ 　　　　　 AƆƆOЯႧIИ　 TO THƎ ⅃UƧTIИ　 ƆAИႧ⅃Ǝdγ Ɉʜɘ ﻼinϱOυɈ OυɈ ઘɿiɘʇɘƨɈ ƧɈoɿγ ƧɈɿɘɈɔʜinϱ dɒɔʞ ƧɈɿɘɈɔʜinϱ oυɈ OυɈ dɿiɘʇ ઘυɿninϱ ઘlɘɘbinϱ oυɈ mγ ɿɘɔɈυm OυɈ oʇ Ɉimɘƨ liʞɘ Ɉʜɘƨɘ In Ɉʜɘ lɒɈɘƨɈ wɒninϱ ઘɒɔʞ qɒlinbɿomiɔ Undɘlonϱinϱ Ƨomɘʜow bυmdƨɈɿυɔʞ dγ Ɉʜɘ moon Tʜoυϱʜ ƨʜɘ ʞɘɘqƨ Ɉʜiƨ ƨɒlɈ in moɈion Aϱɒin ɒ loƨƨI wɒnɈ Ɉo dɘ wɒlʞinϱ wiɈʜ mγ ʜɒnbƨ AɈ ƨυɔʜ biʇʇɘɿɘnɈ ɈɘmqɘɿɒɈυɿɘƨ I ɒm ƨomɘwʜɘɿɘ dɘϱϱinϱ {REDACTED} ƨυqqɿɘƨƨ ɈʜɒɈ mɘmoɿγ{PARALLEL THREADS: 0}[^b]
@@ -18,6 +18,6 @@ VI THƎ 　　　　　 AƆƆOЯႧIИ　 TO THƎ ⅃UƧTIИ　 ƆAИႧ⅃Ǝdγ
 <AUDIO FILE {SOURCE REDACTED}>
 # Chronography
 
-[^b]: "Abominable Ciphers for the Burgeoning Lexicomythographer" notBorges, . Do not cyte, your source, is. ![[notBorges/lexicomythography/particle/strange/on the ligature of two characters]], of [[The Citadel of Tœms]] [^c]
+[^b]: "Abominable Ciphers for the Burgeoning Lexicomythographer" notBorges, . Do not cyte, your source, is. [[The Citadel of Tœms]] [^c]
 
 [^c]: Source kNot, Yet Found.

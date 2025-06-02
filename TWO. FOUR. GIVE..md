@@ -68,7 +68,7 @@ In typifying fashion, N, a fountain of expression, Meaning-deluged, wordy witchc
 
 Just Under their Bodies {that is, gently pressed by the weight of these Three's formlessnesses, Works of Form, and Form of works} lay the splintering wood of the Bothy floor. Flo {they had seemed to lean more towards this directionality of their name as their system of meaning-making memory self-replicated} had taken to memorising which floorboards creaked and in what mode, devising 'scales' through the different forking paths of the shack, their humble, yet infinitely divisible, home. And so therein began a game between the two {or Three, but mostly just One, as Flow was the only one with enough of a grasp on Gordian Chant Theory} of them, whereby Flow would giggle-ously stop N at the door from the small mezzanine bed they had recently awoken from, and announce something along the lines of 'Phrygian!' or 'Lydian!', watching in glee, as Dante, Flo's Golden Light, a Labrador, watched Flo in turn, licking their joyful face, as N would attempt, at the scale they could, to 'play' the floorboards in the appropriate *Ambitus*[^range] - quite, for N at least, an ambitious task. 
 
-In the enclosure of their little house of wood, in the Woods of what Would and could never be wood-be Trees, one of these mornings {where the now-filled Red pale of water mourned the nightly passing of the Moon, and all the pull She had upon its little offering of water}, Flo was yet unaware of the Grayness of the day that laid behind where they were lying, just past the membrane of the velvet blackout curtain they'd woven as One, the possibilities of their time together stretching out in spirals, as spires like hypodermic needles, scratching into the muscle of the clouds, before them. 
+In the enclosure of their little house of wood, in the Woods of what Would and could never be wood-be Trees, one of these mornings {where the now-filled Red pale of water mourned the nightly passing of the Moon, and all the pull She had upon its little offering of water}, Flo was yet unaware of the sloughing off greyness of a day, that laid behind where they were lying-- just past the membrane of the velvet blackout curtain they'd woven as One, the possibilities of their time together stretching out in spirals, as spires like hypodermic needles, scratching into the muscle of the clouds, before them. 
 
 'Dorian!' was today's exclamation, delivered gleefully, from the usual mezzanine pulpit built from Tree Bark, to a different, yet just as sturdy, percussive bark from Dante -
 
@@ -117,14 +117,17 @@ Always, due to both necessity and proximity {ever-near was the Well}, would they
 
 But, still--
 that redness
-remaining a suggestion of burning, 
+remaining a lover's promise of burning, 
 early yearning for an urn; 
 reminding them, that all they'd built 
 could just as soon be silt,
-and wilted, tilled of red
+and wilted, kindling--
+tilled of red
 a
 rose 
-doomed to despise 
+doomed and drawn
+to unkindness, as a refuge
+to despise 
 its growing
 made to hold, 
 and yet, be emptied

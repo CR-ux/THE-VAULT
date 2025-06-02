@@ -10,7 +10,7 @@ One Must First Forget.
 Whirring with a terrifying lightning storm overhead (an unavoidable side-effect of The Device, according to {REDACTED}) The Device was Building a Universe. 
 
 
-# ᶠᵒᵒᵗNoet(s)
+# Garden of Footnote Paths
 
 [^pass]: {Future|Now|Past} || First[^1st]-pass refers to the first time You, the Reader, may read|move through a {text|process|location} such as this one || First-Pass Genomics: the initial analysis of genomic data, typically after whole genome sequencing (WGS)[^WGS] or exome sequencing, to identify potential disease-causing variants.[^var]
 [^1st]: Grammatical First Person, Such as the kind in which I am currently writing, refers to the erroneous assumption of Ownership over an experience. Which, in reality, is shared, in part, which is its entirety, with You, the so-called 'Second-Person' of this Story.

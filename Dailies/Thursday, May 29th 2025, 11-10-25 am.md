@@ -6,14 +6,14 @@ CARD PULL
 --
 
 
-|     | Card                        |
-| --- | --------------------------- |
-| 🜁  | Eight of Pentacles Reversed |
-| 🜂  | Nine of swords Reversed     |
-| 🜄  | Knight of Cups              |
-| 🜃  | Princess of Pentacles       |
-| 🝪  | Seven of Swords             |
-| 🝧  | Three of Wands Reversed     |
+| Blanket (*Wyrb*) | Shroud (*Noen*)             |
+| ---------------- | --------------------------- |
+| 🜁               | Eight of Pentacles Reversed |
+| 🜂               | Nine of swords Reversed     |
+| 🜄               | Knight of Cups              |
+| 🜃               | Princess of Pentacles       |
+| 🝪               | Seven of Swords             |
+| 🝧               | Three of Wands Reversed     |
 
 
 

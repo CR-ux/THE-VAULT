@@ -6,14 +6,14 @@ CARD PULL
 --
 
 
-|     | Card                     |
-| --- | ------------------------ |
-| 🜁  | Three of Swords          |
-| 🜂  | Five of Swords           |
-| 🜄  | Five of Wands            |
-| 🜃  | Eight of Swords Reversed |
-| 🝪  | Princess of Wands        |
-| 🝧  | Four of Cups             |
+| Blanket (*Wyrb*) | Shroud (*Noen*)          |
+| ---------------- | ------------------------ |
+| 🜁               | Three of Swords          |
+| 🜂               | Five of Swords           |
+| 🜄               | Five of Wands            |
+| 🜃               | Eight of Swords Reversed |
+| 🝪               | Princess of Wands        |
+| 🝧               | Four of Cups             |
 
 
 

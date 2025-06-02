@@ -897,7 +897,7 @@ An Extended [[lexDict]]
 
 [[Mythopoesis]]
 
-[[mean]]
+[[Mean.]]
 
 [[moat]]
 
@@ -1607,7 +1607,7 @@ An Extended [[lexDict]]
 
   
 
-[[V. THE GOSPEL ACCORDING TO THE NEWBORN BLISTERED IN THE HEARTH]]
+[[V. THE GOSPEL ACCORDING TO THE NEWBORN]]
 
 [[VI. THE GOSPEL ACCORDING TO THE LUSTING CANDLE]]
 

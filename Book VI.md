@@ -11,6 +11,6 @@ permalink: Book VI
 >   
 > The fourth argument is that concerning the two rows of bodies, each row being composed of an equal number of bodies of equal size, passing each other on a race-course as they proceed with equal velocity in opposite directions, the one row originally occupying the space between the goal and the middle point of the course and the other that between the middle point and the starting-post. This, he thinks, involves the conclusion that half a given time is equal to double that time. The fallacy of the reasoning lies in the assumption that a body occupies an equal time in passing with equal velocity a body that is in motion and a body of equal size that is at rest; which is false. For instance (so runs the argument), let A, A...be the stationary bodies of equal size, B, B...the bodies, equal in number and in size to A, A...,originally occupying the half of the course from the starting-post to the middle of the A's, and G, G...those originally occupying the other half from the goal to the middle of the A's, equal in number, size, and velocity to B, B....Then three consequences follow:
 > 	1. [[this universe (which some call the hospital)]], is [[notBorges/redacted]].
-> 	2. [[V. THE GOSPEL ACCORDING TO THE NEWBORN BLISTERED IN THE HEARTH]] comes to pass.
+> 	2. [[V. THE GOSPEL ACCORDING TO THE NEWBORN]] comes to pass.
 > 	3. Then cometh [[THE END OF DAYS]]; At Her [[End]], Which Is ([[In My Beginning]])
 > 	4. Whence By Which [[Time]] [[“She has broken up with her ex-REDACTED and was attacked by REDACTED on the street.”]]

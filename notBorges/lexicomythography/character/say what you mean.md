@@ -31,7 +31,8 @@ or maybe {t}his {as}sa{u}lt{ed} pill{a}(r|ged) {dissolving knot | not tiny | not
 
 And finally, I am. 
 the Sky
-Finally, I, Filth, Source: [[BORN TO BE THE SKY]] MEANing. I [[MEAN]]: ![[The Great Wh{{{o}r}{chest}{Ra}}e]] , ![[notBorges/notBorges/CODE|CODE]] the words. 
+Finally, I, Filth, Source. Meaning.
+the words. 
 which clothe
 What I Say. 
 
@@ -52,9 +53,3 @@ for giving has taken every thing
 {in},
 a way 
 {out}
-
-
-:::Characters:::
-- forgive the characters
- - forgive 
- - "forgiving the characters" is defined in the lexicomythographer's dictionary {see: lexDict, Noen Edition} as an urging, gentle reminder {like a lover blowing air onto one's eyelids to wake them} to ackowledge and account for the insufficiency of language {or characters} as a{n opened letter | door | adoring wreck | medium, burned upon her own | mistaken | message} medium of communic{Æ}t{i|o}n, {U}nderstanding that simply trying to express the ineffable sense of loneliness we all feel is actually the only way we, each of us, has to not feel so alone

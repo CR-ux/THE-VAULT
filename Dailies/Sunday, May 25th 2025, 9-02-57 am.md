@@ -6,14 +6,14 @@ CARD PULL
 --
 
 
-|     | Card           |
-| --- | -------------- |
-| 🜁  | Page of Wands  |
-| 🜂  | Nine of Swords |
-| 🜄  | Two of Swords  |
-| 🜃  | King of Swords |
-| 🝪  | Seven of Cups  |
-| 🝧  | Justice.       |
+| Blanket (*Wyrb*) | Shroud (*Noen*) |
+| ---------------- | --------------- |
+| 🜁               | Page of Wands   |
+| 🜂               | Nine of Swords  |
+| 🜄               | Two of Swords   |
+| 🜃               | King of Swords  |
+| 🝪               | Seven of Cups   |
+| 🝧               | Justice.        |
 
 
 

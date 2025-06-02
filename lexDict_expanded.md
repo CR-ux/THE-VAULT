@@ -551,7 +551,7 @@ Edition XVIII\footnote{[[The Journal of A.R.I.A.D.N.E]], Knoets of the Subsequen
 [[Massacre]]
 [[Matrimony]]
 [[Me]]
-[[mean]]
+[[Mean.]]
 [[Meaning]]
 [[Memory]]  
 [[Message]]
@@ -958,7 +958,7 @@ Edition XVIII\footnote{[[The Journal of A.R.I.A.D.N.E]], Knoets of the Subsequen
 ## V is for...
 
 
-[[V. THE GOSPEL ACCORDING TO THE NEWBORN BLISTERED IN THE HEARTH]]
+[[V. THE GOSPEL ACCORDING TO THE NEWBORN]]
 [[Vehicle]]
 [[Veil]]  
 [[Venalism]]

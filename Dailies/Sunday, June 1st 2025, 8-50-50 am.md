@@ -6,15 +6,15 @@ CARD PULL
 --
 
 
-|     | Card                                |
-| --- | ----------------------------------- |
-| 🜁  | Six of Wands (and Knight of Swords) |
-| 🜂  | Eight of Cups Reversed              |
-| 🜄  | Ace of Cups                         |
-| 🜃  | Four of Swords                      |
-| 🝪  | Three of Pentacles                  |
-| 🝧  | The Magician Reversed               |
-|     |                                     |
+| Blanket (*Wyrb*) | Shroud (*Noen*)                     |
+| ---------------- | ----------------------------------- |
+| 🜁               | Six of Wands (and Knight of Swords) |
+| 🜂               | Eight of Cups Reversed              |
+| 🜄               | Ace of Cups                         |
+| 🜃               | Four of Swords                      |
+| 🝪               | Three of Pentacles                  |
+| 🝧               | The Magician Reversed               |
+|                  |                                     |
 
 
 

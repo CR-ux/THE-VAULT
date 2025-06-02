@@ -1,27 +1,29 @@
 ---
 permalink: I. THE GOSPEL ACCORDING TO MISCARRIAGE
 ---
+![[Saturday, May 24th 2025, 10-16-14 am]]
+
+
+
 
 *by The Pawn.* 
 
 I arrived in the garden
 
-And a green pixelated spirit  
-Was spread about the place  
-And turned into a skinny stickman  
-Who was thrashing me about  
-Like a lion with a carcass in its jaw  
+And a {bee}
+Was
+{REDACTED} me about  
+{REDACTED} a lion with a carcass in its jaw  
 And I told them I loved them  
-And then it shrunk  
-Into a child
+And then it shrunk  into a child
 
-# Behind the waterfall
+ BEHIND THE WATERFALL
 
 Is a blackening tunnel  
-And the blackening whitens  
-And a pink sepia sky became visible  
+And the blackening it yellows
+beckons in a pink sepia sky becoming visible  
 And a figure pulls me through  
-An anthropomorphic cow headed being  
+{REDACTED}  
 Reaches into the tunnel  
 And pulls me into the underworld  
 By my arm  
@@ -29,15 +31,12 @@ And we are dancing together
 
 <AUDIO FILE{SOURCE REDACTED}>
 
-_Episode 23 of the Literary Critique podcast discussing The Woman In The Wallpaper's seminal Work, "Phage 23" {do knot, cite yore} source: an unreleased journal, "Red, Ring, Parallel," referenced in an art installation. **The journal entry** itself focuses on the book's content, and its controversial withdrawal. This Podcast was the first time the Work has been discussed publicly, and (following the outcry resulting from its release) was subsequently (within three seconds {of a {single drosophila('s)} dream}) removed from streaming platforms_
+_Part 23 of the Literary Critique podcast discussing The Woman In The Wallpaper's final novel, "Phage 23" {do knot, cite yore} Source: An unreleased journal, RED_RING_PARALLEL {REDACTED}, aired within one room of a Six Room immersive and ambitious art installation too tragically ahead of its time. The journal entry itself focuses on the book's content, and its controversial withdrawal. This Podcast was the first time the Work has been discussed publicly, and (following the outcry which {REDACTED} its release) was subsequently (within three seconds {of the dream {of a single {fly|drosophila| fly, fly, fly}} {REDACTED}from streaming{REDACTED}forms_
 
-"Author X, in their book 'Phage 23' explored a deeply intricate and complicated exploration of an alternate universe in which a virus pandemic consumed the world's population with an alarming death toll, leaving one member of the population with a superhuman ability of hearing, but the book was recalled from shelves due to the immediate outbreak of the coronavirus pandemic, in an event of sheer coincidence or of the very parapsychological abilities (though, precognitive, rather than auditory) the author herself was exploring in the work"
+> "Author ⧖, in their musicological analysis of 'Phage 23' explored a deeply intricate and complicated exploration of an alternate universe mentioned in *RED_RING_PARALLEL*, in which a terrifyingly deadly virus (therefore, terrible at the intended function of its own survival) devoured the world's population, leaving One member of the population with a superhuman ability of hearing. The book was recalled from shelves due to the immediate outbreak of the coronavirus pandemic, in an event of harrowing similarity to the very parapsychological themes (though, precognitive, rather than auditory) the author herself was exploring in the work"
 
-This quote is taken from page 23 of Red, Ring, Parallel, the unreleased journal, written about in page 323, footnote 23, within the accompanying written material to the Immersive Art installation made by the woman in the wallpaper
+- This quote is taken from Page 23 of *RED_RING_PARALLEL*: The {REDACTED} Journey, Page 323, \[Footnote 23], within the meandering prose of the accompanying Zine to the Immersive Art installation made by Aria {Surname REDACTED}; which contained Scratch and Sniff QR codes that ultimately overwrote the memory of its audience members, via parasitic exploitation of the olfactory bulb's proximity to the memory centre of the brain. 
 
-
-
-![[Article by Dr Seuss on Enantiodromia Pending Acceptance From Publisher]]
 ![[Penultimate]]:
 ![[FIRST]]
 

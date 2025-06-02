@@ -1,4 +1,10 @@
 
+![[Saturday, May 31st 2025, 10-14-25 am]]
+
+
+
+
+
 The dream began at a diner. at a dining table with B{REDACTED} and my father. I can’t recall what I was either handing back to B{REDACTED} or what they were handing back to me but I was introducing them to my father or vice versa and it was definitely supposed to break up What was so fucked up about it was that there wasn’t as off the case in dreams and underlying accepted undertone of the truth that was very much so real and assumed in the dream which was that {REDACTED} I feel sick thinking about it now But obviously there was got insurance symbolic significant star anyway eventually party left joined what looks like two people in a relationship and again they assumed undertone of truth crept in like a noxious gas that told me that was the new partner with any partners then I turned around to distraught And he said so this is bombing his life and he said wait you’re from Coventry and we’ve been to Birmingham together I know I know I know that you’ve been to Birmingham and then he said no I didn’t say Birmingham. I said Brighton and then I said no you said Bristol and then he said it could be Bristol maybe is Bristol and then he tried to find Google Maps on his phone and I pointed out into Google Maps we opened it and we were in the north of Glasgow. We barely moved. I said how long was the journey here? He said six minutes and I said so why did you think that we were all the way down the other side of the country. And then we followed was one of the most harrowing dreams of my life. It was a series of events inside of a movie theatre gigantic movie theatre or mall. This has been a recurring space. I’m realising now this shopping mall cinema labyrinth of a place of a church to capitalism And I kept hinting to him that I was so hungry asking what we woul
 
 

@@ -552,7 +552,7 @@ Edition XVIII[^1].
 [[Massacre]]
 [[Matrimony]]
 [[Me]]
-[[mean]]
+[[Mean.]]
 [[Meaning]]
 [[Memory]]  
 [[Message]]
@@ -959,7 +959,7 @@ Edition XVIII[^1].
 ## V is for...
 
 
-[[V. THE GOSPEL ACCORDING TO THE NEWBORN BLISTERED IN THE HEARTH]]
+[[V. THE GOSPEL ACCORDING TO THE NEWBORN]]
 [[Vehicle]]
 [[Veil]]  
 [[Venalism]]

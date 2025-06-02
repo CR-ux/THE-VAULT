@@ -24,7 +24,7 @@ The {Art|Narrative} prompts, along with the enciphered {pseudo}Academic journals
 
 Crucially, writing these Heretofore knotFictional Characters, of Words of Stories in Letters between us, as "Non-Fiction", we have created Fictional Characters of our Selves, and Flung these Machinations of Imagination into Magination - [[Magician]] Made from the Magick of Image. 
 
-Yes, this does indeed [[mean]] we have ceased to [[Exist]]. Per se. Phonetically, that is. 
+Yes, this does indeed [[Mean.]] we have ceased to [[Exist]]. Per se. Phonetically, that is. 
 Which means, of course, in a *Lexicomythographic* Sense, we are The {Mitre|Meter} of {Ligature[^l]|Measurement}, which maintains the [[Rotation]] of the [[Circulation]] of The [[Holy]] Light of [[The SHAONWYRM. The Lexicomythographer's Holy Scripture of Becoming.]]; which may be traced back, in this particular iteration of Eventualities, to the First Primal Fire, around which our Initiancestors Danced, warmed their Sacred Bodies and the Sacred Bodies of their Loved Ones; where they may have learned to Cook, to Nourish their Families, and, not with Words, but with their Hearts (for they themselves were the Circular Book unable to read itself) say:
 
  
