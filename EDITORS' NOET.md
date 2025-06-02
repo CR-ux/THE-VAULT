@@ -1,7 +1,9 @@
 N IS FOUR N.
 <div style="line-height: 1; font-size: 10pt;">
-This Universe (which some call the Hospital) is composed of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts between, surrounded by walls covered in an indefinite and perhaps infinitely layered wallpaper;<div style="line-height: 0.666; font-size: 10pt;"> ever-remaining a faded yellow hue. </div>Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper, right there--
-perhaps on every sheet of wallpaper, the following may have been, or about to be written, in the blood of {no more|at least}than Six individuals (at any one time):</div>
+This Universe (which some call the Hospital) is composed of an indefinite and perhaps infinite number of hexagonal rooms, with vastly identical air shafts as interstitia, surrounded by walls, ever-remaining a faded yellow hue.
+Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper, right there--
+perhaps on every sheet of wallpaper, the following may have been written, or about to be left,
+in the blood of {no more|at least} than Six individuals (at any one time):
 </div>
 <div style="line-height: 0.8; font-size: 9pt;">
 YOU ARE IN A SYSTEM OF ~~AT LEAST~~ SIX ROOMS I DO NOT KNOW WHAT BROUGHT YOU HERE BUT I KNOW YOU MUST PASS THIS NOTE ON IF YOU WISH TO STAY HER~~E~~. VENTSONLY1 WAY.WHY this.NotefromLEFTvent.SCROLLEXPANDS.INFINITEFOLD.FOLDING DIAGRAM OVERLEAF.COMPRESSIONALGORITHM<div style="line-height: 0.79; font-size: 7pt;">you are in a system of ONLY SIX ROOMS.christ the unbearable agony of knowing nothing will ever stay and yet we're doomed to go around and round and become the thing that made usYOUARENOTONLYINASYSTEMOFSIX
