@@ -1,35 +1,9 @@
 
-
----
-
-CARD PULL
---
-
-
-| Blanket (*Wyrb*) | Shroud (*Noen*)   |
-| ---------------- | ----------------- |
-| 🜁               | King of Swords    |
-| 🜂               | Ace of Pentacles  |
-| 🜄               | Seven of Wands    |
-| 🜃               | Five of Pentacles |
-| 🝪               | Nine of Pentacles |
-| 🝧               | The Chariot       |
-
-The stalk of the leaf, collected in hospital, and kept safe, locked, held inside my tarot box, severed itself from the Stalk. 
-
-
-Symbols:
-#labyrinth #caduceus #webofwyrb #lotus #horns #thorns #soldier 
-
----
-
-## LAST NIGHT'S DREAM
-
 in the dream, i was within a dream
 within a dream
 and, as often seems to be the case lately, it was very, very difficult to wake.
 in the dream, i encountered multiple figures from the past, who i do not see anymore. 
-perhaps the most significant being Dani, my ex boyfriend, who was the main restrictive force preventing my transition, my evolution into authenticity. 
+perhaps the most significant being {REDACTED}, my ex boyfriend, who was the main restrictive force preventing my transition, my evolution into authenticity. 
 he, in many ways, represented both a prison, and a freedom. 
 in that small house on Michaelmas road, in Coventry
 that place to which i will never return 
@@ -37,20 +11,20 @@ looking every morning at that face, to whom i will never return
 never knowing how he is, what he is doing, if he is even alive anymore 
 and as i sit here on the floor, having pulled these cards of opposites, my body knows why. Somehow. 
 
-in the dream, Dani had, very recently, got a tattoo on his torso
+in the dream, {REDACTED} had, very recently, got a tattoo on his torso
 it was a deep black, a depiction of a whip, with a spider on its right side, as if traversing it like a climbing rope, or a web of its own spinning. 
 it was absolutely beautiful, 
 but a symbol of our distance - he hadn't told me about getting it, or wanting to get it
-in the dream, Dani told me, matter-of-factly, that "of course" there was a very real chance he would sleep with his friend, and in that regularly-absurd illogical framework of the dreamspace, i knew this was a form of retaliation. 
+in the dream, {REDACTED} told me, matter-of-factly, that "of course" there was a very real chance he would sleep with his friend, and in that regularly-absurd illogical framework of the dreamspace, i knew this was a form of retaliation. 
 i muttered something, in resentment, about polyamory, and going back to that time in our relationship, so fraught with fear, and doubt of our love for one another. 
 
-and now, i think about this same fear, amplified, in the form of my most recent abusive relationship with barnabie. secondary. always secondary. and i am so sick of coming back, to that place i always seem to return, screaming and shaking my head and whispering 'fuck you' under my breath - i wish i could let go of this burning stone. 
+and now, i think about this same fear, amplified, in the form of my most recent abusive relationship with {REDACTED}. secondary. always secondary. and i am so sick of coming back, to that place i always seem to return, screaming and shaking my head and whispering 'fuck you' under my breath - i wish i could let go of this burning stone. 
 
 
-in the dream, we were in a facsimile of my current flat, but instead of the stove, there was an impossible window; which led out to the same view as in the opposite direction. i remember stating to Dani "what? there's a new window here?" and him offering no explanation. this could have provided a real signifier of my being within a dream; but then again, similarly, and even more absurd occurences litter my 'waking' life; so why should it, really.
+in the dream, we were in a facsimile of my current flat, but instead of the stove, there was an impossible window; which led out to the same view as in the opposite direction. i remember stating to {REDACTED} "what? there's a new window here?" and him offering no explanation. this could have provided a real signifier of my being within a dream; but then again, similarly, and even more absurd occurences litter my 'waking' life; so why should it, really.
 
 in the dream, i fell asleep, and dreamed. 
-in this next layer, i was in another hybrid-facsimile-palimpsest of residence, a shared house, in which i lived with Rosie, an office-mate i had at The Roslin. She was a sort of symbol of distant friendship; somebody i don't particularly miss, but i was fond of during my time there. she was my first source of a tether, to that most unwelcoming and strange world of scientific research, in such an intimidating space. 
+in this next layer, i was in another hybrid-facsimile-palimpsest of residence, a shared house, in which i lived with {REDACTED}, an office-mate i had at The Roslin. She was a sort of symbol of distant friendship; somebody i don't particularly miss, but i was fond of during my time there. she was my first source of a tether, to that most unwelcoming and strange world of scientific research, in such an intimidating space. 
 
 and like bicycle stabilisers, she was to be replaced, alighted by a certain sense of levitation, of unthinkable maturity;
 
@@ -70,7 +44,7 @@ and in my mentioning of this minor-- yet, for me, so weighted and significant-- 
 
 at some point I had managed to drag my consciousness from this layer, waking up somehow in the same space, in that triple-bay-window bedroom, which was now mine, not communal, but i was alone, realising that the conversation with  had not happened. 
 
-and the dream layer previously above, with Dani, was not there, but dissipated, merged into this one; approaching what we call the "real world". The Reel World. 
+and the dream layer previously above, with {REDACTED}, was not there, but dissipated, merged into this one; approaching what we call the "real world". The Reel World. 
 
 And recalling this dream, I am reminded of the many, many nested fractal dreams that have littered my sleep lately, how they have been occurring through progressively chronological spaces, always houses, always places I have lived, but with a chimeric quality- mixing symbols of various places I have laid my restless, dreaming, half-waking head. 
 
@@ -114,17 +88,6 @@ barely awake,
 trying to climb this ladder of sleep,
 this ladder I know upon which 
 I have still not reached the top rung. 
-
-
-
-
----
-
-**SYMBOLS:**  
-#s
-
-
----
 
 ## GOALS FOR TODAY
 

@@ -1,7 +1,7 @@
 ---
 permalink: I. THE GOSPEL ACCORDING TO MISCARRIAGE
 ---
-![[Saturday, May 24th 2025, 10-16-14 am]]
+![[Stand up now. And sing.]]
 
 
 

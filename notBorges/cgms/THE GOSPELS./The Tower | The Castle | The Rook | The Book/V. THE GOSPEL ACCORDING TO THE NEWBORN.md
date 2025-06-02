@@ -18,7 +18,7 @@ permalink: V. THE GOSPEL ACCORDING TO THE NEWBORN BLISTERED IN THE HEARTH
 \> `\<brokenIntoBlemishes\>`
 \> `\<brokenInsideYou\>`
 
-![[Friday, May 30th 2025, 11-40-03 am]]
+![[Move over, I'm trying to see.]]
 
 
 

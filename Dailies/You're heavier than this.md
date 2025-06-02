@@ -1,26 +1,5 @@
 
 
----
-
-CARD PULL
---
-
-
-| Blanket (*Wyrb*) | Shroud (*Noen*)             |
-| ---------------- | --------------------------- |
-| 🜁               | Eight of Pentacles Reversed |
-| 🜂               | Nine of swords Reversed     |
-| 🜄               | Knight of Cups              |
-| 🜃               | Princess of Pentacles       |
-| 🝪               | Seven of Swords             |
-| 🝧               | Three of Wands Reversed     |
-
-
-
----
-
-## LAST NIGHT'S DREAM
-
 in the dream, i was in a school again 
 or in some sort of representation of a school, in a vast academy of red brick and grey stone 
 and why is it that so many forgotten figures of my youth decide to rear their heads in my subconscious of late- too late, somehow 
@@ -134,26 +113,4 @@ and my walls, just absolutely saturated with these genuinely goya-esque oil work
 
 
 
-
-
----
-
-**SYMBOLS:**  
-#wheelchair #institution #education #science #bullying #friendship #disability #labyrinth #fame #status #systems #hierarchy #childhood #sport #othering #circle #sphere #hexagon #fiction #levitation #weightlessness #perpendicular #idols #rolemodel #father #cake #bedtimestory #corridor #park #funeral #death #mourning #theft #conflict #artifice #hiding #queerness #misgendering #trans #restraint #animals #captive #nesting #fractals
-
----
-
-
-
-
-
-
-
-## GOALS FOR TODAY
-
-- [ ] Condense scattered, verbose manuscript into compiled, agent-ready whole - be scrupulous. Anything not serving central narrative goes. But retain experimental forms to ensure authentic voice of original work. 
-- [ ] Submit wikipedia article to AfC, with COI, not disclosing identity. Let it go. 
-- [ ] Breathe. 
-
----
 ``

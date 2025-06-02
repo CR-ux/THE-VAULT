@@ -1,25 +1,5 @@
 
 
----
-
-CARD PULL
---
-
-
-| Blanket (*Wyrb*) | Shroud (*Noen*)          |
-| ---------------- | ------------------------ |
-| 🜁               | The Emperor              |
-| 🜂               | Queen of Swords Reversed |
-| 🜄               | Queen of Pentacles       |
-| 🜃               | Princess of Swords       |
-| 🝪               | Ten of Wands Reversed    |
-| 🝧               | Seven of Cups            |
-
-
-
----
-
-## LAST NIGHT'S DREAM
 
 in the dream, i was visited by an angel. 
 It was a wheel, within a wheel, within a wheel 
@@ -135,38 +115,4 @@ And I could not decide, but didn't feel the need, didn't feel forced, or pushed,
 The point was the family they offered me, the gift; 
 without asking for anything in return.
 
-
-
-
----
-
-**SYMBOLS:**  
-#angel #goddess #divine #skating #tennis #fear #hope #love #tape #cassette #light #moon #tennis #child #teddybear #bear #belief #paralysis #weight #revolution #circle #cycle #unknown #solitary #knowing #nesting #performance #togetherness #family #love #triplegoddess #mother #maiden #crone #relationship #scaffold #gift #sacrifice 
-
-
----
-
-## GOALS FOR TODAY
-
-- [ ] Continue finalising manuscript - 50 pages down of 400!!
-	- [ ] BE SCRUPULOUS.
-	- [ ] Selena's chapters
-
-	- [ ] Remove academic paper sections if NOT ABSOLUTELY NECESSARY (honestly, perhaps just selena&myo's AH papers are important, and used as reference for ⧖eno's revolving door.)
-	- [ ] Revolving door section - add only these dream journals; nothing extraneous and too experimental. We are going for kooky imprints yes. But big 5 imprints nonetheless. Do not accept anything else except acceptance. This work deserves, and will, be read. That is what the angel was telling me. 
-	- [ ] Hildr movement -- perhaps tie together the funnel web facet? Or leave more mystery? One or the other. Not in-between. Decide, concretise the decision. 
-	- [ ] Dot Code's dream analyses - make more differentiation with S&M's papers, but REFERENCE THEM. Colour yellow, dream symbology of minerva/mars dichtomoy, and tie to ARIA|DNE in a more nuanced way.
-	- [x] keep Ed. O.'s section only as the one thing missing scrabble variant, as he is crucially a selective mute. Allow the society to explain via their integration letter to DNE.
-	- [ ] Aria and RA movement -- mostly done, but decide the delineation of the perspectives; they are nested within the telophase section; is this effective? or needs separation? - could be more powerful perhaps to leave, as they are the most obvious e.g. of characters merging together. Make a gitHub merge reference if not already. 
-	- [x] Oleander movement becoming aware of Aria.
-	- [ ] Flo and Borges Interstice/stitching together
-		- [x] Dr Seuss letter to Borges
-		- [ ] Snicket letter to Borges? - the final movement should be mostly children's books of boy|girlhood that shaped the woman I became, become, am becoming. 
-	- [ ] Promoter sequence - mostly done, just needs final polish, proofing.
-	- [ ] TŒMS -- how to integrate this gargantuan experimental paper? either split right down the middle, literally, or repeat, or shorten and repeat, but needs to mirror either side, islands within islands etc-- perhaps redacted part is the missing part, redacted outer section in ending, inner part filled out, or the missing footnotes from the opening section, in the ending; (introns) - this could be quite strong given the transclusions of footnotes throughout, and provides that "final footnote closing loop reveal" that I originally wanted, without (so much) overwhelm for reader.
-	- [ ] After-after-afterwords -- are these necessary, or just beating a dead horse? again- SCRUPULOUS. You got this Callie. The angel knows. You got this. You are the angel. You take the form of the angel today. Dancing. Dancing. With the Word. Dancing. Smiling. Dancing. Glimmering. 
-- [x] Keep going. Keep going. Keep going. Remember the love of the angel. Of the family of angels. The angel. The angel. The angel. Thank you. Dear angel I thank you. I hold you with me today. 
-- [x] Submit wiki article for AfC
-
----
 ``

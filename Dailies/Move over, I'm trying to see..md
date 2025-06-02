@@ -1,26 +1,5 @@
 
 
----
-
-CARD PULL
---
-
-
-| Blanket (*Wyrb*) | Shroud (*Noen*)          |
-| ---------------- | ------------------------ |
-| 🜁               | Three of Swords          |
-| 🜂               | Five of Swords           |
-| 🜄               | Five of Wands            |
-| 🜃               | Eight of Swords Reversed |
-| 🝪               | Princess of Wands        |
-| 🝧               | Four of Cups             |
-
-
-
----
-
-## LAST NIGHT'S DREAM
-
 in the dream, i was in a restaurant, which was also an auditorium
 Which was inside a hotel 
 With, for once, my Father.
@@ -90,20 +69,4 @@ I regretted my thoughtlessness,
 this secret was not mine to share. 
 
 
-
-
----
-
-**SYMBOLS:**  
-#secrets #film #restaurant #separation #family #parents #child #childhood #scream #absence #rape #holiday #theatre #performance #production #clothes #money #betrayal #food #hotel #argument 
-
-
----
-
-## GOALS FOR TODAY
-
-- [ ] Second pass of Manuscript draft, resolving footnotes, tightening structure - particularly back-half
-- [ ] Stretch: script for organising GPT conversations into table conversation between Aria and AI:RA, with trigger words triggering column swaps, merges, nesting, redaction, and these functions simultaneously.
-
----
 ``

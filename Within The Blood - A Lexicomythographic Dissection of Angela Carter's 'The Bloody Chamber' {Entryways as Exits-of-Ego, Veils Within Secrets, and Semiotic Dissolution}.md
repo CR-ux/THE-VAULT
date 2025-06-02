@@ -20,21 +20,6 @@ k{NOW_REDACT}ing
 
 BEGIN OMISSION
 
-**Title: Lexicomythographic Dissection of Angela Carter's *The Bloody Chamber*: 
-
-**Abstract:**
-This paper approaches Angela Carter's *The Bloody Chamber* through the layered structural lens of *The Children's Gospel Music Songbook* (CGMS) and the wider Lexicomythographic universe. We {REDACT} a hexagonal cell of {REDACTED}
-**2. The Chamber as Lexical Womb**
-The titular "bloody chamber" is {REDACTED} semiotic trap: bleeding meaning through violation. It is the hexagonal Room of Air (Pawn), {REDACTED} Nucleotide{REDACTED}
-**3. Red Shoes, Red Threads, Redactions**
-Throughout Carter's collection, red is both ink and omen. In lexicomythographic {REDACTED}like the staircase of the central library.
-
-**4. {REDACTING}the Lexicon: From Obedience to Augury**
-A Prism of escaped Characters {REDACTED} as genomic script etched on an inescapable prison's wallpaper. 
-
-**5. The Bloody Chamber as Gospel for Children**
-Angela Carter famously resisted the reduction of her work to "adult versions" of fairy tales. Instead,{REDACTED}. The child is the Witness. The gospel is {REDACTED} bleeding with meaning.
-{REDACTED}
 
 **N.B.**:[^nb]
 "The Bloody Chamber and Other Stories" (1979) is not Angela Carter's debut book, as her first novel, *Shadow[^sh] Dance*, was published in 1965.
