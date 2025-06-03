@@ -2,18 +2,18 @@
 
 ---
 
-CARD PULL
+Spread, as in Shroud
 --
 
 
-|     | Card |
-| --- | ---- |
-| 🜁  |      |
-| 🜂  |      |
-| 🜄  |      |
-| 🜃  |      |
-| 🝪  |      |
-| 🝧  |      |
+|     | Card                           |
+| --- | ------------------------------ |
+| 🜁  | Knight of Pentacles (Reversed) |
+| 🜂  | Ace of Swords (Reversed)       |
+| 🜄  | Ten of Cups                    |
+| 🜃  | Ace of Wands                   |
+| 🝪  | Six of Swords (Reversed)       |
+| 🝧  | The Hanged Man.                |
 
 
 
@@ -102,8 +102,10 @@ in the dream i almost accidentally set a fire, i almost burned the place down an
 - [ ] itself scroll fold - Mneumonescript quality
 	- [ ] lexDict entries 
 	- [ ] Once reaches "scroll" entry, THAT'S where the SMŒT paper goes in
-- [ ] the story itself insisting on becoming -- highest layer, and deepest. even i, the author, 
+- [ ] the story itself insisting on becoming -- highest layer, and deepest. even i, the author, pales, read, as a sequence of letters, red as a foetus, in comparison. counter clockwise.
 - [ ] shower
+- [ ] revolving door - nearly done. splice in only recent dream entries. REDACT others. 
+- [ ] 
 
 ---
 ``

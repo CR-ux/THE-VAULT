@@ -475,6 +475,8 @@ rapt in revolving motion that half-remembered Gate, was wrapped in a certain emo
 IX:
 ---
 
+DREAM INPUT:
+
 ![[IX. THE GOSPEL ACCORDING TO HUNGER]]
 OUTPUT ANALYSIS:
 

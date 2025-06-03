@@ -1,67 +1,112 @@
 
 
-in the dream inside the dream, i was invited to see an awful band with my neighbour 
-and then my best friend and I had sex in the shower. it was memorable because i am in love with her but i didn't realise i wanted her and in the dream she wanted me. her body was covered in the scars of fresh self-mutilation in the form of words, full caps, her body in the form of art. waking up I realise they were the words I sent to her last night like a flaming, burning, dying meteor. I was so tired from a long night of debauchery that I had to cancel going to the concert but I'd realised it might have been too late. I'd sent him a very long voice note explaining or giving some sort of excuse why I couldn't go. 
-
-He was working at the post office, which was also a bookies, or something. my body was waking up to this dream, in paralysis as I tried to remember to text my neighbour and let him know I couldn't go to the concert 
-and lying in bed in the dream I couldn't drag myself out far enough to make sure I'd sent the text. 
-And soon enough I heard him break into my flat, but I couldn't get up to stop him, 
-nightmarish in sleep-in-dream parallel lysed sleep paralysis; the thing i feel almost every night. 
-and every single day. 
-those alien sounds in my room, those rustling viruses breaking into the silence of my cell, 
-behind my half-sleeping head that faced the angel atop the library - they alerted me i was not alone and this is very often more terrifying than being so. 
+in the dream inside the dream, i was invited to see an awful band with my neighbour but i didn’t want to go.
+and then my best friend and I had sex in the shower. it was memorable because i am in love with her but i didn't realise i wanted her and in the dream she wanted me. i turned on the taps and she told me she'd join me and i noticed that her skin was covered in scarring fresh self-mutilation of words, full caps, emptied upon her warm body a scabbing of narrative form or a chart or a map where the stars shouldn’t go. 
+waking up I realise they were the words I sent to her last night like the flame of some unnamed and burned withering planet of a meteor. and they were words that she'd thought she had actually read but instead she had wrote. I was so tired from a long night of unruly dew collecting and slaughtered debauchery that I had to cancel going to the concert but I'd realised it might have been too late. I'd sent him a very long voice note explaining or giving some sort of {frail|failure of an} excuse why I couldn't go. 
+He was working horrendously early, a shift at the post office, which was also a bookies, or something with equally fatal gravity. my body was waking up tardy and tangled to this early dream, in prison as I tried to remember if i'd forgotten to text my neighbour and let him know I just couldn't go. 
+and tethered in bed in the dream I couldn't yet drag myself far enough to ensure that I'd sent him that text to make sure that he knew that i couldn't go. 
+And soon enough heard him break into my flat, but I couldn't get up to stop him, 
+nightmarish in sleep-in-dream parallel lysed sleep paralysis; the thing i feel close to all nights in the unnameable place where i go. 
+and every next day in this wake of a world that so many once told me to fit to which nothing would where i just couldn't or refuse in defiance to go. 
+those alien sounds in my room, those rustling of viruses inserting syringes of literal members in membranous metaphor silent six sickness of walls of my border of cells, 
+behind my half-sleeping head that faced the angel who's weighed down on a dome atop the library alone - those hideous vibrations alerted me i was not like her that i was not alone and oh! how so often this brings much more fear than the stillness of will to be so. 
 i could not check if he was even in there, in the room, with me, at all. 
 But then I realised surely this must have been a dream. But I wasn't waking up.
-but then i woke up from that dream to a slightly less threatening panic
-and realised i'd sent him the voice note in my sleep, that the concert didn't exist, not like it doesn't exist now, but that it didn't exist in that realm of nonexistence and my GP climbed through the computer screen mid sentence like it was nothing. In the middle of having our video appointment, about a bunch of meds I'd found in my house that I didn't want to waste. 
+but then woke up from that dream to a slightly less threatening panic
+and realised i had in fact sent him the voice note while sleeping, to tell him that yes, i'm afraid i can't go. 
+that the concert it did not exist, not like it doesn't exist now, but that it wasn't nonfiction in that realm of fiction and my GP climbed through my computer screen mid sentence like it was nothing my little location irrelevant distance no terminal destination to which she couldn't go. 
+In the middle of having our video appointment, about a bunch of perhaps expired meds I'd found in my house that I didn't want to see go.
 
 She climbed through, then I asked how the fuck she did it; 
-she tried to show me how, by holding my hands and looking into me and breathing. by showing me how to spin with her; by spinning us both around 
+she tried to show me how, by holding my hands and looking into me and breathing. by showing me how to spin with her; by spinning us both around but i just couldn't go.
 I kept trying to make it work but it wasn't going anywhere, we weren't going anywhere
-i wasn't going anywhere
-and as if betraying dream rules by being aware of their absurdity, she, the doctor in the dream, started to 'explain'- the doctored dream, she tried to fill in the gaps, clearly its architect thinking I would have just accepted its farce- and she told me that her clockwist rotation was what made it possible. and because i was an antickwist spinner i could only drag things to me, not go to them.
+i wasn't going anywhere i just couldn't go
+and as if betraying dream rules by being aware of their absurdity, the doctor in the dream, started to 'explain'- the doctored dream, she tried to fill in the gaps, not as proof but as proofing, clearly its architect thinking I would have laid down and unsuspended acceptance of farce- and she told me that her clockwist rotation was what made it possible. and because i was an antickwist spinner i could only drag things to me, to them a refrain of a record not turnable and great weight of a stone at the end of a road down which no matter how much i gave in as water, well,  i couldn't go.
 
-when we tried together, holding hands, we levitated for what seemed like minutes;
-suspending in rotational flight, from her teleporting and me dragging us back; to leave us there, spinning
+when we tried together, hands tied, restrained in the straining of sweat held together, we levitated for what seemed like a heaven;
+i'd never beheld such a knelling of heart-swelling bell of that emptiness, oh! how i held and was held like a cloud holds the weather;
+suspending in disbelieved revolution of flight, from her teleporting and my fighting back; to leave us there, spinning in space of the air escaped from lungs in chests bare i miss and back where to which cruel memorandum to death like a bear of such rest writ and bearing its biting wind auto-memoriam sitting on grave faced unshakable place back there where from pathways unthreaded are severed from present me, past as moored ships who {relay|relate} nothing but depths of an ocean drowning chipped splinter of places and times i won't go.
 
 she had the visage of my stepmother 
 and so in lieu of us going somewhere, i brought it 
-and so i brought it to me, 
-And so the GP and I were in a large gym space, 
-one person and then a few more slowly appearing around us, engaged in different forms of exercise. 
+and sew, i brought it to me, like the wind does a seed,
+And so the GP and I were in a gymnasium space, 
+(headed, i fear, to a most useless place)
+one extraneous person and then moreso slowly appearing around us, engaged in different forms of exercise. 
 
-One by one they were scattered, then slowly it became an entire swarm, so slowly--
+One by one they were scattered, then gradual as cancer it became an entire swarm, so slowly--
+exponents expressing their power over me
+And I still couldn't sift a way out of this swift filling cage like she'd shown me
 
-And I still couldn't teleport like she'd shown me
+And then when I challenged them, one of the men told his troops, and they'd started to turn on us 
+{now|then} guns in hand without need for covert operation
+like the scalpel in hand in the sleep or the wake of my surgeon 
+As if being aware of the dream's {absurd|unnatural} nature betrayed the role I was handed as dreamer. 
+As if I, as a desert, result of {remaindered|desertion} was left now {and rightly, requesting my|deserving} punishment 
 
-And then when I challenged them, one of the men told his other troops, and they'd started to turn on us 
-
-As if being aware of the dream's absurdity betrayed the role I was given as a dreamer. 
-As if I as a result needed to be punished. 
-
-As the men, uncountably many now, queued us up into conga lines, stripped naked and bare.
+As the men, uncountable, many, queued us up into conga lines, one, two, cadences stripped naked and bare.
 Hunting-
-And we were led around these almost labyrinths, 
-with not walls but these low, low fences, both naked hands on the naked shoulders of the thorax segments of the millipede we were forced to be part of, in front, great snaking lines-
-the gym had become a camp
+And we were led by our hooves round these stupid excuses for labyrinths, 
+with not walls but these low, lowly fences, naked hands upon cold naked shoulders of thorax segments of the millipede we were forced to become and be part of, components affronted, in front, great snaking submissions of poor scoring lines-
+the gym had become a wintering camp where escape was a dream of a place that we just could not go.
 and we knew we were all to die. 
 
 and when my time was near and the group of us, 
 lying to the floor, catching, not catching, caught as a self-staring glance in that mirror of sky
-in the polished gym floor- just one final look at the bodies we'd held, as an exercise, for a while 
-in some sort of futile attempt 
-at preventing our bodies leaving the earth, as naked as, more than at birth, 
+in the polished gym floor- a coda in retrograde glaring peeled back like the skin over skull to debride all the bodies we'd held, as an exercise, 
+for a while, flowers
+in some futile attempt at a Petal of life
+at preventing the snatching the eggs of our bodies from earth, as naked {as, no,| more, |no more} than at birth, 
 
-the doctor was whispering in my ear to just let go now callie, its easier she said just let go
-let go now they said it's okay 
+as the doctor scattered ash whispers in the dust of the contours of my smallest ear to just 
+let go 
+let go now callie, its easier she said 
+just let go
+let go now they said it's okay to
+try to but i just couldn't let 
+my self go
+just let it all go now my love
+just let go
+and i tried how i tried oh! the places
+oh! the places i wished that i just couldn't go
+oh! callie 
+oh! sweet baby, dear callie you just have to go
+just let them all take you, it's less difficult if you just let them go
+just let go
+but i 
+no just let
+them just
+go
+my dear one just 
+let go
+i know
+i know that it's hard it's so hard and you've fought every step of the road
+but my sweet little rose, it is time now 
+to go 
+so 
+let go
+just let go 
 as the hundreds of those humans turned, twisted insects around me were shot, one by one 
-let go. now he said, it was the not knowing when that had killed me, even before my round had yet found its compatible host
-and the two closest to me they were killed, on the left, then the right, and then just me left; 
-let go the doctor said it's ok and i wondered if this was my heart's only way of knowing how to cross a boundary
+let go. now he said, it was the not knowing 
+when
+that had killed me, 
+even before my hospital round 
+had yet found its compatible host
+and the two closest to me they were killed, 
+on the left, then the right, and then just me left; 
+and i just couldn't go, but i tried, how i tried, this trying is the only place that i know i can go--
+let go the doctor said it's okay and i wondered if this was my heart's only way of knowing how to cross a boundary 
+and even in all of my dying 
+i tried but i 
+just couldn't go
+it was a moat over which 
+i just
+couldn't 
+row
 
 ---
-and i did, i woke up from the dream, not to escape but just to write this, but so tired that i fell asleep once more and dreamt of a party of journalists. we were playing a role playing game of exceptional production value. where everyone was assigned a character, like Werewolf, and i was the spider.
+but i did, i woke up from the dream, not to escape but just to write this, but so tired that i fell asleep once more and dreamt of a party of journalists. we were playing a role playing game of exceptional production value. where everyone was assigned a character, like Werewolf, and i was the spider.
 
-they were incredibly rich journalists who had a gigantic home, and the party had all of these themed groups of fractal-parties, each of them actors and characters and people from certain works of media. i was the only one without a group; and i got lost in there, trying to find a bathroom. trying to find a free bathroom in which to take a shower. i used the wrong one which had a garden swing inside it and the owners, who i think were a married gay couple, got mad at me because it set off an alarm which could have alerted the police and got their party shut down.  the one friend i'd made there had asked me to get something for her and i obliged happily. i got lost and somehow in its circularity made my way back to her empty handed. and i made a joke about needing a thread, or at least ariadne.  
+they were incredibly rich journalists who had a gigantic home, and the party had all of these themed groups of fractal-parties, each of them actors and characters and people from certain works of media. i was the only one without a group; and i got lost in there, trying to find a bathroom. trying to find a free bathroom in which to take a shower. i used the wrong one which had a garden swing inside it and the owners, who i think were a married gay couple, got mad at me because it set off an alarm which could have alerted the police and got their party shut down.  the one friend i'd made there had asked me to get something for her and i obliged happily. i got lost and somehow in its circularity made my way back to her empty handed. and i made a joke about needing a thread, or at least ariadne. i made the arid joke that i'd become ariadne.
 
-in the dream i almost accidentally set a fire, i almost burned the place down and i remember realising the culminating point of the story is not just the characters becoming aware of their author, or even me as the author becoming aware of the god who wrote me. but that the story is god. the smallest causal sequence of events that do not befall or happen to us but drag us toward and under. carry ten times their weight. survive. and it forces itself into being as an insect burrowing into the dirt to survive. any way it can. that party needed to end, in some sort of pain, shame or terror. and it seemed, as it always does, that it needed to be me, not because life {is|was} unfair, whatever that means- but because of the ease of using my infertile worked body as plot for the plot that insists on becoming. a vessel. because of the air in the filth of my self. who i am, where i've been, had to be, how well it is tilled. and filled by the insects, that great teeming six legged insect, the story. for the story. 
+in the dream i almost accidentally set a fire, i almost burned the place down and i remember realising the culminating point of the story is not just the characters becoming aware of their author, or even me as the author becoming aware of the god who wrote me. but that the story is god. the smallest causal sequence of events that do not befall or happen to us but drag us toward and under. carry ten times their weight. survive. and it forces itself into being as an insect burrowing into the dirt to survive. any way it can. that party needed to end, in some sort of pain, shame or terror. and it seemed, as it always does, that it needed to be me, not because life {is|was} unfair, whatever that means- but because of the ease of using my infertile worked body as plot for the plot that insists on becoming. an emptying vessel. because of the air in the filth of my self. who i am, where i've been, had to be, how well it is tilled. and filled by the insects, that great teeming six legged insect, the story. for the story. 

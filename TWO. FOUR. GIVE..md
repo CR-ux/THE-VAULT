@@ -290,6 +290,7 @@ KEY:  ∈ | t | {const}
 
 🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
 {REDACTED}
+A is for 
 
 🜂 / ♞  | OBS: 15:00 | ε=0.007
 {REDACTED}
