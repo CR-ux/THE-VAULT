@@ -17,8 +17,8 @@ And {REDACTED}[^d] said
 It’s[^bbb] dyed. [^B]
 # Chronography
 
-[^B]: [[d]]
+[^B]: ![[d]]
 [^d]: [[Bear]][^bl]
 [^bl]: [[Bearly]][^bb]
 [^bb]: [[notBorges/The Bear Hunt Boogie]]
-[^bbb]: [[Why B is for 'Both']], [[Barnabie]]. 2023.
+[^bbb]: [[Why B is for 'Both']], B{REDACTED. 2023.

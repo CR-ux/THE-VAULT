@@ -124,7 +124,7 @@ DREAM INPUT:
 OUTPUT ANALYSIS:
 
 *the lusting candle*
-by notBorges
+by <sup>no{e}t</sup>Borges
 
 times like these
 In the latest waning;

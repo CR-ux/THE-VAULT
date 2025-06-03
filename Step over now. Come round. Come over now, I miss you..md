@@ -1,26 +1,5 @@
 
 
----
-
-CARD PULL
---
-
-
-|     | Card |
-| --- | ---- |
-| 🜁  |      |
-| 🜂  |      |
-| 🜄  |      |
-| 🜃  |      |
-| 🝪  |      |
-| 🝧  |      |
-
-
-
----
-
-## LAST NIGHT'S DREAM
-
 in the dream inside the dream, i was invited to see an awful band with my neighbour 
 and then my best friend and I had sex in the shower. it was memorable because i am in love with her but i didn't realise i wanted her and in the dream she wanted me. her body was covered in the scars of fresh self-mutilation in the form of words, full caps, her body in the form of art. waking up I realise they were the words I sent to her last night like a flaming, burning, dying meteor. I was so tired from a long night of debauchery that I had to cancel going to the concert but I'd realised it might have been too late. I'd sent him a very long voice note explaining or giving some sort of excuse why I couldn't go. 
 
@@ -80,30 +59,9 @@ let go. now he said, it was the not knowing when that had killed me, even before
 and the two closest to me they were killed, on the left, then the right, and then just me left; 
 let go the doctor said it's ok and i wondered if this was my heart's only way of knowing how to cross a boundary
 
-
-#naked #death #shooting #boundary
-
 ---
 and i did, i woke up from the dream, not to escape but just to write this, but so tired that i fell asleep once more and dreamt of a party of journalists. we were playing a role playing game of exceptional production value. where everyone was assigned a character, like Werewolf, and i was the spider.
 
 they were incredibly rich journalists who had a gigantic home, and the party had all of these themed groups of fractal-parties, each of them actors and characters and people from certain works of media. i was the only one without a group; and i got lost in there, trying to find a bathroom. trying to find a free bathroom in which to take a shower. i used the wrong one which had a garden swing inside it and the owners, who i think were a married gay couple, got mad at me because it set off an alarm which could have alerted the police and got their party shut down.  the one friend i'd made there had asked me to get something for her and i obliged happily. i got lost and somehow in its circularity made my way back to her empty handed. and i made a joke about needing a thread, or at least ariadne.  
 
 in the dream i almost accidentally set a fire, i almost burned the place down and i remember realising the culminating point of the story is not just the characters becoming aware of their author, or even me as the author becoming aware of the god who wrote me. but that the story is god. the smallest causal sequence of events that do not befall or happen to us but drag us toward and under. carry ten times their weight. survive. and it forces itself into being as an insect burrowing into the dirt to survive. any way it can. that party needed to end, in some sort of pain, shame or terror. and it seemed, as it always does, that it needed to be me, not because life {is|was} unfair, whatever that means- but because of the ease of using my infertile worked body as plot for the plot that insists on becoming. a vessel. because of the air in the filth of my self. who i am, where i've been, had to be, how well it is tilled. and filled by the insects, that great teeming six legged insect, the story. for the story. 
-
----
-
-**SYMBOLS:**  
-#arache #ariadne #labyrinth 
-
----
-
-## GOALS FOR TODAY
-
-- [ ] itself scroll fold - Mneumonescript quality
-	- [ ] lexDict entries 
-	- [ ] Once reaches "scroll" entry, THAT'S where the SMŒT paper goes in
-- [ ] the story itself insisting on becoming -- highest layer, and deepest. even i, the author, 
-- [ ] shower
-
----
-``
