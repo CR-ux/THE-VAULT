@@ -130,7 +130,7 @@ times like these
 In the latest waning;
 I long for wax.
 
-It’s hardness, so easily broken,
+It{’}s hardness, so easily broken,
 Cracks, whispering
 something of Cohen about them
 

@@ -24,7 +24,7 @@ And I ended the argument by standing up to him, stating that while we had made p
 
 He pushed back, but eventually put his head in his hands, and wept. 
 
-And now, I think of the period just following the revelation, closing the book of my parents marriage; 
+And now, I think of the period[^pe] just following the revelation, closing the book of my parents marriage; 
 
 That christmas eve, where he found out about the infidelity that I had known about, kept so impossibly secret, as my mother escaped for such long hours to the bathroom, to talk to her lover, now her husband, over a series of unfortunate months; during my A level exams-
 
@@ -67,6 +67,6 @@ as they left I screamed at the man, what he was.
 And then, in her absence, 
 I regretted my thoughtlessness,
 this secret was not mine to share. 
+# ᶠᵒᵒᵗNoet(s)
 
-
-``
+[^pe]: ![[Period]]

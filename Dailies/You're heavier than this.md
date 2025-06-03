@@ -12,38 +12,37 @@ But I decided to try it anyway, to see for myself, and confirmed how bad it was.
 There was a moment of attempted conflict resolution, by a female teacher, on a garden bench at the back of the classroom, 
 And while the girls pretended to come to some sort of peace with me, later they would confirm just how little they'd learned 
 
-Eventually, I was in London again, in what seemed like a continuation of an earlier dream from this week, where I'd managed to sneak my way into a Theme Park, a place in honour of JK Rowling- without being noticed, until I tried to help another girl, cisgender, who didn't quite understand how to stay under the radar. 
+Eventually, I was in London again, in what seemed like a continuation of an earlier dream from this week, where I'd managed to sneak my way into a Theme Park, a place in honour of {REDACTED}- without being noticed, until I tried to help another girl, cisgender, who didn't quite understand how to stay under the radar. 
 
 But this dream, in this sequel, I was some sort of famous. 
-I was walking around with Matt Lucas, through a hedgerow labyrinth, or rather, over it, somehow-
+I was walking around with {REDACTED}, through a hedgerow labyrinth, or rather, over it, somehow-
 And he was talking about his trepidation around being out in public
 And we stumbled across a mass funeral, graves placed in this strange glass building, all stacked in orderly rows like some sort of furniture warehouse for parts that no longer had a use. 
 And the mourners, queueing, calmy, to leave their flowers. 
 
-And then suddenly the three aforementioned girls were with us, and were stealing bunches of flowers from other graves, to give to the mourners of others; who accepted them gratefully, not realising from where they'd come. And I was disgusted, and I left. 
-
+And then suddenly the three aforementioned girls were with us, and were stealing bunches of flowers from other graves, to give to the mourners of others; who accepted them gratefully, not realising from where they'd come. And I was disgusted, and I {was }left-
 Walking uphill, in a London park, with this eccentric figure from British comedy, far outdated now, one which hasn't at all aged well- was perhaps as transphobic as the girls featuring alongside him in the dream;
 
 These girls featuring in my waking life, at a time where I'd hated myself enough to keep them around, assuming they were the best suggestion of the word 'friend' I would ever get. 
 
-We came across a log flume in the park, right in the middle of it, water spilling from its sides, reminding me of those joy filled times in West Midlands Safari Park, where I'd wish we could skip the whole safari part, feeling so sad for the animals, and just wanting to put my *self* in restraints, to feel the drop in my stomach, to fall, to fall, to fall; giggling, replacing all the stolen laughter from the times I should have been laughing at school. 
+We came across a log flume in the park, right in the middle of it, water spilling from its sides, reminding me of those joy filled times in {REDACTED} Safari Park, where I'd wish we could skip the whole safari part, feeling so sad for the animals, and just wanting to put my *self* in restraints, to feel the drop in my stomach, to fall, to fall, to fall; giggling, replacing all the stolen laughter from the times I should have been laughing at school. 
 
-Why is school, or these environments of formal education, these gatherings of humans specifically centred around the acquisition of knowledge, and its accompanying fear, such gripping fear, such subjugation, in spite of my excelling in the facet for which we were there, recurring so much lately?
+Why is school, or these environments of formal education, these gatherings of humans specifically centred around the acquisition of knowledge, and its accompanying fear, such gripping fear, such subjugation, in spite of my excelling in the facet of its purpose, recurring so much lately?
 
 I suspect it has something to do with Lexicomythography, and how important it is to me 
 
 and how sad I am now, writing this, 
 at the fiction of it all
 
-The fiction written, this monumental scale fiction, to try and unwrite those wrongs handed to me, like test papers, lunchboxes, footballs that I felt too afraid to kick back to the boys who'd let them roll towards me, for fear of being made fun of, for the symbol they were, a symbol of my father, who'd just wished I could play this silly game of back and forth with him. 
+The fiction written, this monumental scale fiction, to try and unwrite those wrongs handed to me, like test papers, lunchboxes, footballs that I felt too afraid to {kick|like you kicked me} back to the boys who'd let them roll towards me {like you rolled away}, for fear of being made fun of {like {you used {to|me}} {would}}, for the symbol they were, a symbol of my father, who'd just wished I could play this silly and so difficult game of back and forth with him back then. 
 
 But that, in a way, is what fiction is, too
-Just a back and forth movement, a pendulum of knowing, unknowing, learning, unlearning, as knowledge itself evolves like the rolling of a sphere made of stitches together hexagons--
+Just a Garden {back|forth}Ward movement, a pendulum of {{un}knowing|{un}learning}, as knowledge itself evolves like the rolling of a sphere {made|{up} {of}|from} stitched {t(w)o}{get}{her} Hex{agon(i.e.)s}--
 once formed from the bladder of a pig. 
 
 
-How disgustingly layered it is, like a Rascally cake, just trying to live its only purpose, of being, of being devoured.
-How disgustingly cyclical and temporary it all is, like a circle sprayed in the middle of a square, to mark the place where the game begins. To be faded, trodden over, dug out with studs like the ones that landed through my toes and filled my boot with blood.
+How disgustingly layered it is, a cake, just trying to live its only purpose, of Being. Of being, devoured. Of being devoured. Not delicious enough.
+How disgustingly {cyclical|temporary} it all is, like a circle sprayed in a square, to Mark the place where the game begins. To be {faded|trodden over|dug out} with studs like the ones that {landed|shoved themselves} {through|into} my {{toes|asshole}|filled my little bo{ot|ttom} with {blood|reminders}.
 
 
 And then I had phased somehow back to the grand academy, where I saw my senior professor from my time at The Roslin Institute, 
@@ -54,7 +53,7 @@ To lobby for the simplest and most fundamental facility of existence; a fucking 
 And parade this as something to be awarded, something I did indeed win an award for; a star-shaped glass, heavy, heavy thing; 
 Which sat upon the shelf above my desk, and was left, when I left the Institute before I could finish my PhD-- knowing I was made to be an artist, and I was done with all this hiding, this stirring and baking in a cubic stove and slicing into layers of specific colours and layering on top of one another in a precise order, and covering with a sugared substance, luring potential devourers to my artifice of vanilla essence-
 
-In this redbrick place, I saw my professor, one Paul Digard, such an accomplished virologist 
+In this redbrick place, I saw my professor, one {REDACTED}, such an accomplished virologist 
 And he, in the dream, held me in such high regard 
 And the hall, our place of work we found ourselves in, was the glossy polished floor of my primary school, a mirror. 
 And he hugged me, so tightly, and held me so close to him, and I remember, so clearly, feeling so, so safe. 
@@ -102,7 +101,7 @@ As Adrian, my dear departed friend said, my dear loved one who taught me what a 
 > I refuse to be translatable, transcribable.--"
 
 
-and my walls, just absolutely saturated with these genuinely goya-esque oil works, everywhere, that are causing my eviction, I feel so unsafe from the safety I've tried to build, and I'm just lamenting, lamenting and so full of this grief, this horrendous disgustingly unpalatable grief, that has permeated and pervaded my entire goddamn life. The work, this insect, this insect spawning from my heart, tearing open my organs, my body, dislocating my joints and causing me all the agony of the world, raping my body not my own, raping, raping me, to give me what? To give me this drive, this pain-fuel, this fucking, COMPULSION to create this thing never known to me, never ever known to me and just as much not my own as the body I've been placed in -- why? Why? It insists on becoming, it insists on becoming, to try to teach me to become myself; and all these debt letters pouring in, all this debt pouring in; even unable to buy fucking toilet paper; how desperately unfair. To read this wikipedia article, all the gargantuan scope of the things I have tried to bring into this world in love, just in love, in love with knowledge and in love with love -- and for what? to be stripped of my livelihood, my life, and the love I still love, in spite of it all, to be left without a single sheet of paper to wipe my fucking ass. 
+and my walls, just absolutely saturated with these genuinely goya-esque oil works, everywhere, that are causing my eviction, I feel so unsafe from the safety I've tried to build, and I'm just lamenting, lamenting and so full of this grief, this horrendous disgustingly unpalatable grief, that has permeated and pervaded my entire goddamn life. The work, this insect, this insect spawning from my heart, tearing open my organs, my body, dislocating my joints and causing me all the agony of the world, raping my body not my own, raping, raping me, to give me what? To give me this drive, this pain-fuel, this fucking, COMPULSION to create this thing never known to me, never ever known to me and just as much not my own as the body I've been placed in -- why? Why? It insists on becoming, it insists on becoming, to try to teach me to become myself; and all these debt letters pouring in, all this debt pouring in; even unable to buy fucking toilet paper; how desperately unfair. To read this wikipedia article, all the gargantuan scope of the things I have tried to bring into this world in love, just in love, in love with knowledge and in love with love -- and for what? to be stripped of my livelihood, my life, and the love I still love, in spite of it all, to be left without a single sheet of paper to {write|wipe} my {final chapters|fucking ass}. 
 
 
 > You had
