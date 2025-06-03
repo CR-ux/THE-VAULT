@@ -24,10 +24,6 @@ Bibliogrætiography:
 
 
 
-![[redacted]]
-
-
-
 II:
 ---
 DREAM INPUT:
@@ -504,12 +500,12 @@ The poem {REDACTED}relation to their father.
 ANALYSIS:  
 The poem {REDACTED} "I am so hungry with no money to eat and my father doesn’t care." This {REDACTED}father. The {REDACTED} search for care and belonging.
 
-The speaker{REDACTED}trans friends, further explores themes of identity and acceptance. {REDACTED}acceptance and identity.
+The speaker{REDACTED}trans {REDACTED}acceptance and identity.
   
 {REDACTED} labyrinth" becomes a "church {REDACTED} connection.
-{REDACTED}hunger,{REDACTED}father figure, highlight feelings of vulnerability{REDACTED} "One day he will die and I will care."
+{REDACTED}hunger,{REDACTED}father figure{REDACTED} "One day he will die and I will care."
 
-  {REDACTED} "I am so hungry with no money to eat and my father doesn’t care."
+  {REDACTED} father doesn’t care."
 
 ⧖:
 ---

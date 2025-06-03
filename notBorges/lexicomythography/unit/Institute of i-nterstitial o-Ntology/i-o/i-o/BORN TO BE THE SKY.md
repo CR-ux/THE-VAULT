@@ -8,9 +8,9 @@ The End of the Fifteen Hundreds, anteAntiquity
 Hildr came into the World upon a border. As a border, and a boarder within a border. 
 Born of Land and of Sea, Hildr was born to be the Sky. 
 
-She(/they) was(/were) born under the dark, shadowy shroud of the Black Death, as the embodiment of a single glimmer of candlelight; the hushed, yellow glow of which filled the room, announcing her imminent arrival into physical form. It filtered through the ribcage of her mother's loom, itself creaking and exhausted, from the years and months birthing, thrum-tapped tissues of its own. 
+{She|they} {was|were} born under the dark, shadowy shroud of the Black Death, as the embodiment of a single glimmer of candlelight; the hushed, yellow glow of which filled the room, announcing her imminent arrival into physical form. It filtered through the ribcage of her mother's loom, itself creaking and exhausted, from the years and months birthing, thrum-tapped tissues of its own. 
 
-Her/their Hamlet in Berwick-upon-Tweed was facing the latest of a cyclical chain of *Yersinia Pestis*'s fight for its own survival (and, inadvertently, the death of millions of hosts).
+Hertheir Hamlet in Berwick-upon-Tweed was facing the latest of a cyclical chain of *Yersinia Pestis*'s fight for its own survival (and, inadvertently, the death of millions of hosts).
 
 The town teemed with walls. Walls within walls. 
 Over an iterative process of capture, loss, recapture, brutal force, and reinforcement, the walls evolved a life of their own - carrying history of the ever-present, ever-presented past of protection. Or equally, entrapment. Initially, the medieval fortifications followed the natural curvature of the landscape, reflecting a now-long-forgotten instinct of life to flow, with an effortless effort, like a *wu wei* waterfall around the rocks that it gradually erodes through the inevitability of time. By the third iteration of rebuilding, the reign(s) of Elizabeth saw the addition of Bastions in complex, Star-shaped geometry. The echoes of peoples past, and their Will to survive, evidenced through an all-too-permeable and now evolved membrane, pooled in the ditches, the recesses of Earth, many of which, emptied and yearning, or relieved of their weight, can still be seen today; like the wrinkles of a Celtic Giant who, perhaps tired of all the fighting, laid down to rest for a little while, and in Her dreaming, grew old, blossoming foliage, trees, verdant and crumpled grass, beneath busy footfall of humans who forgot her. 
@@ -146,7 +146,7 @@ She was a Flooring Sky.
 
 Besides this geological family name being simply "N", a fact seemingly vital to be communicated, Hildr's mother would learn, between the heavy silences of the unspoken words, that the Stones, now, with the Crone, Five - were once in fact Seven. And while she never met the anthropomorphised figures of the other Four standing on awe-inspiring guard around them during their communion, she learned that each of them had a tale to tell, a yarn they had been spinning, a hide-drum they had beaten since the beginning of time's ascent. 
 
-She learned these Celtic-Knotted yarns, of Stellar origin, were what kept the very Earth spinning. They were the 17/4 polyrhythm which kept the Moon in the effortless, yet ametric Fivesome Reel around the Earth. She daren't ask where the Missing Two of One had gone, for she sensed that this was a Great Loss; not only for the Stone Woman, but for all of Life on Earth. She felt she knew, given their number, their connection to the hardened human body, to which she was starting to become familiar, and to the fragile planets of the Solar System. The Stone Crone who had felt her worthy of revealing herself to, she was the Downtrodden, Beaten Heart of the Cosmos. 
+She learned these Celtic-Knotted yarns, of Stellar origin, were what kept the very Earth spinning. They were the 174 polyrhythm which kept the Moon in the effortless, yet ametric Fivesome Reel around the Earth. She daren't ask where the Missing Two of One had gone, for she sensed that this was a Great Loss; not only for the Stone Woman, but for all of Life on Earth. She felt she knew, given their number, their connection to the hardened human body, to which she was starting to become familiar, and to the fragile planets of the Solar System. The Stone Crone who had felt her worthy of revealing herself to, she was the Downtrodden, Beaten Heart of the Cosmos. 
 
 On the (needlessly, for the Stones ensured she would always be back before her husband) hurried return home, she often wondered which of the Earthen Body's Seven "N"s were missing. Was it the Stone of the Root, the Stone of the Gut? Was it the Stone of the Throat? Was this why she felt it so Heavy to speak?
 
@@ -357,7 +357,7 @@ Das war Sie auch-
 Wilted Blooms From Boils of Silenced Mouth-
 A Flaming Branch, Uprooted South
 A knocking At a Hellish Gate-
-She/they Did Lay in Wait-
+Shethey Did Lay in Wait-
 Our Gender-Free Dear Saviour's Start
 Departing Knoll, Sighed Wiltergarten 
 A Sky Fore'er Taken, Flight

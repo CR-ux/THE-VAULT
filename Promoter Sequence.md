@@ -289,9 +289,7 @@ That Terminal Input slot, like the once-hungry, now-regretting mouth of a newbor
 TRANSCRIPTION START.
 SITE: https://www.carpvs.com 
 
-
-
-![[TŒMS]]
+![[SMŒT]]
 
 
 

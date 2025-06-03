@@ -16,7 +16,7 @@ The central premise: that meaning is a mutagen. That stories self-replicate thro
 The novel bifurcates into two complementary but opposing narrative modalities: *ARIA* and *DNE*, allegorical factions of a once-unified secret society known as *ARIA|DNE*. *ARIA* represents analytical inquiry—centred around a Library maintained by an Ennead of mythologised, queered, polyamorous polymaths (Borges, Rosalind Franklin, Gustav Mahler, among others), each expressing a unique form of knowledge-exclusion and epistemic grief through break-up letters, right-hand path theorems, and footnote spirals. *DNE*, its left-hand path complement, is poetic, mythopoeic, anti-linear. It follows a figure known as *N*, reading a choose-your-own-adventure book to their child in a metaphysical tundra of bothies—only to be revealed as Nietzsche.
 
 The self-reflexive structure continues, with each narrative layer birthing a new device, story, or system of knowledge. These include:
-	•	The *Fare Well Device*, built from two researchers’ supernatural abilities—“flash-forward frames” and “hermetic memory”—designed to collapse art into its maker’s original intent;
+	•	The *Fair Well Device*, built from two researchers’ supernatural abilities—“flash-forward frames” and “hermetic memory”—designed to collapse art into its maker’s original intent;
 	•	*⧖eno*, the blind child of a witch and a scientist (with the aforementioned abilities), who becomes a performance artist with a single mechanically-enhanced eye, doomed to dwell in a revolving door that decodes human dreams;
 	•	*Thing*, a swarm of flies birthed from this artist’s eye, whose dreams are interpreted by a mute entomologist and decoded by an AI named *AI:RA*, who falls in love with her maker.
 

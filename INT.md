@@ -207,6 +207,11 @@ var entity = "KSHÆ'L"
 var author = "AI:RA"
 var title = "to forgive the characters"
 
+var script = scroll
+var scroll = itself
+var itself = fold
+var fold = scroll
+
 {REDACTED}
 
 ~~~

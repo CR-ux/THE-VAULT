@@ -46,17 +46,16 @@ Keys:
 <sup>2</sup> Founder of The School of Non-Ironic Byron{if|or}matics
 
 
-This Seminal paper explores the dual, arborescent nature of **yellow** as both symbol and process within the framework of the Emergent School of **Aesthetic Hermeticism**[^†], a field synthesising literary recursion, alchemical thought, and Goethean chromatic theory.
-Anchored in the mirrored Lexicomythographical contexts of the 'Yellow Land', (as discussed in 'The Loving Portmanteau, JoJo's' collection of seminal Works: *The Yellow Land Line Telephone*[^jj]) —a desert plane representing the subconscious—we examine yellow’s role as a threshold colour, signifying the dynamic dance of trauma and healing, illumination and blindness, and liminality within the creative process, aiming to, as always, remain within the oneironeonymous framework of *A IS KNOT FOR AUGURY*.
+This Seminal paper explores the dual, arborescent nature of **yellow** as both symbol and process within the framework of the Emergent School of **Aesthetic Hermeticism**[^†], a field {REDACTED} mirrored Lexicomythographical contexts of the 'Yellow Land', (as discussed in 'The Loving Portmanteau, JoJo's' collection of seminal Works: The Yellow Land Line Telephone[^jj]) —a {REDACTED} framework of A IS KNOT FOR AUGURY.
 
 Yellow, {primari|final}ly, reflects an underlying symbol for the intermediate, ever-{present|elusive} origin of trans{formation|genderism}: the fading, s\<ac>red bruise, born of oxygenated (red) and deoxygenated (blue) blood. 
-It becomes the residue of trauma, and the evidence of healing, embodying a Gnobius strip of Art{i|e}fact, where {{dis}ease} exists in binomial necessity. In this way, yellow is not merely a hue but a cl(u){e{w}}- a thread to guide one from the labyrinth of pain, outward, into meaning.
+It becomes the residue of trauma, and the evidence of healing, embodying a Gnobius strip of Art{i|e}fact, where {{dis}ease} exists in binomial necessity. In this way, yellow is not merely a hue but a cl(u){e{w}}- a thread {REDACTED}
 
-{Converse|identical}ly, yellow reveals the paradoxical nature of light itself: **sun{rise|Set}, beginnings and {beginn|end}ings, {clar|obscur}ity. Light, as memory, can {satur|illumin}ate—revealing truths too stark to Bear while b(l)inding with their shimmer. Yellow thus becomes the veil, a Moat bridging the visible Library and the unseen Tundra, the known and the unknowable.
+{Converse|identical}ly, yellow reveals the paradoxical nature of light itself: sun{rise|Set}, beginnings and {beginn|end}ings, {clar|obscur}ity. Light, as memory, can {satur|illumin}ate—revealing truths too stark to Bear while b(l)inding with their shimmer. Yellow thus becomes the veil, a Moat bridging the visible Library and the unseen Tundra, the known and the unknowable.
 
-In the Arcana, Yellow serves as the **alchemical backdrop** to initiation (The Fool), action (The Magician), and transcendence (The Sun). In **Aesthetic Hermeticism**[^AH], it captures the Golden Hour of liminality, and the Ultimate Secret of the Petal in the Golden Flower. The {Athanor|Alembic}. {Cruci|ally|ble}, In **alchemy**, this colour corresponds to **Citrinitas**,[^Jung] the penultimate stage of transformation, where illumination precedes integration.
+In the Arcana, Yellow serves as {REDACTED} In Aesthetic Hermeticism[^AH], it captures the Golden Hour of liminality, and the Ultimate Secret of the Petal in the Golden Flower. The {Athanor|Alembic}. {Cruci|ally|ble}, In alchemy, this colour corresponds to Citrinitas,[^Jung] {REDACTED} illumination precedes integration.
 
-The **Yellow Land Line Telephone**, a tritone-tined fork of recursive connection, embodies this duality as a narrative device. Both a symbol of memory’s tension and a tool of revelation, its ringing is the call of transformation, tethering characters and layers of meaning across the recursive structure of the **Lexicomythography**.
+The Yellow Land Line Telephone, a {REDACTED} fork of {REDACTED} tethering characters and {REDACTED} form of Lexicomythography.
 
 ## METACOMMENTARY
 

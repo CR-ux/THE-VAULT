@@ -4,7 +4,7 @@ permalink: Upon Reading Fabienne Elina's Paper On The Sound Of A Single Vowel
 
 Upon Reading Fabienne[^Fab] Elina's[^Eli] Paper On The Sound Of A Single Vowel, I once again learned, or in other words remembered, or indeed forgot[^Forget] the Truth which is that:
 No-thing really means anything. 
-Which means every-thing means One Thing. \
+Which means every-thing means One Thing. 
 Which means everything means something.
 
 

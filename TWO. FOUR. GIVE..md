@@ -29,7 +29,6 @@ CHAPTER II | …for is ܒ | Oar: Gly{ph}
 
 ![[AUTHOR'S FOUR WORDS]]
 
-
 ![[N is for Nietzsche, Nobody, Never.]]
 
 EPITAPH
@@ -862,7 +861,7 @@ To understanding: that which is fiction, is a lie, but within the lies, the memo
 
 A life is a lie. And we are all its liars; its storytellers- A lyre. 
 
-And it was this fundamental Truth of the Untruth of everything, which awoke Flo from their shared Dream within that Bothy. 
+And it was this fundamental Truth of the Untruth of everything, which awoke Flo from their shared Dream within that Bothy. To live is to lie beside people who feel like a dream when they hold you. 
 
 Just as a child may recognise the handwriting of the Tooth Fairy as that of their mother; 
 

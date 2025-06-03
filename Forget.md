@@ -15,14 +15,10 @@ permalink: Forget
 *hexCode not found*
 {REDACTED}
 
-[[Figure]]; One. 
-
-![[Fig. 3 — Hexahedral Narrative Sphere with 6 Chess Layers and Mirrored Reflections 1.png]]
+[[Figure]] {I}. 
 
 
-
-
-
+{REDACTED}
 Bibliogorætiography
 --
 
