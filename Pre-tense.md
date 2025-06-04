@@ -1,7 +1,6 @@
 ---
 permalink: Pre-tense
 ---
-lexDef "Pretense" {usage::: Croen} < N.B. "A Pre-tense of [[Presence]]" [^PretenseCroen]
+lexDef "Pretense" {usage::: Croen} < N.B. "A Pre-tense of ![[Presence]]
 
-[^PretenseCroen]: [[Present]], [[Past]].
 

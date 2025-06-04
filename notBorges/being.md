@@ -1,5 +1,5 @@
 ---
 permalink: being
 ---
-IN THIS [[BODY]]
+IN THIS [[Body]]
 IS TALKING TO GOD

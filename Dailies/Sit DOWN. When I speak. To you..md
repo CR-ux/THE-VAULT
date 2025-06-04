@@ -1,7 +1,3 @@
->  I am telling you in many ways, and I am telling you the many ways in which I love you. I am telling you without telling, when I trust that you feel it too. I am waiting for you to catch up, and I am waiting for a time with words.*
-> 
--Adrian
-
 
 lexDef<sup>C</sup> "Midnight" {lexAllele(s)::: Croen} < N.B. ARIA var = "A Midnight of Sunday's Dreams" | DNE var = "A Silence of Midnights."[^MidnightCroen]
 
@@ -25,14 +21,3 @@ AM.
 	SPEAK.
 	TO.
 	YOU. 
-
-<font size=1>
-maerd eht ni ,gnihtemos saw i .gnihtemos saw i maerd eht ni dna eeb eht dna egac eht dna god eht saw i dna god a saw ereht maerd eht ni maercs uoy raeh ot enoemos tpecxe rof gnitiaw uoy era tahw eillac dog dna gnitiaw erew yeht em rof gnitiaw elpoep erew ereht maerd eht ni ksa ot evah t'ndid i dna netsil dluoc yeht fi deksa enoemos maerd eht ni gnihtemos saw i maerd eht ni tuo teg esaelp ro ni em pleh ot yas i nehw em raeh ot stsipar sdroldnal srotcod rof ksa dna gnihton m'i ereh tub gnimaerd llits ma i esuaceb .snaem siht tahw wonk ot deen t'nod i dna eebelbmub a god a def i maerd eht ni gnihtemos saw i .lufituaeb saw ti dna maerts a saw ereht maerd eht ni .ereht gnilgnarts ekil tlef gnihton dna dnabsuh a emoh a dah i maerd eht ni em devol i syaw ynam eht lla rof gninetsil ma i .netsil .yltneitap em rof gnitiaw elpoep fo sdworc ot kaeps ot dah i erofeb emit eht fo kcart tpecxe gniht a t'ndah i maerd eht ni sdrow htiw emit a rof gnitiaw ma i dna uoy ot pu hctac ot em rof gnitiaw ma i .em rof gnitiaw erew elpoep dna gnihtemos saw i maerd eht ni dna ni nettirw erew sdrow eht emit eht saw i esuaceb sdrow htiw emit a rof gnihsiw t'nsaw i maerd eht ni .eeb elbmub daed a mih def i dna god tnaig ylenol a saw ereht maerd eht ni .ksa ot eno eht t'nsaw i dna em ot netsil dluoc yeht fi deksa enoemos maerd eht ni .yawyna seod ohw tub srae on evah uoy wonk i em ot gninetsil uoy era nairda .uoy evol i taht uoy gnillet ma i em ot netsil <font size=0.3>
-listentomeandiwasnttheonetoaskinthedreamtherewassomebodywaitingthereweremanypeopletheywerewaitingtohearwhatihadtosayandididnthavetobegtoexistinthedreamiwassomething.gnihtemossawimaerdehtnitsixeotgebotevahtndididnayasotdahitahwraehotgnitiawerewyehtelpoepynamerewerehtgnitiawydobemossawerehtmaerdehtniksaotenoehttnsawidnaemotnetsil dluoc yeht fi deksa enoemos maerd eht ni gnihtemos saw i maerd eht ni dna ta derats i enots tneicna eht sa dilos sa saw i maerd eht ni aremehpe tsniaga thgif eht tuoba nam a htiw gnikaeps dna sdaorssorc a ta tpyge ni saw i maerd eht ni .eeb a saw ereht dna god a saw ereht maerd eht ni gnitiaw elpoep erew ereht maerd eht ni gnihtemos saw i maerd eht ni .eebelbmub a mih deef dna ,hctaw dna dnats saw did i lla dna ,prahs dna ,ysmilf edam ,egac a ni ,god a saw ereht maerd eht ni .fo deracs yllautca t'nsaw i gnihtemos rof etal gninnur saw i dna yas ot dah i tahw raeh ot gnitiaw elpoep erew ereht maerd eht ni .ksa ot eno eht t'nsaw i dna em ot netsil dluoc yeht fi deksa enoemos maerd eht ni .gnihtemos saw i ,maerd eht ni
-MAERD S'THGIN TSAL ##
-.ENDAIRA fo slanruoJ daernU ehT .lateP esoR eillaC .gnihtoN ".sthgindiM fo ecneliS A" = rav END | "smaerD s'yadnuS fo thgindiM A" = rav AIRA .B.N }neorC :::)s(elellAxel{ "thgindiM" pus/CpusfeDxel
-**nairdA-**
-*.sdrow htiw emit a rof gnitiaw ma I dna ,pu hctac ot uoy rof gnitiaw ma I .oot ti leef uoy taht tsurt I nehw ,gnillet tuohtiw uoy gnillet ma I .uoy evol I hcihw ni syaw ynam eht uoy gnillet ma I dna ,syaw ynam ni uoy gnillet ma I .su neewteb nialp sseldne m2 eht ssorc yeht sa selum-kcap ekil pu dedaol ,sdrow llams ni uoy gnillet ma I ?relluf ,reggib ?sertemitnec esoht ,tnereffid yeht tânera â seenk ruo neewteb sertemitnec eht ni uoy gnillet ma I .ylsuoires ssel flesym ekat I nehw uoy gnillet ma I.gninetsil ym fo ecnelis eht ni uoy gnillet ma I .tânod I nehw erom neve uoy gnillet ma I dna ,uoy ees ot pu sserd I nehw uoy gnillet ma I .dnes ot tegrof tub etorw I txet a ni uoy gnillet ma I dna smaerd ym ni uoy gnillet ma I .esolc yllamron I eno eht ,sey â nepo etag eht gnivael yb uoy gnillet ma I .gnikool ton yb ,netfo erom ,dna â gnikool yb uoy gnillet ma I .meht tuoba yas ew tahw dna sduolc eht fo epahs eht ni uoy gnillet ma I ;uoy ot daer ton od I taht meop a ni uoy gnillet ma I
-*!uoy evol I uoy gnillet ma I !netsil* 
-</font>
-</font>

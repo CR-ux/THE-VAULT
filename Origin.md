@@ -8,7 +8,6 @@ lexDef "Origin" {usage::: Noen || Croen} < A Gate. [^OriginNoen] || N.B. "An Aga
 
 
 
-"A Story is a Memory Oar"
-- Jean Gebser
+"A Story is--
 
-![[Read. Wyrng. Parallel.]]
+![[a Memory Oar]]

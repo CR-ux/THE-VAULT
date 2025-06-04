@@ -158,16 +158,6 @@ the first one
 
 
 
-
-
-
-
-*i am tired and i am afraid and my heart is full of dread and hope, i don't want to go to hospital again this year please let this year be the one where i just get to not go to hospital but {you | i} know all of this is just {ever } {walking towards | hunting} {t{{w}o|e} | {ho{spit}al} | t{o {h}ospital}Wards} a bear, laid bare, a heart, alone again, in hospital*
-
-
-
-
-
 i {m|k}issed your face  
 
 
@@ -198,13 +188,9 @@ those roads where we {kissed | {were} assaulted | we'll never take {again} | avo
 
 there must {have} be{en} some mistake 
 
-
-
-i was wearing the sweatshirt they made for me outside the house for the first time since all of 
-
-
-
-<span class="right-align"></spa>
+something
+left
+by
 
 
 
@@ -214,7 +200,7 @@ i was wearing the sweatshirt they made for me outside the house for the first ti
 
 
 
-and still i can't find the microphones  *leant*
+and still i can't find the microphones  leant
 
 
 

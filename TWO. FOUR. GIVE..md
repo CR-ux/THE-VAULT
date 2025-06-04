@@ -44,48 +44,43 @@ CHAPTER III | …for is ܓ | Oar: Ala{te|rm}
 
 ---
 
-
-LOCH: INNER
-KEY:  ∈ | t | {const}
-
+**LOCH: INNER**
+**KEY:  ∈ | t | {const}**
+**var N = A** 
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-**{REDACTED}**
-
-**A is for** 
+****
+**Isn't N for** 
 ![[Augury]]
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
-**{REDACTED}**
-**A is for** 
+****
+**But I am that N is for**
 ![[Abomination]]
 
-**🜃 / ♜  | OBS: 18:00 | N=10³⁶**
-**{REDACTED}**
-**A is for** 
+**🜂 / ♞  | OBS: 15:00 | ε=0.007**
+****
+**Scratch that. N is for**
 ![[Addendum]]
 
+
+**🜃 / ♜  | OBS: 18:00 | N=10³⁶**
+****
+**No. N must be for**
+![[Ariadne]]
+
 **🜄 / ♝ | OBS: 21:00 | D=3**
-**{REDACTED}**
-**A is for** 
+****
+**whtifNforI**
+![[Am I?]]
 
-
-
+**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
+****
+**Now I am I sure. That N is for** 
+![[Assignment]]
 
 
 ---
-
-
-
-
-
-lexDef "Augury" {usage::: Noen || Wyrb || Croen (ARIA | DNE)} < {REDACTED}[^AuguryNoen] || To Draw Meaning From The Flight And Cries Of Birds, And Half-Heard Words, To Scribe The Words Describing Herds of Sleeping Lambs Awoken By The Buzzing Of The Flies [^AuguryWyrb] || N.B. "ARIA var = An Augury of Organs | DNE var = An Auspiciousness of Augurs. "[^AuguryCroen]
-
-[^AuguryNoen]: [[{REDACTED}]], {REDACTED}
-[^AuguryWyrb]: [[{REDACTED}]], {REDACTED}
-[^AuguryCroen]: [[{REDACTED}]], {REDACTED}
-
-
 
 # Why B is for 'Both'
 
@@ -309,11 +304,6 @@ Ever A-"*
 
 
 
-
-
-![[What's Left When You've Run Out Of Choices]]
-
-
 [^Fork]: many thought they never could, some did try, {ᴺB: One of particular Noet}, and never came back, which of course does not mean they wanted to. But the many who never tried assumed {perhaps erroneously} that those who {definitely} crossed the boundary of their back garden were not permitted, allowed, or able to return {to where they'd started, as if for the first time}.  
 [^range]: Ecclesiastical Latin: 'enclosure' - often used lovingly, but incorrectly, to describe the 'range' of a voice, a piece of music, or the 'tonal space' of a given mode's extension within its highest trough and lowest peak.
 
@@ -324,27 +314,71 @@ Ever A-"*
 CHAPTER IV | …for is ܕ | Oar: Asp{ire}
 
 ---
-FOUR WORDS
+
+
+**LOCH: INNER**
+**KEY:  ∈ | t | {const}**
+**var N = B** 
+
+**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
+****
+**Isn't N for** 
+![[Barnabie]]
+
+**🜂 / ♞  | OBS: 15:00 | ε=0.007**
+****
+**But I am that N is for**
+
+![[Beauty]]
+
+
+**🜃 / ♜  | OBS: 18:00 | N=10³⁶**
+****
+**No. N must be for**
+
+![[Bellows]]
+
+
+**🜄 / ♝ | OBS: 21:00 | D=3**
+****
+**whtifNfor**
+
+![[Bestow]]
+
+
+**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
+****
+**Now I am I sure. That N is for** 
+![[Body]]
+
+
+**🜂 / ♞  | OBS: 15:00 | ε=0.007**
+****
+**But I am that N is for**
+![[Branch]]
+
+**🜂 / ♞  | OBS: 15:00 | ε=0.007**
+****
+**Or perhaps N is for**
+![[Breath]]
+
+
+**🜃 / ♜  | OBS: 18:00 | N=10³⁶**
+****
+**No. N must be for**
+![[Burn]]
+
+**🜄 / ♝ | OBS: 21:00 | D=3**
+****
+**whtifNfor**
+![[Bottle]]
+
+
+**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
+****
+**Just as N is for** 
+![[Borges]]
 ---
-
-
-
-LOCH: INNER
-KEY:  ∈ | t | {const}
-
-
-🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
-{REDACTED}
-A is for 
-
-🜂 / ♞  | OBS: 15:00 | ε=0.007
-{REDACTED}
-
-🜃 / ♜  | OBS: 18:00 | N=10³⁶
-{REDACTED}
-
-🜄 / ♝ | OBS: 21:00 | D=3
-{REDACTED}
 
 ```
 FAO: ᴺᵒᵉᵗFranklin, The Double Spiral Staircase  
@@ -389,6 +423,39 @@ CHAPTER V | …for is ܗ | Oar: Glu{on}
 Her eyes were deliciously heavy, too much to handle any more incessant backlight from her Machine's Screen (even with her sensorily-forgiving Terminal settings). She placed the Codex back on the shelf, being careful not to knock the mug over this time (although, it now being empty, the tentativeness was perhaps misplaced) - and before taking her normal {daily|yearly} nap, her final thought was of Borges, in spite of herself - and how some things, no matter how many layers of infinity deep, are just in the Wrong place, the Wrong time. The Wrong Day, The Wrong {k}Night--
 
 ---
+ 
+
+**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
+
+**Isn't N for** 
+![[Cacophony]]
+
+**🜂 / ♞  | OBS: 15:00 | ε=0.007**
+
+**But I am that N is for**
+![[Change]]
+
+**🜂 / ♞  | OBS: 15:00 | ε=0.007**
+****
+**Scratch that. N is for**
+![[Character]]
+
+**🜃 / ♜  | OBS: 18:00 | N=10³⁶**
+****
+**No. N must be for**
+![[Confusion]]
+
+**🜄 / ♝ | OBS: 21:00 | D=3**
+****
+**whtifNfor**
+![[Cult]]
+
+**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
+****
+**Now I am I sure. That N is for** 
+![[Cultivate]]
+
+---
 
 CHAPTER VI | …for is ܘ | Oar: Val{our}
 
@@ -402,7 +469,7 @@ It is not possible for a non-ligated consciousness to cross the Uncrossable Door
 
 
 
-{REDACTED}
+
 
 As always, in crossing, VIXI took a single moment (that is to say, the eternity of all time) within the wheels-within-wheeled mechanism of the Uncrossable Door to ponder on what sort of unholy separation, what {REDACTION}, what Schism might happen to a 
 
@@ -453,9 +520,8 @@ and at the apex of their lung capacity, sealed this universal gesture of adorati
 
 They began, again, as is the usual practice, with the prologue:
 
-
-
-
+---
+![[D IS FOR]]
 
 ---
 
@@ -477,26 +543,20 @@ And this was what dragged him back to the Central Galleries of the Library. This
 Through a vent, a letter, made of letters, between Four characters of Six, was being passed:
 
 ---
+![[E IS FOR]]
 
+---
 
-🜁  / ♟︎  | OBS: 00:00 | Q=10⁻⁵
-{REDACTED}
-
-🜂 / ♞  | OBS: 03:00 | ε=0.007
-{REDACTED}
-
-🜃 / ♜  | OBS: 06:00 | N=10³⁶
-{REDACTED}
-
-🜄 / ♝ | OBS: 09:00 | D=3
-{REDACTED}
+Some {REDACTED} later
 
 ---
 
 
-Some {REDACTED} later
-
 ![[RITUAL OF THE TIRED SYRINGE]]
+
+---
+
+![[F IS FOR]]
 
 ---
 
@@ -513,6 +573,13 @@ I know that you may not wish to speak to me following our breakup, but I wanted 
 ~~~
 
 ![[Attachment- MIKKÆLANGELOVS_DAVID-painter_of_Minerva_Fighting_Herself.pdf]]
+
+---
+
+
+
+![[G IS FOR]]
+
 
 
 ---
@@ -535,6 +602,8 @@ And NoetMahler closed the blocked Vent of his Heart, again.
 There was no getting over this. 
 There was simply too much buried under this. 
 There was no way through.
+
+![[H is for]]
 
 ---
 
@@ -565,17 +634,13 @@ The question hung like a spider, and the two of them flies; flightless -
 N. slumped downward, into the soft cushioning of the futon, where Flo held them (singular/plural), until they fell asleep. And they dreamed.
 
 
+![[EYE IS FOR]]
+
 ---
 
 CHAPTER XI | …for is ܟ  | Oar: {an}**Thr**{opomorhism||ough|ead}
 
 ---
-
-
-> *"Devised as a system of Communication in The Era of Silent Dark in a Violent Mark Upon Hystory, The yolkFolk of the Hystorian Oak,* 
-> *There, They Spoke with The Gordian Choke"*
-- Dr Seuss, 1994
-
 
 
 They dreamed that 
@@ -590,56 +655,15 @@ They are
 
 ---
 
-LOCH: INNER
-KEY:  ∈ | t | {const}
-
-
-
-🜁  / ♟︎  | OBS: 00:00 | Q=10⁻⁵
-{REDACTED}
-
-🜂 / ♞  | OBS: 03:00 | ε=0.007
-{REDACTED}
-
-🜃 / ♜  | OBS: 06:00 | N=10³⁶
-{REDACTED}
-
-🜄 / ♝ | OBS: 09:00 | D=3
-{REDACTED}
-
-
----
-
 CHAPTER XII | …for is ܠ  | Oar: {{Hylo|Diffeo|A}morp}|{(||)**His**(tone)(\_)(m)}(odification)}
 
 ---
 
+![[J IS FOR]]
 
+---
 
-~~~
-FAO: ᴺᵒᵉᵗJung, Oneirology Dept.
-BCC: VIXI.  
-From the Desk of ᴺᵒᵉᵗBorges,  
-
----  
-
-My Sweetest Dream, ᴺᵒᵉᵗJung
-
-
-Tell me, Please, what are you Dreaming?
-I know it is no longer of me. I just want to hear the beautiful Symbols, that you conjure from the Oceans of that deep, deep heart.
-
-
-Yours, Yores, Urs--  
-
--ᴺᵒᵉᵗBorges  
-
-Department Of Infinite Reflections,  
-The Garden Wing  
-The Indefinite Library of Fable
-~~~
-
-ᴺᵒᵉᵗJung was indeed dreaming when the Letter from ᴺᵒᵉᵗBorges slid through the ornate letterbox, carved with a Nine Dimensional Mandala (flattened into a Three Dimensional Cross Section {rendered in a Two Dimensional Plane}) he had seen in a terrifying and fantastic Vision. The contents of his dream took the form of a paper, a mostly dismembered, somewhat misremembered academic paper from the collection on his Bookshelves, that he'd been reading just before the moment he crossed the boundary to the Realm of Symbol, the Place He Loved To Go- much preferred to Wherever This Place Was. He drooled upon the words, while his Soul rearranged them into an abstract Form of a Single Colour.
+ᴺᵒᵉᵗJung was dreaming when the Letter from ᴺᵒᵉᵗBorges slid through the ornate letterbox, carved with a Nine Dimensional Mandala (flattened into a Three Dimensional Cross Section {rendered in a Two Dimensional Plane}) he had seen in a terrifying and fantastic Vision. The contents of his dream took the form of a paper, a mostly dismembered, somewhat misremembered academic paper from the collection on his Bookshelves, that he'd been reading just before the moment he crossed the boundary to the Realm of Symbol, the Place He Loved To Go- much preferred to Wherever This Place Was. He drooled upon the words, while his Soul rearranged them into an abstract Form of a Single Colour.
 
 ![[The Colour- Yellow.]]
 
@@ -658,6 +682,11 @@ CHAPTER XIII | …for is ܡ | Oar: G{öde}l{ia}n
 
 ![[Observe. Silence.]]
 
+---
+
+
+![[K IS FOR]]
+
 
 ---
 
@@ -668,14 +697,13 @@ CHAPTER XIV | …for is ܢ  | Oar: As{I}n, Asparagine
 
 ![[From Cradle to Casket to Castle]]
 
+---
 
 
+![[L IS FOR]]
 
 
 ---
-
-![[THE MANGLE IS THE MESSAGE]]
-
 
 Upon awaking, a pool of drool having {collected|flowed} from {either|both} of {Flo|Dante's} mouths while they slept in an ouroboros of {sleep|pillow|love|knot}; Flo saw (just past N's snoring Body) a tattered, disintegrated translucent membrane of a substance, hanging like laundry above the hearth, which was currently in a somnolence of its own.
 
@@ -727,11 +755,19 @@ Flo grinned and pointed at themselves, asking a rhetorical question with a gestu
 
 And {{To|(get)}|her}}, for one last time, they dreamed-
 
+---
 
+
+![[THE MANGLE IS THE MESSAGE]]
 
 ---
 
 CHAPTER XV | …for is ܣ | Oar: Cys
+
+---
+
+
+![[O IS FOR]]
 
 ---
 
@@ -763,6 +799,10 @@ CHAPTER XV | …for is ܣ | Oar: Cys
 Attachment(1)
 
 ![[One Thing Missing - a scrabble variant]]
+
+---
+
+![[P IS FOR]]
 
 ---
 
@@ -815,26 +855,10 @@ not transcribed, but heard, half-heard,
 between the waves of possibility 
 the two of them had once been, 
 
-it told Borges everything he needed to know. 
+That Thing, now missing--
+That No Thing;
 
-This mark, left on his heart, by all these now-exes 
-This smudge 
-He'd become, 
-This 
-Stain,
-This spot, 
-marked-
-This
-
-X
---
-
-![[One I Left, Knot Right]]
-
-
-- Jorge Luis Borges, Unattributed Writings, 2025. 
-
-
+it told Borges Everything he needed to know. 
 
 ---
 
@@ -843,33 +867,15 @@ CHAPTER XVII | …for is ܦ | Oar: Arg
 ---
 
 
-
-![[Y?]]
-
-Sentence
----
-
-lexDef "Sentence" {usage::: Noen || Croen} < A Verdict. [^SentenceNoen] || N.B. "A Sentence of
-
-![[Endings]]
-
-[^SentenceNoen]: ![[Letter]], The [[lexDict]], ARIA|DNE
-[^WhyNoen] || N.B. "A Why of Answers"[^WhyCroen]
-
-
-[^WhyNoen]: [[Full]], Stop. End of Transmission.
-
-[^WhyCroen]: [[Answer]], SHAONWYRM, The Lexicomythographer's Bible
-
-
-
-
+![[Q IS FOR]]
 
 
 ![[on the ligature of two characters]]
 
 
+---
 
+![[R IS FOR]]
 
 
 ---
@@ -878,8 +884,9 @@ CHAPTER XVIII | …for is ܨ | Oar: Lys
 
 ---
 
+Streaming, satisfying, like the first piss of the morning, reflected from the Moat, and poured through the skylight.
 
-Flo awoke, knowing this beginning, the beginning of their life, telling stories in the scales of the floorboards, playing music in words describing infinite distance between notes, and now, learning, at least in part, of the distance between two Holy Noets now separated by the Moat that they had been told was uncrossable -
+And Flo awoke, knowing this beginning, the beginning of their life, telling stories in the scales of the floorboards, playing music in words describing infinite distance between notes, and now, learning, at least in part, of the distance between two Holy Noets now separated by the Moat that they had been told was uncrossable -
 
 
 ![[MAIL (23) TO]]
@@ -894,6 +901,15 @@ The Word, in all its insufficiency, in all its reaching for the Thing it describ
 
 The Meaning of Words, in all their meandering weightlessness, they are as knotted evolutionary machines, Devices of endless replication. The Meaning we take from Words, each of us, infinitely different, so that, absurdly, we may try to make sense of the separation between us-
 
+---
+
+![[S IS FOR]]
+
+
+
+---
+
+
 The Memories that we contain, in Stories, they are a vehicle, a floatation device- heavy, painful things, a gravity that keeps us at once tethered to this Boat, and bound for a destination unknown-
 
 And all this means, is division, is awareness of unity- 
@@ -902,6 +918,12 @@ A Memory is a Meaning Stored.
 A Story is a Memory Oar. 
 
 The Stories told to us as children, those perhaps forgotten, but still in some way held, adored; they are adoring; they are a Door--
+
+---
+![[T IS FOR]]
+
+
+---
 
 To understanding: that which is fiction, is a lie, but within the lies, the memory of all the lying down beside a parent, between our creators, when Dreams unfurl to Nightmares and we cannot bear the Dark - all the Magick of the world, encapsulated in what some may call a 'lie'
 
@@ -917,7 +939,21 @@ That is when the Parent becomes the Child,
 
 and the Oar leaves the embrace of the Water, to rise, rotate, return again, a little further upstream. 
 
+---
+
+![[U IS FOR]]
+
+---
+
+
 And so, as NoetNietzsche slept, an unthinkable infinity from the arms of the NoetBorges who so sorely missed them, on that humble Mezzanine bed, Flo kissed them. Breath held, both for fear of their inhalation's sound awakening N, and for fear of the love of their parents' scent keeping them tethered to this place forever. One final time.
+
+
+---
+![[V IS FOR]]
+
+
+---
 
 Scaling those musical floorboards, finding the One, winding Path which unwound all the others, the one route along the creaking wooden floor that would not alert N to their leaving; 
 
@@ -975,6 +1011,10 @@ formidable
 Character.
 
 
+---
+
+![[W IS FOR]]
+
 
 ---
 
@@ -982,20 +1022,11 @@ CHAPTER XIX | …for is ܩ  | Oar: Tyr
 
 ---
 
-
-🜁  / ♟︎  | OBS: 12:00 | Q=10⁻⁵
-{REDACTED}
-
-🜂 / ♞  | OBS: 15:00 | ε=0.007
-{REDACTED}
-
-🜃 / ♜  | OBS: 18:00 | N=10³⁶
-{REDACTED}
-
-🜄 / ♝ | OBS: 21:00 | D=3
-{REDACTED}
+But then, the others would not answer.
+And Pawn was left, alone.
 
 
+![[X IS FOR]]
 
 
 ---
@@ -1004,6 +1035,9 @@ CHAPTER XX | …for is ܪ  | Oar: Met
 
 ---
 
+![[Y?]]
+
+![[Sentence]]
 
 Through performing a Ritual, with an egg {laid on a leaf}, by a learned chess player and lesser-known Witch, once thought and written down as fiction, but brought into Not-Being, which is to say, friction; Being--
 
@@ -1034,6 +1068,12 @@ home
 ---
 
 CHAPTER XXI | …for is ܫ | Oar: Trp
+
+---
+
+
+![[Z IS FOR]]
+
 
 ---
 

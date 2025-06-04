@@ -315,18 +315,8 @@ RE: The Aria Mahler Attribution Society
 
 FWD: To Whom It May Concern,
 	  
-	It is with a profound sense of respect and anticipation that I write in support of ⧖’s grant application for _Queering Mahler’s Symphonies_. ⧖’s ambitious project stands at the crossroads of historical discovery, musicology, and personal resilience, promising a profound impact on the understanding of musical and symbolic systems.
-	
-	Through their meticulous study of Hilda Wiltergarten’s manuscripts, ⧖ has unearthed a 23-pitch microtonal scale, a discovery that harmonises mathematical precision with emotional resonance. These manuscripts, with their layered calligraphy and intricate, recursive patterns, provide fertile soil for understanding the interplay of sound, narrative, and the physical act of creation. ⧖’s analytical process echoes an approach I might describe as Endivean, for its ability to deconstruct and reconstruct meaning at the molecular level of art—a sensitivity observed such as in the haptic study of culinary form in my grand daughter Sunny’s work.
-	
-	This micro-character approach, tracing symbolic components through tactile and sensory engagement, has clear parallels in ⧖’s reinterpretation of Mahler’s symphonies. their exploration of Mahler’s work through a gendered lens offers a fresh, poignant perspective on the archetypes woven into the music. The courage and insight required to interrogate such deeply rooted structures—while integrating them with the rediscovered microtonal scale—is a testament to their vision.
-	
-	⧖’s personal journey is as compelling as their academic one. their transition from composer and concert pianist to conductor and, finally, to a theoretical quantum musicologist—driven by the physical challenges posed by Ehlers-Danlos Syndrome (Esctheir's subtype)—is a story of adaptation and creativity. Born blind, and subsequently the recipient of the first and only insertion of an Ocular Endivean Implant, they are a beacon of Hope for many disabled and trans creative Minds. The repetitive subluxations in their hands, culminating in the loss of function in their dominant right hand, might have silenced a lesser artist. Instead, ⧖ has reimagined their practice, allowing absence to inform presence, silence to shape sound, and limitation to inspire boundless theoretical innovation.
-	
-	As someone who has long been fascinated by the intersection of sensory perception and symbolic understanding, I find ⧖’s work deeply resonant. their ability to analyze art through its smallest yet most profound elements—whettheir the microtonal steps of Wiltergarten’s scale or the subtextual symbology of Mahler’s movements—represents a methodological leap forward, or slain dragon if you will, in understanding how we create and interpret meaning.
-	I have no doubt that _Queering Mahler’s Symphonies_ will set a new standard in interdisciplinary musicology. ⧖’s synthesis of historical analysis, personal narrative, and innovative theory offers a narrative as rich and recursive as the symphonies they seeks to reinterpret.
-	
-	I urge the granting body to support this exceptional project, which not only enriches the fields of music and cultural history but also speaks to the enduring resilience of creativity in the face of adversity.
+	It is with a profound sense of respect and anticipation that I write in support of ⧖’s grant application for _Queering Mahler’s Symphonies_.
+	{REDACTED}
 
   
 Yours within,

@@ -1,10 +1,7 @@
 ---
 permalink: Am
 ---
-lexDef "Am" {usage::: Noen} < {Self|God|Other}[[lexDict, Noen Edition/Hood]][^AmNoen]
-
-[^AmNoen]: [[lexDict, Noen Edition/I]], The Book of Revelation
-![[Am.pdf]]
+lexDef "Am" {usage::: Noen} < {Self|God|Other}
 
 ![[I am]]
 

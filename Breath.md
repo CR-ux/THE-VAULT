@@ -1,6 +1,4 @@
 ---
 permalink: Breath
 ---
-lexDef "Breath" {usage::: Croen} < N.B. "A Breath of Bellows"[^BreathCroen]
-
-[^BreathCroen]: [[Bellows.]], notBorges, 2025.
+lexDef "Breath" {usage::: Croen} < N.B. "A Breath of Bellows"

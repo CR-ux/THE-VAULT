@@ -36,7 +36,7 @@ Keys:
 
 
 ## **ÆBSTRACT**
-
+<br>
 **The Lexicomythographical Contexts of the Colour Yellow: 
 *Through the Looking Glass of Aesthetic Hermeticism***
 
@@ -45,33 +45,58 @@ Keys:
 <sup>1</sup> Founder of The School of Biomolecular Chessics
 <sup>2</sup> Founder of The School of Non-Ironic Byron{if|or}matics
 
+<br>
 
-This Seminal paper explores the dual, arborescent nature of **yellow** as both symbol and process within the framework of the Emergent School of **Aesthetic Hermeticism**[^†], a field {REDACTED} mirrored Lexicomythographical contexts of the 'Yellow Land', (as discussed in 'The Loving Portmanteau, JoJo's' collection of seminal Works: The Yellow Land Line Telephone[^jj]) —a {REDACTED} framework of A IS KNOT FOR AUGURY.
+This Seminal paper explores arborescent nature of **yellow** as {symbol|process} within the Emergent School of **Aesthetic Hermeticism**[^†]
 
-Yellow, {primari|final}ly, reflects an underlying symbol for the intermediate, ever-{present|elusive} origin of trans{formation|genderism}: the fading, s\<ac>red bruise, born of oxygenated (red) and deoxygenated (blue) blood. 
-It becomes the residue of trauma, and the evidence of healing, embodying a Gnobius strip of Art{i|e}fact, where {{dis}ease} exists in binomial necessity. In this way, yellow is not merely a hue but a cl(u){e{w}}- a thread {REDACTED}
+Yellow, {primari|final}ly, reflects an underlying symbol for the ever-{present|elusive} origin of trans{formation|genderism}: the fading, s\<ac>red bruise, born of oxygenated (red) and deoxygenated (blue) blood. 
+The {residue of trauma|evidence of healing}, a Gnoebius strip of Art{i|e}fact, where {{dis}ease} exists in binomial necessity.
 
-{Converse|identical}ly, yellow reveals the paradoxical nature of light itself: sun{rise|Set}, beginnings and {beginn|end}ings, {clar|obscur}ity. Light, as memory, can {satur|illumin}ate—revealing truths too stark to Bear while b(l)inding with their shimmer. Yellow thus becomes the veil, a Moat bridging the visible Library and the unseen Tundra, the known and the unknowable.
+Yellow reveals light itself: sun{rise|Set}. And as memory, can {satur|illumin}ate—revealing truths too stark to Bear while b(l)inding with their shimmer. 
 
-In the Arcana, Yellow serves as {REDACTED} In Aesthetic Hermeticism[^AH], it captures the Golden Hour of liminality, and the Ultimate Secret of the Petal in the Golden Flower. The {Athanor|Alembic}. {Cruci|ally|ble}, In alchemy, this colour corresponds to Citrinitas,[^Jung] {REDACTED} illumination precedes integration.
+In Aesthetic Hermeticism[^AH], it captures the Ultimate Secret of the Petal in the Golden Flower. In NoetJungs *Principalis Alchemie*, yellow corresponds to Citrinitas.[^Jung]
+<br>
+## WITHHELD DISCUSSION
+<br>
+`FAO: ᴺᵒᵉᵗJung, Oneirology Dept.`
+`BCC: VIXI.`  
+`From the Desk of ᴺᵒᵉᵗBorges,`  
 
-The Yellow Land Line Telephone, a {REDACTED} fork of {REDACTED} tethering characters and {REDACTED} form of Lexicomythography.
+`---`  
 
-## METACOMMENTARY
+`My Sweetest Dream, ᴺᵒᵉᵗJung`
+
+
+`Tell me, please, what are you Dreaming?`
+`I know it is no longer of me. I just want to hear the beautiful Symbols, that you conjure from the Oceans of that deep, deep heart.`
+
+
+`Yours, Yores, Urs--`  
+
+`-ᴺᵒᵉᵗBorges`  
+
+`Department Of Infinite Reflections,`  
+`The Garden Wing`  
+`The Indefinite Library of Fable`
+
+
+
+
+## ATEMCOMMENTARY[^ATEM]
 
 *lexDef{Æ} {lexAllele(s)::: Noen} "Yell{o|i}": a merging of ideas into one, a worn-{in|out} narrative Device, loudly swallowing the form of itself into silence.*
 
-* This paper, forming the **body {REDACTED} emerges as a bibliographic branch from {REDACTED} It unfolds into {REDACTED}[^io], where yellow’s aesthetic and hermetic contexts are woven into the calligraphic and musical symbology of Gordian Knotation, a microtonal scale Calligraphed by one {REDACTED} much later {REDACTED} by {REDACTED} art in Hospital, {REDACTED} trans-temporal {REDACTED}perform{REDACTED}vents, that would, necessarily, lead to {REDACTED}. This web of {REDACTED} seeds {REDACTED}.[^u]
-  * The paper {REDACTED} node {REDACTED} tether{REDACTED}to {REDACTED} Yellow Land Line Telephone, {REDACTED} dream of {REDACTED}. This {REDACTED} infinite recursion {REDACTED}.
-    * This {RED|DID|ACT{IC|ED}} Device {REDACTED} in{her}ent necessity {REDACTED} self-limiting {REDACTED} initiated {REDACTED} Clergy {REDACTED} thought, {REDACTED}-source and hermetically {REDACTED}-via {{economic|sociopolitic|anthropologic}al| elitist} {REDACTED} '{Vaults|Lochs}' {REDACTED} knowledge, to which {Every|No} Body {Al(l)one} holds a Key.[^transcript]
-
 [^†]: (†a fictional field of study)
-[^jj]:formed in collaboration between -rge Luis Borges and -hann Wolfgang von Goethe, est 2033)
+
 
 [^AH]: Aesthetic Hermeticism is the {Work|Bank|Field|Fortress} {that|of|has|holding} d(r)ying (l)eaves {with{in}|out{with}} a {Body|River|Bridge|Moat} passing {away|under|over|through} as the vessel of a Bloodcell out of a Flowing Body of the Blood moving in a vessel of a vein to return to the Re(Main(S(He(Ocean)art)ea)Body)ading of this paper, in vain.
 
 
 [^io]: [[The Symphony of Ten Thousand Things]]
 [^u]:  [[Observe. Silence.]]
-[^Jung]: <sup>Noet</sup>Jung, 'on Waking' - from the Library, Era UnNoen.
+[^Jung]: <sup>Noet</sup>Jung, 'on Waking' - an unanswered call from NoetBorges on the Yellow Landline Telephone; the Library, Era UnNoen.
 [^disaster]: (the disastrous pandemic outbreak of Phage 23). 
+[^ATEM]: lexTrans "Atem" *{anteAntiquarian Deutsch}* << "breath". It can also refer to {"breathlessness"|{in need|out}} of breath. In archeAnteAntiquarian Egyptian mythology, {"Atum|Atem"} (sometimes written as Atem) is a god of creation and completion, associated with the setting sun.[^atum]
+[^atum]: lexDef (Æ) "Atum" {lexAllele(s)::: Ripture} < I kissed you goodbye, beneath the dying, draping, fallen leaves of Atum[^AtumRipture]
+
+[^AtumRipture]: Fare Well To Lost Friends, Adrian's Glorious Devices of Memory

@@ -88,12 +88,4 @@ barely awake,
 trying to climb this ladder of sleep,
 this ladder I know upon which 
 I have still not reached the top rung. 
-
-## GOALS FOR TODAY
-
-- [ ] 
-- [ ] 
-- [ ] 
-
----
 ``

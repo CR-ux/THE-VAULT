@@ -122,7 +122,7 @@ Figure 1. Two Dimensional Mapping From One Dimensional Perspective {Auguric Axis
 Figure 3. Two Dimensional Overlapping From Three Dimensional Perspective. 
 
 
-![[Fig. 4 — Projected 4D Chess Lattice (Central King in Hyperhex Structure).png]]
+![[Fig. 4.png]]
 Figure 4. Three Dimensional Knotting.
 
 Findings suggest:

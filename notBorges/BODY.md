@@ -1,10 +1,7 @@
 ---
 permalink: BODY
 ---
-lexDef "Body" {usage::: Noen || Croen} < A Veil[^BodyNoen] || N.B. "A Body Of Worries"[^BodyCroen]
-
-[^BodyNoen]: [[Beowulf]], Bertrand, Bear & Bee Associates
-[^BodyCroen]: [[Worry]], The Worriers, 1994
+lexDef "Body" {usage::: Noen || Croen} < A Veil || N.B. "A Body Of Worries"
 
 
 
@@ -12,23 +9,6 @@ lexDef "Body" {usage::: Noen || Croen} < A Veil[^BodyNoen] || N.B. "A Body Of Wo
 
 
 \<BODY>
-CONTENTS:
----
-
-[[BODY OF THE CITADEL]]
-[[The Colour- Yellow.]]
-[[LAYER i-o BODY]]
-[[LAYER U BODY]]
-
-
-
-
-
-
-Supplanted data:
-
-1. [[The Citadel of Tœms]]
-2. [[notBorges*]]
-3. [[THE NESTED TRINITY]]
+{REDACTED}
 
 \<\BODY>

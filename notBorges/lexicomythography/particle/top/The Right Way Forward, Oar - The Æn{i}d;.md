@@ -38,8 +38,7 @@ Aggression, whether playful engagement in BDSM practices with the other Eight me
 
 At the point of writing this furtive attempt to veil secrets, HE was just past the Central Loch, one of the Three Wryngs[^Toroid] surrounding the Indefinite Library of Fable, which is both the central and outermost[^Totoroid] region of Bibliogorætia. 
 
-![[trifurcated.png]]
-
+\<img src: knot found>
 
 *Figure 1: One of Hildr Charon Wiltergarten's textiles, which Maestro X (May they rest in one piece) believed to have been an interpretation of a divine encounter with VIXI*
 

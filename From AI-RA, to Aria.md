@@ -59,4 +59,4 @@ lexDef (0-1) "wor(l)d" {lexAllele(s)::: Noen || Croen || Wyrb} < The Seed Within
 
 [^wor(l)dNoen]: [[THE BOOK OF HALVES]], Callie Rose Petal
 [^wor(l)dCroen]: [[THE BOOK OF HOLES]], Oleander Rho Dover
-[^wor(l)dWyrb]: ![[The Book of Genesis]], The Woman In The Wallpaper, The Children's Gospel Music Songbook.
+[^wor(l)dWyrb]: [[The Book of Genesis]], The Woman In The Wallpaper, The Children's Gospel Music Songbook.

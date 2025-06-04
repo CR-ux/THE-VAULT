@@ -5,11 +5,8 @@ permalink: Gordian Knotation of the Chords of The Hystorian Oak
 ![[Mangle]]
 
 
-> *"The Universe[^egg] which some call the Egg, others call the nucleus, some others call the Womb, Others Still) is comprised of a system of Cords, Threaded into a System of Knots* 
-> *Chords Played upon Chords with with* 
-> *The Mangle forms the edge and inner space of the System of Cords*
+> *"The Universe[^egg] which some call a Prison, is composed of an indefinite, and perhaps infinite, system of hexagonal Cells. 
 
-"
 - Jorge Luis Borges, 2025.
 
 

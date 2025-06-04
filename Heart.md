@@ -1,10 +1,4 @@
 ---
 permalink: Heart
 ---
-lexDef "Heart" {usage::: Noen || Croen || Adjecture || Badverb || Ripture} < A Question of Emptiness[^HeartNoen] ||  Collective Noen for The Lexeme "Rose" N.B. "A Heart of Roses" [^HeartCroen] || Belonging[^HeartAdjecture] || To Have A Companion (Literary) [^HeartBadverb] || "And Lo, It Came To Pass, That The Heart Became A Row or Oar of Rows of Hearts of Roses." - The Book of Sighs and Strangers; Year ⧖eno.[^HeartRipture]
-
-[^HeartNoen]: [[For Sylvia]], Beowulf, The Beginning of [[Time]]
-[^HeartCroen]: [[Ring Around The Rose, C.]], Isla Welstead, 1997. 
-[^HeartAdjecture]: [[Becoming]], The Society Heretofore notKnown as Lexicomythographers
-[^HeartBadverb]: [[Hivehouse Chess Openings]] Selena Elk, 'Modern Hexagonal Chess Openings', 3033.
-[^HeartRipture]: [[⧖eno_]], ⧖eno. Year ⧖eno. Follow the [[Arrow]]. {Year Forgotten}
+lexDef "Heart" {usage::: Noen || Croen || Adjecture || Badverb || Ripture} < A Question of Emptiness ||  Collective Noen for The Lexeme "Rose" N.B. "A Heart of Roses"  || Belonging || To Have A Companion (Literary) || "And Lo, It Came To Pass, That The Heart Became A Row or Oar of Rows of Hearts of Roses." - The Book of Sighs and Strangers; Year ⧖eno.

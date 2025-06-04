@@ -77,7 +77,7 @@ From the Desk of ᴺᵒᵉᵗSeuss,
  of Regret!
  to Beget 
  to forget.
- *(To fore, Get!)*[^2]
+ *(To fore, Get!)*
  Two Red! Four Red! 
  Two! Four! Ten! Red!
  Two! Four! Get! 
@@ -125,6 +125,6 @@ The Indefinite Library of Fable
 # ᶠᵒᵒᵗNoet(s)
 
 
-[^r]: ![[Refrain]] - [[lexDict, Edition VI]]. 2024.
+[^r]: [[Refrain]] - [[lexDict, Edition VI]]. 2024.
 [^2]: "'{2,4}Give: The Characters Written For A Metaphysical Horror In Phi Parts" by The Characters {2, 4}Give. (Co-authored by The Woman In The Wallpaper)
 [^b]: ![[B is for Bothy, Bricks, and Bear.]]

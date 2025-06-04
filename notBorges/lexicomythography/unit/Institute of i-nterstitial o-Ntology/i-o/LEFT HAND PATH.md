@@ -343,4 +343,4 @@ Left.
 [^Croen1]: lexDefio: {Collective Noen; Croen} "An *Orchestra* of Microphones"
 [^Croen2]: lexDefio: {Collective Noen; Croen} "A *Volume* of Cameras"
 [^dro]: [[Observe. Silence.]]
-[^y]: ![[The Yellow Cupids Bow, Phonemes Between - on The Matter of the Sun and Moon]]
+[^y]: Y is a “branch-letter” that stands between vowels and consonants-  between the rocks and the waves. “Y” embodies the threshold of identity. Acting as a consonant (in words like “yellow”) or as a vowel (in words like “fly”). If X and Z are boundary markers, the final edges of structure, then Y is a bridge- forever stuck between two realms.

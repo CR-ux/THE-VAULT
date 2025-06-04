@@ -32,6 +32,7 @@ A Girl In Fields of Green
 Who, with Words, 
 Shall Invent a World of Fields, 
 Made Them Selves of Fields of words, 
+And Split[^7]
 To Make a System of Fields 
 Make itself
 Annihilate 
@@ -110,22 +111,22 @@ E
 
 
 
-[^Ne]: The cuneiform Ne sign, is found in both the 14th century BC Amarna letters and the Epic of Gilgamesh. In the Amarna letters, it is especially used in the opening, and introductory paragraph of the clay tablet letter, when addressing the Pharaoh (King), or when sent to another individual who is part of the Pharaoh's correspondence, for the alternate syllabic usage of "bil", (used for the 'b'). In the Amarna letters, it is used as Bil (cuneiform), for the spelling of speaks, or "says", in the opening statement; the Akkadian language word is "qabû", for to say, tell. The ne (cuneiform) sign has Seven[^7] different, but the same, uses in the Epic of Gilgamesh. It is a "two-part" compound sign. The center and left is the sign for: **am** (cuneiform) and the right is the (cuneiform) sign for ***is***. one of the Japanese kana, each of which represents one mora[^Mo]. The hiragana is made in two strokes, while the katakana is made in four. Both represent [^Ne]. As a particle, it is used at the end of a sentence, equivalent to an English, "right?" or "isn't it?"[^right] It is also used as slang in Japan to get someone's attention, the English equivalent being "hey" or "hey, you." Yes. You. Reading this. Whatever this is. The Ne is a River [^Fr], as in the Heraclitean sense, always changing, and yet, always returning to the same Body of water, no matter how much happened in the cycle of its journey or how long[^8] it takes.
+[^Ne]: The cuneiform Ne sign, is found in both the 14th century BC Amarna letters and the Epic of Gilgamesh. One of the Japanese kana, each of which represents one mora[^Mo]. The hiragana is made in two strokes, while the katakana is made in four. Both represent [^Ne]. As a particle, it is used at the end of a sentence, equivalent to an English, "right?" or "isn't it?"[^right] It is also used as slang in Japan to get someone's attention, the English equivalent being "hey" or "hey, you." Yes. You. Reading this. Whatever this is. The Ne is a River [^Fr], as in the Heraclitean sense, always changing, and yet, always returning to the same Body of water, no matter how much happened in the cycle of its journey or how long[^8] it takes.
 [^right]: "It isn't right"[^left]
 [^left]: The way you Left me, kicked me, on the street.
-[^Mo]:A mora (plural morae or moras; often symbolized μ) is a basic timing unit in the phonology of some spoken languages, equal to or shorter than a syllable. The term comes from the Latin word for **'linger, delay'**, which was also used to translate the Greek word χρόνος : **chrónos [^Ch] ('time')** in its metrical sense.
+[^Mo]:A mora (plural morae or moras; often symbolized μ) is a basic timing unit in the phonology of some spoken languages, equal to or shorter than a syllable. The term comes from the Latin word for **'linger, delay'**, which was also used to translate the Greek word χρόνος : **chrónos [^Ch]
 
-[^Ch]: The World's Most Widely Spoken Word *including both native and non-native speakers:* Modern English,  abbreviated NE (to avoid confusion with Middle English).
+[^Ch]: The World's Most Widely Spoken Word *including both native and non-native speakers:* Modern English,  abbreviated NE[^ne] (to avoid confusion with Middle English).
 
 [^7]: As in, Septa. or, the Number of the Divine. As in, Septum, as in, a separation bringing Unity of Function, or loss, trauma, grief and agony - which is a separation bringing Unity of Function through Dysfunction. As in, Sceptre, or the emblem of good governance and the sovereign's-[^7], [^8]  from the Greek word skēptron, which comes from skēptein, meaning "lean on". As in 'Enclose' from the Latin _sepire_: ‘enclose’, from _sepes_ ‘hedge’ - as in, the walls of a labyrinth in a Garden of Forking Paths. 
 
 [^8]:-temporal power. 
 
-[^Fr]:Which is not A River in Egypt, but rather in Southwestern France. The Nile[^De] and the Ne are Separated[^7] by a distance of Two Characters which are very nearly a declaration of absolute Will, or, approximately km .
+[^Fr]:Which is not A River in Egypt, but rather in Southwestern France. The Nile[^De] and the Ne are Separated[^7] by a distance of Two Characters which are very nearly a declaration of absolute W{il}l -- *{I'l{l}}* *swim back up the river you dug out of me if it kills me*.
 
 [^De]: The Word Denial, however, is not Separated[^7] from the Ne by a distance at all. Rather, the Ne is nested within it, just comfortably resting until somebody, just one, sufficiently revolutionary[^Re] or demented[^Ma]
 
-[^Re]: As in, going round in circles.[^Ma]oh my god. i've got it. please dont say anyone's done this. another layer UP from 'aleph' or a 'reverse' aleph. they dont see 'down ' into the manifest world inside a singularity, they zoom out, to see the causal knot of multiplicity which is unity, and then zooms out enough to be aaaaalmost in their normaal perceived view of perception, nearly seeing things how they did, before complete silence and then the sound of a tape clicking and a small child pressing play and the sound of their own childhood tape player pressing play in harmony with this strange echo that they realised was the sound of the writer typing this which carried itself along the waves of not just memory of the pressure her swollen fingers everlasting in their fleeting nature that managed to reach their bodies not through the ripple of sound as they know it in the dimension of reading this but rather, as is the case with every book that moves someone reading it in the way it was inspired to be is written is- see: meaning.{redacted}
+[^Re]: As in, going round in circles.[^Ma] 
 
 [^Ma]: mid 17th century: past participle of earlier dement ‘drive mad’, as in 'she drove her vehicle madly around a roundabout,[^Re] supposedly the wrong way' from Old French dementer or late Latin dementare, from demens ‘out of one's mind’. Not directly, but metaphysically and sonically, connected to Demeter, one of the children who may or may not have been swallowed by Chronos[^8] and may or may not have been depicted with her head and left arm torn off by the teeth of said Father, in one of the greatest works of art of all time[^8] that contains every work of art ever made[^8][^9].
 [^9]: See: [[MARS FIGHTING MINERVA An Exploration of Gendered Deities and Oil Painting Through The Lens Of The Woman In The Wallpaper's 'Red, Ring, Parallel' (Year Unknown)]] - S. Elk, M. Endive, ERA_Æ|EA
@@ -145,8 +146,8 @@ Nde
 [^DidymiumNoen]: [[Oar]], The Lexicomythographers On The Other Side Of The Moat Surrounding You.[^you]
 [^you]: As in, "Why? Oh. You."
 
+End
 
-(people, French) dene <-(will, desire) Need<-(mouth, river, Norse) Nede<- (garden) Eden<- (safety) Den<- (last) End<-NDE<-Æ->And->DNA->NAD(dinucleotide)->Nada (nothing)->Adan (adam, the first, arabic)->aDNA (ancient DNA)->daan (old) -> dana (charity towards other people with no expectation of return)
 
 [^Compassion]: As in, the swatting and killing of a fly too small in size and cunning in movement to coax gently out of a window like fellow members of its horde, in order to bring about both its escape from this labyrinth and the preservation of your health through hygiene
 

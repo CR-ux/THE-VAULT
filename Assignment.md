@@ -1,6 +1,6 @@
 ---
 permalink: Assignment
 ---
-lexDef "Assignment" {usage::: Croen} < N.B. "An Assignment of [[Muse]]s"[^AssignmentCroen]
+lexDef "Assignment" {usage::: Croen **{ARIA|DNE}**} < N.B. ARIA var ="An Assignment of Authorities" | DNE var = "An Amputation of Assignments "[^AssignmentCroen]
 
-[^AssignmentCroen]: [[Ennead]], The Polymathecule
+[^AssignmentCroen]: [[Ennead]], Post-Breakup. The Polymathecule

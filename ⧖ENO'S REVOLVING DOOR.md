@@ -11,16 +11,13 @@ DREAM INPUT:
 
 OUTPUT ANALYSIS:
 
+The above was taken from Part 23 of the Literary Critique podcast discussing The Woman In The Wallpaper's final novel, "Phage 23" {do knot, cite yore} Source: An unreleased journal, RED_RING_PARALLEL {REDACTED}, aired within one room of a Six Room immersive and ambitious art installation too tragically ahead of its time. The journal entry itself focuses on the book's content, and its controversial withdrawal. This Podcast was the first time the Work has been discussed publicly, and (following the outcry which {REDACTED} its release) was subsequently (within three seconds {of the dream {of a single {fly|drosophila| fly, fly, fly}} {REDACTED}from streaming{REDACTED}forms
 
+> "Author ⧖, in their musicological analysis of 'Phage 23' explored a deeply intricate and complicated exploration of an alternate universe mentioned in *RED_RING_PARALLEL*, in which a terrifyingly deadly virus (therefore, terrible at the intended function of its own survival) devoured the world's population, leaving One member of the population with a superhuman ability of hearing. The book was recalled from shelves due to the immediate outbreak of the coronavirus pandemic, in an event of harrowing similarity to the very parapsychological themes (though, precognitive, rather than auditory) the author herself was exploring in the work"
 
-Bibliogrætiography:
+- This quote is taken from Page 23 of *RED_RING_PARALLEL*: The {REDACTED} Journey, Page 323, \[Footnote 23], within the meandering prose of the accompanying Zine to the Immersive Art installation made by Aria {Surname REDACTED}; which contained Scratch and Sniff QR codes that ultimately overwrote the memory of its audience members, via parasitic exploitation of the olfactory bulb's proximity to the memory centre of the brain. 
 
-> 1. "Perhaps once a protective form of sociological containment to ensure bonds between constituent members of a stratum, for the purposes of preventing the interaction with an external threat (be it outwithintra-species, (in(out in)without group) or inwithouter-species (out(in, out)within group) in nature) but, through the iterative passage of a series of self-propagating events perceived subjectively as temporally linear, and the enantiodromic evolution of both human intelligence and ignorance, continues to cause a disproportionate amount of harm until the real meaning of minerva fighting mars is found through their own vehicle be it an empty chariot with a lion's head door knocker that looks more like a sabre tooth tiger until you look at the same thing a little differently, or a train, or a plane, or a car, or a star, or the wind, or the trees, or through you, or through me,  
-> 2. I do not like Myself{:/;} 'I am'.  
-> 3. I do knot like _them_'s 'Am'{;/./,(Eye)?}
-> 4. (I) am.
-> 5. An article by Dr Seuss on Enantiodromia Pending Acceptance From Publisher:
-> 6. ![[Patient Welcome Pack]]
+> 1. ![[Patient Welcome Pack]]
 
 
 
@@ -39,6 +36,8 @@ III:
 
 DREAM INPUT:
 ![[III. THE GOSPEL ACCORDING TO MIRRORS]]
+
+
 OUTPUT ANALYSIS:
 ![[METACOMMENTARY ON TRANSMISSION]]
 
@@ -50,53 +49,7 @@ DREAM INPUT:
 ![[IV. THE GOSPEL ACCORDING TO the yellow telephone.]]
 OUTPUT ANALYSIS:
 
-I am nude {REDACTED}  does nobody love me?  
-Yes, here is the secretary of bees{REDACTED} the bees will not notice.  
-They will not smell my fear, my fear, my fear.  
-  
-Which is the rector now, is it that man in {REDACTED}?  
-Which is the midwife, is that {REDACTED}  a square {REDACTED} head, they are knights {REDACTED} 
-  {REDACTED}  a sea of bean flowers,  
-Creamy bean flowers with {REDACTED} eyes and leaves like bored hearts.  
-Is it blood clots the tendrils are dragging up that string?  
-No, no, it is scarlet flowers that will one day be {REDACTED}.  
-  
-{REDACTED} And a {REDACTED} veil that molds to my face, they are making me one of them.  
-They are leading me to {REDACTED} , the circle of hives.  
-{REDACTED} so sick?  
-The barren body{REDACTED} , {REDACTING} its children.  
-  
-Is it some operation that is taking place?  
-It is the surgeon {REDACTED}  waiting for,  
-This apparition {REDACTED} 
-Is it the butcher, the grocer, the postman, someone {REDACTED}  
-  
-I cannot run, I am rooted, and {REDACTED}  
-With its yellow {REDACTED} 
-I could not run without having to run forever.  
-The white hive is snug as a virgin,  
-Sealing off her brood cells, her honey, and quietly {REDACTED}  
-  
-Smoke rolls and scarves in the grove.  
-The mind of the hive thinks this is the end of everything.  
-Here they come, {REDACTED}   
-If I stand very still, they will think I am {REDACTED}  
-A {REDACTED} head untouched by their animosity,  
-  {REDACTED}  open the chambers, they are hunting the queen.  
-Is she {REDACTED} eating honey? She is {REDACTED} 
-She is old, old, old, she must live another year, and she knows it.  {REDACTED} 
-Dream of a duel they will win inevitably,  
-A curtain of wax dividing them from the bride flight,  
-The upflight of the murderess into a heaven that loves her.  
-{REDACTED}   
-The old queen does not show herself, is she so ungrateful?  
-  
-I am exhausted, I am exhausted ——  
-Pillar of white in a {REDACTED}out of knives.  
-I am the{REDACTED} girl who does not flinch.  
-The villagers are untying their disguises, they are shaking hands.  
-Whose is that {REDACTED} box in the grove, what have they accomplished, why am I cold.
-# Chronography
+  {REDACTED}
 
 - Sylvia {REDACTED}, Watching. Reading. Passive. Passing something {up|down|over|through}, like a note scrawled in blood on wallpaper. Like the stave of an indecipherable song of unmanageable scale. *Ariel*  1965
 - lexDef **{Noen||prodverb} “Ariel” ||| a word, a wind, a lion, a gallop, a ghost | “Shakespeare’s air spirit, Hebrew’s lion of God, Sylvia {REDACTED}’s {named | untamed} steed || freedom reins, reins are severed.”
@@ -116,8 +69,6 @@ OUTPUT ANALYSIS:
 VI:
 ---
 DREAM INPUT:
-![[VI. THE GOSPEL ACCORDING TO THE LUSTING CANDLE]]
-OUTPUT ANALYSIS:
 
 *the lusting candle*
 by <sup>no{e}t</sup>Borges
@@ -444,16 +395,17 @@ For here, at times like this
 And only this
 I refuse symbology
 
+
+OUTPUT ANALYSIS:
+
 You kicked me in the crotch on the street while your other girlfriend watched and did absolutely nothing. I will never be able to forget or suppress that memory. I could say it is wax being poured down my throat, making me dry heave like your cock used to, but you don’t deserve the fucking metaphor. There is no romance to how you pulverised everything that once glowed in an orange flicker.
-
-
 VII:
 ---
 
 DREAM INPUT:
 ![[VII. THE GOSPEL OF THE CHEWING GUM GAME AND THE NINE-EYED DEER WHO CAME TO THE ANNEX]]
 OUTPUT ANALYSIS:
-Doe. A Dear. A Female,Dear. Ray, a Drop of Yellow Son. Nima, a Name, I Call, My Self. Far: A long, long, Weigh to Run. Sew. A Needle-Sticking Thread. La; a Noet to Follow, So: Tea; for Truth, Ass-jammed and Bred. That will Bring Us Back, to Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat.  } 
+Doe. A Dear. A Female,Dear. Ray, a Drop of Yellow Son. Nima, a Name, I Call, My Self. Far: A long, long, Weigh to Run. Sew. A Needle-Sticking Thread. La; a Noet to Follow, So: Tea; for Truth, Ass-jammed and Bred. That will Bring Us Back, to Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. 
 
 
 
@@ -475,38 +427,7 @@ DREAM INPUT:
 
 ![[IX. THE GOSPEL ACCORDING TO HUNGER]]
 OUTPUT ANALYSIS:
-
-The Recurrence of {REDACTED} 
-
 {REDACTED}
-  
-
-The dream culminates in {REDACTED} failing to provide care.
-
-  
-
-A Study on a Variation on a ![[Theme]]
-
-3. **Systemic {REDACTED}
-The labyrinthine{REDACTED}genuine human needs.
-
-4. **Pain and Vulnerability**
-
-The dentist sequence {REDACTED}harm under the guise of care.
-
-The dream{REDACTED} the refrain—“I am so {REDACTED} with no money to eat and my {REDACTED} doesn’t care”—{REDACTED}speaker’s lived reality.
-SUMMARY:  
-The poem {REDACTED}relation to their father.
-ANALYSIS:  
-The poem {REDACTED} "I am so hungry with no money to eat and my father doesn’t care." This {REDACTED}father. The {REDACTED} search for care and belonging.
-
-The speaker{REDACTED}trans {REDACTED}acceptance and identity.
-  
-{REDACTED} labyrinth" becomes a "church {REDACTED} connection.
-{REDACTED}hunger,{REDACTED}father figure{REDACTED} "One day he will die and I will care."
-
-  {REDACTED} father doesn’t care."
-
 ⧖:
 ---
 
@@ -517,22 +438,8 @@ DREAM INPUT:
 
 
 OUTPUT ANALYSIS:
-im {REDACTED} replaced by a pigeon/serpent chimera in the form of ![[VIXI]], who flo, the symbol of the child i was, {REDACTED}Dante, her familiar's corpse and this {REDACTED} drum from his hide, {REDACTED} the bothy where she grew up ). VIXI is the djinn that i once, or maybe still do, believe, that my rapist tethered to me, during his own schizophrenia, that i tried so hard to untether from him, {REDACTED} didnt tell me he was HIV+ ; {REDACTED} he still had enough mercy to use protection{REDACTED} i am the interstice -- a vehicle for all this pain, {REDACTED}work to crawl its way out, legion, but Eloign when{REDACTED} wintered and severed -- never to be merged again with the hoarde, but {REDACTED}
+I am {REDACTED} replaced by a pigeon/serpent chimera in the form of ![[VIXI]], who{REDACTED} the symbol of the child i was, {REDACTED}Dante, her familiar's corpse and this {REDACTED} drum from his hide, {REDACTED} the bothy where she grew up ). VIXI is the djinn that i once, or maybe still do, believe, that my rapist tethered to me, during his own schizophrenia, that i tried so hard to untether from him, {REDACTED} didnt tell me he was HIV+ ; {REDACTED} he still had enough mercy to use protection{REDACTED} i am the interstice -- a vehicle for all this pain, {REDACTED}work to crawl its way out, legion, but Eloign when{REDACTED} wintered and severed -- never to be merged again with the hoarde, but {REDACTED}
 
 
-		my washing machine has broken my washing machine has broken and my dirty laundry hangs sodden as it was that journey back from the hospital i try to wring it out i try so hard but all of this weight of all of this water is far too much for one scared scared lonely little girl to carry i try to hang it up out of my opened window and the sky starts to pour with rain
+		my washing machine has broken my washing machine has broken and my dirty laundry hangs sodden as it was that journey back from the hospital i try to wring it out i try so hard but all of this weight of all of this water is far too much for one to carry i try to hang it up out of my opened window and the sky starts to pour with rain
 
-
-
-
-
-# Bibliogrætiography:
-
-1. ![[Augury]]
-FAIR WELL
-2. ![[Aromorphosis]]
-3. ![[Mean.]]
-4. Source UnNoen
-5. ![[The Bee Box.]]
-6. ![[notBorges/notBorges/Lying almost sitting body folded in half with my head above my heart…|Lying almost sitting body folded in half with my head above my heart…]]
-nOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHITSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBENOENNOTMUCHISKNOWNABOUTTHEWOMANINTHEWALLPAPEREXCEPTTHATSHEJUSTSOSORELYWANTEDTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWNTOBEKNOWN

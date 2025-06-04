@@ -65,7 +65,7 @@ Again to lie, though now in silent yellowed-milk, the one-eyed not-girl almost-r
 And still, even with your face reflected back at you, next to them onscreen, 
 You know, regardless of how 'real' your likeness may appear, you know you aren't like that not-quite-dead person, who's eyeless form remained only on these Five Screens above you, in this not-quite-hospital.
 Not you. 
-You decided to be on the Right Side of their Last Recorded Story.[^story] 
+You decided to be on the Right Side of their Last Recorded Story. 
 And,
 Be*sides*
 you think,
@@ -79,87 +79,6 @@ You think I know which eye decided:
 Right?
 
 
-
-
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
-{REDACTED}
 {REDACTED}
 
-[^1]:
-[^BTF]: ![[Boustrophilology]]
-[^story]: ![[I Wanted to Write The Story of the Rules of The Childish Game of Hide and Seek]]
+[^BTF]: See: Boustrophilology, The Birth of lexDefs. The Society of Lexicomythographers Noen as ARIA|DNE.

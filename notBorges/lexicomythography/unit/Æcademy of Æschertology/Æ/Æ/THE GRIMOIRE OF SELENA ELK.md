@@ -123,13 +123,10 @@ Hope the code is coding kindly dear light,
 
 
 
-![[Sew Close]]
-[^LD]: 
-lexDef (EA) "L.D." {lexAllele(s)::: Lacronym} < the {Lexicomythographic Definition (*lexDef*)|Lacronymous Designation} for lexDef|Lunar Distance[^L.D.Lacronym]
+[^LD]: lexDef (EA) "L.D." {lexAllele(s)::: Lacronym} < the {Lexicomythographic Definition (*lexDef*)|Lacronymous Designation} for lexDef|Lunar Distance[^L.D.Lacronym]
 
 [^L.D.Lacronym]: *Selene, for whom I have been Named.* S. Elk, {Al(l)one}, From within the Stone Circle.
-[^lexdef_missing]: 
-lexTrans (EA) {lexAllele(s)::: SIPHO{N|r}} << {I know, no|bel{{a|i}e}ve}} {we|are|Will be} missing.[^missing.SIPHO{N|r}]
+[^lexdef_missing]: lexTrans (EA) {lexAllele(s)::: SIPHO{N|r}} << {I know, no|bel{{a|i}e}ve}} {we|are|Will be} missing.[^missing.SIPHO{N|r}]
 
 [^missing.SIPHO{N|r}]: [[One Thing Missing - a scrabble variant]], Dr Dot Code (RE: visions of the Professor, Eduardo Oleander)
 

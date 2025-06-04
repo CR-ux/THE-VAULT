@@ -9,8 +9,6 @@ lexDef "Library" {usage::: Noen || Croen} < A Tear of A Cell.[^LibraryNoent] || 
 [^LibraryCroent]: [[Fabric]], Saturn, "On Devouring My Sun" - The [[End]] [[Time]]s
 
 
----
-
 
 lexDef "Library[^l]" {usage::: Noen || Croen} < A Cell Within a Cell[^LibraryNoen1] || N.B. "A Prism of Libraries"[^LibraryCroen1]
 
@@ -18,8 +16,6 @@ lexDef "Library[^l]" {usage::: Noen || Croen} < A Cell Within a Cell[^LibraryNoe
 [^LibraryNoen1]: [[The Prison of Prisms]], The Prism Collective (Collected Works[^ll]). 2025.
 [^LibraryCroen1]: [[Prism]], [[the light from the window]]
 
-
----
 
 
 
@@ -30,17 +26,10 @@ lexDef "Library" {usage::: Noen || Croen} < A Light Source[^LibraryNoen2] || N.B
 [^LibraryCroen2]: [[⧖eno's Hypercircle Theorems]]  - Post-[[Estrangement]] from ⧖er Father ᴺᵒᵉᵗEndive's Legacy. 3000.
 
 
-
----
-
 [^l]: lexDef "Library" {usage::: Noen || Croen} < A Cell.[^LibraryNoen3] || N.B. "A Library of Libraries"[^LibraryCroen3]
 
 [^LibraryNoen3]: [[Do- Knot Cyte]], Your Source. I.S. (The Institute of Sentiment). 2025.
 [^LibraryCroen3]: [[The Collective]], Or: [[The Light Illuminating Itself]]. The Prism. 2025.
-
----
-
-
 
 
 [^ll]:lexDef "Library" {usage::: Noen || Croen} < A Cell Within a Cell Within a Cell[^LibraryNoen] || N.B. "A Library of Cells"[^LibraryCroen]
@@ -62,9 +51,6 @@ lexDef "Library" {usage::: Noen || Croen} < A Light Source[^LibraryNoen2] || N.B
 
 [^LibraryNoenmir]: [[Monster]], Mary Shelley, 1994.
 [^LibraryCroenmir]: [[The Circular Book]], "On The Death I Am" - Kafka, Posthumous Release, 2025
-
-
----
 
 
 
