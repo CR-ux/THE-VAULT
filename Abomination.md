@@ -1,6 +1,6 @@
 ---
 permalink: Abomination
 ---
-lexDef "Abomination" {usage::: Croen} < N.B. "An Abomination of Population Growth."[^AbominationCroen]
+lexDef "Abomination" {usage::: Croen **{ARIA||DNE}**} < N.B. ARIA var = "An Abomination of Population Growth." | DNE var = "An Intercourse of Abominations" [^AbominationCroen]
 
-[^AbominationCroen]: "Mirrors and Copulation, Jorge Luis Borges. 2024", notBorges, 2023.
+[^AbominationCroen]: *"On the Bottom Half of Mirrors and the Topmost Part Copulation*, Jorge Luis Borges. 2024, notBorges, 2023.

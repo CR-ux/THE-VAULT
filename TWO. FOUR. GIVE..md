@@ -43,6 +43,50 @@ EPITAPH
 CHAPTER III | …for is ܓ | Oar: Ala{te|rm}
 
 ---
+
+
+LOCH: INNER
+KEY:  ∈ | t | {const}
+
+
+**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
+**{REDACTED}**
+
+**A is for** 
+![[Augury]]
+
+**🜂 / ♞  | OBS: 15:00 | ε=0.007**
+**{REDACTED}**
+**A is for** 
+![[Abomination]]
+
+**🜃 / ♜  | OBS: 18:00 | N=10³⁶**
+**{REDACTED}**
+**A is for** 
+![[Addendum]]
+
+**🜄 / ♝ | OBS: 21:00 | D=3**
+**{REDACTED}**
+**A is for** 
+
+
+
+
+
+---
+
+
+
+
+
+lexDef "Augury" {usage::: Noen || Wyrb || Croen (ARIA | DNE)} < {REDACTED}[^AuguryNoen] || To Draw Meaning From The Flight And Cries Of Birds, And Half-Heard Words, To Scribe The Words Describing Herds of Sleeping Lambs Awoken By The Buzzing Of The Flies [^AuguryWyrb] || N.B. "ARIA var = An Augury of Organs | DNE var = An Auspiciousness of Augurs. "[^AuguryCroen]
+
+[^AuguryNoen]: [[{REDACTED}]], {REDACTED}
+[^AuguryWyrb]: [[{REDACTED}]], {REDACTED}
+[^AuguryCroen]: [[{REDACTED}]], {REDACTED}
+
+
+
 # Why B is for 'Both'
 
 Hear, lay our Ædrian.
@@ -282,6 +326,9 @@ CHAPTER IV | …for is ܕ | Oar: Asp{ire}
 ---
 FOUR WORDS
 ---
+
+
+
 LOCH: INNER
 KEY:  ∈ | t | {const}
 
