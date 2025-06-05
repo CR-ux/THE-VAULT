@@ -425,7 +425,7 @@ Edition XVIII[^1].
 [[in adventures such as these, i have squandered and wasted all my years.]]
 [[In My Beginning]]
 [[In my dream]]
-[[Why B is for 'Both']]
+[[Why B is for]]
 [[In The Dream, My Child Went Fourth To Multiply]]
 [[In]]
 [[Incantation]]  
@@ -573,7 +573,7 @@ Edition XVIII[^1].
 [[N. 1]]
 [[N.B. "A Zero Of Matter"]]
 
-[[Close]]
+[[Both]]
 [[Name]]  
 [[Near]]
 [[Nearer]]

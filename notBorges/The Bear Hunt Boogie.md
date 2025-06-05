@@ -2,7 +2,7 @@
 permalink: The Bear Hunt Boogie
 ---
 Prologue:
-[[Why B is for 'Both']]
+[[Why B is for]]
 
 Chapter One:
 [[we are never going on a bear hunt ever again]]

@@ -1,7 +1,7 @@
 ---
 permalink: Near
 ---
-[[Close]][^NE]
+[[Both]][^NE]
 
 
 # Chronography

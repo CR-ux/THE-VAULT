@@ -653,9 +653,9 @@ An Extended [[lexDict]]
 
 [[In my dream]]
 
-[[Why B is for 'Both']]
+[[Why B is for]]
 
-[[Why B is for 'Both']]
+[[Why B is for]]
 
 [[Initiate]]
 
@@ -935,7 +935,7 @@ An Extended [[lexDict]]
 
 [[N.B. "A Zero Of Matter"]]
 
-[[Close]]
+[[Both]]
 
 [[NI]]
 

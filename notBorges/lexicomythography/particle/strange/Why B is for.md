@@ -1,4 +1,4 @@
 ---
 permalink: In the bothy
 ---
-![[Close]]
+![[Both]]

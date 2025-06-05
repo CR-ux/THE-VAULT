@@ -69,7 +69,7 @@ thereisagarden;     ▼thereisaWard.thereIsAWing |_thisisYourLastWarning.this.is
 	UlayOnTopOfMe{k}NO{w}Seæ Out. of this.Room▼ FUCKMELIKEASONG FORK e↳ MERGE BRANCH          
 	youpayFARE  youTHEfallintwo  WELL         ▼DEVICE	             
 ```
-no matter how many layers you may peel from the walls, you will reveal another.{REDACTED}are contained, in some small way. be free.
+no matter how many layers you peel from the walls, you will reveal another.{REDACTED}are contained, in some small way. be free.
 
 {k}NO{w}
 

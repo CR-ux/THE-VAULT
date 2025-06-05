@@ -21,4 +21,4 @@ It’s[^bbb] dyed. [^B]
 [^d]: [[Bear]][^bl]
 [^bl]: [[Bearly]][^bb]
 [^bb]: [[notBorges/The Bear Hunt Boogie]]
-[^bbb]: [[Why B is for 'Both']], B{REDACTED. 2023.
+[^bbb]: [[Why B is for]], B{REDACTED. 2023.

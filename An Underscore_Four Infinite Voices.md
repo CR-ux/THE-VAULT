@@ -188,10 +188,11 @@ licked her
  {Yours, Or—
 	 Yore’s Ore—
 		 Your Oar For—
-			For Giving All; Your Story.
+			Giving All; Your Story.
 			}
 		}
 	}
 .
 
 ```
+

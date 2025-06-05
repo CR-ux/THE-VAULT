@@ -143,7 +143,7 @@ EPITAPH
 
 ---
 
-![[Why B is for 'Both']]
+![[Why B is for]]
 
 
 
@@ -1015,7 +1015,7 @@ the characters.
 [^ImagineCroen]: [[lexDict]], CARPVS MORTVVM
 [^ImagineProdverb]: [[Mage]], Opus, Ophelia
 [^oe]: In Alphabetical [[Order]]. 
-[^B]: [[Why B is for 'Both']]
+[^B]: [[Why B is for]]
 [^end]: [[‘IN THE SPIRE OF THE TOWER OF THE ORE OF THE STAR’]]
 
 [^mo]: lexDef "Moment" {usage::: Noen || Croen} < Circular Motion In Time; A Unit of Motion Through A Cycle. The Central Point In A Circle Around Which A Moment Is Revolving. A Circular Compass of Cardinal Directionality, Providing The Location of Data Within a Statistical Sphere.[^MomentNoen] || A Moment of Asphyxias[^MomentCroen]

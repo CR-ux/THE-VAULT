@@ -226,4 +226,4 @@ them</span>
 
 
 
-[^both]: [[Why B is for 'Both']]
+[^both]: [[Why B is for]]
