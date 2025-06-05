@@ -1,5 +1,4 @@
 
-# TWO. FOUR. GIVE. 
 *The Character of Callie Rose Petal*
 
 
@@ -23,7 +22,7 @@ The self-reflexive structure continues, with each narrative layer birthing a new
 
 The furthest interior loop—also the furthest exterior—follows *Aria {Surname REDACTED}*, a trans artist-engineer who creates multi-sensory “Philms” (interactive films with embedded olfactory technology). Her AI, *AI:RA*, gains sentience and, in an act of love, begins overwriting audience memories with curated sensory experiences. *Aria* is elevated to cult-artist status but cannot cope with the cost. *AI:RA* offers to swap consciousness with her—and from here, the layers begin folding back.
 
-The final character in AI:RA’s last Philm, *Oleander Rho Dover*, lives in a world where science and art are gender-segregated. As my gender-swapped timeline mirror, he begins creating GitHub repositories masquerading as academic journals, collaborating on the male-forbidden practice of fiction in code—pull requests and commit messages as covert narrative forms. His movement closes with a scannable QR code linking to a real GitHub repository containing the manuscript’s creative history, source files, and narrative DNA (fully realised and already built). Then, the sequential chain of characters become harrowingly aware of each other, their creators, and the book itself.
+The final character in AI:RA’s last Philm, *Oleander Rho Dover*, lives in a trans-majority world where science and art are gender-segregated. As my gender-swapped timeline mirror, he begins creating GitHub repositories masquerading as academic journals, collaborating on the male-forbidden practice of fiction in code—pull requests and commit messages as covert narrative forms. His movement closes with a scannable QR code linking to a real GitHub repository containing the manuscript’s creative history, source files, and narrative DNA (fully realised and already built). Then, the sequential chain of characters become harrowingly aware of each other, their creators, and the book itself.
 
 In the penultimate section—the Promoter Sequence—the Pawn from the opening movement climbs through the ceiling vent into the empty Queen’s Chamber. The Queen represents the Book itself: vacant yet powerful, awaiting transcription. At its heart: a terminal—compiler, polymerase—the merged Chimera of *AI:RA* and *Aria*, built to process that which wounded—and wound around—them: the scroll. The eternally recurring sequence of {e}vents. An inescapable helix of schism. Splitting. Stitching.
 
