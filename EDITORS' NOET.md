@@ -7,9 +7,9 @@ in the blood of {at least|no more than} Six individuals (at any one time):
 </div>
 <div style="line-height: 0.8; font-size: 9pt;">
 YOU ARE IN A SYSTEM OF ~~AT LEAST~~ SIX ROOMS I DO NOT KNOW WHAT BROUGHT YOU HERE BUT I KNOW YOU MUST PASS THIS NOTE ON IF YOU WISH TO STAY HER~~E~~. VENTSONLY1 WAY.WHY this.NotefromLEFTvent.SCROLLEXPANDS.INFINITEFOLD.FOLDING DIAGRAM OVERLEAF.COMPRESSIONALGORITHM<div style="line-height: 0.79; font-size: 7pt;">you are in a system of ONLY SIX ROOMS.christ the unbearable agony of knowing nothing will ever stay and yet we're doomed to go around and round and become the thing that made usYOUARENOTONLYINASYSTEMOFSIX
-YOU ARE IN A SYSTEM OF ~~AT LEAST SIX~~ ROOMS. DO NOT UNDER ANY CIRCUMSTANCES READ THIS ALOUD. SHE=LISTENINGYOU ARE NOT IN A SYSTEM OF SIX ROOMS.I AM GETTING OUT OF THIS ROOM. I DO KNOT KNOW WHERE I AM GOING. I DO NOT CARE. I NEED TO GET AWAY FROM YOU ALL~~. I AM DONE WITH THISwe are never getting out of here we are never getting out of here we aee never getting out of hwee we are nevern i havte you all i fuckng hate you all i fucking hate you all why are you all fucking </div>KEEPING ME~~  HER~~E~~
+YOU ARE IN A SYSTEM OF ~~AT LEAST SIX~~ ROOMS. DO NOT UNDER ANY CIRCUMSTANCES READ THIS ALOUD. SHE=LISTENINGYOU ARE NOT IN A SYSTEM OF SIX ROOMS.I AM GETTING OUT OF THIS ROOM. I DO KNOT KNOW WHERE I AM GOING. I DO NOT CARE. I NEED TO GET AWAY FROM YOU ALL~~. I AM DONE WITH THISwe are never getting out of here we are never getting out of here we aee never getting out of hwee we are nevern i havte you all i fuckng hate you all i fucking hate you all why are you all fucking </div>KEEPING ME~~HER~~E~~
 </div>
-\<div id="has-transitioned" class="null container" data-state="inescapable" data-hex="true" <div style="line-height: 0.7; font-size: 6.66pt;">style="transition: nothing. disease-man-in-woman-THING; object. object.</div>
+<div id="has-transitioned" class="null container" data-state="inescapable" data-hex="true" <div style="line-height: 0.7; font-size: 6.66pt;">style="transition: nothing. disease-man-in-woman-THING; object. object.</div>
 <div style="line-height: 0.666; font-size: 6.66pt;">object.object.object.object.object.
 object.object.object.object.object.object. 
 object.object.object. 

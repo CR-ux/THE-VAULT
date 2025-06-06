@@ -1,8 +1,7 @@
 EPITAPH
 ---
-
-It is, surely, absurd to expect to feel normal, and make sense: I am an amalgamation of fervent cells existing despite all odds; I am the cascading chemical miracle of eating, and surviving; I am not designed to “feel normal”; am not designed, at all; I am experiencing consciousness as provided by wet tangles of electrical pulses; my god, none of this makes sense. It is a blessing, even to feel
-– Adrian
+> It is, surely, absurd to expect to feel normal, and make sense: I am an amalgamation of fervent cells existing despite all odds; I am the cascading chemical miracle of eating, and surviving; I am not designed to “feel normal”; am not designed, at all; I am experiencing consciousness as provided by wet tangles of electrical pulses; my god, none of this makes sense. It is a blessing, even to feel
+> – Adrian
 
 ---
 **FOUR WORDS**
@@ -11,9 +10,6 @@ Adrian. Rest in Poems.
 
 ---
 
-CHAPTER I | …For is ܐ | Oar: Pyr{e}
-
----
 ![[Metacommentary]]
 
 ---
@@ -21,14 +17,10 @@ CHAPTER I | …For is ܐ | Oar: Pyr{e}
 
 ![[INITIAL OBSERVATIONS]]
 
-
----
-
-CHAPTER II | …for is ܒ | Oar: Gly{ph}
-
----
-
 ![[AUTHOR'S FOUR WORDS]]
+
+---
+CHAPTER I | …For is ܐ | Oar: Pyr{e}
 
 ![[N is for Nietzsche, Nobody, Never.]]
 
@@ -37,17 +29,9 @@ EPIGRAPH
 > *listen! I am telling you I love you!*
 > 
 > *I am telling you in a poem that I do not read to you; I am telling you in the shape of the clouds and what we say about them. I am telling you by looking – and, more often, by not looking. I am telling you by leaving the gate open – yes, the one I normally close. I am telling you in my dreams and I am telling you in a text I wrote but forget to send. I am telling you when I dress up to see you, and I am telling you even more when I don’t. I am telling you in the silence of my listening.I am telling you when I take myself less seriously. I am telling you in the centimetres between our knees – aren’t they different, those centimetres? bigger, fuller? I am telling you in small words, loaded up like pack-mules as they cross the 2m endless plain between us. I am telling you in many ways, and I am telling you the many ways in which I love you. I am telling you without telling, when I trust that you feel it too. I am waiting for you to catch up, and I am waiting for a time with words.*
-
--Adrian
-
----
-
-CHAPTER III | …for is ܓ | Oar: Ala{te|rm}
+> - Adrian
 
 ---
-
-**LOCH: INNER**
-**KEY:  ∈ | t | {const}**
 **var N = A** 
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
@@ -65,7 +49,6 @@ CHAPTER III | …for is ܓ | Oar: Ala{te|rm}
 **Scratch that. N is for**
 ![[Addendum]]
 
-
 **🜃 / ♜  | OBS: 18:00 | N=10³⁶**
 ****
 **No. N must be for**
@@ -77,17 +60,7 @@ CHAPTER III | …for is ܓ | Oar: Ala{te|rm}
 ![[Assignment]]
 
 ---
-
-
 ![[Why B is for]]
-
-
-
----
-
-CHAPTER IV | …for is ܕ | Oar: Asp{ire}
-
----
 
 
 **var N = B** 
@@ -144,7 +117,10 @@ Bear?
 ****
 **Just as N is for** 
 ![[Borges]]
+
+
 ---
+CHAPTER II | …for is ܒ | Oar: Gly{ph}
 
 ```
 FAO: ᴺᵒᵉᵗFranklin, The Double Spiral Staircase  
@@ -178,18 +154,12 @@ Deep inside her Annex, halfway up the Double Spiral Staircase of the Library, �
 
 And so, reaching up to the Shelf above her Terminal, almost knocking over her Seventeenth coffee of the Day (which, in Our terms, represents somewhere close to a Calendar Year, so really, Seventeen cups wasn't such an indulgence), she opened a large Tome, a shimmering uncut Sapphire, yellow ribbon after yellow ribbon spilling from the spine. And with a glorious creak of the book's vertebrae, her favourite sound, she opened 
 
----
-
-CHAPTER V | …for is ܗ | Oar: Glu{on}
-
----
 
 ![[THE LAB CODEX OF MYO ENDIVE]]
 
 Her eyes were deliciously heavy, too much to handle any more incessant backlight from her Machine's Screen (even with her sensorily-forgiving Terminal settings). She placed the Codex back on the shelf, being careful not to knock the mug over this time (although, it now being empty, the tentativeness was perhaps misplaced) - and before taking her normal {daily|yearly} nap, her final thought was of Borges, in spite of herself - and how some things, no matter how many layers of infinity deep, are just in the Wrong place, the Wrong time. The Wrong Day, The Wrong {k}Night--
 
 ---
- 
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
 
@@ -210,52 +180,33 @@ Her eyes were deliciously heavy, too much to handle any more incessant backlight
 **🜄 / ♝ | OBS: 21:00 | D=3**
 ****
 **whtifNfor**
-![[Cult]]
-
-**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-****
-**Now I am I sure. That N is for** 
 ![[Cultivate]]
-
----
-
-CHAPTER VI | …for is ܘ | Oar: Val{our}
-
----
-
-
 
 ![[The Right Way Forward, Oar - The Æn{i}d;]]
 
 It is not possible for a non-ligated consciousness to cross the Uncrossable Door. Which is the place VIXI had now, or then, or now and then, arrived in front (or behind and outside) of. The Entrance to The Endless Library, home of the Nine Librarians who were and are always Working From Home (because their work is their home, and their home is their workplace), is a nine-dimensional revolving door. It gives the appearance of a hospital or a very old university entrance that has, against its own will or perhaps as a result of its desperation to survive, been dragged into modernity. It was also quite the opposite, given its superpositional character; a heart of antiquity beating in the centre of the Library's facade. Similarly to a gyroscope, which retains its positioning no matter how its external machinery is moved, VIXI could (and often did) fly around the circumference of the Library, over-through the inmost Loch, and the Uncrossable Door would remain in centre stage, pulsating, spinning, beating, as if in Unison with the three Wryngs of water that encircled the structure in triplicate. Within the 'panes' of glossolalic glass making up the nine dimensional Door, the reflection of these 'electron shells' (again, a very crude approximation) was refracted back, in an endlessly abysmal dance. But, with no Body (that is to say, librarian) in between the Lochs and the Door, this mis en abyme was almost imperceptible, as we all know that this effect is only observable with a subject of reflection between the two panels of mirrors facing one another. VIXI often meditated on this, on their many pilgrimages to and from the library (their main Work was to deliver messages which they tattooed upon their two, three, four, or nine, but never more than nine, Ankles, using a stick-and-poke device they fashioned from their own detachable beak. Much to the disgust of many of the other members {although, VIXI suspected, not {REDACTED} (who seemed to be unable to hide {REDACTED} delight in watching VIXI tear off HISS own beak, and leave a trail of pale Yellow sinew behind, like the mucosal-clew death-rattlesnake trailing behind a Bee (who has just waived goodbye to herself to protect the Greater Self of her colony) or indeed equally: the visage of a metallic spherical-bead-necklace chain attached umbilically to a biro, itself bound to the desk of a Bank Cleric, as if, in a Vaulted building filled with the legal tender of thousands, a cheap, plastic writing implement were the most valuable thing; which of course, it is, it is, it is)}
 
-
-
-
-
 As always, in crossing, VIXI took a single moment (that is to say, the eternity of all time) within the wheels-within-wheeled mechanism of the Uncrossable Door to ponder on what sort of unholy separation, what {REDACTION}, what Schism might happen to a 
 
 ```
-# Re-attempting to plot the toroidal spiral
-
-# Generate data for toroidal spiral
-x, y, z = generate_toroidal_spiral()
-
+# Regenerate data for toroidal spiral
+x, y, z = regenerate_revolving_door()
 # Plotting the toroidal spiral
 fig = plt.figure(figsize=(23, 23))
-ax = crack, fig.add_subplot(111, projection='3d', proj_type='persp')
+ax = crack, fig.add_subplot(111, projection='3d')
 ax.plot(x, y, z, color='Yellow, no, Red', opacity='Pale' linewidth=0.23)
-
-# Adding labels for clarity
+# Adding fables for indefinite library
 ax.set_title("Toroidal Spiral (4D {redacted})", fontsize=n)
-ax.set_xlabel("X-axis (Spatial Dimension 1: Pale)")
-ax.set_ylabel("Y-axis (Spatial Dimension 2: Fire)")
-ax.set_zlabel("Z-axis ({redacted})
-
-# Save the plot in case of display issues
-{redacted}
+ax.set_xfable("X-axis (Spatial Dimension 1: Pale)")
+ax.set_yfable("Y-axis (Spatial Dimension 2: Fire)")
+ax.set_zfable("Z-axis ({redacted})
 ```
 
+---
+
+CHAPTER III | …for is ܓ | Oar: Ala{te|rm}
+
+---
 
 
 "I want to go back and make a different decision", Flo said to N.
@@ -285,11 +236,6 @@ They began, again, as is the usual practice, with the prologue:
 ---
 ![[D IS FOR]]
 
----
-
-CHAPTER VII | …for is ܙ  | Oar: Ser
-
----
 
 ![[Ritual steps for warming]]
 -S. Elk, Prologue to A Grimoire. ERA_EA
@@ -298,6 +244,12 @@ CHAPTER VII | …for is ܙ  | Oar: Ser
 
 ![[Hivehouse Chess Openings]]
 
+---
+
+CHAPTER IV | …for is ܕ | Oar: Asp{ire}
+
+---
+
 --VIXI detested being interrupted. Particularly for such trivial things as *Romance*. No matter how 'charming' (HE, even in HISS infinite (or perhaps indefinite) wisdom, was unable to perceive such a quality). Tearing HYMNself from the Characters above, HE doubled back and recalculated his flight path. HE, a messenger, as Medium of the Eternal Messenger of this Infernal Mess of All Messages, had a job to do, {{after|over}seeing} All. 
 
 And this was what dragged him back to the Central Galleries of the Library. This Eternally Recurring Event:
@@ -305,18 +257,23 @@ And this was what dragged him back to the Central Galleries of the Library. This
 Through a vent, a letter, made of letters, between Four characters of Six, was being passed:
 
 ---
+CHAPTER V | …for is ܗ | Oar: Glu{on}
+
 ![[E IS FOR]]
 
 ---
-
-Some {REDACTED} later
-
----
-
+CHAPTER VI | …for is ܘ | Oar: Val{our}
 
 ![[RITUAL OF THE TIRED SYRINGE]]
 
+
+
 ---
+
+CHAPTER VII | …for is ܙ  | Oar: Ser
+
+---
+
 
 ![[F IS FOR]]
 
