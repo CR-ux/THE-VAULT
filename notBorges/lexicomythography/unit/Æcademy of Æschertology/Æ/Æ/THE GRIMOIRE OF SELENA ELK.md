@@ -1,7 +1,6 @@
 ---
 permalink: THE GRIMOIRE OF SELENA ELK
 ---
-
 Dear Dis, Cernunnos, Baphomet, whoever it is that I came from -
 
 It's been Twenty Three days. 
@@ -64,7 +63,6 @@ A Life,
 		{of|from|for} 
 			{Rit{Ritual}ual} 
 						of Ritual.
-
 I turn {This|my} Grimoire into an Aleph, 
 By {{Tu(r)}{N}{ing}|(un)Folding} 
 the previous {Page|extra dimension} I keep hidden 
@@ -78,10 +76,6 @@ but First-
 Having spliced in the sequences that 
 
 Having spliced in what I believe we were missing[^lexdef_missing], I decide-- it's time. To send him that email:
-
-
-
-
 date: XVII_XXIII_ERA_Æ  
 ---
 
@@ -111,17 +105,12 @@ Also, please could we have our daily call a little earlier today, if you have th
 
 Hope the code is coding kindly dear light,
 
-
-
 *Forever, upward moonating, toward the tidal-pulling, beautywards,* 
-
 
 - S
 # ᶠᵒᵒᵗNoet(s)
 
 [^†]: I know you find him self-important and somewhat pretentious in his recursive fiction, but I was reading the latest Gnoeneoeng. translation of The Citadel of Tœms last night and I thought it was the perfect fit for today's *Prologuemania - hope you will forgive me for (finally!!!) taking up our little email opening ritual with the Noet. who is perhaps the one artist we disagree on the genius of (although, I look forward to uncovering, or not, the smatterings of whatever the Two (soon to be Three!!!!!) of us disagree on. Or agree on. I look forward to it all. Dear Goddess how I miss your smell, My Light)
-
-
 
 [^LD]: lexDef (EA) "L.D." {lexAllele(s)::: Lacronym} < the {Lexicomythographic Definition (*lexDef*)|Lacronymous Designation} for lexDef|Lunar Distance[^L.D.Lacronym]
 

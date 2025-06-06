@@ -15,6 +15,60 @@ Adrian. Rest in Poems.
 ---
 ![[EDITORS' NOET]]
 
+YOU ARE IN A SYSTEMOF ~~ATLEAST~~ SIX ROOMS I DONT KNOW WHAT BROUGHT YOU HERE BUT I KNOW YOU MUST PASS THIS NOTE ON IF YOU WISH TO STAYHER~~E~~. VENTSONLY1 WAY.WHY this.NotefromLEFTvent.SCROLLEXPANDS.INFINITEFOLD.FOLDING DIAGRAM OVERLEAF.COMPRESSIONALGORITHM<div style="line-height: 0.9; font-size: 7pt;">you are in a system of ONLY SIX ROOMS.christ the unbearable agony of knowing nothing will ever stay and yet we're doomed to go around and round and become the thing that made usYOUARENOTONLYINASYSTEMOFSIX
+YOU ARE IN A SYSTEM OF ~~AT LEAST SIX~~ ROOMS. DO NOT UNDER ANY CIRCUMSTANCES READ THIS ALOUD. SHE=LISTENINGYOU ARE NOT IN A SYSTEM OF SIX ROOMS.I AM GETTING OUT OF THIS ROOM. I DO KNOT KNOW WHERE I AM GOING. I DO NOT CARE. I NEED TO GET AWAY FROM YOU ALL~~. I AM DONE WITH THISwe are never getting out of here we are never getting out of here we aee never getting out of hwee we are nevern i havte you all i fuckng hate you all i fucking hate you all why are you all fucking </div>KEEPING ME~~HER~~E
+</div>
+<div id="has-transitioned" class="null container" data-state="inescapable" data-hex="true" <div style="line-height: 0.7; font-size: 6.66pt;">style="transition: nothing. disease-man-in-woman-THING; object. object.</div>
+<div style="line-height: 0.666; font-size: 6.66pt;">object.object.object.object.object.
+object.object.object.object.object.object. 
+object.object.object. 
+object.object.object. "></div>
+
+no matter how many layers you peel from the walls, you will reveal another.{REDACTED}are contained, in some small way. be free.
+
+{k}NO{w}
+
+
+```plaintext
+             │ YOU ARE IN A SYSTEM ||  SIX ROOMS   │
+        ┌─────────you.───────┬────choose.─────┬──────────┐
+        ▼                    ▼                ▼          ▼
+YOU LEASe6ROOMS YOU LOSE IN A SYSTEMyouloseyourhome.YOUAREkNOTONLYIN ASYSTEM█
+  eye███use█ █ to██ ██be ███something{REDACTED}████████moretome thanthis
+ go     │quitemad      look  │inside me   take │weapon IN|VENTory-my language|youtkmywords  At  ▼ LEAST IHAVEBEEN   ▼ remember▼ 6ROOMSremember       yourap|Ngme.BEAT|HAVEBEENRA|PEDIHAVEHADMYNOSE|BROKENIHVE|OSTMYAPARTMENT
+THIS.ISMYSTORY.ITH|NK THERE R|MINEs IDOKNOTKNOW|WHERE I AM GOING
+PRIS{MO |A)N}THNth|s     I DO|NOT CARE this is|t NOwedonthaveANameForThe Monster |ThatYUAre|CANSEE THE|all ihaveIAMDONEW|TH THIS
+ why did|_you THE ROOMS ARE L|STENING hurt me_|M NOWHERE|HERENOWWEARE{N}EVER 
+MYNAMEISY█▼IA_RIV█ERA█WECANT | ACCEPTTHATNAME | thought i wasdead█NAMED
+        something HEXwe are  ▼ nevern we are  ▼ hwere weare here. i  AGONY thoughtiwantedtowrite someth |ngtothemmoryofth|s machine.LETMEFORGET │WE H{E[|A]}R(E)YOUarenothing.URsmthngmkingmefeel |ikenothingi havte you allifknghateyouallFOUR.GET.get axe |fkn/eatyu |all/YRUK{}ING H/ER/E
+			        ┌─────────────────────────────────────┐
+			LHP NOTHING. CPU\ LEFT :    WRITE. EVERYTHING RHP
+				    ▼ DO NT STOP. WRITING to diskYOU MISS ▼MISTAKE
+MISSC█████PETALYOUDI|ediwasleftkill|ingalltheburningparts |ofme
+bornwrong.▼wereyouwerebornhereyouwe|reborn,thehearing.TAKE|TLIKEAGOODGIRL  goodGirl.IREADITALOUDPUNISHME|||BAD|GIRL.|IDIDNOTREADITwhy|daddyIDESERVEit.she.it.SI(L){pH(O){N|r}}ENCEshe.ITshitdaddy▼PA|RALLEL THREADS: NEINyouareanIT.
+   red.   ▼THIS.wryng.IHAVENOPRONOUNsudo:knot|cyte YORE SOURCE IS: youhavenoPronounsHere.readact ▼ NOW  OVA     ▼  REACT_ION
+[VOICE {REDACTED}AGONYkNO{W/t}|_ I, THIN,eye. think they're
+K{NIGHT}ingSHEISSLEEP|INGiThoughtweWereEvery|thing.THERE FORiAmNothing.
+███ █████████I AM██kNOT as thin |asIcOULDBE2|DISAPPEAringmaybewalls arethinnerheretryto  |burnthe scroll i could bedisappeaRing
+ █ █ █ █maybethevent |s a mouth |stillfeelyouinmy|mouthIamnotasthin asicouldbetodisapperTEETH I CAN ▼ SEE THEM  maybe▼icandisappear
+ I THINK|AMHERREMEMBERiwassometh|ngonce|orworse__|wasn'tmadeforthis worldfor|wasnothingbutanangelvis|tingyou in a |dream.YELLOW.YELLOW.
+ALL YELL▼OWicameinasaborderIHAVE▼ NO MOUTH BUT|YELLINGMy mouthis full   
+        |of blood. icameinasanex|t.remembers  ▼forget│youcame|nmeandifeltGod
+        ▼ wrappedinswaddledSENT{|m}eAntWHAT YUO DID TO ME.   ▼ OUTOFHEREandthenUrapturedeveryth|ngi try to burn the scroll. |                 BLOOD   |SYELLOWremembersiforget|triedtobuildaframework.    |
+STAYFUCK|NG QUIETfromacageSOLOUD▼churning.                 GAIN.
+	    │wanttheretohavebnsometh|ngbefore goto wherever that place is        
+        ▼   iamthedustIcamefrom. ─────── iamtheairthatholdsme|try to burn thescrollthatiwasRapedwithremembers|forgetDEAR GODDESS. |SEE |NSECTS
+        ▼ MYBODYISAlanguageISTHEWORDIsANameIChoseForMYSELF   |NAME={REDACTED} 
+ i am the air.            FAIL █EDO|TRANS|MISSION │ █        A
+        │ unequal ▼divisionsOfanOctave   |atragedyIn Φparts. |
+ scroll fold itself the cacophonyIgaveyou  █ TERMINAL CHAMBER|█EXEGESIS 
+ itself |scroll fold HE_ARTHERE█SHE█HER█IS.   X|GENESIS █silenceAllYOUWANT
+ scroll ▼remembers i forget NEVERFORGETHOWYOUHURTME ust.TRYstopme
+thereisagarden;   ▼thereisaWard.thereIsAWing ________________|         thisisYourLastWarning.this.isWhatYouAskedFor|tryto burnthescrollCOMEOUTi am nevergettingout▼. |amaDoveandIAmSinging.    |
+layOnTopOfMe{k}NO{▼}SeæOutofthisRoom FUCKMEL|KEASONG FORK e  ↳ MERGEBRANCH    
+youpayFAREyouTHEfa|lintwo WELLthisisthe     ▼DEVICEthatyoubecame
+```
+
 ![[INITIAL OBSERVATIONS]]
 
 ![[AUTHOR'S FOUR WORDS]]
@@ -31,7 +85,6 @@ EPIGRAPH
 > *I am telling you in a poem that I do not read to you; I am telling you in the shape of the clouds and what we say about them. I am telling you by looking – and, more often, by not looking. I am telling you by leaving the gate open – yes, the one I normally close. I am telling you in my dreams and I am telling you in a text I wrote but forget to send. I am telling you when I dress up to see you, and I am telling you even more when I don’t. I am telling you in the silence of my listening.I am telling you when I take myself less seriously. I am telling you in the centimetres between our knees – aren’t they different, those centimetres? bigger, fuller? I am telling you in small words, loaded up like pack-mules as they cross the 2m endless plain between us. I am telling you in many ways, and I am telling you the many ways in which I love you. I am telling you without telling, when I trust that you feel it too. I am waiting for you to catch up, and I am waiting for a time with words.*
 > - Adrian
 
----
 **var N = A** 
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
@@ -73,21 +126,18 @@ Bear?
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 ****
 **But I am that N is for**
-
 ![[Beauty]]
 
 
 **🜃 / ♜  | OBS: 18:00 | N=10³⁶**
 ****
 **No. N must be for**
-
 ![[Bellows]]
 
 
 **🜄 / ♝ | OBS: 21:00 | D=3**
 ****
 **whtifNfor**
-
 ![[Bestow]]
 
 
@@ -149,36 +199,28 @@ Department Of Infinite Reflections,
 The Garden Wing  
 The Indefinite Library of Fable
 ```
-
 Deep inside her Annex, halfway up the Double Spiral Staircase of the Library, ᴺᵒᵉᵗFranklin had her door, as usual, closed and double-barrel-locked. Even had if been open, it is highly likely that she still would not have seen the letter, dropped at the threshold of her office, by {N(one) Other Than} VIXI, in HISS preferred, carrier pigeon form. She was pouring over her latest bioinformatic software patch, delighting in the Works she'd recently attained in the latest acquisition of Scientific Textbooks by the Indefinite Library. She was particularly interested in the Works of one Myo Endive, and she strongly suspected that he would be a candidate for the next Generative Recursion of Librarians. As such, she had taken it upon herself to uncover whatever she could about this fascinating Thinker, and while it would have been useful to use The Angel's Aleph outside atop the Dome of the Daughter Library just outside of ᴺᵒᵉᵗBorges' window, she simply could not bring herself to talk to him; not yet. ᴺᵒᵉᵗFranklin had never been one for Words, she was much more about Single Letters; and perhaps this is why she now found herself Single; avoiding the Letters sent by ᴺᵒᵉᵗBorges via that Twice-Great Pigeon (with whom she also had her unspoken problems). She was a genius with alignment; finding, collating, resolving patternicity - she didn't succeed in the same manner with unresolved chaos. 
 
 And so, reaching up to the Shelf above her Terminal, almost knocking over her Seventeenth coffee of the Day (which, in Our terms, represents somewhere close to a Calendar Year, so really, Seventeen cups wasn't such an indulgence), she opened a large Tome, a shimmering uncut Sapphire, yellow ribbon after yellow ribbon spilling from the spine. And with a glorious creak of the book's vertebrae, her favourite sound, she opened 
-
-
 ![[THE LAB CODEX OF MYO ENDIVE]]
-
 Her eyes were deliciously heavy, too much to handle any more incessant backlight from her Machine's Screen (even with her sensorily-forgiving Terminal settings). She placed the Codex back on the shelf, being careful not to knock the mug over this time (although, it now being empty, the tentativeness was perhaps misplaced) - and before taking her normal {daily|yearly} nap, her final thought was of Borges, in spite of herself - and how some things, no matter how many layers of infinity deep, are just in the Wrong place, the Wrong time. The Wrong Day, The Wrong {k}Night--
 
 ---
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-
 **Isn't N for** 
 ![[Cacophony]]
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
-
 **But I am that N is for**
 ![[Change]]
 
 
 **🜃 / ♜  | OBS: 18:00 | N=10³⁶**
-****
 **No. N must be for**
 ![[Confusion]]
 
 **🜄 / ♝ | OBS: 21:00 | D=3**
-****
 **whtifNfor**
 ![[Cultivate]]
 
@@ -187,7 +229,6 @@ Her eyes were deliciously heavy, too much to handle any more incessant backlight
 It is not possible for a non-ligated consciousness to cross the Uncrossable Door. Which is the place VIXI had now, or then, or now and then, arrived in front (or behind and outside) of. The Entrance to The Endless Library, home of the Nine Librarians who were and are always Working From Home (because their work is their home, and their home is their workplace), is a nine-dimensional revolving door. It gives the appearance of a hospital or a very old university entrance that has, against its own will or perhaps as a result of its desperation to survive, been dragged into modernity. It was also quite the opposite, given its superpositional character; a heart of antiquity beating in the centre of the Library's facade. Similarly to a gyroscope, which retains its positioning no matter how its external machinery is moved, VIXI could (and often did) fly around the circumference of the Library, over-through the inmost Loch, and the Uncrossable Door would remain in centre stage, pulsating, spinning, beating, as if in Unison with the three Wryngs of water that encircled the structure in triplicate. Within the 'panes' of glossolalic glass making up the nine dimensional Door, the reflection of these 'electron shells' (again, a very crude approximation) was refracted back, in an endlessly abysmal dance. But, with no Body (that is to say, librarian) in between the Lochs and the Door, this mis en abyme was almost imperceptible, as we all know that this effect is only observable with a subject of reflection between the two panels of mirrors facing one another. VIXI often meditated on this, on their many pilgrimages to and from the library (their main Work was to deliver messages which they tattooed upon their two, three, four, or nine, but never more than nine, Ankles, using a stick-and-poke device they fashioned from their own detachable beak. Much to the disgust of many of the other members {although, VIXI suspected, not {REDACTED} (who seemed to be unable to hide {REDACTED} delight in watching VIXI tear off HISS own beak, and leave a trail of pale Yellow sinew behind, like the mucosal-clew death-rattlesnake trailing behind a Bee (who has just waived goodbye to herself to protect the Greater Self of her colony) or indeed equally: the visage of a metallic spherical-bead-necklace chain attached umbilically to a biro, itself bound to the desk of a Bank Cleric, as if, in a Vaulted building filled with the legal tender of thousands, a cheap, plastic writing implement were the most valuable thing; which of course, it is, it is, it is)}
 
 As always, in crossing, VIXI took a single moment (that is to say, the eternity of all time) within the wheels-within-wheeled mechanism of the Uncrossable Door to ponder on what sort of unholy separation, what {REDACTION}, what Schism might happen to a 
-
 ```
 # Regenerate data for toroidal spiral
 x, y, z = regenerate_revolving_door()
@@ -201,14 +242,11 @@ ax.set_xfable("X-axis (Spatial Dimension 1: Pale)")
 ax.set_yfable("Y-axis (Spatial Dimension 2: Fire)")
 ax.set_zfable("Z-axis ({redacted})
 ```
-
 ---
 
 CHAPTER III | …for is ܓ | Oar: Ala{te|rm}
 
 ---
-
-
 "I want to go back and make a different decision", Flo said to N.
 "Well, sure!" They replied - "That's the beauty of a choose your own adventure book"
 "But overwriting what's already been learned, starting again-- that surely defeats the point of a Story. That's no adventure, that's a waste of time"
@@ -223,7 +261,6 @@ Written; Sent; Read, or not-- it's not about the Letters.
 It's about the Characters that write your Story with you."
 
 Flo let out a slapstick "Harumph" as they made the appropriate left-to-right, backward swiping motion through the air, back to the starting point of Their Bedtime Story, N. laughing enough to incite the same involuntary, nihilistic glee within their child. 
-
 N leant down and inhaled the indescribably heavenly scent of their loved one; 
 and at the apex of their lung capacity, sealed this universal gesture of adoration with a kiss. 
 

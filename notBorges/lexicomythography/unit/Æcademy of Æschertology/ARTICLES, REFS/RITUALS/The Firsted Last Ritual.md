@@ -1,16 +1,7 @@
 ---
 permalink: The Firsted Last Ritual
 ---
-
-
 the lasted first ritual
-<br><br><br>
-
-
-
-
-
-
 
 
 1. I cannot help but laugh, until I cry-

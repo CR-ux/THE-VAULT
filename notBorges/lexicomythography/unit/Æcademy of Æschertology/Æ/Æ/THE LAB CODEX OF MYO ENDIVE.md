@@ -1,11 +1,6 @@
 ---
 permalink: THE LAB CODEX OF MYO ENDIVE
 ---
-
-
-
-
-
 Myo clicked his noise-cancelling implant to 'Total Silence' (which of course, given his highly networked brain, could never really be *totally* silent, but at least it wasn't added to by the incessant stream of external, empirical resonance data). 
 
 He was at his bench in The Lab, opening the very-loved-and-therefore-almost-falling-apart-at-the-spine Book that he termed his "Lab codex", once yellow, now a shimmering Gold, his still-all-too-human-yet-Yellow-Labrador-boyfriend-archetype-esque essential oils gradually exposing the Mnemanuscript circuitry underneath as water erodes a stone.
@@ -21,45 +16,36 @@ He wondered, in his welcomed sonic (but not causal) silence, if[^if] he should o
 Then came another tumultuous Devil's fork, as he tried to think of the best 'move' in their ongoing email game of '*Prologuemania*', in which they would open the bodies of their emails with a quote from a Body of work that felt moving to them in that moment. Opening his email to find another of her snapshots, a frozen frame of the motion picture that was their love, that they were collaboratively writing together, through this immeasurably measurable distance, was the highlight of his day. 
 
 He decided to go with a verse from Vladimir Nabokov's *Pale Fire*
-
 date: XVII_XXIII_ERA_Æ
 ---
 
 **From:** M
-
 **To:** S
-
 **Subject:** How's My Extraordinary Machine?
 
 ---
-
-“I was the shadow of the waxwing slain  
-By the false azure in the windowpane;  
-I was the smudge of ashen fluff -and I  
-Lived on, flew on, in the reflected sky."
--Nabokov
-
-
-My Light S,
-
-Checking in. Yes, of course I want to know how the Alephic Grimoire is holding up (sincerely hope its allowing you to record rituals with the appropriately nested chaos you envisioned), but the subject of this email refers to you and our little Peri-bean-
-
-How are you (both)? Help me collapse this cacophony of email response FFFs that I'm desperately trying to ignore enough to see through them as I type? Really, which ever psychologist in antiquity came up with the term 'catastrophisation' had NO idea just how catastrophic the spectra of potentialities of every given choice are, FFS.
-
-Thinking about you every nanosecond of every moment. As much as I loved our holographiversary, not being able to celebrate our Third year together as the Three of us for the first time was really quite heartbreaking. Gosh I must stop gushing I'm crying in the Lab again--
-
-Still squirrelling away with the Byron{if|or}matic analysis of Phage23 samples, obviously, but I'm struggling to keep up with all these cases Flooding (eep, Biblical pun definitely not intended) in. As always, my bottleneck lies in *communicating* my ideas well enough to fucking delegate this mammoth task - wish I had you here to translate (DNA pun definitely intended).
-
-I love you both so much and miss you like a yet-to-be-ligated daughter antiSense strand of DNA. Everything is antiSense without you here. 
-
-
-
+> “I was the shadow of the waxwing slain  
+> By the false azure in the windowpane;  
+> I was the smudge of ashen fluff -and I  
+> Lived on, flew on, in the reflected sky."
+> -Nabokov
+> 
+> My Light S,
+> Checking in. Yes, of course I want to know how the Alephic Grimoire is holding up (sincerely hope its allowing you to record rituals with the appropriately nested chaos you envisioned), but the subject of this email refers to you and our little Peri-bean-
+> 
+> How are you (both)? Help me collapse this cacophony of email response FFFs that I'm desperately trying to ignore enough to see through them as I type? Really, which ever psychologist in antiquity came up with the term 'catastrophisation' had NO idea just how catastrophic the spectra of potentialities of every given choice are, FFS.
+> 
+> Thinking about you every nanosecond of every moment. As much as I loved our holographiversary, not being able to celebrate our Third year together as the Three of us for the first time was really quite heartbreaking. Gosh I must stop gushing I'm crying in the Lab again--
+> 
+> Still squirrelling away with the Byron{if|or}matic analysis of Phage23 samples, obviously, but I'm struggling to keep up with all these cases Flooding (eep, Biblical pun definitely not intended) in. As always, my bottleneck lies in *communicating* my ideas well enough to fucking delegate this mammoth task - wish I had you here to translate (DNA pun definitely intended).
+> 
+> I love you both so much and miss you like a yet-to-be-ligated daughter antiSense strand of DNA. Everything is antiSense without you here. 
 
 He went to click 'Send', before a particularly violent FFF of a potential response (not from Selena. From some other Body that could, in the endless Library of potentialities, be writing the story their motion picture was adapted fro--), no matter how unlikely, forced him to reconsider his choice of Nabokov quote. 
 
 Still wanting to honour his initial desire to honour the incredible Russian novelist-poet (and, more importantly, Entomologist; or, more specifically, and even more importantly, Lepidopterist[^lepidos]) he deleted his email 'foreword' and replaced it with another collection of characters from *Pale Fire*:
 
-~~*"The sea is a thief: it dissolves the moon.”*~~
+> ~~*"The sea is a thief: it dissolves the moon.”*~~
 
 No, no, he thought - that's far too dire, given the circumstances. So he tried another Nabokovian move:
 
@@ -69,11 +55,9 @@ Took photographs. ”
 
 Good thing I made these revisions, he thought- *I almost forgot the email signature-*
 
-
-*O, Lustrous-stillness-shadow-cradled-light, round-airy-light-on-dark, tremulous-orbit-of-night’s-warmth, gentle-pull-of-cedar’s-resin-tincture,*
-
--M
-
+> *O, Lustrous-stillness-shadow-cradled-light, round-airy-light-on-dark, tremulous-orbit-of-night’s-warmth, gentle-pull-of-cedar’s-resin-tincture,*
+> 
+> -M
 
 After one last glimpse at his initial, a pictograph of two archways, both the start of the word 'Mirror' and a perfect symbolic representation of the symmetry a mirror invokes, or, M could be for 'More', as in, more importantly: the wings of a lepidopteran[^lepidos], or, equally, the sound of some Body pondering over their writing-
 

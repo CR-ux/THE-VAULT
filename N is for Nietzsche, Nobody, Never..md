@@ -7,7 +7,6 @@ BCC: VIXI.
 From the Desk of ᴺᵒᵉᵗBorges, 
 
 My Dearest ᴺᵒᵉᵗNietzsche, 
-
 I can no longer avoid the inevitable discussion. 
 When will you return, again, to The Garden Wing? 
 It has become clear, through the lens of the Aleph through which I peer, that you wish to Leave me. 
@@ -44,7 +43,6 @@ just could not stand the Deadened Redness of the Ring we are entrapped in,
 Children of the Hellish Carousel-- 
 Insidious; In hideously 
 Self-Same Parallel. 
-
 But my Love, 
 my Loss, My Night, 
 My Shining, My Armour, 
@@ -61,7 +59,6 @@ How I Long for your Return to me again, to my Arms.
 
 Two again, Under the Shroud of The Arts, 
 of One Star, St. Ra, One Starry, Starry Night.  
-
 I will leave my Office door Open in Hopes of your ingress, no Matter who or What may enter this Room, 
 in this Wing, in this Imposing Repository of Words within Volumes upon Shelves of Selves of the Manifest world 
 outwith the bounds of the Bothies on the Other Side of the Three Wryngs that used to House Both of Us; 
@@ -76,7 +73,6 @@ Rests The Lumen of my pen;
 as a Loom; 
 
 Rendered Stationary; 
-
 Unforgettable Beginning, 
 Yet Begetting Yet Another Senseless 
 Ending. 
@@ -84,7 +80,6 @@ Ending.
 In adventures Such as These, The ones I once transcribed from the whispers  
 in the Garden Wing's Wallpaper, 
 the utterances of the One Woman I no longer care to listen for-- 
-
 I have squandered and wasted all our years together. 
 
 To Get Her. 
@@ -93,7 +88,6 @@ I have no need to Leave; I had no need to Leave you,
 all Iterations of the Infinite
 could never tell me what it was 
 that led to your Egress.
-
 
 I have never even tried to find the exit. 
 
