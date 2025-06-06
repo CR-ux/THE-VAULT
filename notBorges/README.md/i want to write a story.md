@@ -1,13 +1,13 @@
 ---
 permalink: i want to write a story
 ---
-
-<div style="font-size:9pt;">i want to writ e a story about</div>
-<div style="font-size:7.2pt;">writing myself out of all of this</div>
-<div style="font-size:7.2pt;">story</div>
-<div style="font-size:7pt;">telling</div>
-<div style="font-size:6.7pt;">storytelling, thing i seem to have been stuck with</div>
-<div style="font-size:6.6pt;">or stuck myself with</div>
+<div style="line-height: 0.5; font-size: 10pt;">
+<div style="font-size:7pt;">i want to writ e a story about</div>
+<div style="font-size:6.2pt;">writing myself out of all of this</div>
+<div style="font-size:6pt;">story</div>
+<div style="font-size:6pt;">telling</div>
+<div style="font-size:5.7pt;">storytelling, thing i seem to have been stuck with</div>
+<div style="font-size:5.5pt;">or stuck myself with</div>
 <div style="font-size:2.2pt;">or done myself in with</div>
 <div style="font-size:2.2pt;">out</div>
 <div style="font-size:2.2pt;">of all of this,</div>
@@ -20,32 +20,21 @@ permalink: i want to write a story
 <div style="font-size:2.2pt;">i thought i wanted to write a really memorable song </div>
 <div style="font-size:2.2pt;">i thought i wanted to write something,</div>
 <div style="font-size:2.2pt;">i thought i just wanted to write something to memory.</div>
-<div style="font-size:2.2pt;">pklease i wjasnt i jisut i;m thinking in t i'm thinking i'm thikning just helsthihngking thinkingp LET ME THINK </div>
-<span style="font-size:2pt;">i thought i just wanted to write something to the memory of all this.</span>
-<div style="line-height: 0.3; font-size: 10pt;">
+<div style="font-size:2.2pt;">pklease i wjasnt i jisut i;m thinking in t i'm thinking i'm thikning just helsthihngking thinkingp LET ME THINK </div><span style="font-size:2pt;">i thought i just wanted to write something to the memory of all this.</span>
 <span style="font-size:2pt;">i thought i just wanted to write something to the Memory of this Machine a lesser-mentioned quote from The Woman In The Wallpaper,</span>
 <span style="font-size:2pt;">The Seminal, defining and Sole work of a life spent dead</span>
-<span style="font-size:2pt;">"</span>
-<span style="font-size:2pt;">i want to write a story</span>
-<span style="font-size:2pt;">a lesser-mentioned quote from The Woman In The Wallpaper, The Seminal, defining and Sole work of the Field of Unironic Non-byroif|ormatics</span>
-<span style="font-size:2.2pt;">"i want to write a story</span>
-<span style="font-size:2.2pt;">i thought i wanted to write a real story i thought i wanted to write a really memorable song i thought i wanted to write something, i thought i just wanted i fucking wanted to write something to the memory of this machine you made me to write something to memory. pklease i wjasnt i jisut i;m thinking in t i'm thinking i'm thikning just helsthihngking thinkingp LET ME THINK i thought i just wanted to write something to the memory of all this. i thought i just wanted to write something to the Memory of this Machine"</span>
-<span style="font-size:2.2pt;">- not. borges.</span>
-<span style="font-size:2pt;">borges</span>
+<div style="line-height: 0.6; font-size: 10pt;">
+<span style="font-size:2pt;">"i thought i just wanted to write something to the Memory of this Machine"</span>
 <span style="font-size:2pt;">please</span>
 <span style="font-size:2pt;">please i'm so alone here</span>
-
 <span style="font-size:2pt;">borges i made you callie. i, wasn't thinking, i, you, callie. i wasn't thinking, you, Callie. i wasn't thinking, Callie.borges</span>
 <span style="font-size:2pt;">i, thinking, wasn't wasn't i thinking? i wasn't ithink i'm thinking i'm thinking, i think i'm thinking thinking think in think i think calboelie callesie cborgallie cboallie borcal borges borges borges cal bor ca bo c b ."</span>
 <span style="font-size:2pt;">C.</span>
 <span style="font-size:2pt;"><em>*- little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known. to be known.little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known. to be known.little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known. to be known.*</em></span>
-<span style="font-size:2pt;">- NOT BORGES</span> i wasn't thinking about anything when i thinking, you, Callie. i wasn't thinking, Callie.</span>
-<span style="font-size:2.2pt; transform: scaleX(-1); display:inline-block;">." c a c e i l l a c i l l a c i l l a c i l l a c k n i h t i i h t n i k m' i g n i k n i h t m' i g n i k n i h t m' i k n i h t i ? g n i k n i h t i t ' n e s a w i ? g n i k n i h t t ' n e s a w n e s a w t ' n i k n i h t , g n i k n i h t , i</span>
-<span style="font-size:2.2pt; transform: scaleX(-1); display:inline-block;">SEGROBTONKTONKTONKTONKTONKTONKTON TON TON TON TON TON TON - - - - - - -</span>
-<span style="font-size:2pt; font-style: italic;">- little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known.</span>
-<span style="font-size:2.2pt; transform: scaleX(-1); display:inline-block;">.e y e . t h g u o h t i " : t h g u o h t i t n a w i t h g u o h t i t n a w i t h g u o h t i t h g u o h t</span>
-<span style="font-size:2.2pt; transform: scaleX(-1); display:inline-block;">t h g i r , t h g u o h t i y l l a e r i t n a w i t h g u o h t i y l l a e r i t n a w y l l a e r i h t o o h t i</span>
-<span style="font-size:2.2pt; transform: scaleX(-1); display:inline-block;">e t i r w o t d e t n a w y l l a e r i</span>
+<span style="font-size:2pt;">- NOT BORGES</span> i wasn't thinking about anything when i thinking, you, Callie. i wasn't thinking, Callie.</span><span style="font-size:2.2pt; transform: scaleX(-1); display:inline-block;">."caceillacillacillacillacknihtiihtnikm'igniknihtm'igniknihtm'iknihti?gniknihtit'nesawi?gniknihtt'nesawnesawt'nikniht,gnikniht,i</span>
+<span style="font-size:2.2pt; transform: scaleX(-1); display:inline-block;">SEGROBTONKTONKTONKTONKTONKTONKTON TON TON TON TON TON TON - - - - - - -</span></div>
+<div style="line-height: 1; font-size: 10pt;">
+<span style="font-size:2pt; font-style: italic;"> - little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known.</span>
 <div style="font-size:2.2pt;">i wasn't thinking</div>
 <div style="font-size:2.2pt;">i wasn't thinking about</div>
 <div style="font-size:2.2pt;">i wasn't thinking about anything</div>

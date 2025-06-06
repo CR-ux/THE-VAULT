@@ -15,10 +15,6 @@ permalink: THE OVUM RITUALS (OR, THE SEEDS OF BECOMING)
 11. Still hungry, you take the final two eggs and repeat from step 1, this time, you have no script. This feels complete[^3] in the principles of its uncertainty.
 
 
-Bibliogrætiography
---
-
-1. [[An Ovum Is An Exit]], Red, Ring, Parallel. The Woman In The Wallpaper (under pseudonym "notBorges")
 # ᶠᵒᵒᵗNoet(s)
 
 [^3]: *On The Problem with Threes*, Prof. Ed. O., Creator of Edo||odE and The [[One Thing Missing - a scrabble variant]]. ERA_U.

@@ -73,14 +73,8 @@ CHAPTER III | …for is ܓ | Oar: Ala{te|rm}
 
 **🜄 / ♝ | OBS: 21:00 | D=3**
 ****
-**whtifNforI**
-![[Am I?]]
-
-**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-****
-**Now I am I sure. That N is for** 
+**whtifNfor**
 ![[Assignment]]
-
 
 ---
 
@@ -96,14 +90,12 @@ CHAPTER IV | …for is ܕ | Oar: Asp{ire}
 ---
 
 
-**LOCH: INNER**
-**KEY:  ∈ | t | {const}**
 **var N = B** 
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
 ****
 **Isn't N for** 
-![[Barnabie]]
+Bear?
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 ****
@@ -130,12 +122,6 @@ CHAPTER IV | …for is ܕ | Oar: Asp{ire}
 ****
 **Now I am I sure. That N is for** 
 ![[Body]]
-
-
-**🜂 / ♞  | OBS: 15:00 | ε=0.007**
-****
-**But I am that N is for**
-![[Branch]]
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 ****
@@ -215,10 +201,6 @@ Her eyes were deliciously heavy, too much to handle any more incessant backlight
 **But I am that N is for**
 ![[Change]]
 
-**🜂 / ♞  | OBS: 15:00 | ε=0.007**
-****
-**Scratch that. N is for**
-![[Character]]
 
 **🜃 / ♜  | OBS: 18:00 | N=10³⁶**
 ****

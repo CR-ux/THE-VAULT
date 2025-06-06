@@ -1,6 +1,4 @@
-for to give is to take |foreto taken, is that which was giventwotopowerofthefourthequeeninsidetheprisonthemissingsixth,thefallenwallthetowerofmissedmemorytheaxe'scrackandfirewoodstoretheboxinsidetheprism.
-i thought i wanted to write a story. 
-i thought i wanted to write a real story. 
+for to give is to take |foreto taken, is that which was giventwotopowerofthefourthequeeninsidetheprisonthemissingsixth,thefallenwallthetowerofmissedmemorytheaxe'scrackandfirewoodstoretheboxinsidetheprism. i thought i wanted to write a story. i thought i wanted to write a real story. 
 {i thought: what do i want | i wasn't thinking at all.}
 
 it is a blessing, they said,
@@ -100,12 +98,10 @@ i wasn't
 i wasn't thinking 
 i wasn't thinking about anything.
 i wasn't thinking about anything when 
-i wasn't thinking about anything when i 
 i wasn't thinking about anything when i made this. 
 i wasn't thinking about anything when i made this, except 
 i was the i that thought it 
 
-i wasn't thinking about 
 i wasn't thinking about you 
 i wasn't thinking about you when you made me 
 into this nothing i became a well that i fell into 
@@ -191,9 +187,7 @@ you, as i, weren't thinking
 about your other, only one, 
 when you fucked me, and were lonely 
 we were so lonely when you kicked me 
-i wasn't thinking 
-i wasn't thinking about 
-i wasn't thinking about anything but you when i 
+i wasn't thinking
 i wasn't thinking about anything but you when i wrote 
 "i wasn't thinking when I MADE YOU"
 "I WASN'T THINKING about ANYTHING WHEN I MADE YOU CALLIE"
@@ -213,7 +207,6 @@ of us and all our stories
 unwound, a wound, disgusting cake 
 come alive and biting, story 
 
-he wasn't thinking about 
 he wasn't thinking about anything 
 he wasn't thinking about anything when he wrote me 
 when he shoved those insects, blood and spit 
@@ -232,8 +225,6 @@ but grows inside itself, much smaller
 condensed and morphed into a word 
 for god, forgotten, 
 glory.
-
-
 
 but maybe it isn't finished, i thought maybe
 maybe i wasn't thinking when i thought i'd finished all of this 
