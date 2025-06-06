@@ -888,3 +888,16 @@ CHAPTER XXII | …for is ܬ  | Oar: STP
 
 Forgiving All,
 [[#EPITAPH|Your Story.]]
+
+
+
+<br>
+<br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+![[two. four. get.]]
