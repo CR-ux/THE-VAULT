@@ -18,6 +18,8 @@
 **Or actually, yes N is for**
 ![[Three]]
 
+
+
 **🜃 / ♜  | OBS: 18:00 | N=10³⁶**
 ****
 **No. N must be for**
@@ -31,7 +33,6 @@
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
 ****
 **Now I am I sure. That N is for** 
-![[Trinity]]
-
-**Which is for**
+![[Translate]]
+**So start revolving again. Start the revolution. Do not {}'Pass'|Assimilate}. But pass this round again:**
 ![[TSS]]

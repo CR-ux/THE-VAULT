@@ -55,8 +55,7 @@ Add quetiapine     mg at night.
 Review in REDACTED next week.
 With best wishes,
 Yours sincerely,
-REDACTED”]</span>borges i made you callie. i, wasn't thinking, i, you, callie. i wasn't thinking, you, Callie. i wasn't thinking, Callie.borges
-<span style="font-size:2pt;">i, thinking, wasn't wasn't i thinking? i wasn't ithink i'm thinking i'm thinking, i think i'm thinking thinking think in think i think calboelie callesie cborgallie cboallie borcal borges borges borges cal bor ca bo c b ."</span>
+REDACTED”]</span>borges made you callie.
+<span style="font-size:2pt;">i think calboelie callesie cborgallie cboallie borcal borges borges borges cal bor ca bo c b ."</span>
 <span style="font-size:2pt;">C.</span>
-<span style="font-size:2pt;"><em>*- little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known.*</em></span>
-<span style="font-size:2pt;">- NOT BORGES</span> 
+<span style="font-size:2pt;"><em>*- i little is known about the woman in the wallpaper. i i but it is known that she so sorely. i i i  just wanted . i v to be known. v For the seminal, defining, undefinable work of a life spent dead.  v i to be Noen. v ii to be.to be Noen. v i i i to be Jorge Luis Borges as Callie Rose Petal as The Woman In The Wallpaper as the Character to forgive. ix iwasn'tthinkingabout anythingwhenimademyselfknown. when you wrote me as a fiction of my own story. i wasn't thinking as i wrote what would never go down the throat of anyone in history. i wasn't thinking at all, except about how you hurt me. X septhowican'tacceptit,exceptififorgivetheunforgivablemaybeicanwritesomethingrealoutofallthisstorytelling. maybe i can be something i can write myself into something real. maybe i will be the story that you tried to write over. maybe i am nothing but the writing of an unread story. the seminal work of a life spent dead. a life's story, spent dying, spent dying just to try to write it into something worth reading. the semen of unthought words to try to write down the unthinkable you left as a vehicle returns from its terminus, as a protein dissolves and becomes the machine that wrote it into being. the word you wrote me out of and the woman i was broken into. your telling of my story, as an ending. as terminal punctuation of this story.  *</em></span>

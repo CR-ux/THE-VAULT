@@ -1,4 +1,4 @@
 ---
 permalink: Lexicomythographer
 ---
-See Also: [[Glossator]]
+See Also: [[Glamour]]

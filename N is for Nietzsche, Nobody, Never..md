@@ -100,8 +100,7 @@ The Garden Wing
 The Indefinite Library of Fable.
 ~~~
 [^peer]
-</pre>
-<div style="line-height: 0.7; font-size: 10pt;">
+
 
 [^peer]: lexDef "Peer" {usage::: Noen || Croen} < The Subject of Looking, With Significant Effort of Concentration, At An Object {SynApp :: "Pier"} << {A Structure|Platform projecting outward, from Shore[^shore] To Sea[^Sea]}[^PeerNoen] || N.B. "A Peer Of Challenges"[^PeerCroen]
 
@@ -109,10 +108,6 @@ The Indefinite Library of Fable.
 [^PeerCroen]: [[Schism]], ARIA|DNE
 [^shore]: lexDef "Shore" {usage::: Noen || Croen} < The Endpoint, Which Was Beneath All Along.[^ShoreNoen] {SynApp (Wyrb) :: "Sure"} << {To Be Wrong} || N.B. "A Shore Of Footnotes"[^ShoreCroen]
 
-[^ShoreNoen]: A IS FOR ARIA|DNE, Not Borges
-[^ShoreCroen]: The Ennead, The Nine Trine <sup>Noet</sup>s
-[^Sea]: lexDef "Sea" {usage::: Noen || Croen} < A Body- Made, In Part, Of Salt[^SeaNoen] {SynApps :: "See|C"} << {To Be Blind | One Of The Four, Noen As Cytosine.}|| N.B. "A Sea Of Bodies."[^SeaNoen]
-
-[^SeaNoen]: See [[Body]], NoetBorges, 2021
-</div>
-</pre>
+[^ShoreNoen]: A is for Adrian; NoetSeuss
+[^ShoreCroen]: *Metatextual Excursions on Foot* --the Noets of the Ennead.
+[^Sea]: lexDef "Sea" {usage::: Noen || Croen} < A Body- Made, In Part, Of Salt[^SeaNoen] {SynApps :: "See|C"} << {To Be Blind | One Of The Four, Noen As Cytosine.}|| N.B. "A Sea Of Bodies."

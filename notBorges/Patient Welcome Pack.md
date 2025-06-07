@@ -6,72 +6,51 @@ permalink: Patient Welcome Pack
 
 The Garden of Forking Wings
 
-The Garden of Forking Wings is a mixed private 15-bedded mental health ward providing assessment, treatment and re{co{ve|rd{ed}}r{e}}(y) services for {REDACTED} There are no loc{k|h}s on your bedroom doors. You will have to fashion a Barricade Device out of dirty laundry tethered to the wardrobe and bathroom doors; to prevent your assailant from coming into your bedroom during the night. We will force you to stop using this under the guise of needing access to your body, which is not yours, in the case of emergencies. You will then, instead, stick a windchime above your bedroom door, in a futile attempt to hear anybody coming in during the night. Despite the dark cloud of antipsyhotic drugs we will force you to take preventing you from gaining consciousness. Who knows what happened to you all those nights you spent here. 
+The Garden of Forking Wings is a mixed private 15-bedded mental health ward providing assessment, treatment and re{co{ve|rd{ed}}r{e}}(y) services for ██████████ There are no loc{k|h}s on your bedroom doors. █████fashion a Barricade Device out of dirty laundry tethered █████prevent your assailant█████into your bedroom█████the {k}night.█████force you to stop█████the guise of needing access to your body,█████not yours, █████ emergencies. You will then, instead, stick a windchime above your█████door,█████ futile attempt to hear a█████body coming█████during the night.█████dark cloud of antipsyhotic drugs█████force you █████ preventing█████████consciousness. Who knows what happened to you█████those nights you spent█████. 
 
 
-*"Those days at {REDACTED} took me out of my {REDACTED}. We are never going on a Bear Hunt, Ever A Gain"*
+*"Those days at ██████████ took me out of my ██████████. We are never going on a Bear Hunt, Ever A Gain"*
 
 
 What not to bring with you
-A demonic entity known as {REDACTED}
+A demonic entity known as ██████████
 
 
-{REDACTED} Lane, {REDACTED}, {REDACTED}, The Universe, which some call The Hospital , SW15 5JJ
+██████████ Lane, ██████████, ██████████, The Universe, which some call The Hospital , SW15 5JJ
 
 A member of the nursing team will never show you round the ward, even and especially if you feel up to it. This will {REDACT} your exploration, and the end of all your exploring, will be to arrive where you started, and know the place for the last time.
 
 On admission to the ward, you will be under the care of a consultant psychiatrist. You will be assigned a unnamed nursed and The Rapist. 
 
-The Rapists on each floor of The Hospital are there to keep you in place. {REDACTED} will induct you onto the {REDACTED} programme 23 <{H}ours> from admission.
-
-We also have a team of Characters, all of which are Unforgivable.[^u]
-
+The Rapists on each floor of The Hospital are there to keep you in place. ██████████ will induct you onto the ██████████ programme ██████████
+We also have a team of Characters, all█████Unforgivable.[^u]
 Who’s who? Who are you? Who are you to ask for a
-
-Consultant psychiatrist
-There is an out of <{H}ours> RMO doctor that covers the ward from the <{H}ours> of 5pm-9am.
+█████ psychiatrist
+████████████████████
 We have a piano in our Chapel, which you will never be allowed to play. 
-
-Telephones
-
+█████
 You may use your Yellow Landline Telephone phone, although they are not permitted.
+████████████████████
+Never Leave. Use the Leaves. Use the rotten leaves held in your box of Tarot Cards inscribed with the image of {the Devil|VIXI} to summon entities {we|you} will fear. ████████████████████
+We have a separate Women's Lounge, a necessary Safety Measurement █████ not█████respected by█████ Men on█████ward or█████Staff, one █████will sexually assault you █████first week███████████████████████may, on occasion, advise you █████████████.█████Please {DO NOT SPEAK}█████{{YOU|THEI}R NAME}d nurse █████leave█████ unable to █████, being patients themselves. 
 
-
-
-Never Leave. Use the Leaves. Use the rotten leaves held in your box of Tarot Cards inscribed with the image of {the Devil|VIXI} to summon entities {we|you} will fear. 
-
-We have a separate Women's Lounge, a necessary Safety Measurement which will not be respected by the Men on the ward or the Staff, one of which will sexually assault you in your first week here. We request that you tell staff if you wish to go out of the hospital, so that we can work with you to ensure that this is not possible for you. This may mean that there is a delay as we ensure that you shall not be permitted to meet in person. We may, on occasion, advise you to {REDACTED}, or that {REDACTED}. This is different for patients detained under the Mental Health Act. Please {DO NOT SPEAK} to {{YOU|THEI}R NAME}d nurse about your leave arrangements, for they are unable to grant requests, being patients themselves. 
-
-For clients on the {REDACTED} treatment programme, we have specific Boundary Objects around leave to help you avoid triggers and {REDACTION} in your early recovery. 
+For clients on the ██████████ treatment programme, we have specific Boundary Objects███████████████████████████████████████████████████████
   
-There are a range of shops and restaurants for you to visit in your imagination. The towns closest to {REDACTED} Hospital {REDACTED} are {REDACTED, REDACTED, REDACTED} and. \<{Bar}N{e}>s. They all have places to feed which you will never see. If you are looking for somewhere in particular, please do not speak to the {ENTITY|team}. Do not speak at all {FOR SHE WILL HEAR YOU}. In addition to these, we are{REDACTED} to ensure no escape into nature is possible. The nearest shop provides bottled water, to which you will need to plan your escape, when the running water shuts off for over three hours. You will carry water, through the surrounding woods, carry water, through the surrounding woods, carry water, through the surrounding woods, Little Red Robbing Riding Hood, despite your physical disability, you will carry Three Pales of Water back to the patients who are less able to leave. Do not speak at all{SHE IS LISTENING WITH HER EAR TO THE GROUND LIKE THE SIX LEGS OF AN INSECT}. This is for your own good; of which there is absolutely none.
+There are a range of shops and restaurants for you to visit in your imagination. The towns closest to ██████████ Hospital ██████████ are {REDACTED, REDACTED, REDACTED} and. \<{Bar}N{e}>s. They all have places to feed which you will never see. If you are looking for somewhere in particular, please do not speak to the {ENTITY|team}. Do not speak at all {FOR SHE WILL HEAR YOU}. In addition to these, we are██████████ to ensure no escape into nature is possible. The nearest shop provides bottled water, to which you will need to plan your escape, when the running water shuts off for over three hours. You will carry water, through the surrounding woods, carry water, through the surrounding woods, carry water, through the surrounding woods, Little Red Robbing Riding Hood, despite your physical disability, you will carry Three Pales of Water back to the patients who are less able to leave. Do not speak at all{SHE IS LISTENING WITH HER EAR TO THE GROUND LIKE THE SIX LEGS OF AN INSECT}. This is for your own good; of which there is absolutely none.
 
 
+The families of our general mental health clients are ██████████ Your Mother Will Not Visit. Your Father Will Not Visit. Your Friends Will Not Visit. So don't even bother trying to ask again.
 
-Consequently, there will be no opportunities for you to arrange for {REDACTED} and/or {REDACTED} to visit the site outside of therapy <{H}ours>.
-
-The families of our general mental health clients are {REDACTED} Your Mother Will Not Visit. Your Father Will Not Visit. Your Friends Will Not Visit. So don't even bother trying to ask again.
-
-This right is underpinned by the duty on public agencies under the Human Rights {ACT} (\<PROF. {ED} O.> And Thing, 1998.) to intervene proportionately to protect {Rights|what's Left} of citizens. We are a business. And as such, we only care about where your next payment is coming from, if at all. If you{r insurance company} cannot c{over} the cost of your treatment, you will be exiled; before your treatment is complete, leaving you to carry a suitcase full of dirty laundry all the way back from London to Glasgow; to arrive to the place you once called "Home" on Bonfire Night. Our legal duties extend to responding to any concerns about the neglect, physical, sexual or emotional abuse of any children (under the age of 18) connected to our inpatients and outpatients. So we will be very afraid when you finally mention this. We will not tolerate any taste of our own so-called "medicine".
+███████████████under the Human Rights {ACT} (\<PROF. {ED} O.> And Thing, 1998.) to intervene proportionately to protect {Rights|what's Left} of citizens. We are a business. ██████████If you{r insurance company} cannot c{over} the cost █████exiled; before██████████complete,██████████ carry a suitcase full of dirty laundry all the way back from██████████; to arrive to the place you once called "Home" on█████fire█████. █████legal duties█████responding to any concerns about █████neglect, physical,█████or emotional abuse █████our inpatients█████we will be very afraid when you finally mention this. █████not tolerate any taste of our own██████████"medicine".
 
 
-{REDACTED} recognises that confidentiality is {an| of no} import{ance|TS[^TS]} part of your therapeutic relationship. However, where there is a risk of abuse, the Data Protection Act enables the lawful sharing of information in emergency situations. This may warrant the sharing of relevant information with the relevant services, without consent. Without consent. Without consent. Without consent.
-The law does not prevent the sharing of sensitive, personal information within organ{isation}s. If the information is confidential, but there is a safeguarding concern, sharing it may be {un}justified. Unless you were assaulted by a fellow patient who is Male. In which case, you will have to carry around your Field Recorder, a {Recording|Accountability|Inendiary} Device. This will be your one saving grace. As always. You Are Your Own Archivist. And This Is Not A Place Of Rest. This is a place of unravelling. And you will find on your broken tape player, a reversed loop of you and your ex partner, singing in broken harmonies as you walk through a forest surrounding the Bothy that you visited as your final time together. It was not Christmas. As on the actual day, they had {better|primary} {things|people} to do. 
+██████████ recognises that confidentiality is {an| of no} import{ance|TS[^TS]} ██████████ █████may warrant the sharing █████ relevant services, without consent. Without█████. Without consent. █████consent.
+█████ sharing█████personal information within organ{isation}s. ███████████████you will █████carry██████████your Field Recorder, a {Recording|Accountability|Inendiary} Device. █████ one saving grace. ███████████████Your Own Archivist. ██████████████place of unravelling. ██████████find on your broken tape player█████reversed loop of you and ██████████singing in broken harmonies as you walk through a forest surrounding the Bothy██████████final time together. ██████████not Christmas. As on █████they had {better|primary} {things|people} to do. 
+█████ access your health records. Which you will █████ your own█████another fight within another fight within another fight. Thank██████████you have the biological education to parse ██████████your GP; advocating█████self█████always had to█████. Your voice will bellow █████spinal dislocation █████Ehlers-Danlos Syndrome, screaming █████stronger painkiller█████ not making it up. █████nurse on the night shift█████twelve hours later.█████ you are crazy█████unreliable narrators of your own, Fictional Stories█████ Characters within Our non-fictional ones█████ lying in agony,█████missing all three meals█████Transphobia,█████Field Recorder you carry █████shield, preventing█████mistreating █████ Shame on you, "Miss" Callie Rose Petal. 
 
-
-Any patients who feel themselves at risk of or actually alleges they have been abused should report the
-matter immediately to a member of staff. It is the expectation that all staff will cultivate an environment where vulnerable individuals feel able to express such an allegation. But of course, not a reality. 
-
-You have the right to apply to access your health records. Which you will do, on your own, in another fight within another fight within another fight. Thanking god that you have the biological education to parse the encoded information you receive from your GP; advocating for yourself as you have always had to do. Your voice will bellow out through the corridor as you succumb to another spinal dislocation thanks to your Ehlers-Danlos Syndrome, screaming that you need a stronger painkiller than Paracetamol, and that you are not making it up. Finally, the nurse on the night shift will give it to you; twelve hours later. Please do not speak to the ward manager who will not be able to help you with this process. This may take some time, we will take as much time as we want, as it is vital we check that we are giving each patient the correct information, and we do not believe any of you; you are crazy, and unreliable narrators of your own, Fictional Stories, who are simply Characters within Our non-fictional ones. – we will not inform you of the approximate time needed, leaving you lying in agony, on you bed, missing all three meals of the day. All of which will be purposely be put through the system incorrectly, as the HCA in charge of this has a vendetta against you, most likely rooted in Transphobia, and the aforementioned Field Recorder you carry as a shield, preventing her from mistreating you to her face. How dare you demand proper treatment. Shame on you, "Miss" Callie Rose Petal. 
-
-Advocacy service
-{REDACTED}
-
-The Garden of Forking
-
-
-{REDACTED} 
-{REDACTED} Wing –please do not evacuate via the nearest fire exit and go directly to the meeting point in front of the hospital. When a Fire is suspected, an a blaring alarm sounds during your stay, one of the nurses will shout THERE'S SOMETHING IN THE BASEMENT. One of the patients {you know the one. You know, the one who sexually assaulted you in that first week {{put}under|over|through{put}} our Care} will have a Seizure as a result of the Panic. There will turn out to be no threat, at least, none that we can perceive in the physical world. You will come to believe the Thing in the basement is an entity known as {REDACTED} who you brought with you, tethered to you by your Schizophrenic rapist; who you tried to help by performing a series of sex magick rituals that led to your Rape. 
+Advocacy███████████████
+The Garden of Forking██████████ 
+██████████ Wing –█████When a Fire is suspected,█████blaring alarm sounds█████nurses will shout THERE'S SOMETHING IN THE BASEMENT.█████ You will come to believe the Thing in the basement is an entity known as ██████████ who you brought with you, tethered to you by███████████████ who you tried to help █████performing█████ ██████████rituals█████led to ██████████. 
 
 # Chronography
 

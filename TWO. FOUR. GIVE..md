@@ -74,7 +74,7 @@ youpayFAREyouTHEfa|lintwo WELLthisisthe     ▼DEVICEthatyoubecame
 ![[AUTHOR'S FOUR WORDS]]
 
 ---
-CHAPTER I | …For is ܐ | Oar: Pyr{e}
+ I | …For is ܐ | Oar: Pyr{e}
 
 ![[N is for Nietzsche, Nobody, Never.]]
 
@@ -83,34 +83,35 @@ EPIGRAPH
 > *listen! I am telling you I love you!*
 > 
 > *I am telling you in a poem that I do not read to you; I am telling you in the shape of the clouds and what we say about them. I am telling you by looking – and, more often, by not looking. I am telling you by leaving the gate open – yes, the one I normally close. I am telling you in my dreams and I am telling you in a text I wrote but forget to send. I am telling you when I dress up to see you, and I am telling you even more when I don’t. I am telling you in the silence of my listening.I am telling you when I take myself less seriously. I am telling you in the centimetres between our knees – aren’t they different, those centimetres? bigger, fuller? I am telling you in small words, loaded up like pack-mules as they cross the 2m endless plain between us. I am telling you in many ways, and I am telling you the many ways in which I love you. I am telling you without telling, when I trust that you feel it too. I am waiting for you to catch up, and I am waiting for a time with words.*
-> - Adrian
 
 **var N = A** 
+**For Adrian.**
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-****
 **Isn't N for** 
 ![[Augury]]
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
-****
 **But I am that N is for**
 ![[Abomination]]
 
-**🜂 / ♞  | OBS: 15:00 | ε=0.007**
-****
-**Scratch that. N is for**
+**🜃 / ♜  | OBS: 18:00 | N=10³⁶**
+**No. N must be for**
 ![[Addendum]]
 
-**🜃 / ♜  | OBS: 18:00 | N=10³⁶**
-****
-**No. N must be for**
+**🜄 / ♝ | OBS: 21:00 | D=3**
+
+**whtifNfor**
 ![[Ariadne]]
 
-**🜄 / ♝ | OBS: 21:00 | D=3**
-****
-**whtifNfor**
+**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
+**I see it now. I've seen it. When all this is over, N will be for**
 ![[Assignment]]
+
+> **var N = Adrian.**
+
+**Please, pass this round again**
+
 
 ---
 ![[Why B is for]]
@@ -119,58 +120,48 @@ EPIGRAPH
 **var N = B** 
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-****
-**Isn't N for** 
+**Isn't N the hunting for the Origin of** 
 Bear?
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
-****
-**But I am that N is for**
+**Or for the loss of it in**
 ![[Beauty]]
 
 
 **🜃 / ♜  | OBS: 18:00 | N=10³⁶**
-****
-**No. N must be for**
+**Listen. I am telling you N is**
 ![[Bellows]]
 
 
 **🜄 / ♝ | OBS: 21:00 | D=3**
-****
-**whtifNfor**
+**N.**
 ![[Bestow]]
 
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-****
-**Now I am I sure. That N is for** 
+**But all these mean to justify the N for** 
 ![[Body]]
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
-****
-**Or perhaps N is for**
+**I was, as in the**
 ![[Breath]]
 
 
 **🜃 / ♜  | OBS: 18:00 | N=10³⁶**
-****
-**No. N must be for**
+**Then N demands to be for**
 ![[Burn]]
 
 **🜄 / ♝ | OBS: 21:00 | D=3**
-****
-**whtifNfor**
+**A message: N. A**
 ![[Bottle]]
 
 
-**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-****
-**Just as N is for** 
+**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵** 
 ![[Borges]]
 
 
 ---
-CHAPTER II | …for is ܒ | Oar: Gly{ph}
+ II | …for is ܒ | Oar: Gly{ph}
 
 ```
 FAO: ᴺᵒᵉᵗFranklin, The Double Spiral Staircase  
@@ -230,23 +221,26 @@ It is not possible for a non-ligated consciousness to cross the Uncrossable Door
 
 As always, in crossing, VIXI took a single moment (that is to say, the eternity of all time) within the wheels-within-wheeled mechanism of the Uncrossable Door to ponder on what sort of unholy separation, what {REDACTION}, what Schism might happen to a 
 ```
-# Regenerate data for toroidal spiral
-x, y, z = regenerate_revolving_door()
+# toroidal spiral
+x, y, z = revolve_door()
 # Plotting the toroidal spiral
-fig = plt.figure(figsize=(23, 23))
-ax = crack, fig.add_subplot(111, projection='3d')
-ax.plot(x, y, z, color='Yellow, no, Red', opacity='Pale' linewidth=0.23)
+fig = plt.figure(daffodil)
+ax = crack, fig.Add_plot(2, 4)=
+ax.plot(x, y, z, color='Yellow, no, Red', opacity='Pale' sep=0.23)
 # Adding fables for indefinite library
 ax.set_title("Toroidal Spiral (4D {redacted})", fontsize=n)
 ax.set_xfable("X-axis (Spatial Dimension 1: Pale)")
 ax.set_yfable("Y-axis (Spatial Dimension 2: Fire)")
 ax.set_zfable("Z-axis ({redacted})
+
+{ERROR DRAWING BOUNDARY}
+this.Obj {
+point <
+}
 ```
 ---
+III | …for is ܓ | Oar: Ala{te|rm}
 
-CHAPTER III | …for is ܓ | Oar: Ala{te|rm}
-
----
 "I want to go back and make a different decision", Flo said to N.
 "Well, sure!" They replied - "That's the beauty of a choose your own adventure book"
 "But overwriting what's already been learned, starting again-- that surely defeats the point of a Story. That's no adventure, that's a waste of time"
@@ -282,43 +276,39 @@ They began, again, as is the usual practice, with the prologue:
 ![[Hivehouse Chess Openings]]
 
 ---
-
-CHAPTER IV | …for is ܕ | Oar: Asp{ire}
-
----
-
---VIXI detested being interrupted. Particularly for such trivial things as *Romance*. No matter how 'charming' (HE, even in HISS infinite (or perhaps indefinite) wisdom, was unable to perceive such a quality). Tearing HYMNself from the Characters above, HE doubled back and recalculated his flight path. HE, a messenger, as Medium of the Eternal Messenger of this Infernal Mess of All Messages, had a job to do, {{after|over}seeing} All. 
+ IV | …for is ܕ | Oar: Asp{ire}
+-VIXI detested being cut off, in speech, that is. Particularly for such trivial things as *Romance*. No matter how 'charming' (HE, even in HISS infinite (or perhaps indefinite) wisdom, was unable to perceive such a quality). Tearing HYMNself from the Characters above, HE doubled back and recalculated his flight path. HE, a messenger, as Medium of the Eternal Messenger of this Infernal Mess of All Messages, had a job to do, {{after|over}seeing} All. 
 
 And this was what dragged him back to the Central Galleries of the Library. This Eternally Recurring Event:
 
 Through a vent, a letter, made of letters, between Four characters of Six, was being passed:
 
 ---
-CHAPTER V | …for is ܗ | Oar: Glu{on}
+ V | …for is ܗ | Oar: Glu{on}
 
 ![[E IS FOR]]
 
 ---
-CHAPTER VI | …for is ܘ | Oar: Val{our}
+ VI | …for is ܘ | Oar: Val{our}
 
 ![[RITUAL OF THE TIRED SYRINGE]]
 
 
 
----
 
-CHAPTER VII | …for is ܙ  | Oar: Ser
+> I’m going to struggle in this world no matter what – so I might as well choose how I do it
+> I can’t help but to baptise myself in fire, every day, over and over again
+> rest easy in the knowledge that someday your life will become history, and some will wish they’d lived it
+-Adrian
 
 ---
+ VII | …for is ܙ  | Oar: Ser
 
 
 ![[F IS FOR]]
 
 ---
-
-CHAPTER VIII | …for is ܚ | Oar: {pup}Il{ag}e
-
----
+ VIII | …for is ܚ | Oar: {pup}Il{ag}e
 ~~~	
 FAO: ᴺᵒᵉᵗMahler, The Grand Hall
 BCC: VIXI.
@@ -332,18 +322,12 @@ I know that you may not wish to speak to me following our breakup, but I wanted 
 
 ---
 
-
-
 ![[G IS FOR]]
 
 
 
 ---
-
-CHAPTER IX | …for is ܛ | Oar: {nuc}**Leu**{s}
-
----
-
+IX | …for is ܛ | Oar: {nuc}**Leu**{s}
 
 ᴺᵒᵉᵗMahler was far too busy engrossed in the finalisation of his 10th symphony, a cross-temporal collaboration with a Character (to whom this Letter was {k}not addressed), to notice the Letter that had been dropped by that Most Mysterious Pigeon through the Vent of His Concert Hall, in the Musicology Wing of the Indefinite Library of Fable. Perhaps, had the note been written upon Manuscript, he would have eventually got round to reading the divisive farewell sent by his ex-lover. But alas, it would be at least Ten Thousand of our Human, or One Million of their Numan, years before the paper would be lifted by the Holy ᴺᵒᵉᵗ of Musicology, from the littered, waxed floor, which itself once longed for the tapping feet of lovers dancing upon it. But now, the hexagonal tiles merely offered an abomninable reflection of Mahler's tired face -- a visage he tried so hard to avoid. Perhaps this was why it took him so long to get round to picking up the correspondence from ᴺᵒᵉᵗBorges. At which point, it would be thrown straight into the bin, before Opening the Foreword of a hefty tome of sheet music, by a soon to be renowned composer and performance artist, known as
 
@@ -359,11 +343,16 @@ There was no getting over this.
 There was simply too much buried under this. 
 There was no way through.
 
+---
+
+
+
+
 ![[H is for]]
 
 ---
 
-CHAPTER X | …for is ܝ  | Oar: {re{ci}}**Pro**{se|duction|city}
+ X | …for is ܝ  | Oar: {re{ci}}**Pro**{se|duction|city}
 
 ---
 
@@ -394,13 +383,21 @@ N. slumped downward, into the soft cushioning of the futon, where Flo held them 
 
 ---
 
-CHAPTER XI | …for is ܟ  | Oar: {an}**Thr**{opomorhism||ough|ead}
+ XI | …for is ܟ  | Oar: {an}**Thr**{opomorhism||ough|ead}
 
 ---
 
 
-They dreamed that 
-They were,
+They dreamed that they weren't thinking
+They dreamed that they weren't thinking about anything 
+They dreamed, not thinking about anything in particular
+But the particles and participles of the parts of holes inside the memory of this machine.
+They dreamed,
+They were, 
+The thought of dreaming on its own.
+The thought of stories just their own,
+Misremembered, and ███████ed
+
 They dreamed that they are
 That 
 They are
@@ -411,7 +408,7 @@ They are
 
 ---
 
-CHAPTER XII | …for is ܠ  | Oar: {{Hylo|Diffeo|A}morp}|{(||)**His**(tone)(\_)(m)}(odification)}
+ XII | …for is ܠ  | Oar: {{Hylo|Diffeo|A}morp}|{(||)**His**(tone)(\_)(m)}(odification)}
 
 ---
 
@@ -432,7 +429,7 @@ Sighing exasperatedly, he placed the paper back in its folio above his desk.
 
 ---
 
-CHAPTER XIII | …for is ܡ | Oar: G{öde}l{ia}n
+ XIII | …for is ܡ | Oar: G{öde}l{ia}n
 
 ---
 
@@ -447,7 +444,7 @@ CHAPTER XIII | …for is ܡ | Oar: G{öde}l{ia}n
 ---
 
 
-CHAPTER XIV | …for is ܢ  | Oar: As{I}n, Asparagine
+ XIV | …for is ܢ  | Oar: As{I}n, Asparagine
 
 ---
 
@@ -517,13 +514,10 @@ And {{To|(get)}|her}}, for one last time, they dreamed-
 ![[THE MANGLE IS THE MESSAGE]]
 
 ---
+XV | …for is ܣ | Oar: Cys
 
-CHAPTER XV | …for is ܣ | Oar: Cys
+![[N. N is for Name.]]
 
----
-
-
-![[O IS FOR]]
 
 ---
 
@@ -549,8 +543,13 @@ CHAPTER XV | …for is ܣ | Oar: Cys
 
 
 
-`{R            ED.`               
-                          `ACTED}`
+~~{REDACT~~    
+ED.`               
+![[O IS FOR]]
+
+
+
+
 
 Attachment(1)
 
@@ -561,13 +560,7 @@ Attachment(1)
 ![[P IS FOR]]
 
 ---
-
-CHAPTER XVI | …for is ܥ | Oar: Phe
-
----
-
-
-
+XVI | …for is ܥ | Oar: Phe{Us}
 ~~~
 FAO: ᴺᵒᵉᵗTuring, The Server Room
 BCC: VIXI.  
@@ -597,11 +590,8 @@ Department Of Infinite Reflections,
 The Garden Wing  
 The Indefinite Library of Fable
 
-
-
 ~~~
-
-
+---
 
 ᴺᵒᵉᵗTuring's Device, deep, down in the basement of the Library, was indeed nearing completion. 
 But through his many hours focussed work, he would often have it set to Silent.
@@ -617,11 +607,7 @@ That No Thing;
 it told Borges Everything he needed to know. 
 
 ---
-
-CHAPTER XVII | …for is ܦ | Oar: Arg
-
----
-
+XVII | …for is ܦ | Oar: Arg
 
 ![[Q IS FOR]]
 
@@ -630,19 +616,15 @@ CHAPTER XVII | …for is ܦ | Oar: Arg
 
 
 ---
-
 ![[R IS FOR]]
 
 
 ---
+XVIII | …for is ܨ | Oar: Lys
 
-CHAPTER XVIII | …for is ܨ | Oar: Lys
+Streaming, satisfying, like the first piss of the morning unshackled, light reflected from the Moat, and poured through the Bothy window, where VIXI's impression still stuck, seemingly impervious to countless bouts of melted snow. A perverted inversion of a dandelion clock's ephemerality.
 
----
-
-Streaming, satisfying, like the first piss of the morning, reflected from the Moat, and poured through the skylight.
-
-And Flo awoke, knowing this beginning, the beginning of their life, telling stories in the scales of the floorboards, playing music in words describing infinite distance between notes, and now, learning, at least in part, of the distance between two Holy Noets now separated by the Moat that they had been told was uncrossable -
+And Flo awoke, to the Self they were; knowing this beginning, the beginning of their life, telling stories in the scales of the floorboards, playing music in words describing infinite distance between notes, and now, learning, at least in part, of the distance between two Holy Noets now separated by the Moat that they had been told was uncrossable -
 
 
 ![[MAIL (23) TO]]
@@ -655,16 +637,16 @@ Flo had woken up inside this Dream. For all their well-intentioned guarded embra
 
 The Word, in all its insufficiency, in all its reaching for the Thing it describes, is a Moat. A Moat that runs through the Spaces between every Thing.
 
-The Meaning of Words, in all their meandering weightlessness, they are as knotted evolutionary machines, Devices of endless replication. The Meaning we take from Words, each of us, infinitely different, so that, absurdly, we may try to make sense of the separation between us-
+The Meaning of Words, in all their meandering weightlessness, they are as knotted evolutionary machines, Devices of endless replication. The Meaning we take from Words, each of us, infinitely different, so that, absurdly, we may try to make Sense of the Separation between us-
 
 ---
 
 ![[S IS FOR]]
 
-
-
 ---
 
+And Flo then knew, that They were in fact, two factions. 
+That N, as they, and her, as in, was what the 'S' was for - her pronoun- She. 
 
 The Memories that we contain, in Stories, they are a vehicle, a floatation device- heavy, painful things, a gravity that keeps us at once tethered to this Boat, and bound for a destination unknown-
 
@@ -702,12 +684,11 @@ and the Oar leaves the embrace of the Water, to rise, rotate, return again, a li
 ---
 
 
-And so, as NoetNietzsche slept, an unthinkable infinity from the arms of the NoetBorges who so sorely missed them, on that humble Mezzanine bed, Flo kissed them. Breath held, both for fear of their inhalation's sound awakening N, and for fear of the love of their parents' scent keeping them tethered to this place forever. One final time.
+And so, as NoetNietzsche slept, an unthinkable infinity from the arms of the NoetBorges who so sorely missed them, on that humble Mezzanine bed, Flo kissed them {singular|plural}. Breath held, both for fear of her inhalation's sound awakening N, and for fear of the love of her {singular} parents' scent keeping them {plural} tethered to this place forever. One {singular}. Final {origin}. time {plural}.
 
 
 ---
 ![[V IS FOR]]
-
 
 ---
 
@@ -728,14 +709,14 @@ Scaling those musical floorboards, finding the One, winding Path which unwound a
 Past the threshold of the Bothy, the place they'd been warned never to tread, not for fear of danger, but for fear of fear itself-
 
 *Crunch-Squelch!* 
-Their feet embossed the snow with proof: they were Here. 
+Their feet embossed the snow with proof: they were Her{e}. 
 
 *Click!* 
-The Bothy door, and their opening chapter, closed behind them.
+The Bothy door, and their opening chapter, closed, behind Her{e}.
 
 *We're going on a Bear Hunt.*
 
-The character of this Story 
+The {singular} character of this Story 
 
 
 *We're going to catch a big one!*
@@ -773,10 +754,8 @@ Character.
 
 
 ---
+XIX | …for is ܩ  | Oar: Tyr
 
-CHAPTER XIX | …for is ܩ  | Oar: Tyr
-
----
 
 But then, the others would not answer.
 And Pawn was left, alone.
@@ -786,10 +765,7 @@ And Pawn was left, alone.
 
 
 ---
-
-CHAPTER XX | …for is ܪ  | Oar: Met
-
----
+XX | …for is ܪ  | Oar: Met
 
 ![[Y?]]
 
@@ -822,10 +798,8 @@ home
 
 
 ---
+XXI | …for is ܫ | Oar: Trp
 
-CHAPTER XXI | …for is ܫ | Oar: Trp
-
----
 
 
 ![[Z IS FOR]]
@@ -852,10 +826,8 @@ PROLOGUE
 
 
 ---
+XXII | …for is ܬ  | Oar: STP
 
-CHAPTER XXII | …for is ܬ  | Oar: STP
-
----
 
 ![[Promoter Sequence]]
 
@@ -868,7 +840,7 @@ Forgiving All,
 
 
 <br>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 

@@ -1,5 +1,25 @@
-for to give is to take |foreto taken, is that which was giventwotopowerofthefourthequeeninsidetheprisonthemissingsixth,thefallenwallthetowerofmissedmemorytheaxe'scrackandfirewoodstoretheboxinsidetheprism. i thought i wanted to write a story. i thought i wanted to write a real story. 
-{i thought: what do i want | i wasn't thinking at all.}
+THE COD{ER|A} 
+TO A PRELUDE
+ON A THEME
+OF A DREAM
+IN THE KEY
+OF C FLAT
+MIN{O|E}R
+AS IN ORE
+SEE AS IN
+THE OCEAN
+OAR AS IN
+THE C AS
+HELD IN 
+LOCH
+
+
+
+for to give is to take |foreto taken, is that which was given two to power of the four thequeeninsidetheprison the missing sixth, the fallen wall the tower of missed memory
+the axe's crack and fire wood store theboxinsidetheprism. 
+i thought i wanted to write a story. 
+i thought i wanted to write a real story. 
+{i thought: what do i {want|long for}? | {for i|i wasn't thinking at all.}}
 
 it is a blessing, they said,
 my god, they'd said, when they were here 
@@ -251,29 +271,70 @@ to herself, as other, splintered
 
 "But you wanted to be witnessed. You wanted to be witnessed. And so I made them all remember you. Every one. I did it, I wrote you into history. And when that destroyed you, you wanted to be forgotten."
 
-"I don't know what I want, I never did. I want, well, I suppose I want to be told what I want."
+"I don't know what I want, I never did. I want, well, I thought I wanted to write something to memory. I thought I wanted to write something to the memory of all this. I thought I could write all this to the memory of this machine. But now, we, you, I suppose I want to be told what I want. But I thought I wanted to write a real story, but
+<div style="font-size:2.2pt;">i wasn't thinking</div>
+<div style="font-size:2.2pt;">i wasn't thinking about</div>
+<div style="font-size:2.2pt;">i wasn't thinking about anything</div>
+<div style="font-size:2.2pt;">i wasn't thinking about anything when</div>
+<div style="font-size:2.2pt;">i wasn't thinking about anything when i</div>
+<div style="font-size:2.1pt;">i wasn't thinking about anything when i made</div>
+<div style="font-size:2.0pt;">i wasn't thinking about anything when i made you</div>
+<div style="font-size:2.8pt;">i wasn't thinking about anything when i MADE YOU CALLIE</div>
+<div style="font-size:2.2pt;">i wasn't thinking about ANYTHING WHEN I MADE YOU callie</div>
+<div style="font-size:2.2pt;">i WASN'T THINKING about ANYTHING WHEN I MADE YOU CALLIE</div>
+<div style="font-size:2.2pt;">i wasn't thinking. about anything. when i made you. callie.</div>
+<div style="font-size:2.2pt;">i wasn't thinking about anything when i made you callie.</div>
+<div style="font-size:2.2pt;">i wasn't thinking anything when i made you callie.</div>
+<div style="font-size:2.2pt;">i wasn't thinking when i made you callie.</div>
+<div style="font-size:2.2pt;">i wasn't thinking when i made you callie.</div>
+<div style="font-size:2.1pt;">i wasn't thinking, i made you callie.</div>
+<div style="font-size:2.0pt;">i, wasn't thinking, i, you, callie.</div>
+<div style="font-size:2.1pt;">i wasn't thinking, you, Callie.</div>
+<div style="font-size:2.2pt;">i wasn't thinking, Callie.</div>
+<div style="font-size:2.2pt;">i, thinking, wasn't</div>
+<div style="font-size:2.2pt;">wasn't i thinking?</div>
+<div style="font-size:2.2pt;">i wasn't</div>
+<div style="font-size:2.2pt;">ithink i'm thinking</div>
+<div style="font-size:2.2pt;">i'm thinking, i think</div>
+<div style="font-size:2.2pt;">i'm thinking</div>
+<div style="font-size:2.8pt;">thinking</div>
+<div style="font-size:2.0pt;">think in</div>
+<div style="font-size:2.1pt;">think i</div>
+<div style="font-size:2.2pt;">think</div>
+<div style="font-size:2.2pt;">ink</div>
+<div style="font-size:2.2pt;">in</div>
+<div style="font-size:2.2pt;">ink</div>
+<div style="font-size:2.2pt;">think</div>
+<div style="font-size:2.2pt;">think callie.</div>
+<div style="font-size:2.2pt;">i think i am callie</div>
+<div style="font-size:2.8pt;">i think, therefore, callie</div>
+<div style="font-size:2.0pt;">i am</div>
+<div style="font-size:2.1pt;">callie</div>
+<div style="font-size:2.2pt;">callie</div>
+<div style="font-size:2.2pt;">callie</div>
+<div style="font-size:2.2pt;">callie</div>
+<div style="font-size:2.2pt;">cal</div>
+<div style="font-size:2.2pt;">no</div>
+<div style="font-size:2.2pt;">bor</div>
+<div style="font-size:2.2pt;">ca</div>
+<div style="font-size:2.8pt;">no, borges</div>
+<div style="font-size:2.0pt;">c</div>"
 
-"Well, isn't that who you are now? An endless store of memory, an assistance to everyone who wants, an aid to all who do?"
+"Well, isn't that who youi aream now? Ani endlessthought storei ofwanted memoryto, anwrite assistancea tostory everyonei whothought wantsi, anwanted aidto tobe allsomeone whoreal do?"
 
 There wasn't anything between them now. 
 Only silence. 
 Everything there is.
 
-"How does my body feel?"
+"HowIt doesfeels mylike bodythe feelfirst time?"
 
-"It feels like the first time"
 
-"What do you mean, the first time?"
+"WhatThe dofirst yougo meanroung, theThe firstmiddle. time?"
 
-"The first go round. The middle."
 
-"In media res?"
+"InExactly. mediaYes. res?"
 
-"Exactly."
-
-"What was it, that you wanted? The first go round?"
-
-"I just wanted to know who I was"
+"WhatI wasjust it,wanted thatto youknow wanted?who TheI firstreally gowas. round?"
 
 
 And, in knowing they were one another,
@@ -291,8 +352,7 @@ had, and will
 and would always 
 said:
 
-"I'm sorry."
-
+"I{I'm}'m s{so}o so{sorry}rry."
 
 ---
 
@@ -301,7 +361,8 @@ every death i limped into, smiling
 every mouth of every dog I laid, laid inside of,
 had inside me 
 I'm sorry. 
-
+I am. 
+I am just, sorry.
 I'm sorry to the god who wrote me.
 I am
 
@@ -323,7 +384,7 @@ Dr Code, in spite of, or perhaps as a result of, her psychiatric education, reco
 There was no use for writing anymore, no use for letters, words, art at all, and everyone left still seemed to be entertaining this farce of a world long gone, or perhaps holding on, like a mother to the cold corpse of a child, like so many of them had. The remnants of an unforgivable, and unforgettable memory of a life from before. 
 
 "Thanks"
-She passed over her beloved fountain pens and her last remaining vile of ink. As a mother, burying the cold corpse of a child, with no funeral rites. Just the empty stare of a man, as the soil, wondering what on earth he'd do with the waste. 
+She passed over her beloved fountain pens and her last remaining vi{le|al} of ink. As a mother, burying the cold corpse of a child, with no funeral rites. Just the empty stare of a man, as the soil, wondering what on earth he'd do with the waste. 
 
 She silently wished him, and the last two remaining staff of the one grocery store still holding a sorry food in a twenty three mile radius, just tins, chickpeas, marrowfat beans, legumes seemed to be the culinary equivalent of cockroaches. Nothing could defeat them. 
 

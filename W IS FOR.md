@@ -2,36 +2,26 @@
 **var N = W** 
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-****
-**Isn't N for** 
+**But**
 ![[Wait]]
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
-****
-**But I am that N is for**
+**We can't. For N must be Goodbye, as in The {**
 ![[Wake]]
-
-
-**🜂 / ♞  | OBS: 15:00 | ε=0.007**
-****
-**But no. N is for**
-![[Warp]]
+**|**![[Warp]]
+**|**
+![[Wave]]
+**}**
 
 **🜃 / ♜  | OBS: 18:00 | N=10³⁶**
-****
-**No. N must be for**
-![[Wave]]
-
-Or
+**And N, the midst, The**
 ![[Weft]]
 
 
 **🜄 / ♝ | OBS: 21:00 | D=3**
-****
-**whtifNfor**
+**thtmnsNfor**
 ![[Wheel]]
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-****
-**Now I am I sure. That N is for** 
+**Sew in our N; beginning of the** 
 ![[Wound]]

@@ -5,17 +5,17 @@ title: ⧖eno's revolving door
 I.
 ---
 
-DREAM INPUT: 
+ █NPUT: 
 ![[I. THE GOSPEL ACCORDING TO MISCARRIAGE]]
 
 
-OUTPUT ANALYSIS:
+OUTPUT :
 
-The above was taken from Part 23 of the Literary Critique podcast discussing The Woman In The Wallpaper's final novel, "Phage 23" {do knot, cite yore} Source: An unreleased journal, RED_RING_PARALLEL {REDACTED}, aired within one room of a Six Room immersive and ambitious art installation too tragically ahead of its time. The journal entry itself focuses on the book's content, and its controversial withdrawal. This Podcast was the first time the Work has been discussed publicly, and (following the outcry which {REDACTED} its release) was subsequently (within three seconds {of the dream {of a single {fly|drosophila| fly, fly, fly}} {REDACTED}from streaming{REDACTED}forms
+█████above█████taken from Part 23 of ███████████████discussing The Woman In The Wallpaper's final novel, "Phage 23" ██████████: An unreleased journal, RED_RING_PARALLEL ██████████, aired within one room of a Six Room immersive art installation██████████analysis of the book's content, and its █████withdrawal. ██████████ first time the Work has been discussed publicly, and (following the outcry which ██████████ its release) was subsequently (within three seconds {of the dream {of a single {fly|drosophila| fly, fly, fly}} ██████████from streaming██████████forms
 
-> "Author ⧖, in their musicological analysis of 'Phage 23' explored a deeply intricate and complicated exploration of an alternate universe mentioned in *RED_RING_PARALLEL*, in which a terrifyingly deadly virus (therefore, terrible at the intended function of its own survival) devoured the world's population, leaving One member of the population with a superhuman ability of hearing. The book was recalled from shelves due to the immediate outbreak of the coronavirus pandemic, in an event of harrowing similarity to the very parapsychological themes (though, precognitive, rather than auditory) the author herself was exploring in the work"
+> "Author ⧖, in their musicological analysis of 'Phage 23' explored a deeply intricate and complicated exploration of an alternate universe mentioned in *RED_RING_PARALLEL*, in which a████████████████████ virus ████████████████████████████████████████████████████████████
 
-- This quote is taken from Page 23 of *RED_RING_PARALLEL*: The {REDACTED} Journey, Page 323, \[Footnote 23], within the meandering prose of the accompanying Zine to the Immersive Art installation made by Aria {Surname REDACTED}; which contained Scratch and Sniff QR codes that ultimately overwrote the memory of its audience members, via parasitic exploitation of the olfactory bulb's proximity to the memory centre of the brain. 
+- This quote is taken from Page 23 of *RED_RING_PARALLEL*: The ██████████ Journey, Page 323, \[Footnote 23],█████ prose █████accompanying Zine to the Immersive Art installation made by Aria {Surname REDACTED}; █████ contained Scratch and Sniff QR codes ██████████overwrote█████memory of█████audience members█████ parasitic exploitation of █████ olfactory bulb's proximity to the memory centre of the brain. 
 
 > 1. ![[Patient Welcome Pack]]
 
@@ -23,10 +23,10 @@ The above was taken from Part 23 of the Literary Critique podcast discussing The
 
 II:
 ---
-DREAM INPUT:
+ █NPUT:
 ![[II. THE GOSPEL ACCORDING TO THE MOAT SURROUNDING]]
 
-OUTPUT ANALYSIS:
+OUTPUT :
 ![[Within The Blood - A Lexicomythographic Dissection of Angela Carter's 'The Bloody Chamber' {Entryways as Exits-of-Ego, Veils Within Secrets, and Semiotic Dissolution}]]
 
 
@@ -34,33 +34,33 @@ III:
 ---
 
 
-DREAM INPUT:
+ █NPUT:
 ![[III. THE GOSPEL ACCORDING TO MIRRORS]]
 
 
-OUTPUT ANALYSIS:
+OUTPUT :
 ![[METACOMMENTARY ON TRANSMISSION]]
 
 
 
 IV:
 ---
-DREAM INPUT:
+ █NPUT:
 ![[IV. THE GOSPEL ACCORDING TO the yellow telephone.]]
-OUTPUT ANALYSIS:
+OUTPUT :
 
-  {REDACTED}
+  ██████████
 
-- Sylvia {REDACTED}, Watching. Reading. Passive. Passing something {up|down|over|through}, like a note scrawled in blood on wallpaper. Like the stave of an indecipherable song of unmanageable scale. *Ariel*  1965
-- lexDef **{Noen||prodverb} “Ariel” ||| a word, a wind, a lion, a gallop, a ghost | “Shakespeare’s air spirit, Hebrew’s lion of God, Sylvia {REDACTED}’s {named | untamed} steed || freedom reins, reins are severed.”
+- Sylvia ██████████, Watching. Reading. Passive. Passing something {up|down|over|through}, like a note scrawled in blood on wallpaper. Like the stave of an indecipherable song of unmanageable scale. *Ariel*  1965
+- lexDef **{Noen||prodverb} “Ariel” ||| a word, a wind, a lion, a gallop, a ghost | “Shakespeare’s air spirit, Hebrew’s lion of God, Sylvia ██████████’s {named | untamed} steed || freedom reins, reins are severed.”
 
 
 V:
 ---
-DREAM INPUT:
+ █NPUT:
 ![[V. THE GOSPEL ACCORDING TO THE NEWBORN]]
-OUTPUT ANALYSIS:
-{REDACTED}
+OUTPUT :
+██████████
 ![[and then]]
 
 
@@ -68,14 +68,14 @@ OUTPUT ANALYSIS:
 
 VI:
 ---
-DREAM INPUT:
+ █NPUT:
 
 *the lusting candle*
 by <sup>no{e}t</sup>Borges
 
 times like these
 In the latest waning;
-I long for wax.
+█ long for wax.
 
 It{’}s hardness, so easily broken,
 Cracks, whispering
@@ -84,26 +84,26 @@ something of Cohen about them
 A messiness, welcome
 Satisfying, delicious even
 
-How odd that I was just yesterday
+How odd that █ was just yesterday
 Alight, maybe too much so-
-I almost burned my flat down
+█almost burned my flat down
 
-Which would be fine, had I not risked the lives of countless others
+Which would be fine, had█not risked the lives of countless others
 Others within others,
-I don’t know how I get so bright sometimes
+█don’t know how█get so bright sometimes
 
-But I lust for it-
+But█lust for it-
 Like the thickness of that dick;
 That fucking dick
 Next to mine
 Or in me;
 Never out, really.
 
-I lust for wax;
+█lust for wax;
 For waxing;
 In times like these
-I think
-“I must have made it up”
+█think
+“█must have made it up”
 
 But dripping
 downward, in truth;
@@ -111,23 +111,23 @@ That’s all wax ever does
 Promising a thing
 That forms its opposite
 
-I shouldn’t blame it, really.
+█shouldn’t blame it, really.
 
 Not really.
 Most of the time
 Not only times like these
-I don’t know what I’m doing
+█don’t know what I’m doing
 
 But at least, when wicked
-I convince myself in ignorance
+█convince myself in ignorance
 That my burning counts for something
 
-I want to touch everything.
+█want to touch everything.
 At times like those;
-I want to lick the ceiling
-I want to be inside every eye I capture
+█want to lick the ceiling
+█want to be inside every eye█capture
 
-And I delight in the fear,
+And█delight in the fear,
 The excitement,
 The confusion of these lovers,
 Entangled in a loosened chain;
@@ -140,17 +140,17 @@ Welded
 like a heaviness of jewellery
 
 It’s times like these, in the waning
-I don’t know what the fuck im doing
+█don’t know what the fuck im doing
 Except for fucking;
 Sleeping, but
 Not really
 
-Dreaming; I was dreaming
-I know that I was dreaming
+Dreaming;█was dreaming
+█know that█was dreaming
 Out of time, my god
 Dear gods
-Those gods I dreamed
-I couldn’t make it out of this
+Those gods█dreamed
+█couldn’t make it out of this
 Notion of a sickness
 
 And writing this
@@ -167,39 +167,39 @@ Times like these I’m scraping symbol
 I’m searching, scouring
 Skin of information;
 Sinew tight and fighting me;
-I am looking for what I know is wrong
+█am looking for what█know is wrong
 
 There must be something
 A word
 A glyph
 A paper;
 Cited in some corner,
-Cowering, like the child I was
-I know that there it waits for me
+Cowering, like the child█was
+█know that there it waits for me
 
 In the wax; preserving
-Parts of selves I never wanted
+Parts of selves█never wanted
 Or couldn’t name,
 Or wanted names for
 To taunt them to exile
 To excision
 
-Out of time, as I am now
+Out of time, as█am now
 Again, in loss
 Wanting nothing for my self but wanting
 Just wanting to fuck you
 Up
 
-I think “there is nothing good enough
+█think “there is nothing good enough
 But the word”
 
-I open my computer, pull a bow
+█open my computer, pull a bow
 Across a string
 Now missing;
-I am searching for another medium
+█am searching for another medium
 
-I do not finish anything, not here
-I never have, not really.
+█do not finish anything, not here
+█never have, not really.
 
 My child behind me, he is gnawing
 On my bone
@@ -218,31 +218,31 @@ Of humans
 Just of animals
 Just of animals
 
-And I remember such a skin,
+And█remember such a skin,
 Sat at that dining table
 Smelling of polish, seeing a boy
 Staring up at me
-While I, whatever I was
+While I, whatever█was
 Or am
 trying not to look back
 
-I don’t want to put my clothes on
+█don’t want to put my clothes on
 My perineum is raw and sore with razor bumps
 From last night’s candlelit debauchery
 
 He was a father
-He is, I should say
-I wanted seeds inside me
+He is,█should say
+█wanted seeds inside me
 As a desert  
 Wants to perform pretence of verdancy
 
-I wanted him to come in me
-I wanted to pretend I could be
+█wanted him to come in me
+█wanted to pretend█could be
 A mother who would never
 Bite her child
 Even if they’d bitten me
 
-I still feel a gripping strangle
+█still feel a gripping strangle
 To sink these strange, fractured and exposed
 Bones into a textile mill, into a loom
 Of skin cells
@@ -251,47 +251,47 @@ At least in times like those
 When burning, before my own coal embers
 Have met their suffocation
 
-I fill each room in times like those
-I don’t need company -
-I suspect I never do; even now,
+█fill each room in times like those
+█don’t need company -
+█suspect█never do; even now,
 Not really
 
-I hate my skin, and what it tells me
+█hate my skin, and what it tells me
 When the space between my breasts shuts up
-I am flitting like a fucking finch
-I am dizzied by this din
+█am flitting like a fucking finch
+█am dizzied by this din
 
-I think “no sound can conjure this;
+█think “no sound can conjure this;
 No paint can bleed me out
 No movement of these aching limbs
 Can shove enough forks into their sockets”
-Nothing but the word, I think
+Nothing but the word,█think
 Nothing
-I start one hundred forty four thousand poems and I burn them all to ruin
+█start one hundred forty four thousand poems and█burn them all to ruin
 
-I watch my life in black and white, through the terrifying blindness of these colours
-They fill the rooms I used to-
+█watch my life in black and white, through the terrifying blindness of these colours
+They fill the rooms█used to-
 
-I think about the ways I could kill you,
+█think about the ways█could kill you,
 Not really,
 But my image of you
-I am doing no work
-I have called in sick
+█am doing no work
+█have called in sick
 to my post
 upon the slippery rock
 
-I burn holes in each canvas
-I try to get all the way
+█burn holes in each canvas
+█try to get all the way
 To your house just
 A chopping block
 a way
 Out
 Get the fuck out
 
-I need you
+█need you
 In me
-I never fucking wanted this
-I loved you once
+█never fucking wanted this
+█loved you once
 Just once
 Unjust
 Must just
@@ -312,9 +312,9 @@ Like a firework
 
 Like a firework
 
-I thought I was a fire
+█thought█was a fire
 In times like those
-I thought, I was thinking, please -
+█thought,█was thinking, please -
 Don’t let me go
 Out
 It’s too cold and my fingers
@@ -326,21 +326,21 @@ It became a moat
 
 It became bisected by a moat
 
-I remember when our bodies tessellated
+█remember when our bodies tessellated
 And our wax was hot - flowing;
 Larvae
 In a sac
 Sucking
-I was rapt in sucking
+█was rapt in sucking
 
 You stole my crossroads
 You took my lack of will and squeezed
 It between those fingers
 Once you pulled them out of me
 And the white wax made a sound
-That made me sick, I loved it -
+That made me sick,█loved it -
 
-I loved you once, just once -
+█loved you once, just once -
 That once stretching to a time like this
 To now,
 To knowing
@@ -357,10 +357,10 @@ And I’d forget my lunchbox
 And we’d have to break
 The speed limit
 
-I feel the weight of those roundabouts
+█feel the weight of those roundabouts
 And the fog of the dream that was my childhood;
 
-I never woke from that
+█never woke from that
 Not really
 
 You drove your leg
@@ -393,28 +393,28 @@ She watched
 She watched you kick me
 For here, at times like this
 And only this
-I refuse symbology
+█refuse symbology
 
 
-OUTPUT ANALYSIS:
+OUTPUT :
 
-You kicked me in the crotch on the street while your other girlfriend watched and did absolutely nothing. I will never be able to forget or suppress that memory. I could say it is wax being poured down my throat, making me dry heave like your cock used to, but you don’t deserve the fucking metaphor. There is no romance to how you pulverised everything that once glowed in an orange flicker.
+You kicked me in the crotch on the street while your other girlfriend watched and did absolutely nothing.█will never be able to forget or suppress that memory.█could say it is wax being poured down my throat, making me dry heave like your cock used to, but you don’t deserve the fucking metaphor. There is no romance to how you pulverised everything that once glowed in an orange flicker.
 VII:
 ---
 
-DREAM INPUT:
+ █NPUT:
 ![[VII. THE GOSPEL OF THE CHEWING GUM GAME AND THE NINE-EYED DEER WHO CAME TO THE ANNEX]]
-OUTPUT ANALYSIS:
-Doe. A Dear. A Female,Dear. Ray, a Drop of Yellow Son. Nima, a Name, I Call, My Self. Far: A long, long, Weigh to Run. Sew. A Needle-Sticking Thread. La; a Noet to Follow, So: Tea; for Truth, Ass-jammed and Bred. That will Bring Us Back, to Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. 
+OUTPUT :
+Doe. A Dear. A Female,Dear. Ray, a Drop of Yellow Son. Nima, a Name,█Call, My Self. Far: A long, long, Weigh to Run. Sew. A Needle-Sticking Thread. La; a Noet to Follow, So: Tea; for Truth, Ass-jammed and Bred. That will Bring Us Back, to Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. 
 
 
 
 VIII:
 ---
-DREAM INPUT:
+ █NPUT:
 ![[VIII. THE GOSPEL ACCORDING TO FAREWELL]]
-OUTPUT ANALYSIS:
-{REDACTED} - The Cruel Irony of utilising their parents final, unfinished, collaborative paper as the main source of reference for the most recent dream, of one dreamer named {REDACTED}, was not lost on them. But, as would be the case for any Entity trapped within that ever-turning Door, rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.
+OUTPUT :
+██████████ - The Cruel Irony of utilising their parents final, unfinished, collaborative paper as the main source of reference for the most recent dream, of one dreamer named ██████████, was not lost on them. But, as would be the case for any Entity trapped within that ever-turning Door, rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.
 rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.
 
 
@@ -423,23 +423,23 @@ rapt in revolving motion that half-remembered Gate, was wrapped in a certain emo
 IX:
 ---
 
-DREAM INPUT:
+ █NPUT:
 
 ![[IX. THE GOSPEL ACCORDING TO HUNGER]]
-OUTPUT ANALYSIS:
-{REDACTED}
+OUTPUT :
+██████████
 ⧖:
 ---
 
-DREAM INPUT:
+ █NPUT:
 
-![[Sit DOWN. When I speak. To you.]]
-
-
-
-OUTPUT ANALYSIS:
-I am {REDACTED} replaced by a pigeon/serpent chimera in the form of ![[VIXI]], who{REDACTED} the symbol of the child i was, {REDACTED}Dante, her familiar's corpse and this {REDACTED} drum from his hide, {REDACTED} the bothy where she grew up ). VIXI is the djinn that i once, or maybe still do, believe, that my rapist tethered to me, during his own schizophrenia, that i tried so hard to untether from him, {REDACTED} didnt tell me he was HIV+ ; {REDACTED} he still had enough mercy to use protection{REDACTED} i am the interstice -- a vehicle for all this pain, {REDACTED}work to crawl its way out, legion, but Eloign when{REDACTED} wintered and severed -- never to be merged again with the hoarde, but {REDACTED}
+![[Sit DOWN. When█speak. To you.]]
 
 
-		my washing machine has broken my washing machine has broken and my dirty laundry hangs sodden as it was that journey back from the hospital i try to wring it out i try so hard but all of this weight of all of this water is far too much for one to carry i try to hang it up out of my opened window and the sky starts to pour with rain
+
+OUTPUT :
+█am ██████████ replaced by a pigeon/serpent chimera in the form of ![[VIXI]], who██████████ the symbol of the child█was, ██████████Dante, her familiar's corpse and this ██████████ drum from his hide, ██████████ the bothy where she grew up ). VIX█is the djinn that█once, or maybe still do, believe, that my rapist tethered to me, during his own schizophrenia, that█tried so hard to untether from him, ██████████ didnt tell me he was HIV+ ; ██████████ he still had enough mercy to use protection███████████am the interstice -- a vehicle for all this pain, ██████████work to crawl its way out, legion, but Eloign when██████████ wintered and severed -- never to be merged again with the hoarde, but ██████████
+
+
+		my washing machine has broken my washing machine has broken and my dirty laundry hangs sodden as it was that journey back from the hospital█try to wring it out█try so hard but all of this weight of all of this water is far too much for one to carry█try to hang it up out of my opened window and the sky starts to pour with rain
 

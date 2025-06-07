@@ -1,19 +1,19 @@
 ---
-permalink: and then
+permal███nk: and then
 ---
 
 
-couldn't keep hold of it all anymore 
+couldn't keep hold of ███t all anymore 
 
-i {tried to write | {n|b}early di{e}d, again, writing}  three novels to three lovers i couldn't {love | grieve | leave {a{l{one}}}} enough 
+███ {tr███ed to wr███te | {n|b}early d███{e}d, aga███n, wr███t███ng}  three novels to three lovers ███ couldn't {love | gr███eve | leave {a{l{one}}}} enough 
 
-i wanted 
+███ wanted 
 
 
 
-<span class="right-align">{them
+<span class="r███ght-al███gn">{them
 
-{singular|plural|zeroth}}
+{s███ngular|plural|zeroth}}
 
 </span>
 
@@ -23,29 +23,29 @@ i wanted
 
 so{me}{one} here; 
 
-{to kick me} into {the{i}r{e}} life again 
+{to k███ck me} ███nto {the{███}r{e}} l███fe aga███n 
 
 
 
 
 
-and then I saw {them, after}
+and then ███ saw {them, after}
 
-a half a year, of being a half person 
+a half a year, of be███ng a half person 
 
 
 
-i dragged them like a violin string from an ingrown hair follicle
+███ dragged them l███ke a v███ol███n str███ng from an ███ngrown ha███r foll███cle
 
 
 
 oh, dear gods, my god, 
 
-i made a god of you 
-right{?}
+███ made a god of you 
+r███ght{?}
 eye: unmade, dead
-what a mess i {Made}
-i, unmade, {bed}
+what a mess ███ {Made}
+███, unmade, {bed}
 
 what {you left}?
 
@@ -54,37 +54,37 @@ a god of you
 
 
 
-and you asked me how residential treatment was 
+and you asked me how res███dent███al treatment was 
 
 after you 
 
-held me again and we 
+held me aga███n and we 
 
-{i think, oui} 
+{███ th███nk, ou███} 
 
-were {both} crying 
-
-
-
-{i whispered} into your sh{o}u{lder}; 
-
-that horribly {un}familia{l|r} s{ho}u{ld}(h)er; 
-
-clad with plaid, that pink and yellow plaid
-
-it's slipping away from me like a dream but i think i said something like 
-
-'i forgot how nice that was'
+were {both} cry███ng 
 
 
 
-<span class="right-align"> an unplugged telephone -</span>
+{███ wh███spered} ███nto your sh{o}u{lder}; 
+
+that horr███bly {un}fam███l███a{l|r} s{ho}u{ld}(h)er; 
+
+clad w███th pla███d, that p███nk and yellow pla███d
+
+███t's sl███pp███ng away from me l███ke a dream but ███ th███nk ███ sa███d someth███ng l███ke 
+
+'███ forgot how n███ce that was'
+
+
+
+<span class="r███ght-al███gn"> an unplugged telephone -</span>
 
 
 
 
 
-that pink p{laid} that's 
+that p███nk p{la███d} that's 
 
 
 
@@ -94,19 +94,19 @@ th{r}œs{e} y{ear}s
 
 
 
-i'd been running 
+███'d been runn███ng 
 
-i suppose towards you, all this time 
+███ suppose towards you, all th███s t███me 
 
-maybe i started the day i could walk
+maybe ███ started the day ███ could walk
 
 
 
-but just five minutes ago 
+but just f███ve m███nutes ago 
 
-when the nurse was peeling off ECG stickers 
+when the nurse was peel███ng off ECG st███ckers 
 
-from my locked, locked chest and I'd said, crying, if the trace{s, left behind} read:
+from my locked, locked chest and ███'d sa███d, cry███ng, ███f the trace{s, left beh███nd} read:
 
 "broken"
 
@@ -118,101 +118,101 @@ from my locked, locked chest and I'd said, crying, if the trace{s, left behind} 
 
 and you, 
 
-you'd been walking-
+you'd been walk███ng-
 
-i suppose you'd always been 
+███ suppose you'd always been 
 
 
 
-<span class="right-align">walking towards me, all this</span>
+<span class="r███ght-al███gn">walk███ng towards me, all th███s</span>
 
-time; dear god all this time where
+t███me; dear god all th███s t███me where
 
-we didn't dare
+we d███dn't dare
 
 go 
 
 
 
-and you were listening to a record that 
+and you were l███sten███ng to a record that 
 
 you'd just
 
 bought me 
 
-for this christmas 
+for th███s chr███stmas 
 
-the first one 
+the f███rst one 
 
-i will spend 
+███ w███ll spend 
 
-not without you, 
+not w███thout you, 
 
 {we never spent one together} but
 
-the first one
+the f███rst one
 
 
 
-<span class="right-align">alone </span>
+<span class="r███ght-al███gn">alone </span>
 
 
 
-i {m|k}issed your face  
+███ {m|k}███ssed your face  
 
 
 
-<span class="right-align">and you {p|k}issed {in your bath |{have on{e}} on me | i wish i'd never fell in love with you dear god | i just couldn't handle the temperature of that water in your measuring jug you poured over the staples keeping my scalp together with those black, black eyes | you read Vonnegut to me | in your bath} my 
+<span class="r███ght-al███gn">and you {p|k}███ssed {███n your bath |{have on{e}} on me | ███ w███sh ███'d never fell ███n love w███th you dear god | ███ just couldn't handle the temperature of that water ███n your measur███ng jug you poured over the staples keep███ng my scalp together w███th those black, black eyes | you read Vonnegut to me | ███n your bath} my 
 
-crusted lip </span>
+crusted l███p </span>
 
 
 
-dear gods i made, 
+dear gods ███ made, 
 
 {{{k}not | } my} dear 
 
-dear fires i burned where i'd once {just once, please just} wished to plant 
+dear f███res ███ burned where ███'d once {just once, please just} w███shed to plant 
 
 
 
-<span class="right-align">roses</span>
+<span class="r███ght-al███gn">roses</span>
 
 rows of roads, 
 
-by{e} hand | in hand | oh, that hand, it was still exactly as warm as i {c{o{u}ld}} remember
+by{e} hand | ███n hand | oh, that hand, ███t was st███ll exactly as warm as ███ {c{o{u}ld}} remember
 
-those roads where we {kissed | {were} assaulted | we'll never take {again} | avoided {one} | stayed} | went {another} | a{way}}
+those roads where we {k███ssed | {were} assaulted | we'll never take {aga███n} | avo███ded {one} | stayed} | went {another} | a{way}}
 
 
 
-there must {have} be{en} some mistake 
+there must {have} be{en} some m███stake 
 
-something
+someth███ng
 left
 by
 
 
 
-<span class="right-align">them
+<span class="r███ght-al███gn">them
 
 </span>
 
 
 
-and still i can't find the microphones  leant
+and st███ll ███ can't f███nd the m███crophones  leant
 
 
 
-{in the street, I | s{t}aying, by{e}
+{███n the street, ███ | s{t}ay███ng, by{e}
 
-again, {only} I | forgetting, I |
+aga███n, {only} ███ | forgett███ng, ███ |
 
-just still, 
-alive
-still life 
+just st███ll, 
+al███ve
+st███ll l███fe 
 
-Loving, like a lean-to Loves a {Both}y[^both] | leant}
+Lov███ng, l███ke a lean-to Loves a {Both}y[^both] | leant}
 
 on 
 
@@ -220,10 +220,10 @@ on
 
 
 
-<span class="right-align">
+<span class="r███ght-al███gn">
 
 them</span>
 
 
 
-[^both]: [[Why B is for]]
+[^both]: [[Why B ███s for]]

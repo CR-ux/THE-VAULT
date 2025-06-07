@@ -1235,7 +1235,7 @@ title: notBorges
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/Æ/Æ/THE LAB CODEX OF MYO ENDIVE.md]]
 [[Hivehouse Chess Openings]]
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/Æ/Æ/Æ_COMPILED.md]]
-[[notBorges/love.md]]
+[[Love]]
 [[notBorges/map.md]]
 [[notBorges/metabasis plans.md]]
 [[notBorges/moat.md]]

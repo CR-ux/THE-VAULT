@@ -1,128 +1,128 @@
 ---
-permalink: V. THE GOSPEL ACCORDING TO THE NEWBORN BLISTERED IN THE HEARTH
+permal███nk: V. THE GOSPEL ACCORD███NG TO THE NEWBORN BL███STERED ███N THE HEARTH
 ---
-# BLISTERED IN THE HEARTH
+# BL███STERED ███N THE HEARTH
 <br\>
 \> <br\>
 \> `\br\\>`
 \> `<broke\>`
 \> `\<broken\>`
-\> `\<brokenInShoes\>`
-\> `\<brokenIntoSong\>`
-\> `\<brokenIntoMusic\>`
-\> `\<brokenInTheNews\>`
-\> `\<brokenAsInPieces\>`
+\> `\<broken███nShoes\>`
+\> `\<broken███ntoSong\>`
+\> `\<broken███ntoMus███c\>`
+\> `\<broken███nTheNews\>`
+\> `\<brokenAs███nP███eces\>`
 \> `\<brokenGameOfRules\>`
-\> `\<brokenAsInEggShell\>`
+\> `\<brokenAs███nEggShell\>`
 \> `\<brokenOutOfCells\>`
-\> `\<brokenIntoBlemishes\>`
-\> `\<brokenInsideYou\>`
+\> `\<broken███ntoBlem███shes\>`
+\> `\<broken███ns███deYou\>`
 
-![[Get over it now, it's beneath you.]]
+![[Get over ███t now, ███t's beneath you.]]
 
 
 
 by The Rook
-i could not close the windows.
-screens of blood, distorted faces 
-distorting my own in turn 
-there was a bunk bed, missing its bottom partner 
-in its place was a cavernous absence 
-where my childhood lay 
-the room was accessible by a fireplace 
-with no other entrance or exit 
-it led out to a classroom 
-which contained peers now forgotten 
-in waking, in sleep 
-in dreadful, encompassing sleep 
-i was trying to close the windows 
-on this inexplicable screen 
-my mother, complaining about 
-the price of being touched 
+███ could not close the w███ndows.
+screens of blood, d███storted faces 
+d███stort███ng my own ███n turn 
+there was a bunk bed, m███ss███ng ███ts bottom partner 
+███n ███ts place was a cavernous absence 
+where my ch███ldhood lay 
+the room was access███ble by a f███replace 
+w███th no other entrance or ex███t 
+███t led out to a classroom 
+wh███ch conta███ned peers now forgotten 
+███n wak███ng, ███n sleep 
+███n dreadful, encompass███ng sleep 
+███ was try███ng to close the w███ndows 
+on th███s ███nexpl███cable screen 
+my mother, compla███n███ng about 
+the pr███ce of be███ng touched 
 by another human 
-while i, a child 
+wh███le ███, a ch███ld 
 comforted and reassured her 
-a friend i'd made in the final days 
-of my stay at the Winged Garden 
-where I'd played the piano for her 
-and had the intimacy snatched 
-by the interrupting worry of a nurse 
+a fr███end ███'d made ███n the f███nal days 
+of my stay at the W███nged Garden 
+where ███'d played the p███ano for her 
+and had the ███nt███macy snatched 
+by the ███nterrupt███ng worry of a nurse 
 the doors of the chapel there, never closed properly 
-but i had opened the body of the piano 
-like my body had been opened 
+but ███ had opened the body of the p███ano 
+l███ke my body had been opened 
 as two heavy oak doors 
-creaking in such resonant betrayal. 
-there was a mess of jutting sharpness, 
-above that hearth door in my mind's heart 
-either I, or an eye I could not see 
-had placed it there, to keep something out 
-that was trying to get in
-a mentor, of uncertain name 
-had passed me some green liquid, 
-which I drank, greedily 
-knowing she expected me to recoil in disgust
-it became a stupid game, then 
-to stomach in spoils of silence, 
-not give away my disgust 
-for fear of losing 
-something 
-a stupid game
-i won nothing 
-but the farewell of isolation 
-an unmistakably male figure, now pushed against its floating in memory, 
-like a hollow skull bone batted by the paws of a cat 
-or the hands of a panicking child drowning swallowing water they cannot tread 
-too many insects with their power in numbers
-or the sticks to be placed beneath a woman bound 
-to a stick of sturdier girth
-the one as mirror to her discs of hidden obelisk, 
-obsidian
-incremental, iterative 
+creak███ng ███n such resonant betrayal. 
+there was a mess of jutt███ng sharpness, 
+above that hearth door ███n my m███nd's heart 
+e███ther ███, or an eye ███ could not see 
+had placed ███t there, to keep someth███ng out 
+that was try███ng to get ███n
+a mentor, of uncerta███n name 
+had passed me some green l███qu███d, 
+wh███ch ███ drank, greed███ly 
+know███ng she expected me to reco███l ███n d███sgust
+███t became a stup███d game, then 
+to stomach ███n spo███ls of s███lence, 
+not g███ve away my d███sgust 
+for fear of los███ng 
+someth███ng 
+a stup███d game
+███ won noth███ng 
+but the farewell of ███solat███on 
+an unm███stakably male f███gure, now pushed aga███nst ███ts float███ng ███n memory, 
+l███ke a hollow skull bone batted by the paws of a cat 
+or the hands of a pan███ck███ng ch███ld drown███ng swallow███ng water they cannot tread 
+too many ███nsects w███th the███r power ███n numbers
+or the st███cks to be placed beneath a woman bound 
+to a st███ck of sturd███er g███rth
+the one as m███rror to her d███scs of h███dden obel███sk, 
+obs███d███an
+███ncremental, ███terat███ve 
 less exposed, more open
-as she burns into her boiling death 
-the figure had a weapon 
+as she burns ███nto her bo███l███ng death 
+the f███gure had a weapon 
 a heavy, bludgeon tool 
-he advanced upon my mother, and the fellow patient whom i'd called my friend 
+he advanced upon my mother, and the fellow pat███ent whom ███'d called my fr███end 
 someone supposed to keep me safe 
-and another i had failed to 
-this disease of trinity 
-had not long to live 
-i could not close those windows 
-showing films of ripped apart faces 
-poorly documented things i am still, in my terrible age, 
+and another ███ had fa███led to 
+th███s d███sease of tr███n███ty 
+had not long to l███ve 
+███ could not close those w███ndows 
+show███ng f███lms of r███pped apart faces 
+poorly documented th███ngs ███ am st███ll, ███n my terr███ble age, 
 too young to read the pages of
-i was certain we were all about to die 
-escaping the scene and all its dendritic potential 
-crawling back through the treacherous dark of that fireplace as a parasite
+███ was certa███n we were all about to d███e 
+escap███ng the scene and all ███ts dendr███t███c potent███al 
+crawl███ng back through the treacherous dark of that f███replace as a paras███te
 gasps for sweetest sugars
-of its host
-i found myself again alone and empty
-awaiting fates who'd left my bedside
-be falling into
+of ███ts host
+███ found myself aga███n alone and empty
+awa███t███ng fates who'd left my beds███de
+be fall███ng ███nto
 two by two 
 the arcane ark of others 
-but in place of nameless boredom of that horror of that man 
-came a troll, or a goblin, a grotesque 
-in the margins of my manuscript 
-i saw him enter through the opening 
-and i knew why 
-the light, it burned my face -
-i could not close those windows 
-on waking twisting spine to right 
-(i had slept in the stars upside down)
-and peer out of the window i'd left open 
-into the frost of the straightest road 
+but ███n place of nameless boredom of that horror of that man 
+came a troll, or a gobl███n, a grotesque 
+███n the marg███ns of my manuscr███pt 
+███ saw h███m enter through the open███ng 
+and ███ knew why 
+the l███ght, ███t burned my face -
+███ could not close those w███ndows 
+on wak███ng tw███st███ng sp███ne to r███ght 
+(███ had slept ███n the stars ups███de down)
+and peer out of the w███ndow ███'d left open 
+███nto the frost of the stra███ghtest road 
 and further, upward 
 through the frost of my left eye's mantle
-i see the light, the library's angel 
-lights left, burning
+███ see the l███ght, the l███brary's angel 
+l███ghts left, burn███ng
 doors, locked closed 
-inside, i think i see a trash bin 
-people moving 
-i want to see the readers, something moving 
-inside there 
-i want to see the drollery, 
+███ns███de, ███ th███nk ███ see a trash b███n 
+people mov███ng 
+███ want to see the readers, someth███ng mov███ng 
+███ns███de there 
+███ want to see the drollery, 
 the demon
-tearing characters
+tear███ng characters
 from those long forgotten
 pages 
