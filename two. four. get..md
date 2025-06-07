@@ -381,12 +381,12 @@ Dot stammered to the clerk, precariously balancing a week or so's worth of groce
 
 Dr Code, in spite of, or perhaps as a result of, her psychiatric education, recognised the heavy canopy of tone that drowned his words, not as a pathology, but as an inevitable result of the world now in pieces, scattered around them. She didn't need to use her newfound Hearing. 
 
-There was no use for writing anymore, no use for letters, words, art at all, and everyone left still seemed to be entertaining this farce of a world long gone, or perhaps holding on, like a mother to the cold corpse of a child, like so many of them had. The remnants of an unforgivable, and unforgettable memory of a life from before. 
+There was, and is, no use for writing anymore. No use for letters, words, art at all, and everyone left still seemed to be entertaining this farce of a world long gone, or perhaps holding on, like a mother to the cold corpse of a child, like so many of them had. The remnants of an unforgivable, and unforgettable memory of a life from before. 
 
 "Thanks"
 She passed over her beloved fountain pens and her last remaining vi{le|al} of ink. As a mother, burying the cold corpse of a child, with no funeral rites. Just the empty stare of a man, as the soil, wondering what on earth he'd do with the waste. 
 
-She silently wished him, and the last two remaining staff of the one grocery store still holding a sorry food in a twenty three mile radius, just tins, chickpeas, marrowfat beans, legumes seemed to be the culinary equivalent of cockroaches. Nothing could defeat them. 
+She silently wished him well, and the last two remaining staff of the one grocery store still holding a sorry thread of food in a twenty three mile radius, just tins, chickpeas, marrowfat beans, legumes, the culinary equivalent of cockroaches. Still, undefeatable. 
 
 But the phage had taken everything. 
 And in its taking, it had woken her. 
