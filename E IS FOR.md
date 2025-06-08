@@ -13,8 +13,12 @@
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 **Or actually, yes N is for**
 ![[Entrance]]
+Or, ![[Equally]]
+N is for
+![[Epitaph]]
+
 **🜃 / ♜  | OBS: 18:00 | N=10³⁶**
-**No. N must be for**
+**Do not listen to them. N is to Will as Will to**
 ![[ERASE]]
 **🜄 / ♝ | OBS: 21:00 | D=3**
 **N4 gives**

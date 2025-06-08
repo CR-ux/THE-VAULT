@@ -287,7 +287,7 @@ Edition XVIII[^1].
 [[Epigenetic Echoes]]
 [[Epigraphs]]
 [[Promoter Sequence]]
-[[Equal]]
+[[Equally]]
 [[Erase]]  
 [[Estrangement]]
 [[Ether Teeth, Fog. 2003.]]

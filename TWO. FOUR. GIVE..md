@@ -100,16 +100,15 @@ EPIGRAPH
 ![[Addendum]]
 
 **🜄 / ♝ | OBS: 21:00 | D=3**
-
 **whtifNfor**
-![[Ariadne]]
+![[Arc]]
+
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
 **I see it now. I've seen it. When all this is over, N will be for**
-![[Assignment]]
+![[Ariadne]]
 
 > **var N = Adrian.**
-
 **Please, pass this round again**
 
 

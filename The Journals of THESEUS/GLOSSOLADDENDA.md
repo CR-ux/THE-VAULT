@@ -403,7 +403,7 @@ An Extended [[lexDict]]
 
 [[Promoter Sequence]]
 
-[[Equal]]
+[[Equally]]
 
 [[Estrangement]]
 

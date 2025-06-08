@@ -289,7 +289,7 @@ Edition XVIII[^1].
 [[Enlightenment]]
 [[Ennead]]
 [[Promoter Sequence]]
-[[Equal]]
+[[Equally]]
 [[Estrangement]]
 [[Ether Teeth, Fog. 2003.]]
 [[Etouq]]

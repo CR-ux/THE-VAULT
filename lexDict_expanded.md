@@ -301,7 +301,7 @@ Edition XVIII\footnote{[[The Journal of A.R.I.A.D.N.E]], Knoets of the Subsequen
 [[Epigenetic Echoes]]
 [[Epigraphs]]
 [[Promoter Sequence]]
-[[Equal]]
+[[Equally]]
 [[Erase]]  
 [[Estrangement]]
 [[Ether Teeth, Fog. 2003.]]
