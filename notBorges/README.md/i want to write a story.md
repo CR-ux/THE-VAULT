@@ -30,7 +30,7 @@ permalink: i want to write a story
 <span style="font-size:2pt;">borges i made you callie. i, wasn't thinking, i, you, callie. i wasn't thinking, you, Callie. i wasn't thinking, Callie.borges</span>
 <span style="font-size:2pt;">i, thinking, wasn't wasn't i thinking? i wasn't ithink i'm thinking i'm thinking, i think i'm thinking thinking think in think i think calboelie callesie cborgallie cboallie borcal borges borges borges cal bor ca bo c b ."</span>
 <span style="font-size:2pt;">C.</span>
-<span style="font-size:2pt;"><em>*- little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known. to be known.little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known. to be known.little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known. to be known.*</em></span>
+<span style="font-size:2pt;"><em>*- little is known about the woman in the wallpaper. but it is known that she so sorely. just wanted. to be known.*</em></span>
 <span style="font-size:2pt;">- NOT BORGES</span> i wasn't thinking about anything when i thinking, you, Callie. i wasn't thinking, Callie.</span><span style="font-size:2.2pt; transform: scaleX(-1); display:inline-block;">."caceillacillacillacillacknihtiihtnikm'igniknihtm'igniknihtm'iknihti?gniknihtit'nesawi?gniknihtt'nesawnesawt'nikniht,gnikniht,i</span>
 <span style="font-size:2.2pt; transform: scaleX(-1); display:inline-block;">SEGROBTONKTONKTONKTONKTONKTONKTON TON TON TON TON TON TON - - - - - - -</span></div>
 <div style="line-height: 1; font-size: 10pt;">
