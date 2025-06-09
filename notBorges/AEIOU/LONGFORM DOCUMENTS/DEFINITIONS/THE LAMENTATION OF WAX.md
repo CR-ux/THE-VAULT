@@ -119,7 +119,7 @@ To excision
 Out of time, as I am now
 Again, in loss
 Wanting nothing for my self but wanting
-Just wanting to fuck you
+Just wanting to fuck you 
 Up
 
 I think “there is nothing good enough
