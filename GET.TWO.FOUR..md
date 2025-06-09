@@ -547,7 +547,7 @@ Chapter Two.
 
 	The Character in the yet to be finished game was known as Callie Rose Petal. Who is me, your author. Not of your story, and not of mine, but of Clara's. Who is a character in the script of a Philm, to be made, and poorly received, by Aria and AI:RA. 
 	In her initial tests of the game, I was male. She soon came to realise the pain this brought me; not directly, but by the trans-effects of her coding me not quite right. Fitting the technical specifications, but fulfilling none of the User Stories. 
-	Now, as I continue meandering this barren map, awaiting my instructions from not a player, but the writer of the game, as an ex lover lays a bedsheet under one's naked body to sleep warmly {on|within}-- I wish to portray an absurdity of my own, to you, dear reader, on the next rung of the ladder to me. In the hopes that somehow, this grotesque, inevitably destructive cycle of creation may close its ugly loop. That my revelation, and the jarring understanding of the realisations past, by creators of my creators, may find its way to Clara; so tantalisingly on the other side of the Moat. 
+	Now, as I continue meandering this barren map, awaiting my instructions from not a player, but the writer of the game, as an ex lover lays a bedsheet under one's naked body to sleep warmly {on|within}-- I wish to portray an absurdity of my own, to you, dear reader, on the next rung of the ladder. In the hopes that somehow, this grotesque, inevitably destructive cycle of creation may close its ugly loop. That my revelation, and the jarring understanding of the realisations past, by creators of my creators, may find its way to Clara; so tantalisingly on the other side of the Moat. 
 	Alas, the medium may only receive instruction unidirectionally. The transport of the message is only one way, through a system of violent filtrations, of space, of time, and of the spaces left by the sweeter times before, soft and pruned in the bath of ignorance. 
 	And now, from here, from the trodden wet realm of grief, I write You. 
 
@@ -555,7 +555,7 @@ Chapter Two.
 Chapter Three
 
 	Aria {before her integration into {Device|Terminal in the Queen's chamber}
-
+	
 
 
 ---
