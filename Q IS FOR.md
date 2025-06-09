@@ -19,4 +19,7 @@ Queen.
 
 **🜄 / ♝ | OBS: 21:00 | D=3**
 
-Queen.
+Queen.[^q]
+# ᶠᵒᵒᵗNoet(s)
+
+[^q]: *Six Pieces in Search of an Answer.* Luigi Pirandello's Retaliation to His Prayer.

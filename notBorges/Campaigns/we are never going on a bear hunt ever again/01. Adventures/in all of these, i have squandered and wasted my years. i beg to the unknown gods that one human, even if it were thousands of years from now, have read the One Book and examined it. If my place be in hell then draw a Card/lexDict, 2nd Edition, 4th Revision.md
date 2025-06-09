@@ -28,3 +28,37 @@
 **██████ pass ██████ again**
 
 ![[B IS FOR]]
+![[C IS FOR]]
+![[D IS FOR]]
+![[E IS FOR]]
+![[F IS FOR]]
+![[G IS FOR]]
+![[H IS FOR]]
+
+![[EYE IS FOR]]
+![[J IS FOR]]
+
+
+![[K IS FOR]]
+
+![[L IS FOR]]
+![[M IS FOR MANGLE]]
+
+![[O IS FOR]]
+
+![[P IS FOR]]
+
+![[Q IS FOR]]
+![[R IS FOR]]
+
+![[S IS FOR]]
+![[T IS FOR]]
+![[U IS FOR]]
+
+![[V IS FOR]]
+
+![[W IS FOR]]
+
+![[Y FOR IS]]
+![[Z IS FOR]]
+

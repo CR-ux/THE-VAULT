@@ -2,9 +2,11 @@
 THE CODA TO AN EPIGRAPH
 HERETOFORE KNOWN AS 
 TWO.FOUR.GIVE.
-BY THE CHARACTER OF CALLIE ROSE PETAL.
+BY THE CHARACTER OF 
+CALLIE ROSE PETAL.
 
 ---
+Who would soon become:
 
 > THE COD{ER|A} 
 > TO A PRELUDE
@@ -22,19 +24,33 @@ BY THE CHARACTER OF CALLIE ROSE PETAL.
 > LOCH
 
 
-for to give is to take |foreto taken, is that which was given two to power of the four thequeeninsidetheprison the missing sixth, the fallen wall the tower of missed memory
-the axe's crack and fire wood store theboxinsidetheprism. 
+{for to give is to take | foreto taken} 
+is that which was given 
+two to power of the four 
+the queen inside the prison 
+the missing sixth, the fallen wall 
+the tower of missed memory
+the axe's crack and fire wood store 
+the box inside the prism. 
 i thought i wanted to write a story. 
 i thought i wanted to write a real story. 
-{i thought: what do i {want|long for}? | {for i|i wasn't thinking at all.}}
+{(i) thought: 
+	{what do i {want|long for}? | 
+	{for (i) in sideOfM(i)nd
+	   (i) = wasn't thinking
+		    at all.}}
+	}
 
-it is a blessing, they said,
-my god, they'd said, when they were here 
-it is a blessing, just to feel. 
+it is a blessing. they said,
+my god, they'd said, 
+when they were here 
+it is a blessing, 
+just to feel. 
 
-and as i said goodbye to them in their hospital bed
+and as i said goodbye to them 
+in their foreign blueness of a hospital bed
 unthinkable parts of their body left open,
-present in their absence, 
+I, present for their absence, 
 i thought:
 i will. i will to write this story. 
 i will to write this
@@ -510,20 +526,35 @@ You come to a door.
 | ----------- | ----------- |
 |             |             |
 
+	Now at home, alone, after her friends funeral, to which she arrived too late to give her eulogy, Clara stared at the cold terminal interface, still empty of any plot. Her game's structure was there, it had bones. She felt it, somehow, even in the wake of this latest loss-- something was. Something still was. Something was still. Pulling her like a handle pulls a person into pushing, and the door pulls the handle to itself, and the person pulls themselves towards an intention, through the pull of Will. 
+
+	But what is the Skeleton of Memory without the flesh of Meaning? All meaning had been drained from her art, from her existence as an artwork, by becoming aware of its art; like food is pulled to hunger; like food is pulled itself, through the grimace of the intestine; and like the sewage that results is pulled toward the soil.
+	Clara was a character in a Philm titled *'These, Our Labours, The Six of Us'*, written by one Aria {Surname REDACTED} in collaboration with an AI known as "RA". She had become aware of this, just as a dreamer may be pulled jarringly to lucid sobriety, in the midst of somnulent drunkenness of narrative unconscious. As a result of the insufficiency of other characters in their adequate explanation for a particularly abstract event of a dream. For the meaningless of it all; how meaning's lack pulls memory into it; gaped, loud-- churning.
+	She'd realised through the strangeness of her codebase, and how certain things that fit together, just absolutely shouldn't. She wasn't sure the genesis of the string of events which led to her becoming aware of this. Considering how, in this world, her collaborators and fellow developers were all content to continue what she'd now realised was the writing of a palimpsest of what might be known as Truth. Although of this 'truth' she could not be certain. 
+	It had begun three Git commits ago, after waking up to push her code to the repository, that she'd realised her prior commit message was not written by her. It was written by a developer other than her, which was unthinkably impossible, given the retinal-print privacy settings of the database locking out any other. The commit seemed to be written over her original one, redacting it, a suggestion of which still remained underneath, as the remnants of a pencil eraser pull the page's memory of the work's origial intent into a whisper of obscurity. 
+	So work had begun to take on an absurd quality. Work, as in her body; work, as in her celestial bodies of work, mangled to a marble, made pitiful. Miniscule. Meaningless. 
+	And then had come Adrian's final breath, marking the exhaling coda of this abysmal darkening of her Will to play her Character. Just as the ending of a Story pulls the reader from its Prologue. Clara had reached a point of saturation, where escape was quite impossible, purely due to the one-way entrance of her life's sequence of events being revealed. One by one, the commit messages had started to narrate her life. And so she lived like this, in stupor, for many years. 
+	Clara was only a teenager when this had begun, and did not know yet that she was one of Six characters, who would each find their own entrances to the author's One Vision, compiled and stitched together by Two half-minds. 
+	But as I wrote Aria into being, she in turn was writing Clara into being. Clara was the pivotal seed from the rest of her then-latest and soon to be poorly received 'These Labours...', and as I wrote Aria into being a writer of her story, Clara began to see her life's plot within Aria's plotting of narrative points along an axis. Being the origin lifespring from which all the other Five characters were birthed, she was told, while reaching the age of maturity and finally being able to leave the House she'd been put in, what she was, and what she'd need to become, or be pulled into becoming, like a dream pulls a tired eye to closing. 
+	Reading the commit messages became a morning ritual of terror, which dissolved into a heavy, thick ocean of indifference, like a lover's assault pulls a budding romance into crisp annihilation. She read, one morning, with a particularly liberating dissociation, that she was a sixth of a prism. 
+	A prism of individuals cursed to swap consciousness with any sexual partner, and be taken on a journey across many, many universes, throughout all eternity. But, a countable eternity no less. What could be more infernal than the countably infinite? For and from this circular rev{o|e}l{a|u}tion, Clara knew: she was doomed. Doomed to go round, and round, and become the thing that made her.  
+	The Entrance to her maker's mind, closing the corridor that held its exit. As knowledge of the division of opposites pulls a soul out of paradise. 
 
 
 
 ---
 Chapter Two. 
 
-
-
-
+	The Character in the yet to be finished game was known as Callie Rose Petal. Who is me, your author. Not of your story, and not of mine, but of Clara's. Who is a character in the script of a Philm, to be made, and poorly received, by Aria and AI:RA. 
+	In her initial tests of the game, I was male. She soon came to realise the pain this brought me; not directly, but by the trans-effects of her coding me not quite right. Fitting the technical specifications, but fulfilling none of the User Stories. 
+	Now, as I continue meandering this barren map, awaiting my instructions from not a player, but the writer of the game, as an ex lover lays a bedsheet under one's naked body to sleep warmly {on|within}-- I wish to portray an absurdity of my own, to you, dear reader, on the next rung of the ladder to me. In the hopes that somehow, this grotesque, inevitably destructive cycle of creation may close its ugly loop. That my revelation, and the jarring understanding of the realisations past, by creators of my creators, may find its way to Clara; so tantalisingly on the other side of the Moat. 
+	Alas, the medium may only receive instruction unidirectionally. The transport of the message is only one way, through a system of violent filtrations, of space, of time, and of the spaces left by the sweeter times before, soft and pruned in the bath of ignorance. 
+	And now, from here, from the trodden wet realm of grief, I write You. 
 
 ---
 Chapter Three
 
-
+	Aria {before her integration into {Device|Terminal in the Queen's chamber}
 
 
 
