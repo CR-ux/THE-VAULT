@@ -1,11 +1,3 @@
-
-### A FOREWORD, 
-OR MORE
-THAN FOUR 
-LETTERS BETWEEN
-FOUR CHARACTERS.
-
-
 **LOCH: INNER**
 **KEY:  ∈ | t | {const}**
 **var N = B** 
