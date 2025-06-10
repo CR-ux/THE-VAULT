@@ -522,9 +522,11 @@ Chapter One.
 
 You come to a door. 
 
-| PULL HANDLE | PUSH HANDLE |
-| ----------- | ----------- |
-|             |             |
+
+| PULL                           | PUSH                           |
+| ------------------------------ | ------------------------------ |
+| The door is drawn toward you   | You are drawn toward the door. |
+| You say goodbye to your friend | You say goodbye to your friend |
 
 	Now at home, alone, after her friends funeral, to which she arrived too late to give her eulogy, Clara stared at the cold terminal interface, still empty of any plot. Her game's structure was there, it had bones. She felt it, somehow, even in the wake of this latest loss-- something was. Something still was. Something was still. Pulling her like a handle pulls a person into pushing, and the door pulls the handle to itself, and the person pulls themselves towards an intention, through the pull of Will. 
 
