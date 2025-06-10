@@ -554,8 +554,9 @@ Chapter Two.
 ---
 Chapter Three
 
-	Aria {before her integration into {Device|Terminal in the Queen's chamber}
-	
+	Aria {before her integration into {Device|Terminal in the Queen's chamber} had a vision. 
+	A vision not in the literal sense, for her eyes were no longer hers, but a Vision in the way of an author seeing how their pieces of characters fit together. 
+		
 
 
 ---
