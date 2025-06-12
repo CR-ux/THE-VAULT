@@ -1,6 +1,4 @@
 ---
 permalink: Opposites
 ---
-lexDef "Opposite" {usage::: Croen} < N.B. "An Enantiodromia of Opposites"[^OppositeCroen]
-
-[^OppositeCroen]: [[Enantiodromia]], Baphomet, lexDict
+lexDef "Opposite" {lexAllele(s)::: Croen {post-annealment}} < N.B. "A Matrimony of Opposites"[^OppositeCroen]

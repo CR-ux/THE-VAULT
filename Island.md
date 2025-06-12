@@ -1,6 +1,6 @@
 ---
 permalink: Island
 ---
-lexDef "Island" {usage::: Croen} < "An Illusion of [[Islands]]" [^is]
+lexDef "Island" {lexAllele(s)::: Croen {post-annealment}} < "An Illusion of Islands" [^is]
 
-[^is]: [[Forgive]], [[lexDict]], 2023.
+[^is]: *The Citadel of Tœms* - N. (An unfinished abstract of an {abstract|unfinished} paper on Borges' *Tlön, Uqbar, Orbis Tertius*)

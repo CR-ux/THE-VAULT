@@ -1,7 +1,7 @@
 ---
 permalink: lexCode
 ---
-lexDef "lexCode" {usage::: lexType || Vyrb} < A lexicomythographic dataType of Nomenclature. Rarely denoted within a lexDef entry{.}; to signify the canonical lexicomythographic Syntax (sintax). RELATES TO: hexCode CONTRAST WITH: SIPHO{N|r}[^lexCodelexType] || To encode something in order to create a Cypher that is untranslatable for the purposes of individuisation of The Reader.[^lexCodeVyrb]
+lexDef "lexCode" {lexAllele(s)::: lexType || Vyrb} < A lexicomythographic dataType of Nomenclature. Rarely denoted within a lexDef {.}ofEntry[^lexTrans]; to signify the canonical Lexicomythographic Syntax (Sintax). RELATES TO: hexCode CONTRAST WITH: SIPHO{N|r} || To create a Cypher that is insufficiently transcribable for the necessary translation of The Reader.
+# ᶠᵒᵒᵗNoet(s)
 
-[^lexCodelexType]: [[lexDict]], Unknown.
-[^lexCodeVyrb]: [[notBorges/redacted]], REDACTED, 2025.
+[^lexTrans]: lexTrans "{.}ofEntry" {lexAllele(s) SIPHO{N|r}}  << "Point of Entry".

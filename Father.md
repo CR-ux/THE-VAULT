@@ -1,4 +1,4 @@
 ---
 permalink: Father
 ---
-lexDef "Father" {usage::: Croen {ARIA|DNE}} < N.B. ARIA var = "A Father of Forgetting, and Forgotten Things" | DNE var = ![[Abandon]]
+lexDef "Father" {lexAllele(s)::: Croen {ARIA|DNE}} < N.B. ARIA var = "A Father of Forgetting, and Forgotten Things" | DNE var = ![[Abandon]]

@@ -1,7 +1,7 @@
 ---
 permalink: Garden
 ---
-lexDef "Garden" {usage::: Noen || Croen || [[Amino{Us}]]} < A Guarding[^GardenNoen] || N.B. "A Garden of Stories" || The [[Residualchemystician]] Named As Guard: "N."[^GardenAmino{Us}]
+lexDef "Garden" {lexAllele(s)::: Noen || Croen || [[Amino{Us}]]} < A Guarding[^GardenNoen] || N.B. "A Garden of Stories" || The [[Residualchemystician]] Named As Guard: "N."[^GardenAmino{Us}]
 
 [^GardenNoen]: [[Ward]], ARIA
 

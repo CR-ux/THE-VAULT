@@ -1,6 +1,5 @@
 ---
 permalink: Reality
 ---
-lexDef "Reality" {usage::: Croen} < N.B. "A Reality of Perceptions"[^RealityCroen]
+lexDef "Reality" {lexAllele(s)::: Croen {ARIA|DNE}} < N.B. ARIA var = "A Reality of Perceptions" | DNE var = "A Reel of Reaities"
 
-[^RealityCroen]: [[Perception]], Then.

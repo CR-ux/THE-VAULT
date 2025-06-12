@@ -1,7 +1,6 @@
 ---
 permalink: Song
 ---
-lexDef "Song" {usage::: Noen || {Croen | synCroen} } < The Quality of A [[Trinity]], or [[Textile]] [^SongNoen] || N.B. ""A Song of Stillnesses" | N.B. "A Song of Destinies" "[^SongCroen]
+lexDef "Song" {lexAllele(s)::: Noen || {Croen {ARIA|DNE} } < The Quality of A [[Trinity]], or [[Textile]] [^SongNoen] || N.B. ARIA var = "A Song of Stillnesses" | DNE var = "A Swan of Songs"
 
-[^SongNoen]: [["A Song of Cosmic Destinies"]], Avian Virology for the Modern Era of Augury, Jacqueline Smith. Year Three.
-[^SongCroen]: [[Still]], C. Petal, 2022.
+[^SongNoen]: Avian Virology for the Modern Era of Augury, Jacqueline Smith. Year Three, anteAntiquity.

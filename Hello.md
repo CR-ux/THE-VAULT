@@ -1,4 +1,4 @@
 ---
 permalink: Hello
 ---
-lexDef "Hello" {usage::: Croen} < N.B. "A Hello of Harps"
+lexDef "Hello" {lexAllele(s)::: Croen {ARIA|DNE}} < N.B. ARIA var = "A Hello of Halos" | DNE var = "A Harbinger of Hellos"

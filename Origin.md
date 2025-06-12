@@ -1,10 +1,10 @@
 ---
 permalink: Origin
 ---
-lexDef "Origin" {usage::: Noen || Croen} < A Gate. [^OriginNoen] || N.B. "An Agate of Origins"[^OriginCroen]
+lexDef "Origin" {lexAllele(s)::: Noen || Croen} < A Gate. [^OriginNoen] || N.B. "An Agate of Origins"[^OriginCroen]
 
-[^OriginNoen]: [[Agate]], Seussian Geology, 2021. 
-[^OriginCroen]: [[Door]], [[Adore]]
+[^OriginNoen]: Agate, Seussian Geology, 2021. 
+[^OriginCroen]: Door, Adore
 
 
 

@@ -1,6 +1,6 @@
 ---
 permalink: Hurricane
 ---
-lexDef "Hurricane" {usage::: Wyrb} < To Expedite a Fratricide[^HurricaneWyrb]
+lexDef "lexAllele(s)" {usage::: Wyrb} < To Expedite a Fratricide[^HurricaneWyrb]
 
-[^HurricaneWyrb]: [[Cain]], The Bible. Source: UnNoen
+[^HurricaneWyrb]: Cain, The Bible. Source: UnNoen

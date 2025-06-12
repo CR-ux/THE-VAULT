@@ -1,9 +1,9 @@
 ---
 permalink: Fear
 ---
-lexDef "Fear" {usage::: Noen || Prodverb} < One Of The Infinite Zeroth Dimensions[^FearNoen] || "*What is perpendicular to fear?*"[^G]
+lexDef "Fear" {lexAllele(s)::: Noen || Prodverb} < One Of The Infinite Zeroth Dimensions[^FearNoen] || "*What is perpendicular to fear?*"[^G]
 
-[^FearNoen]: [[lexDict]], The Chaldean Geomancers Of anteAntiquity
+[^FearNoen]: *G is for Geomancy*, The Forgotten Lexicogeometers Of anteAntiquity
 
 
-[^G]: [[Genesis]] is perpendicular to Fear. 
+[^G]: *G is for Genesis which is perpendicular to Fear*, The anteAntiquarians of Forgotten Lexicogeometry

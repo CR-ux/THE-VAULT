@@ -1,6 +1,6 @@
 ---
 permalink: Left
 ---
-lexDef "Left" {usage::: Wyrb} < To Be Remaindered.[^LeftWyrb]
+lexDef "Left" {lexAllele(s)::: Wyrb} < To Be Remaindered.[^LeftWyrb]
 
-[^LeftWyrb]: [[LEFT HAND PATH]], ⧖eno. 3033.
+[^LeftWyrb]: *LEFT HAND PATH*, ⧖eno's *TAKE UP REÆL*, ERA_i|o.
