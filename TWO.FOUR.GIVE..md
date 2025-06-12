@@ -142,7 +142,7 @@ Bear?
 ![[Body]]
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
-**I was, as in the**
+**I was taken in, as in the**
 ![[Breath]]
 
 
@@ -154,7 +154,7 @@ Bear?
 **A message: N. A**
 ![[Bottle]]
 
-
+**All: be N for**
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵** 
 ![[Borges]]
 
@@ -170,7 +170,7 @@ From the Desk of ᴺᵒᵉᵗBorges,
 ---  
 
 My Sweet Rosie, 
-I know our Love, or rather, your Side of the Schism that {was|is} Our Love, has now wilted. But on my Side of Thing(s), I just wanted you to know (in case you wished to Read these Letters, and all the Stitches of Fabric they Encode) how much I am Missing You. How the Two of us would Wind away the hours, finding endless recombinations of Seven Glyphs, placed lovingly on your tile racks. I would ask what, if any, amino acid sequences were represented by the letters, and annoy you incessantly with question after question, questing after some Missing Residue of Alphabetic Representation; those poor un-assigned letters of the 26, or rather, 27, who have not yet found a biological partner with which to dance themselves. 
+I know our Love, or rather, your Side of the Schism that {wa|i}s Our Love, has now wilted. But on my Side of Thing(s), I just wanted you to know (in case you wished to Read these Letters, and all the Stitches of Fabric they Encode) how much I am Missing You. How the Two of us would Wind away the hours, finding endless recombinations of Seven Glyphs, placed lovingly on your tile racks. I would ask what, if any, amino acid sequences were represented by the letters, and annoy you incessantly with question after question, questing after some Missing Residue of Alphabetic Representation; those poor un-assigned letters of the 26, or rather, 27, who have not yet found a biological partner with which to dance themselves. 
 
 Our bond was, I thought, unbreakable--
 
@@ -216,7 +216,7 @@ Her eyes were deliciously heavy, too much to handle any more incessant backlight
 
 ![[The Right Way Forward, Oar - The Æn{i}d;]]
 
-It is not possible for a non-ligated consciousness to cross the Uncrossable Door. Which is the place VIXI had now, or then, or now and then, arrived in front (or behind and outside) of. The Entrance to The Endless Library, home of the Nine Librarians who were and are always Working From Home (because their work is their home, and their home is their workplace), is a nine-dimensional revolving door. It gives the appearance of a hospital or a very old university entrance that has, against its own will or perhaps as a result of its desperation to survive, been dragged into modernity. It was also quite the opposite, given its superpositional character; a heart of antiquity beating in the centre of the Library's facade. Similarly to a gyroscope, which retains its positioning no matter how its external machinery is moved, VIXI could (and often did) fly around the circumference of the Library, over-through the inmost Loch, and the Uncrossable Door would remain in centre stage, pulsating, spinning, beating, as if in Unison with the three Wryngs of water that encircled the structure in triplicate. Within the 'panes' of glossolalic glass making up the nine dimensional Door, the reflection of these 'electron shells' (again, a very crude approximation) was refracted back, in an endlessly abysmal dance. But, with no Body (that is to say, librarian) in between the Lochs and the Door, this mis en abyme was almost imperceptible, as we all know that this effect is only observable with a subject of reflection between the two panels of mirrors facing one another. VIXI often meditated on this, on their many pilgrimages to and from the library (their main Work was to deliver messages which they tattooed upon their two, three, four, or nine, but never more than nine, Ankles, using a stick-and-poke device they fashioned from their own detachable beak. Much to the disgust of many of the other members {although, VIXI suspected, not {REDACTED} (who seemed to be unable to hide {REDACTED} delight in watching VIXI tear off HISS own beak, and leave a trail of pale Yellow sinew behind, like the mucosal-clew death-rattlesnake trailing behind a Bee (who has just waived goodbye to herself to protect the Greater Self of her colony) or indeed equally: the visage of a metallic spherical-bead-necklace chain attached umbilically to a biro, itself bound to the desk of a Bank Cleric, as if, in a Vaulted building filled with the legal tender of thousands, a cheap, plastic writing implement were the most valuable thing; which of course, it is, it is, it is)}
+It is not possible for a non-ligated consciousness to cross the Uncrossable Door. Which is the place VIXI had {now|{and} then}, arrived {{beh}in{ front|out}side}d} of. The Entrance to The Endless Library, {home of the Nine Librarians {who were|are always} Working From Home} (because their {work is home{is the{i}r{e}} workplace}), is a nine-dimensional revolving door. It gives the appearance of a hospital or a very old university entrance that has, against its own will or perhaps as a result of its desperation to survive, been dragged into modernity. It was also quite the opposite, given its superpositional character; a heart of anteAntiquity beating in the centre of the Library's facade. Similarly to a gyroscope, which retains its positioning no matter how its external machinery is moved, VIXI could (and often did) fly around the circumference of the Library, over-through the inmost Loch, and the Uncrossable Door would remain in centre stage, pulsating, spinning, beating, as if in Unison with the three Wryngs of water that encircled the structure in triplicate. Within the 'panes' of glossolalic glass making up the nine dimensional Door, the reflection of these 'electron shells' (again, a very crude approximation) was refracted back, in an endlessly abysmal dance. But, with no Body (that is to say, librarian) in between the Lochs and the Door, this mis en abyme was almost imperceptible, as we all know that this effect is only observable with a subject of reflection between the two panels of mirrors facing one another. VIXI often meditated on this, on their many pilgrimages to and from the library (their main Work was to deliver messages which they tattooed upon their two, three, four, or nine, but never more than nine, Ankles, using a stick-and-poke device they fashioned from their own detachable beak. Much to the disgust of many of the other members {although, VIXI suspected, not {REDACTED} (who seemed to be unable to hide {REDACTED} delight in watching VIXI tear off HISS own beak, and leave a trail of pale Yellow sinew behind, like {the mucosal-clew death-rattlesnake trailing behind a Bee (who has just waived goodbye to herself to protect the Greater Self of her colony) | the visage of a metallic spherical-bead-necklace chain attached umbilically to a biro, itself bound to the desk of a Bank Cleric, as if, in a Vaulted building filled with the legal tender of thousands, a cheap, plastic writing implement were the most valuable thing} which of course, it is, it is, it is)}
 
 As always, in crossing, VIXI took a single moment (that is to say, the eternity of all time) within the wheels-within-wheeled mechanism of the Uncrossable Door to ponder on what sort of unholy separation, what {REDACTION}, what Schism might happen to a 
 ```
@@ -253,7 +253,7 @@ Not when you have somebody you love to share every letter.
 Written; Sent; Read, or not-- it's not about the Letters. 
 It's about the Characters that write your Story with you."
 
-Flo let out a slapstick "Harumph" as they made the appropriate left-to-right, backward swiping motion through the air, back to the starting point of Their Bedtime Story, N. laughing enough to incite the same involuntary, nihilistic glee within their child. 
+Flo let out a slapstick "Harumph" as they made the appropriate left-to-right, backward swiping motion through the air, back to the starting point of Their Bedtime Story, N laughing enough to incite the same involuntary, nihilistic glee within their child. 
 N leant down and inhaled the indescribably heavenly scent of their loved one; 
 and at the apex of their lung capacity, sealed this universal gesture of adoration with a kiss. 
 

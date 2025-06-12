@@ -20,13 +20,13 @@ He might be the only one who can provide an empirical frame, for this {far-beyon
 that has pulled me here to pull her, s{o|ew} NEAR. 
 
 Like the wind on the skeletal leaves, I know he's already seen the effect my magick has had on her, I bet the Team are going batshit, trying to deal with The Outbreak on top of trying to figure out what's brought her orbit closer-- 
-after some brief searches of the Journals --in spite of my {Self|resistance} to even attempt {crossing|X} those tri-Loched paywalls-- to get to our archives of knowledge; I realise, it *must* be the {abe|ho}rrance  in the LD[^LD] causing these simultaneous "Plagues" and Floods that DNE in their incessant need for Heirophantine; Formalised Religiosity are bent on ascribing to the Phage, and to some Ancient "One God" they call the Tetra-grammar Tœm... I am, for once, finding myself wishing that I *didn't* feel the validity of my own magick's involvement in the phenomenological world).
+after some brief searches of the Journals --in spite of my {Self|resistance} to even attempt {crossing|X} those tri-Loched paywalls-- to get to our archives of knowledge; I realise, it *must* be the {abe|ho}rrance  in the LD[^LD] causing these simultaneous "Plagues" and Floods that DNE in their incessant need for Hier{ophantine|archical}, Formalised Religiosity are bent on ascribing to the Phage, and to some Ancient "One God" they call the Tetra-grammar Tœm... I am, for once, finding myself wishing that I *didn't* feel the validity of my own magick's involvement in the phenomenological world.
 
-I came here to find a way out, 
+I came here to find a way back, 
 or, as is always the case, 
 I came here to find a way in-
 
-I found both. Her reflection, screaming as an answer. Her Glistening, a listening.
+I found both. Her reflection, screaming as an answer. Her G{listening}.
 Misery-- Abysmal. 
 Beaming: as She offers nothing, but an offering. 
 Ululation, drawn in Blood--let out in lots, 
@@ -45,33 +45,34 @@ I wanted to know *You*,
 through perhaps, finally, 
 knowing me.
 
-I think of Icarus--sweet, shining Will to Light; 
+I think of Icarus--sweet, shining Forward 
+Foreword Will to Light; 
 Standing tall, and yet, just a boy
 And Myo: His descendent.
 While I, in retrograde, spin down, 
-from Arachne 
+Arachne 
 
-Goddess, how identically 
-oppositely paired we are. 
+Goddess, how {identical| 
+opposite}ly paired we are. 
 I have to tell him. I have to- 
 
-First, a ritual. Always. 
-Ritual before anything. 
+Anything. After. Ritual.
+Ritual. Before. Anything. 
 Ritual {inside|above} everything. 
 A Life, 
 	{W{Ri(gh)t{Ten(*X*)}}} 
 		{of|from|for} 
 			{Rit{Ritual}ual} 
 						of Ritual.
-I turn {This|my} Grimoire into an Aleph, 
+I turned {This|my} Grimoire into an Aleph, 
 By {{Tu(r)}{N}{ing}|(un)Folding} 
-the previous {Page|extra dimension} I keep hidden 
-{inside|on top of} the *Mnemanuscript* 
-so lovingly crafted by Myo, 
+the {Page|extra dimension} I keep, kept hidden 
+{inside|on top of} the SIPHO{N|r}-compiled *Mnemanuscript* 
+so lovingly {craft|script}ed by Myo, 
 Oh Goddess I really must tell him- 
 but First-
 
-![[The Firsted Last Ritual]]
+![[LAST RITUAL]]
 
 Having spliced in the sequences that 
 

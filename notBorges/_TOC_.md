@@ -1204,7 +1204,7 @@ title: notBorges
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/RITUALS/THE CHIME RITUAL - I C III.md]]
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/RITUALS/THE OVUM RITUALS (OR, THE SEEDS OF BECOMING).md]]
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/RITUALS/The Bloodletting Test I Cull Ritual.md]]
-[[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/RITUALS/The Firsted Last Ritual.md]]
+[[LAST RITUAL]]
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/RITUALS/dismembering ritual.md]]
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/RITUALS/hardening-SOFTENING ritual.md]]
 [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/RITUALS/ritual of becoming.md]]

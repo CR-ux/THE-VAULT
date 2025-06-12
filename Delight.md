@@ -1,6 +1,6 @@
 ---
 permalink: Delight
 ---
-lexDef "Delight" {usage::: Croen} < N.B. "A Delight of Darkness(es)"[^DelightCroen]
+lexDef "Delight" {usage::: Croen {ARIA|DNE}} < N.B. ARIA var = "A Delight of Drones"| DNE var = "An Earthly Garden of Delights"[^DelightCroen]
 
-[^DelightCroen]: D is For Dark, Chapter Four of *The Woman Writing A Dictionary Onto The Wallpaper For Some UnNoen Reason*, by The Four. 
+[^DelightCroen]: D is For Drone, Chapter Four of *The Woman Writing A Dictionary Onto The Wallpaper For Some UnNoen Reason*, by The Hive of Hieronymus Bosch.

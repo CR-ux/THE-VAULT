@@ -325,7 +325,7 @@ First, a ritual. Always, ritual before anything. Ritual inside of and above ever
 I turn my Grimoire, this Grimoire, into an Aleph, by turning to the previous page and unfolding the extra dimension I keep hidden inside and on top of the Mnemanuscript (so lovingly crafted by Myo, Oh Goddess I really must tell him- but first-)
 
 
-![[The Firsted Last Ritual]]
+![[LAST RITUAL]]
 
 Having spliced in the parts that I believe are, or were, or will be missing, I decide it's time to send him an email 
 

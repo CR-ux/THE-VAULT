@@ -110,4 +110,4 @@ The Indefinite Library of Fable.
 
 [^ShoreNoen]: A is for Adrian; NoetSeuss
 [^ShoreCroen]: *Metatextual Excursions on Foot* --the Noets of the Ennead.
-[^Sea]: lexDef "Sea" {usage::: Noen || Croen} < A Body- Made, In Part, Of Salt[^SeaNoen] {SynApps :: "See|C"} << {To Be Blind | One Of The Four, Noen As Cytosine.}|| N.B. "A Sea Of Bodies."
+[^Sea]: lexDef "Sea" {usage::: Noen || Croen} < A Body- Made, In Part, Of Salt {SynApps :: "See|C"} << {To Be Blind | One Of The Four, Noen As Cytosine.}|| N.B. "A Sea Of Bodies."

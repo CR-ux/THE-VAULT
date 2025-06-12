@@ -1,9 +1,7 @@
 ---
 permalink: BODY
 ---
-lexDef "Body" {usage::: Noen || Croen} < A Veil || N.B. "A Body Of Worries"
-
-
+lexDef "Body" {usage::: Noen || Croen {ARIA|DNE}} < A Veil || N.B. ARIA var ="A Body Of Worries"|DNE var = "A Work of Bodies".
 
 
 

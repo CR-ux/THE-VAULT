@@ -31,19 +31,18 @@ permalink: S is FOR SHADOWED NUMBER OF THE BEAST IS THE SACRED TRANSGENDER BODY
 	
 	  
 	
-	*Myo Endive
+	Myo Endive
 	
 	Bioinformatics Lecturer 
 	
-	Department of Interdisciplinary Genomics and Hermetic knot quite Gnostic Hermeneutical Aesthetics  *"
+	Department of Interdisciplinary Genomics and Hermetic knot quite Gnostic Hermeneutical Aesthetics "
 	
 	  
 	
 	hey u,
 	
-	i know you wanted to be reminded a summary of my discourse, that you emailed to me via voice-to-text dictaphone recording as i was speaking somewhere in the future, to remember exactly what it was i'd said, but i don't have the time right now to sift through it so i've just pasted the whole email love you S
+	i know you wanted to be reminded a summary of {M{{y|{o}ur}}} discourse, that you emailed to me via voice-to-text dictaphone recording as i was speaking somewhere in the future, to {touch on|remember} exactly what it was i'd said back then, but i don't have the time right now to sift through so i've just pasted the whole email love you S
 	
 		
-		*Myo Endive
-		Bioinformatics Lecturer 
-		Department of Interdisciplinary Genomics and Hermetic knot quite Gnostic Hermeneutical Aesthetics  *
+		Selena Elk
+		Reader in Biomolecular Chessics and Shamanic Gender Theory

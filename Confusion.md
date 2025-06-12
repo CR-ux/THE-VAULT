@@ -1,6 +1,6 @@
 ---
 permalink: Confusion
 ---
-lexDef "Confusion" {usage::: Croen} < N.B. "A Confusion of Addenda"[^ConfusionCroen]
+lexDef "Confusion" {usage::: Croen {ARIA|DNE}} < N.B. ARIA var = "A Confusion of Addenda" | DNE var = "A Convalescence of Confusions"[^ConfusionCroen]
 
-[^ConfusionCroen]: [[The Children's Gospel Music Songbook in No Context]], Callie Rose {REDACTED}, April 17th, 1994.
+[^ConfusionCroen]: The Children's Gospel Music Songbook in No Context, Callie Rose {REDACTED}, April 17th, 1994.
