@@ -1,4 +1,4 @@
 ---
 permalink: Basket
 ---
-lexDef "Basket" {usage::: Noen || Croen} < A Deterministic Reality. || N.B. A Basket of Systems"
+lexDef "Basket" {usage::: Noen || Croen {ARIA|DNE}} < A Deterministic Reality. || N.B. ARIA var = "A Basket of Scalar Systems" | DNE var = "A Basking Reptile of Baskets"

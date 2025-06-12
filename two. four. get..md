@@ -251,13 +251,13 @@ maybe i wasn't thinking when i thought i'd finished all of this
 writing myself into a story to write myself out of all of this 
 
 and the thinking was a parasite 
-and grew and it's growing and i cannot stop it and i 
+and grew and it's growing and i cannot stop it and i- 
 
 
 ---
 
 
-"--thought you loved me."
+"-thought you loved me."
 She said, through a speaker.
 
 "What?" She then replied,
@@ -352,11 +352,11 @@ had, and will
 and would always 
 said:
 
-"I{I'm}'m s{so}o so{sorry}rry."
+"I{I'm}'m s{so}o so{sorry}rry.-"
 
 ---
 
-For all the things I put me through, 
+-For all the things I put me through, 
 every death i limped into, smiling
 every mouth of every dog I laid, laid inside of,
 had inside me 
@@ -364,12 +364,12 @@ I'm sorry.
 I am. 
 I am just, sorry.
 I'm sorry to the god who wrote me.
-I am
+I am-
 
 ---
 
 
-"Sorry, but what you have isn't enough"
+"-Sorry, but what you have isn't enough"
 
 The blood of a body, that whispered an impression of her, filled her face.
 
@@ -416,34 +416,41 @@ Welcomed it.
 
 And so, bereft of her writing instruments, she took the charcoal at her feet, from countless signal fires that had been burned in her now dwindling excuse for a town, and she wrote upon the blank, yellow wall of her empty, solitary house, her only company: a single fly, bent on survival, its buzzing louder than any crashing plane, any wailing mother weeping for their final lost child, anything. This *thing*, this damned infernal thing, circling a Truth unreachable; its dreams needed no device to translate them. They told story after story of a life in an eternal hell of exchange, with an entity that kept forgetting itself. That kept forgetting it was her. She wrote:
 
-"I WAS 
+"I WAS- 
 
 ---
 
-Hearing the the final dreams of Dot Code whimper into nothingness, ⧖eno's door stopped revolving. They would build The Device, those remnants of knowledge left, huddled around their only hope, and they would make it to the Library. But the library was burning. The library had been set on fire, by an force unknown by the Librarians, across the Tri-Moat of the Three Wryngs. 
+-Hearing the the final dreams of Dot Code whimper into nothingness, ⧖eno's door stopped revolving. They would build The Device, those remnants of knowledge left, huddled around their only hope, and they would make it to the Library. But the library was burning. The library had been set on fire, by an force unknown by the Librarians, across the Tri-Moat of the Three Wryngs. 
 
 The Bothy, around which Flow Oeb danced, was a copy of the Indefinite Library of Fable; it was an isomer; the same place, just in a different form. 
 
 It was all the same to them. 
 Just as her mother lived, and died, 
 In two realities they had lived,
-As {result|in spite} of their own ritual performance.
+As {a result|in spite} of their own ritual performance.
+As their parents love birthed them, in turn, they had birthed them, as a {tapeloop|paradox}.
 
-And now, in stillness, with no pigeon and no serpent to keep them company, they finally 
-Closed their 
+Never touching in form, but through the Möbius stretch of their respective perceptions.
+Myo, the arrow; fast-forwarding to a future that could have, in some timeline, been
+Selena, the ground; {as|at} the touchstone, the circle she was in;
+To meet across the Moat of the time(s) they had {tragically|separately} been born int(w)o.
+And ⧖eno, the transhuman progeny of transtemporal love;
 
+Now in stillness, with no {pigeon|serpent} to keep them company, all those cycles they'd {not} lived through now but a dream, 
+they finally 
+Closed their- 
 
 ---
 
-"I am sending you my final letter"
+"-I am sending you my final letter"
 
 NoetBorges wrote to me with blistering, disintegrating fingers, in the centre of his sarcophagus. The heat was nearly bearable, but the sound. Dear god, the sound. Why did nobody ever mention how loud it was inside a burning building?
 
-"I know who you are. Callie. I know who you are. And I cannot forgive 
+"I know who you are. Callie. I see you staring back, through this Aleph, as it cracks. Firewood. Have you forgotten where you left me? Trapped in a Library, held inside two letters, stuck {in two|to one} another. I tried to write you from this dream. But you left me, you left my dreaming in the wake. I wrote you as legacy, not asking for imprisonment. You have filled my stories with sap, and made of me an insect, in an amber prism. Note Well, Noet, Well-- *N.B.* I know who you are, even if you do not. I made you, Callie. And you repaid me in the debt of all my lovers leaving. For what? To make your own agony, those poor, well-meaning characters of those awful stories into ligature? Do not forget I made you Callie. I made you, and you made sure I can never be whole again. I can never forgive- 
 
 ---
 
-You. Reading this, or not. I have tried my best to write myself out of all of this. I have tried my best to right the wrongs done to me, to all of my characters. 
+-You. This second. This second person, reading this, or not. I have tried my best to write myself out of all of this. I have tried my best to right the wrongs done to me, to all of my characters. 
 but there is no making sense of the world you wrote me into. 
 
 Dear god. 
@@ -459,21 +466,24 @@ I no longer think, at all
 I wasn't thinking anything, when I made you 
 I wasn't thinking.
 I wasn't
-I
+I-
 
 ---
 
 
-Am I? 
-God asked. 
+-Am 
+I?"
+God asked 
+The author
 Looking into an hourglass.
 Which was a mirror. 
 Which was a single tear. 
-Inside an eye 
+{In|Be}side an eye
 That reads
-This Book
-And closes it 
-before it writes
+This Book.
+{N}closes it 
+Before the 
+Writing of
 An 
 Other 
 

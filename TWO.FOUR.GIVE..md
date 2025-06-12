@@ -839,12 +839,7 @@ Forgiving All,
 
 
 <br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ![[two. four. get.]]
