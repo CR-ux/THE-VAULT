@@ -98,7 +98,7 @@ date: XVII_XXIII_ERA_Æ
 
 Last night, I am certain of it, I felt them 'kick', or whatever their version of 'kick' might be (I know I can look it up in a second, but your Gnoeneogenomic and Bryon{if|or}matic facts are the closest thing I have to you reading to me here - can you let me know what developmental stage Perigee would be at right now? (As always, I *need* the associated Bryon{if|or}matic Symbology)
 
-I hope hearing/reading this provides a sense of catharsis, rather than a pang of pain. As I write this I realise it will most likely be both. It's always both. As{we}say.
+I hope hearing/reading this provides a sense of catharsis, rather than a pang{leaving you}of pain. As I write this I realise it{will most likely be}'s always both. As{w{(yo)u}e|i}say.[^assay]
 
 How's the sample analysis going? I just know you're knocking their socks off. I have a very strong one of my "feelings" as you so lovingly term them, that it will be you, my Light, who saves us all from this terrifying Phage. 
 
@@ -111,7 +111,7 @@ Hope the code is coding kindly dear light,
 - S
 # ᶠᵒᵒᵗNoet(s)
 
-[^†]: I know you find him self-important and somewhat pretentious in his recursive fiction, but I was reading the latest Gnoeneoeng. translation of The Citadel of Tœms last night and I thought it was the perfect fit for today's *Prologuemania - hope you will forgive me for (finally!!!) taking up our little email opening ritual with the Noet. who is perhaps the one artist we disagree on the genius of (although, I look forward to uncovering, or not, the smatterings of whatever the Two (soon to be Three!!!!!) of us disagree on. Or agree on. I look forward to it all. Dear Goddess how I miss your smell, My Light)
+[^†]: I know you find him self-important and somewhat pretentious in his recursive fiction, but I was reading the latest Gnoeneoeng. translation of The Citadel of Tœms last night and I thought it was the perfect fit for today's *Prologuemania - hope you will forgive me for (finally!!!) taking up our little email opening ritual with the Noet. who is perhaps the one artist we disagree on the genius of (although, I look {back|forward} to un{covering} the smatterings of the matter of our Dis{agreement}. I look {{{back|for}ward} to} it all. Dear Goddess how I miss your smell, My Light)
 
 [^LD]: lexDef (EA) "L.D." {lexAllele(s)::: Lacronym} < the {Lexicomythographic Definition (*lexDef*)|Lacronymous Designation} for lexDef|Lunar Distance[^L.D.Lacronym]
 
@@ -119,5 +119,7 @@ Hope the code is coding kindly dear light,
 [^lexdef_missing]: lexTrans (EA) {lexAllele(s)::: SIPHO{N|r}} << {I know, no|bel{{a|i}e}ve}} {we|are|Will be} missing.[^missing.SIPHO{N|r}]
 
 [^missing.SIPHO{N|r}]: [[One Thing Missing - a scrabble variant]], Dr Dot Code (RE: visions of the Professor, Eduardo Oleander)
+[^assay]: lexTrans {lexAllele(s)::: SIPHO{N|r}} "As{w{(yo)u}e|i}say" << {As we say, as you say, as I say | "You" in "We", Wu Wei in Assay"[^assay1]
+[^assay1]: lexDef (EA) "Assay" {lexAllele(s)::: Noen} < The testing of an {Ore|metal}, or: to try. To try to find the yielding forgiveness of an answer in the harshness of matter.[^AssayNoen]
 
-
+[^AssayNoen]: Solid Foundations in Philosophical Gnoeneogeology, Samples From ⧖eno's Test Papers

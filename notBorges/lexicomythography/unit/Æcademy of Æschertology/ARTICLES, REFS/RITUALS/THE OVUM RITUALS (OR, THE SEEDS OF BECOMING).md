@@ -16,8 +16,8 @@ permalink: THE OVUM RITUALS (OR, THE SEEDS OF BECOMING)
 # ᶠᵒᵒᵗNoet(s)
 
 [^3]: *On The Problem with Threes*, Prof. Ed. O., Creator of Edo||odE and The One Thing Missing - a scrabble variant. ERA_U.
-[^S]: lexTrans {SIPHO{N|r}} "fa(impeding your own sense of discovery)ct" << "In fact, impeding your own sense of discovery"
-[^L]: lexTrans {SIPHO{N|r}} "her(for you)love" << "in her love for you"
-[^C]: lexTrans {SIPHO{N|r}} "her(she feels are protective)compassion" << "in her compassion, she feels are protective"
-[^E]: lexTrans {SIPHO{N|r}} "y(you take The Egg)ou" << "you take The Egg inside you"
-[^U]: lexTrans {SIPHO{N|r}} "The {Pr|D{emise}|{i{s|n}ciples}} of(This feels complete)its uncertainty." << "This feels complete in The {Premise|Demise|Sin|Principles|Disciples} of its uncertainty"
+[^S]: lexTrans {lexAllele(s)::: SIPHO{N|r}} "fa(impeding your own sense of discovery)ct" << "In fact, impeding your own sense of discovery"
+[^L]: lexTrans {lexAllele(s)::: SIPHO{N|r}} "her(for you)love" << "in her love for you"
+[^C]: lexTrans {lexAllele(s)::: SIPHO{N|r}} "her(she feels are protective)compassion" << "in her compassion, she feels are protective"
+[^E]: lexTrans {lexAllele(s)::: SIPHO{N|r}} "y(you take The Egg)ou" << "you take The Egg inside you"
+[^U]: lexTrans {lexAllele(s)::: SIPHO{N|r}} "The {Pr|D{emise}|{i{s|n}ciples}} of(This feels complete)its uncertainty." << "This feels complete in The {Premise|Demise|Sin|Principles|Disciples} of its uncertainty"
