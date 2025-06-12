@@ -1,6 +1,5 @@
 ---
 permalink: Family
 ---
-lexDef "Family" {usage::: Noen || Croen} < A Tumour[^FamilyNoen] || N.B. ""A Family of Tragedies""
+lexDef "Family" {usage::: Noen || Croen {ARIA|DNE}} < An aggregation of self-same difference. || N.B. ARIA var = "A Family of Organelles" | DNE var = "A Malignancy of Families"
 
-[^FamilyNoen]: [[Malignancy]], Innovations in Oncology, The Lancet, 2021.

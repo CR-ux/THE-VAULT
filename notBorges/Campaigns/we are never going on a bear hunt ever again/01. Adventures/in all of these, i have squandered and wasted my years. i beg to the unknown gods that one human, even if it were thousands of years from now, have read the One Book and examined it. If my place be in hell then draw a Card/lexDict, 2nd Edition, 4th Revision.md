@@ -4,8 +4,8 @@
 **For Adrian.**
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-**Isn't N for** 
-![[Augury]]
+N. 
+For Adrian.
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 **But I am that N is for**

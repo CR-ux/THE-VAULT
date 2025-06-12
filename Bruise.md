@@ -1,6 +1,5 @@
 ---
 permalink: Bruise
 ---
-lexDef "Bruise" {usage::: Croen} < N.B. ""A Bruise of Beetroots""[^BruiseCroen]
+lexDef "Bruise" {lexAllele(s)::: Croen {ARIA|DNE}} < N.B. ARIA var = "A Bruise of Beetroots" | DNE var = "A Bushel of Bruises"
 
-[^BruiseCroen]: [[Beetroot]], [[lexDict]], 2025.
