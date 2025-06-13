@@ -1,8 +1,8 @@
 ---
 permalink: Garden
 ---
-lexDef "Garden" {lexAllele(s)::: Noen || Croen || [[Amino{Us}]]} < A Guarding[^GardenNoen] || N.B. "A Garden of Stories" || The [[Residualchemystician]] Named As Guard: "N."[^GardenAmino{Us}]
+lexDef "Garden" {lexAllele(s)::: Noen || Croen {ARIA|DNE} || Amino{Us}} < A Guarding[^GardenNoen] || N.B. ARIA var = "A Garden of Stories" | DNE var = "A Fall Of Gardens" || The Residualchemystician Named As Guard: "N."[^GardenAmino{Us}]
 
-[^GardenNoen]: [[Ward]], ARIA
+[^GardenNoen]: *Redacted Epistolary Accounts Deleted* (READ); The Hospital Groundskeeper, ARIA Faction
 
-[^GardenAmino{Us}]: [[The Society Not Noen as |DNE]], The Initial Components of The Staircase, The School of Lexicomythographers Digging the Field of Arcanacheolontology.
+[^GardenAmino{Us}]: *Written Replies Inside The Earth* (WRITE); The School of Lexicomythographers Digging Into the Field of Arcanacheolontology, DNE Faction

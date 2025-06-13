@@ -293,13 +293,6 @@ Through a vent, a letter, made of letters, between Four characters of Six, was b
 ![[RITUAL OF THE TIRED SYRINGE]]
 
 
-
-
-> I’m going to struggle in this world no matter what – so I might as well choose how I do it
-> I can’t help but to baptise myself in fire, every day, over and over again
-> rest easy in the knowledge that someday your life will become history, and some will wish they’d lived it
--Adrian
-
 ---
  VII | …for is ܙ  | Oar: Ser
 
@@ -326,9 +319,9 @@ I know that you may not wish to speak to me following our breakup, but I wanted 
 
 
 ---
-IX | …for is ܛ | Oar: {nuc}**Leu**{s}
+IX | …for is ܛ | Oar: {nuc}Leu{s}
 
-ᴺᵒᵉᵗMahler was far too busy engrossed in the finalisation of his 10th symphony, a cross-temporal collaboration with a Character (to whom this Letter was {k}not addressed), to notice the Letter that had been dropped by that Most Mysterious Pigeon through the Vent of His Concert Hall, in the Musicology Wing of the Indefinite Library of Fable. Perhaps, had the note been written upon Manuscript, he would have eventually got round to reading the divisive farewell sent by his ex-lover. But alas, it would be at least Ten Thousand of our Human, or One Million of their Numan, years before the paper would be lifted by the Holy ᴺᵒᵉᵗ of Musicology, from the littered, waxed floor, which itself once longed for the tapping feet of lovers dancing upon it. But now, the hexagonal tiles merely offered an abomninable reflection of Mahler's tired face -- a visage he tried so hard to avoid. Perhaps this was why it took him so long to get round to picking up the correspondence from ᴺᵒᵉᵗBorges. At which point, it would be thrown straight into the bin, before Opening the Foreword of a hefty tome of sheet music, by a soon to be renowned composer and performance artist, known as
+ᴺᵒᵉᵗMahler was far too busy engrossed in the finalisation of his 10th symphony, a cross-temporal collaboration with a Character (to whom this Letter was {k}not addressed), to notice the Letter that had been dropped by that most mysterious Pigeon through the Vent of his concert hall, in the Musicology Wing of the Indefinite Library of Fable. Perhaps, had the note been written upon Manuscript, he would have eventually got round to reading the divisive farewell sent by his ex-lover. But alas, it would be at least Ten Thousand of our Human, or one million of their Numan, years before the paper would be lifted by the Holy ᴺᵒᵉᵗ of Musicology, from the littered, waxed floor, which itself once longed for the tapping feet of lovers dancing upon it. But now, the hexagonal tiles merely offered an abominable reflection of Mahler's tired face -- a visage he tried so hard to avoid. Perhaps this was why it took him so long to get round, round to picking up the correspondence from ᴺᵒᵉᵗBorges. At which point, it would be thrown into the bin, before Opening the Foreword of a hefty manuscript Noetbook, a tome of tones embedded into sheet music, by a soon to be renowned composer and performance artist, known as
 
 ![[⧖ENO]]
 

@@ -1,6 +1,6 @@
 ---
 permalink: Xeno
 ---
-lexDef "Xeno" {usage::: Croen} < N.B. ""A Xeno of [[Paradox]]es" "[^XenoCroen]
+lexDef "Xeno" {usage::: Croen {pre-schism} } < N.B. ""A Xeno of Paradoxes" "[^XenoCroen]
 
-[^XenoCroen]: [[⧖eno_]], ᴺᵒᵉᵗ⧖eno, [[THE PROPHECY OF HILDR CHARON WILTERGARTEN]]
+[^XenoCroen]: ᴺᵒᵉᵗ⧖eno, What Was Found Within The Prophecy of Hildr Charon Wiltergarten

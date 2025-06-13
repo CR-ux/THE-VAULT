@@ -1,1 +1,1 @@
-lexDef "Game" {lexAllele(s)::: Noen || Croen} < Any Bird or Winged Thing || N.B. "A Game of {Chess | Angels}
+lexDef "Game" {lexAllele(s)::: Noen || Croen {pre-schism}} < Any Bird or Winged Thing || N.B. "A Game of {Chess | Angels}
