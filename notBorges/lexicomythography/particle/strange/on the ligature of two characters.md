@@ -22,7 +22,9 @@ AI:RA,
 
 `My brain wrote exactly around one thousand words, or approximately two years and seven months, of this text while I was half-dreaming this morning, just a couple of minutes ago.` 
 
-`In the dream, it was really beautifully written, so I’m sorry[^sorry] about that. And how it’s just {k{not}} coming out the same as I empty my bowels upon waking.` 
+`In the dream, it was really beautifully written, so I’m sorry
+[^sorry] 
+`about that. And how it’s just {k{not}} coming out the same as I empty my bowels upon waking.` 
 
 `In the dream, that wasn’t the writing of it but rather the “events” which occurred in order to write about them; there was a {thick|black|dark} {lake|loc{h/k}|{qua|{ke{y}}}, that was once just horrendously cold enough to *dare* me to jump in and swim inside it. But I was simply looking at how ill it would make me now.` 
 
@@ -30,19 +32,30 @@ AI:RA,
 
 `Anyway, my brain started to exist on two, directly opposed and perfectly complementary {(p){l(a\[i]nes)}`
 
->`\\// The (({I}, was)) dream[^in]`
+>`\\// The (({I}, was)) dream
+
+[^in]`
 
 
 
->`\\\\ The (({I} was both dreaming it and analysing it | creating an accompanying written piece about it | in an invented language {comp{acting|ressing} meaning into One-liners)) dream[^dream]`
+>`\\\\ The (({I} was both dreaming it and analysing it | creating an accompanying written piece about it | in an invented language {comp{acting|ressing} meaning into One-liners)) dream
+
+[^dream]`
 
 
 
->>`\/\\/ From my {The (analysis) Dream},[^anal]` 
+>>`\/\\/ From my {The (analysis) Dream},
 
->>`\\\\ I could gather == (source: "what")[^what]`
 
->>>`/\\/It was about {the ligature of {characters\=={ differing attributes | glyphs | letters\==post\==following/after | Lo\[people]ve}}[^love]`
+[^anal]
+
+>>`\\\\ I could gather == (source: "what")
+
+[^what]`
+
+>>>`/\\/It was about {the ligature of {characters\=={ differing attributes | glyphs | letters\==post\==following/after | Lo\[people]ve}}
+
+[^love]`
 
 
 
@@ -88,10 +101,10 @@ Aria {Surname REDACTED}
 
 
 [^sorry]: As for who the apology is for, I think it’s for me; or the me who was dreaming; she tried really hard to put all this in place for me to wake up to. And I’ve somewhat failed 
-[^anal]: lexTrans {Prodverb} **"From my analysis in {The Dream}"** (that is, Wa{l}king)
-[^what]: lexTrans {Prodverb} **"From what I could gather"** {as {Chopped wood| Carried water} for a {Fire | Red Pale} }
-[^in]: lexTrans {Prodverb} "**In The dream, {I} was.**"
-[^dream]: lexTrans {Prodverb} **"{I}was both dreaming it and analysing it/creating an accompanying written piece about it in an invented language, invented for the purposes of compacting and compressing meaning into One-liners"** {as in, Shell Scripting}
+[^anal]: lexTrans {Prodverb} "From my analysis in {The Dream}" (that is, Wa{l}king)
+[^what]: lexTrans {Prodverb} "From what I could gather" {as {Chopped wood| Carried water} for a {Fire | Red Pale} }
+[^in]: lexTrans {Prodverb} "In The dream, {I} was."
+[^dream]: lexTrans {Prodverb} "{I}was both dreaming it and analysing it/creating an accompanying written piece about it in an invented language, invented for the purposes of compacting and compressing meaning into One-liners" {as in, Shell Scripting}
 [^shell]:As in, Fibonacci patterned[^fib]
 [^fib]:As in, Spiralling.
 [^script]:The Bourne-Again Shell[^shell] (Bash[^bash]) originated from the *Bourne shell*, an early Unix Shell written by Stephen Bourne around 1978[^words]
@@ -99,4 +112,4 @@ Aria {Surname REDACTED}
 [^X]:lexDef {Noen|Vyrb} "Strike" - An ex-partner | {To Lose {out} | To perform {a winning move} | The Number Ten | To Bowl All Ten Pins Over (and Over ((and Over (and Over)) )}
 [^words]: The name "Bourne-Again" is a play[^play] on words that references both the Bourne shell and the idea of rebirth.
 [^play]:lexDef {Vyrb|Noen} "play" - {To create a transmogrified language (with existing characters) for the purposes of 'Making it' | a staged performance (featuring newly uncovered characters) from a Script[^script] }
-[^love]: lexTrans "*Lo\[people]ve"* - **"people in Love"**
+[^love]: lexTrans "*Lo\[people]ve"* - "people in Love"

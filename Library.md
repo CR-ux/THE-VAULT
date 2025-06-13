@@ -2,7 +2,7 @@
 permalink: Library
 ---
 
-lexDef "Library" {lexAllele(s)::: Noen || Croen} < A Tear of A Cell.[^LibraryNoent] || N.B. "A Tissue of Libraries"[^LibraryCroent]
+lexDef "Library" {lexAllele(s)::: Noen || Croen {post-annealment}} < A Tear of A Cell.[^LibraryNoent] || N.B. "A Tissue of Libraries"[^LibraryCroent]
 
 
 [^LibraryNoent]: The Circular Book, Jorge Luis Borges, 1994.
@@ -10,7 +10,7 @@ lexDef "Library" {lexAllele(s)::: Noen || Croen} < A Tear of A Cell.[^LibraryNoe
 
 
 
-lexDef "Library[^l]" {lexAllele(s)::: Noen || Croen} < A Cell Within a Cell[^LibraryNoen1] || N.B. "A Prism of Libraries"
+lexDef "Library[^l]" {lexAllele(s)::: Noen || Croen {pre-schism}} < A Cell Within a Cell[^LibraryNoen1] || N.B. "A Prism of Libraries"
 
 
 [^LibraryNoen1]: The Prison of Prisms, The Prism Collective (Collected Croens[^ll]). 2025.

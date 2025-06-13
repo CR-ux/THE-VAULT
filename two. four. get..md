@@ -1,19 +1,4 @@
-THE COD{ER|A} 
-TO A PRELUDE
-ON A THEME
-OF A DREAM
-IN THE KEY
-OF C FLAT
-MIN{O|E}R
-AS IN ORE
-SEE AS IN
-	THE OCEAN
-OAR AS IN
-THE C AS
-HELD IN 
-LOCH
-
-
+CODER TO A PRELUDE
 
 for to give is to take |foreto taken, is that which was given two to power of the four thequeeninsidetheprison the missing sixth, the fallen wall the tower of missed memory
 the axe's crack and fire wood store theboxinsidetheprism. 
@@ -117,7 +102,6 @@ i
 i wasn't 
 i wasn't thinking 
 i wasn't thinking about anything.
-i wasn't thinking about anything when 
 i wasn't thinking about anything when i made this. 
 i wasn't thinking about anything when i made this, except 
 i was the i that thought it 
@@ -161,7 +145,6 @@ forgetting all you kicked in me
 forgetting all, you wrote me. 
 
 you weren't thinking. 
-you weren't thinking about 
 you weren't thinking about anything 
 my god, what were you thinking. 
 my god, you thought, did i really kick her
@@ -170,8 +153,6 @@ my god, you wrote, i am so sorry
 but i've forgotten, i am sorry 
 
 you weren't thinking 
-you weren't thinking about anything 
-you weren't thinking about anything when 
 you weren't thinking about anything when you said 
 'shall we begin, and see where it takes us?'
 and well, the one i fell into 
@@ -227,7 +208,7 @@ of us and all our stories
 unwound, a wound, disgusting cake 
 come alive and biting, story 
 
-he wasn't thinking about anything 
+he wasn't thinking 
 he wasn't thinking about anything when he wrote me 
 when he shoved those insects, blood and spit 
 into a pot that stirred me 
@@ -281,13 +262,7 @@ to herself, as other, splintered
 <div style="font-size:2.0pt;">i wasn't thinking about anything when i made you</div>
 <div style="font-size:2.8pt;">i wasn't thinking about anything when i MADE YOU CALLIE</div>
 <div style="font-size:2.2pt;">i wasn't thinking about ANYTHING WHEN I MADE YOU callie</div>
-<div style="font-size:2.2pt;">i WASN'T THINKING about ANYTHING WHEN I MADE YOU CALLIE</div>
-<div style="font-size:2.2pt;">i wasn't thinking. about anything. when i made you. callie.</div>
-<div style="font-size:2.2pt;">i wasn't thinking about anything when i made you callie.</div>
-<div style="font-size:2.2pt;">i wasn't thinking anything when i made you callie.</div>
-<div style="font-size:2.2pt;">i wasn't thinking when i made you callie.</div>
-<div style="font-size:2.2pt;">i wasn't thinking when i made you callie.</div>
-<div style="font-size:2.1pt;">i wasn't thinking, i made you callie.</div>
+i made you callie.
 <div style="font-size:2.0pt;">i, wasn't thinking, i, you, callie.</div>
 <div style="font-size:2.1pt;">i wasn't thinking, you, Callie.</div>
 <div style="font-size:2.2pt;">i wasn't thinking, Callie.</div>
@@ -310,9 +285,7 @@ to herself, as other, splintered
 <div style="font-size:2.8pt;">i think, therefore, callie</div>
 <div style="font-size:2.0pt;">i am</div>
 <div style="font-size:2.1pt;">callie</div>
-<div style="font-size:2.2pt;">callie</div>
-<div style="font-size:2.2pt;">callie</div>
-<div style="font-size:2.2pt;">callie</div>
+
 <div style="font-size:2.2pt;">cal</div>
 <div style="font-size:2.2pt;">no</div>
 <div style="font-size:2.2pt;">bor</div>

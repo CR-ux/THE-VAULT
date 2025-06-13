@@ -343,11 +343,7 @@ There was no way through.
 ![[H is for]]
 
 ---
-
- X | …for is ܝ  | Oar: {re{ci}}**Pro**{se|duction|city}
-
----
-
+X | …for is ܝ  | Oar: {re{ci}}**Pro**{se|duction|city}
 
 Atop the Mezzanine in the Bothy in the Tundra that surrounded the Indefinite Library that Surrounded All, N. was Now, weeping. Dante, licking the salty tears from their face; an {in|ef{flux}} of {sa{l|t}ie{nce|ty}--
 
@@ -374,10 +370,7 @@ N. slumped downward, into the soft cushioning of the futon, where Flo held them 
 ![[EYE IS FOR]]
 
 ---
-
- XI | …for is ܟ  | Oar: {an}**Thr**{opomorhism||ough|ead}
-
----
+XI | …for is ܟ  | Oar: {an}**Thr**{opomorhism||ough|ead}
 
 
 They dreamed that they weren't thinking
@@ -399,10 +392,7 @@ They are
 
 
 ---
-
- XII | …for is ܠ  | Oar: {{Hylo|Diffeo|A}morp}|{(||)**His**(tone)(\_)(m)}(odification)}
-
----
+XII | …for is ܠ  | Oar: {{Hylo|Diffeo|A}morp}|{(||)**His**(tone)(\_)(m)}(odification)}
 
 ![[J IS FOR]]
 
@@ -420,10 +410,8 @@ CONCLUSION:
 Sighing exasperatedly, he placed the paper back in its folio above his desk. 
 
 ---
+XIII | …for is ܡ | Oar: G{öde}l{ia}n
 
- XIII | …for is ܡ | Oar: G{öde}l{ia}n
-
----
 
 ![[Observe. Silence.]]
 
@@ -434,11 +422,8 @@ Sighing exasperatedly, he placed the paper back in its folio above his desk.
 
 
 ---
+XIV | …for is ܢ  | Oar: As{I}n, Asparagine
 
-
- XIV | …for is ܢ  | Oar: As{I}n, Asparagine
-
----
 
 ![[From Cradle to Casket to Castle]]
 
@@ -763,7 +748,7 @@ XX | …for is ܪ  | Oar: Met
 
 ![[Sentence]]
 
-Through performing a Ritual, with an egg {laid on a leaf}, by a learned chess player and lesser-known Witch, once thought and written down as fiction, but brought into Not-Being, which is to say, friction; Being--
+Through performing a Ritual, with an egg {laid on a leaf}, by a learned chess player and lesser-known Witch, once thought and written down as fiction, but brought into {k}Not-Being, which is to say, friction; Being--
 
 Flo drew the expanse of endlessnesses ahead of her, 
 
@@ -791,8 +776,6 @@ home
 
 ---
 XXI | …for is ܫ | Oar: Trp
-
-
 
 ![[Z IS FOR]]
 

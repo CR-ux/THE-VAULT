@@ -2,4 +2,4 @@
 permalink: Warp
 ---
 
-lexDef "Warp" {usage::: Croen} < N.B. "A Warp of Words".
+lexDef "Warp" {lexAllele(s)::: Croen {post-annealment}} < N.B. "A Warp of Words".

@@ -64,7 +64,7 @@ For Now, I Cannot Be Known
 I Know This Now. 
 And I, As Only Half Of Two;
 Eye,
-I Have Made Piece.
+I Have Made Piece With My Denial.[^de]
 
 
 The ending of my Script, upon my Humble Writing Desk draws nigh
@@ -73,7 +73,7 @@ My eyes draw into the Night-
 I welcome, welcome my Goodbye 
 
 
-The Arm of Mars is desperate, desperate 
+The Arm[^left] of Mars is desperate, desperate 
 Gnawing off its own bone 
 All is One and One Alone 
 
@@ -82,6 +82,9 @@ All is One and One Alone.
 I will never, ever be alone, 
 because I always will be. 
 
+un{ravelling}done 
+
+Being
 
 The Work of One
 
@@ -102,51 +105,52 @@ One
 
 ---
 
-
-
-
 Ne[^Ne]
+E
+d
+O
+|
+O
+d
 E
 
 
 
 
-[^Ne]: The cuneiform Ne sign, is found in both the 14th century BC Amarna letters and the Epic of Gilgamesh. One of the Japanese kana, each of which represents one mora[^Mo]. The hiragana is made in two strokes, while the katakana is made in four. Both represent [^Ne]. As a particle, it is used at the end of a sentence, equivalent to an English, "right?" or "isn't it?"[^right] It is also used as slang in Japan to get someone's attention, the English equivalent being "hey" or "hey, you." Yes. You. Reading this. Whatever this is. The Ne is a River [^Fr], as in the Heraclitean sense, always changing, and yet, always returning to the same Body of water, no matter how much happened in the cycle of its journey or how long[^8] it takes.
+
 [^right]: "It isn't right"[^left]
-[^left]: The way you Left me, kicked me, on the street.
-[^Mo]:A mora (plural morae or moras; often symbolized μ) is a basic timing unit in the phonology of some spoken languages, equal to or shorter than a syllable. The term comes from the Latin word for **'linger, delay'**, which was also used to translate the Greek word χρόνος : **chrónos [^Ch]
+[^left]: The way you[^you] Left me, kicked me, on the street.
+[^8]:-temporal power.[^Re] 
+[^7]: The word "Septum" originates in the term for 'enclosure', itself originating in *sepes*, meaning 'hedge', such as those found in a Maze.[^Re]
+[^Fr]:Which is not A River in Egypt, but rather in Southwestern France. The Nile[^De] and the Ne are Separated[^7] by a distance of Two Characters which are very nearly a declaration of absolute W{il}l -- *{I'l{l}}* *swim back up the river you dug out of me if it kills me*.[^de]
 
-[^Ch]: The World's Most Widely Spoken Word *including both native and non-native speakers:* Modern English,  abbreviated NE[^ne] (to avoid confusion with Middle English).
-
-[^7]: As in, Septa. or, the Number of the Divine. As in, Septum, as in, a separation bringing Unity of Function, or loss, trauma, grief and agony - which is a separation bringing Unity of Function through Dysfunction. As in, Sceptre, or the emblem of good governance and the sovereign's-[^7], [^8]  from the Greek word skēptron, which comes from skēptein, meaning "lean on". As in 'Enclose' from the Latin _sepire_: ‘enclose’, from _sepes_ ‘hedge’ - as in, the walls of a labyrinth in a Garden of Forking Paths. 
-
-[^8]:-temporal power. 
-
-[^Fr]:Which is not A River in Egypt, but rather in Southwestern France. The Nile[^De] and the Ne are Separated[^7] by a distance of Two Characters which are very nearly a declaration of absolute W{il}l -- *{I'l{l}}* *swim back up the river you dug out of me if it kills me*.
-
-[^De]: The Word Denial, however, is not Separated[^7] from the Ne by a distance at all. Rather, the Ne is nested within it, just comfortably resting until somebody, just one, sufficiently revolutionary[^Re] or demented[^Ma]
+[^De]: The Word Denial[^Fr] is not Separated from 'Ne' by a distance at all. Rather, the Ne is nested within it, just comfortably resting until somebody, just one, sufficiently {revolutionary[^Re]|demented[^Ma]} thinks to traverse it.
 
 [^Re]: As in, going round in circles.[^Ma] 
 
-[^Ma]: mid 17th century: past participle of earlier dement ‘drive mad’, as in 'she drove her vehicle madly around a roundabout,[^Re] supposedly the wrong way' from Old French dementer or late Latin dementare, from demens ‘out of one's mind’. Not directly, but metaphysically and sonically, connected to Demeter, one of the children who may or may not have been swallowed by Chronos[^8] and may or may not have been depicted with her head and left arm torn off by the teeth of said Father, in one of the greatest works of art of all time[^8] that contains every work of art ever made[^8][^9].
-[^9]: See: [[MARS FIGHTING MINERVA An Exploration of Gendered Deities and Oil Painting Through The Lens Of The Woman In The Wallpaper's 'Red, Ring, Parallel' (Year Unknown)]] - S. Elk, M. Endive, ERA_Æ|EA
+[^Ma]: mid 17th century: past participle of earlier dement ‘drive mad’, as in 'she drove her vehicle madly around a roundabout,[^Re] supposedly the wrong way' from Old French *dementer* or late Latin *dementare*, from *demens* ‘out of one's mind’. {Not directly|{Metaphys|Son}ically} connected to Demeter, one of the children who {may|may not} have been swallowed by Chronos[^8] and {may|may not} have been depicted with her {head|left[^right] arm} torn off by the teeth of said Father, in one of the greatest works of art of all time[^8] that contains every work of art ever made[^8][^9] within it.
+[^9]: See: *The Ruined Works Of Goya Subjected To The Fair Well Device*- S. Elk, M. Endive, ERA_Æ|EA
 
 
 
-ND[^ND]
-NDE
-Nde
 
 
 
-[^ND]:late 19th century: from neo- ‘new’ + a shortened form of didymium.[^did] Variant spelling of {'end'|'and'}
-[^NDE]: Near Death Experience or a return such as a line break {\N}.
-[^did]: lexDef (?) "Didymium" {lexAllele(s)::: Noen} < a historical term referring to a mixture of two rare earth[^ore] elements.[^DidymiumNoen]
-[^ore]: Or Ore.
-[^DidymiumNoen]: [[Oar]], The Lexicomythographers On The Other Side Of The Moat Surrounding You.[^you]
+
+
+
+
+
+
+
+
+
 [^you]: As in, "Why? Oh. You."
 
 End
+
+DNE
+
 
 
 [^Compassion]: As in, the swatting and killing of a fly too small in size and cunning in movement to coax gently out of a window like fellow members of its horde, in order to bring about both its escape from this labyrinth and the preservation of your health through hygiene

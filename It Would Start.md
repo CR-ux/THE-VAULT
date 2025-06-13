@@ -42,53 +42,45 @@ Shall Beg--
 [^we]: That 'we' which is to say: 'Us';[^us]
 [^us]: That Single-Syllable Word, A voiced-unvoiced Chimera which begins, as All things must, with a single Character[^c]
 [^c]: U.[^ur]
-[^ur]: lexDef "U" {usage::: Noen || nuclearTide} < {usage::: Edo||odE Museme[^muse]}[^UNoen] || The Outcasted Fifth Cardinal nuclearTide, Washed Out to See. Denotes Uracil, The Forgotten Foe Analogous to Thymine; Paralogous to Hermes Trismegistus and the Alchemical Element Æther.[^UnuclearTide]
-
-[^UNoen]: lexDef "Bestow" {usage::: Wyrb(i|ii.\[a|b]) } < {{Two|To} [[Burden]]|Pack or store (an [[Object]]) carefully and [neatly](https://www.google.com/search?sca_esv=6f44ea923ab49bcd&sxsrf=AHTn8zr9bIaaY7RRj0gI7XlJzTaOy-9uPQ:1744456274377&q=neatly&si=APYL9btfm7lNLuo1yW1KZRdWc6yLKNW-gP2jJLnbb-pQWBKs7UYIJWbQaN9_TUSQvtzuZEp-UgHgVMNnnAO84wb7JdtnRoTKYQ%3D%3D&expnd=1&sa=X&ved=2ahUKEwiJyb2ErtKMAxVDZ0EAHf9UFWkQyecJegQIPhAP) in a [[Particular]] place N.B. {REDACTED}}[^t] began stowing (t){he{i}r} luggage into the Boot[^boot]}. [^BestowWyrb]
-[^boot]: lexDef (?) "Boot" {lexAllele(s)::: Wyrb} < To kick some{Thing|One} you {once|perhaps never} loved. In the crotch. On a street. Hard.
+[^ur]: lexDef "U" {lexAllele(s)::: Noen || nuclearTide} < {lexIsomers(s)::: Edo||odE Museme[^muse]} || The Outcasted Fifth Cardinal nuclearTide, Washed Out to See. Denotes Uracil, The Forgotten Foe Analogous to Thymine; Paralogous to Hermes Trismegistus and the Alchemical Element Æther.
 
 [^BestowWyrb]: [[Epigenetic Echoes]], Generational Trauma Embedded Within The Threads of All Of Us.
-[^t]: lexTrans "{REDACTED}" {usage::: coaguLang noetKnown as ([[SIPHO{Nr}]])} < {{REDACTED} Other Wise [[Spell]]ed as "{REDACTED}"}
-[^t]: lexTrans "{REDACTED}" {usage::: A Motif[^m] of the solveLang noetKnown as (Edo||odE)} < {REDACTED}, Other Wise [[Spell]]ed as "{REDACTED}"}
-[^m]: edoTrans {Motif} {usage::: [[Museme]] | [[Choronym]] }, [[lexDict]], 2025.
-[^UnuclearTide]: [[Amino{Us}]], lexDict
-[^muse]: lexDef "Museme" {usage::: edoNoen || Croen || prodverb} < An [[edoType]] [^edo] of One of the Daughter Strands of Lexicomythographic conLangs noetKnown as "Edo||odE" which denotes The Word for the Smallest, Fundamental and Self-Same Component of the Edo||odE Programming Language of Meaning. Musemes May then be compiled and Constructed into Language Constructs noetKnown as "[[Choronyms]]", the Surrounding Programmatic Layer of Somatostoic Obfuscarification. [^MusemeedoNoen] || N.B. "A Museum of Musemes. N{N.B}.b. "The Museum of the Chronoym "{REDACTED}" Has A Particularly Low-Lit Facade; Allowing it to Surreptitiously [[Evade]] [[Entry]] By Many Lexicomythographers of The Microcosm Knot of Noet, And, In [[Deed]], The Public At Large Other Wise Noen; As The Macrocosm. [^MusemeCroen] || *"The Wanderers Squandering Their Years, In Futile Hope of Finding This [[Particular]] [[Museum]] of Edo||odE, End Naming Their Own {REDACTED}-[[Price]]."* - The Holy Noet Borges, 2025.
-
-[^MusemeedoNoen]: [[Edo odE]], C: Ur, In Their Beginning.
-[^MusemeCroen]: [[Museum]], [[Locken]] [[S.]], The Holy Noet of Barber Surgeons & Cosmocosmetontogeneology, of the Residual Founders of The Many-Threaed Fabric of Lexicomythography. At Hour Beginning.
-[^edo]: lexDef "edoType" {usage::: Noen} < The Word for One of the Countably Infinite Data Types within the "Edo||odE" solveLang of Holy Noet [[C]]: Ur. of The Lexicomythographic Field of Noeneologismythopoetry[^edoTypeNoen]
-
-[^edoTypeNoen]: "The Light Noeneoneme, A: Beginning of The Tunnel." Unknown Source: [[Knot]], Yet Written. 
 
 
-[^Noeneoneme]: A Noen Knot of Amino{Us} Residues[^reside], [[lexDict]] "The Light Nowhere [[Nima]]: Beginning of The Tunnel."
-[^reside]: lexDef "Residue" {usage::: Croen (ARIA|DNE)} < A Residue of Residents | A Jigsaw of Residues.
+[^muse]: lexDef "Museme" {lexAllele(s)::: edoNoen || Croen || prodverb} < An [[edoType]] [^edo] of One of the Daughter Strands of Lexicomythographic conLangs noetKnown as "Edo||odE" which denotes The Word for the Smallest, Fundamental and Self-Same Component of the Edo||odE Programming Language of Meaning. Musemes May then be compiled and Constructed into Language Constructs noetKnown as "Choronyms", the Surrounding Programmatic Layer of Somatostoic Obfuscarification. || N.B. "A Museum of Musemes. N{N.B}.b. "The Museum of the Chronoym "{REDACTED}" Has A Particularly Low-Lit Facade; Allowing it to Surreptitiously Evade Entry By Many Lexicomythographers of The Microcosm Knot of Noet, And, In Deed, The Public At Large Other Wise Noen; As The Macrocosm. || *"The Wanderers Squandering Their Years, In Futile Hope of Finding This Particular Museum of Edo||odE, End Naming Their Own {REDACTED}-Price."* - The Holy Noet Borges, 2025.
 
-[^ld]: lexDef "lexDef" {usage::: Noen || Croen} < A Lexicomythographic Definition; or .ofEntry to the Lexicomythographic Library of Labyrinthopoesis[^lab] || N.B. "A lexDef of Uncovered Truths" 
-[^lhp]: "[[Left]]: Out of the [[lexDict]]" Unknown.
-[^rhp]: "[[Right]]: Down Inside the [[lexDict]]", Unknown.
-[^imr]: lexDef "In Media Res" {usage::: Noen} < "In medias res" is a Latin phrase meaning "into the middle of things." 
+
+[^edo]: lexDef "edoType" {lexAllele(s)::: Noen} < The Word for One of the Countably Infinite Data Types within the "Edo||odE" solveLang.
+
+
+
+[^reside]: lexDef "Residue" {lexAllele(s)::: Croen (ARIA|DNE)} < A Residue of Residents | A Jigsaw of Residues.
+
+[^ld]: lexDef "lexDef" {lexAllele(s)::: Noen || Croen} < A Lexicomythographic Definition; or .ofEntry to the Lexicomythographic Library of Labyrinthopoesis[^lab] || N.B. "A lexDef of Uncovered Truths" 
+[^lhp]: "Left: Out of the lexDict" Unknown.
+[^rhp]: "Right: Down Inside the lexDict", Unknown.
+[^imr]: lexDef "In Media Res" {lexAllele(s)::: Noen} < "In medias res" is a Latin phrase meaning "into the middle of things." 
 [^cl]: humans were originally created with four arms, four legs, and a head with two faces. Fearing their power, Zeus split them into two separate parts, condemning them to spend their lives in search of their other halves. - "The Myth of the Missing Half", written near the beginning of anteAntiquity.
-[^leaf]: lexDef "Leaving" {usage::: Croen} < N.B. "A Leaf[^lll] of Paper[^p]"
-[^lll]: lexDef "Leaves" {usage::: Croen} < N.B. "A Facade of Leaving[^leaf]" 
-[^p]: lexDef "Parchment" {usage::: Croen} < N.B. "A Parchment of Leaves"[^ParchmentCroen]
+[^leaf]: lexDef "Leaving" {lexAllele(s)::: Croen} < N.B. "A Leaf[^lll] of Paper[^p]"
+[^lll]: lexDef "Leaves" {lexAllele(s)::: Croen} < N.B. "A Facade of Leaving[^leaf]" 
+[^p]: lexDef "Parchment" {lexAllele(s)::: Croen} < N.B. "A Parchment of Leaves"[^ParchmentCroen]
 
-[^ParchmentCroen]: [[Tree]], [[lexDict]], Knowledge of The [[Garden]] of [[Eden]]. 0.
-[^lo]: lexDef "Lore" {usage::: Noen(i|ii) || Croen} < the surface on each side of a bird's head between the eye and the upper base of the beak, or between the eye and nostril in snakes. | The Sequence of a Story; From Transcrition Initiation, Through Elongation, through Translation after Translation, through Replication after Replication, through division, through the Vision afforded by Division. To End With The Schism. || N.B. "A Lore of Genomes. "
+[^ParchmentCroen]: Tree, lexDict, Knowledge of The Garden. 0.
+[^lo]: lexDef "Lore" {lexAllele(s)::: Noen(i|ii) || Croen} < the surface on each side of a bird's head between the eye and the upper base of the beak, or between the eye and nostril in snakes. | The Sequence of a Story; From Transcrition Initiation, Through Elongation, through Translation after Translation, through Replication after Replication, through division, through the Vision afforded by Division. To End With The Schism. || N.B. "A Lore of Genomes. "
 [^h]: *"I had few friends still alive; I stopped seeing them. Prisoner of the Book, I almost never left the house.[^house] 
-[^house]:I examined the worn [[Spine]] and cover with a magnifying glass, and I discounted the possibility of some kind of artifice. I found that the small illustrations were spaced [[Two]] thousand pages apart from one to the other. I noted them down in a small alphabetised notebook, which did not take long to fill.[^re]
+[^house]:I examined the worn Spine and cover with a magnifying glass, and I discounted the possibility of some kind of artifice. I found that the small illustrations were spaced Two thousand pages apart from one to the other. I noted them down in a small alphabetised notebook, which did not take long to fill.[^re]
 [^re]: They never repeated.[^rep]
 [^rep]: They: never repeated.[^night]
 [^night]:At night, in the scarce intervals insomnia withdrew its hold over, I Dreamed of the book. I realised that the book was monstrous. There was no consolation in the thought that no less monstrous was I. I felt the book to be a nightmarish object, something obscene that slanders and compromises reality.[^fire]
-[^fire]: I thought of fire , but I feared that the burning of an infinite book would be just as infinite and suffocate the planet with smoke. I remember having read that the best place to hide a leaf is in a forest.[^forest] -The Book of Sand, Jorge Luis Borges. "* - Epitaph, [[lexDict]]. Callie Rose Petal, On Her Thirty First Birthday. Alone.
+[^fire]: I thought of fire , but I feared that the burning of an infinite book would be just as infinite and suffocate the planet with smoke. I remember having read that the best place to hide a leaf is in a forest.[^forest] -The Book of Sand, Jorge Luis Borges. "* - Epitaph, lexDict. Callie Rose Petal, On Her Thirty First Birthday. Alone.
 [^forest]: lexDef (?) "Forest" {lexAllele(s)::: Croen} < N.B. ARIA var = "A Forest of Footnotes" | DNE var = "A Nightmare of Forests"[^ForestCroen]
 
 [^ForestCroen]: lexDict, {REDACTED} Edition, Jorge Luis Borges.
 
-[^branch]: lexDef "Branch" {usage::: Noen || Croen} < One of the Gordian Knots of The Repository of THES|EUS || N.B. "A Branch of Universes"
+[^branch]: lexDef "Branch" {lexAllele(s)::: Noen || Croen} < One of the Gordian Knots of The Repository of THES|EUS || N.B. "A Branch of Universes"
 
-[^den]: lexDef "Dendrite" {usage::: Croen} < N.B. "A Dendrite of Ideas"
+[^den]: lexDef "Dendrite" {lexAllele(s)::: Croen} < N.B. "A Dendrite of Ideas"
 
-[^SET1]: lexDef "Set" {usage::: Noen} < a god of deserts, storms, disorder, violence, and foreigners in ancient Egyptian religion. Also, a collection of object, which themselves are a collection of subjective characteristics. 
-[^p]: Such as a Secret Society NoetKnown as Lexicomythographers, Subject to Inevitable Schism Into Cosmogenic MandelBrot [[Set]]s.
+[^SET1]: lexDef "Set" {lexAllele(s)::: Noen} < a god of deserts, storms, disorder, violence, and foreigners in ancient Egyptian religion. Also, a collection of object, which themselves are a collection of subjective characteristics. 
+[^p]: Such as a Secret Society NoetKnown as Lexicomythographers, Subject to Inevitable Schism Into Cosmogenic MandelBrot Sets.
 

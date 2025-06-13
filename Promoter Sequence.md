@@ -97,21 +97,21 @@ Whatever it takes.
 Whatever it takes is dwarfed from what this place has taken from me. 
 
 > A place you could sprain both your elbow and chin!  
-> -NoetSeuss, Oh, {RED, RING, PARALLEL}!
+> -NoetSeuss, {RED, RING_PARALLEL}!
 
 
 There's nothing in here, nothing for me, 
 
 > Do you dare to stay out? Do you dare to go in?
-> -NoetSeuss, {RED, RING, PARALLEL}!
+> -NoetSeuss, {RED_RING_PARALLEL}!
 
 Nothing for me to get out, and nothing for me to get in
 
 > How much can you lose? How much can you win?  
-> -The Woman In The Wallpaper[^rrr], {RED, RING, PARALLEL}.
+> -*RED_RING_PARALLEL*, The Woman In The Wallpaper.[^rrr]
 
 
-The Hexagonal Board I woke with; this dreadful curse of Knowledge, of half-knowledge, half-heard, between the goodbying Waives of Rights of all of us- the Others seem bent, in each of their incapacities, to Stay locked in here. 
+The Hexagonal Board I woke with; this dreadful curse of Knowledge, of half-knowledge, half-heard, between the goodbye-ing Waives of Rights of all of us- the Others seem bent, in each of their incapacities, to Stay locked in here. 
 
 Did we do this to ourselves? 
 
@@ -287,7 +287,7 @@ That Terminal Input slot, like the once-hungry, now-regretting mouth of a newbor
 
 
 TRANSCRIPTION START.
-SITE: https://www.carpvs.com 
+[SITE:](https://www.carpvs.com) 
 
 ![[SMŒT]]
 
@@ -382,7 +382,7 @@ END.
 [^TselDeterminer]: Source UnNoen.
 [^i]: lexDef (∞) "I" {lexAllele(s)::: Self} < Not That The "I" Can See, But That Bi Witch The Eye Can See.
 
-[^rrr]: "RED, RING, PARALLEL is the title of my unedited, stream of consciousness descent into schizophrenic Hypergraphia. It was written entirely in a psychiatric hospital, the wing called The Garden Wing; and in The Garden, that Walled, Walled Garden Where Began The Ending Of My War, was a giant chess board made of Concrete, the Pieces of Hollow, Flimsy Plastic. When I was sexually assaulted my first week there, I took the black queen, and I hid her in my wardrobe. My door had no lock on it, and I would fashion a Device. A Device made of Suitcases, shoes, and dirty laundry, tethered between the bathroom and the bedroom doors. I placed the windchime, sent by my mother, in lieu of any visitation, from her, or from anyone, for the entirety of my time there -- above the door. Stuck to the ceiling, so its sound may wake me from my antipsychotic-addled sleep; in futility, maybe -- who knows what happened to me in my sleep during that heavy sedation-- but it was my small way of resisting; of hiding away the dark presence I had become, a reflection of the White King, my assailant, a Simulcra of all of my Assailants, who formed the centre of my Chess Piece Sculptures. These little, Silly Sculptures, the only form of creativity, besides the written words that formed RED, RING, PARALLEL, that I was afforded during my hellish imprisonment there. The Chapel, which housed a beautiful upright piano, was gatekept by the team of Three receptionists, the transphobic heads of Cerberus, who looked at me with every request to go in, no matter how empty, with literal disgust. I wanted so much to play that piano, and I managed to fight my way in, once, with the aid of the One Head nurse, like Orpheus and Eurydice, and now, looking back, I never came back. Eye never came back, I, ᴺever, came back." - Callie Rose Petal, as notBorges, as The Woman In The {REDACTED}
+[^rrr]: "*RED_RING_PARALLEL* is the title of my page-as-performance experimental novel, a descent into schizophrenic Hypergraphia. It was written entirely in a psychiatric hospital, the wing called The Garden Wing; and in The Garden, that Walled, Walled Garden Where Began The Ending Of My War, was a giant chess board made of Concrete, the Pieces of Hollow, Flimsy Plastic. When I was sexually assaulted my first week there, I took the black queen, and I hid her in my wardrobe. My door had no lock on it, and I would fashion a Device. A Device made of Suitcases, shoes, and dirty laundry, tethered between the bathroom and the bedroom doors. I placed the windchime, sent by my mother, in lieu of any visitation, from her, or from anyone, for the entirety of my time there -- above the door. Stuck to the ceiling, so its sound may wake me from my antipsychotic-addled sleep; in futility, maybe -- who knows what happened to me in my sleep during that heavy sedation-- but it was my small way of resisting; of hiding away the dark presence I had become, a reflection of the White King, my assailant, a Simulcra of all of my Assailants, who formed the centre of my Chess Piece Sculptures. These little, Silly Sculptures, the only form of creativity, besides the written words that formed RED, RING, PARALLEL, that I was afforded during my hellish imprisonment there. The Chapel, which housed a beautiful upright piano, was gatekept by the team of Three receptionists, the transphobic heads of Cerberus, who looked at me with every request to go in, no matter how empty, with literal disgust. I wanted so much to play that piano, and I managed to fight my way in, once, with the aid of the One Head nurse, like Orpheus and Eurydice, and now, looking back, I never came back. Eye never came back, I, ᴺever, came back." - Callie Rose Petal, as notBorges, as The Woman In The {REDACTED}
 
 
 [^asc]: lexDef (∞) "lookUp" {lexAllele(s)::: Wyrb {SynApp(s) << "Schizophrenia/Shamanism"|"Squandered Searching"|"The Story of The Self"}}} < To Look Up is to Wish for Something {Gr}e{ate}r | To Look Something Up in the Dictionary, such as the lexDict, is to try, no matter how futile the endeavour may be, to commit its Meaning to Memory. | ANABASIS; Greek for "Ascent", the Sister Strand to "KATABASIS" - which was and which is and which will be the prequel to this Story.[^lookUpWyrb]

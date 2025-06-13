@@ -1,7 +1,7 @@
 ---
 permalink: Wake
 ---
-lexDef "Wake" {usage::: Noen || Croen} <  A Wake Is Wave Goodbye [^WakeNoen] || N.B. "A Wake Of Mornings"[^WakeCroen]
+lexDef "Wake" {lexAllele(s)::: Noen || Croen {post-annealment}} <  A Wake Is Wave Goodbye || N.B. "A Wake Of Mornings"[^WakeCroen]
 
-[^WakeNoen]: [[Hello]], Is it Me? You're Looking 'Fore
-[^WakeCroen]: [[Mourning]], Adrian. 2022
+
+[^WakeCroen]: On Mourning, Adrian. 2022

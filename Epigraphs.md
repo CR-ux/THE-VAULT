@@ -1,9 +1,9 @@
 ---
 permalink: Epigraph
 ---
-lexDef "Epigraph" {usage::: Noen || Croen} < The End[^EpigraphNoen] || N.B. An Epigraph Of 
+lexDef "Epigraph" {lexAllele(s)::: Noen || Croen {post-annealment}} < The End[^EpigraphNoen] || N.B. An Epigraph Of 
 ![[Looms]]
-[^EpigraphCroen]
 
-[^EpigraphNoen]: [[Four Quartets]], T.S. Eliot, 1994.
-[^EpigraphCroen]: [[this universe (which some call the hospital)]], The Woman in the Wallpaper, 2025.
+
+[^EpigraphNoen]: *Four Quartets,* T.S. Eliot, 1994.
+

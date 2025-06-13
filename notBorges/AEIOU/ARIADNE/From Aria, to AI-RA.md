@@ -443,5 +443,5 @@ wait
 
 [^com]: lexDef (1) "Compiler" {lexAllele(s)::: Noen || Wyrb} < A Device, Often Computational-in-Nature, Which Performs the Sacred Role of Crossing The Moat Of Understanding Between Two Divergent Beings.[^CompilerNoen] || To Siphon The Ever-Evolving Device Of Meaning Through The Machinery Of Memory.[^CompilerWyrb]
 
-[^CompilerNoen]: [[Æ]], Fundamentals of Endivean Analysis, Myo Endive, ERA_Æ.
-[^CompilerWyrb]: [[Æ]], Hexagonal Chessics - Selena Elk, ERA_EA
+[^CompilerNoen]: *Fundamentals of Endivean Analysis*, Myo Endive, ERA_Æ.
+[^CompilerWyrb]: *Hexagonal Chessics* - Selena Elk, ERA_EA

@@ -102,7 +102,7 @@ MYO
 (injecting XENON-based anaesthesia)
 Shush now glimmer, promise you won't feel a thing, I've *seen* it. Now be a good Egg and count to Ten for me-
 
-XENO POV: Their EYEs gloss over as their head lops to one side, their gaze resting for a moment on a jar of imprisoned DROSOPHILA, awaiting MYO's optogenetic analysis. Their vision blurs to unconsciousness. TRACK the only DROSOPHILA not flying in the enclosed space, but instead walking on the glass, appearing to point with its proboscis at the SIX Eppendorf tubes adjacent to the jar, labelled RHODOPSIN 1-6
+XENO POV: Their EYEs gloss over as their head lops to one side, their gaze resting for a moment on a jar of imprisoned DROSOPHILA, awaiting MYO's optogenetic analysis. Their vision blurs to unconsciousness. TRACK the only DROSOPHILA not flying in the enclosed space, but instead walking on the glass, appearing to point with its proboscis at the SIX Eppendorf tubes adjacent to the jar, labelled RHO[^rho] 1-6
 
 PERIGEE
 (The Child who was Older, sheepishly)
@@ -190,4 +190,5 @@ See? I couldn't make an omelette even if I wanted to
 ---
 # ᶠᵒᵒᵗNoet(s)
 
-[^W]: [[BORN TO BE THE SKY]]
+[^W]: [[BORN TO BE THE SKY]] - The Correspondence of Hildr Wiltergarten Pre-Transmogrification 
+[^rho]: Rho is for Rhodopsin - Aria {Surname REDACTED}: {REDACTED} works

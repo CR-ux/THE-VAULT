@@ -1,4 +1,4 @@
 ---
 permalink: Unknown
 ---
-lexDef "Unknown" {usage::: Noen} < A Wait
+lexDef "Unknown" {lexAllele(s)::: Noen} < A Wait

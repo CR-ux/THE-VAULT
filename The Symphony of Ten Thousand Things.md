@@ -54,7 +54,7 @@ Further, we have also assigned *ideologies* to the hemispheres of the brain, as 
 
 These 'threats', as we hopefully know by now, are rarely *real* threats, at least to anything except the very frameworks-turned-cages that paint them so.
 
-This probably, in part but not completely, underpins the historical demonisation of trans* / non-binary people as a whole, and in fact, any so-called 'minority' population. Such a 'minority' was once seen in those born with a dominant Left Hand. This is, most likely, in fact where the terms 'Sinister' (from Vulgar, vulgar Latin '*Sinestra*', literally, meaning 'Left') and 'Right' (in its definition as apparently '*Correct*') are derived. 
+This probably, in part but not completely, underpins the historical demonisation of trans* / non-binary people as a whole, and in fact, any so-called 'minority' population. Such a 'minority' was once seen in those born with a dominant Left Hand. This is, most likely, in fact where the terms 'Sinister' (from Vulgar, vulgar Latin '*Sinestra*', literally, meaning 'Left') and 'Right' (in its definition as apparently 'Correct') are derived. 
 
 And consider this. What it means, To *Be* 'left'. Be it alone, *out*side, *in* pieces,
 Be it facing a disorienting aftermath, or to be Left with Nothing. 

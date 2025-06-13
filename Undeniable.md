@@ -1,4 +1,4 @@
 ---
 permalink: Undeniable
 ---
-lexDef "Undeniable" {usage::: Noen} < An Impossibility.
+lexDef "Undeniable" {lexAllele(s)::: Noen} < An Impossibility.

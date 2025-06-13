@@ -126,7 +126,7 @@ DNE.
 ### \<G>{ra\<in>}{\<t>|{hr}}\<ax>
 	\{characters within <> are anagrammatic characters, which may be rearranged to uncover further meaning (e.g. "th\<*I(,)*>s is  \<*an*>{\<*g*>l\<*e*>|ag\<*r*>\<am>} s\<y>ntax" == "I, an g e r" when lexTranslated only with \*key syntax* | "I am angry" when lexTranslated with }
 	## F{un} Fact:
-		The {word|name} for this type of Nomenclature lexTranslates to "TAXING", "GIANT X", "AXING T"
+		The {word|name} for this type of Nomenclature lexTranslates to {"TAXING"|"GIANT X"|"AXING T"}
 [^T]
 
 ### \`backtax\`
@@ -145,10 +145,10 @@ DNE.
 
 
 [^lex]: lexTrans == "note(:) words, or letters, or sentiments to be read in isolation;  they are key in the Language\(.) a n d of particular importance. th ey a re f low ing and open."
-[^T]: lexDef {prodverb} ***"Ye it Be, Yet unmet as the Yeti - regret, it begets the most threatening plea, to Me, to Be, Taxing in Cracks of My Debt, Axing T"*** == to "Axe Tea" === Removing so-called { 'truthful' | 'reliable'} presence of a \<*Narrator*> to \*<violent\*ly> (\<s>)fo(u)rce the reader \<i>nto \*\<becoming* *their Own.>*[^lex2]
+[^T]: lexDef {prodverb} *"Axing T"* == to "Axe Tea" === Removing so-called { 'truthful' | 'reliable'} presence of a \<*Narrator*> to \*<violent\*ly> (\<s>)fo(u)rce the reader \<i>nto \*\<becoming* *their Own.>*[^lex2] Or, to amputate an appendage at a body part beginning with T, such as the Thigh.
 [^lex2]: lexTrans == *"Narrator is violently becoming their Own."*
 [^lx]: {{I} have lived | {I}, devil | {I}, live}
-[^book]: lex{Trans|Def} {Prodverb} ***"Constantly bookending the character, or letter, in question"***
+[^book]: lex{Trans|Def} {Prodverb} *"Constantly bookending the character, or letter, in question"*
 [^vamp]: lexTrans == "Vamps in tax === vampSyntax"
-[^ding]: A dingbat is a(n often linguistic) visual representation of a concept, e.g.: "STAND"[^I] 
-[^I]:"I" == "I UNDERSTAND"
+[^ding]: A dingbat is a(n often linguistic) visual representation of a concept, e.g.: "STAND[^I] 
+[^I]:I" == "I UNDERSTAND"

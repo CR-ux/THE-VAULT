@@ -1,5 +1,5 @@
 ---
 permalink: Wave
 ---
-lexDef "Wave" {Croen} < N.B. "A Wave of Farewells"
+lexDef "Wave" {lexAllele(s)::: Croen {pre-schism}} < N.B. "A Wave of Farewells"
 

@@ -1,6 +1,6 @@
 ---
 permalink: Wait
 ---
-lexDef "Wait" {usage::: [[Croen]]} < N.B. A Wait of Patients[^p]
+lexDef "Wait" {lexAllele(s)::: Croen {post-annealment}} < N.B. A Wait of Patients[^p]
 
-[^p]: [[Patience]], [[lexDict]]
+[^p]: lexDict, {.}ofEntry: *Virtue* {Croen}

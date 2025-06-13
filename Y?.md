@@ -1,2 +1,2 @@
 
-lexDef "Why" {usage::: Noen || Croen} < The Penultimate Character Of A 
+lexDef "Why" {lexAllele(s)::: Noen || Croen {pre-schism}} < The Penultimate Character Of A 

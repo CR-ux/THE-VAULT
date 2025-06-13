@@ -1,7 +1,7 @@
 ---
 permalink: Recursion
 ---
-lexDef "Recursion" {lexAllele(s)::: Noen || Croen {post-annealment}} < A Return[^RecursionNoen] || N.B. "A Recursion of Oneness"[^RecursionCroen]
+lexDef "Recursion" {lexAllele(s)::: Noen || Croen {post-annealment}} < A Return || N.B. "A Recursion of Oneness"
 
-[^RecursionNoen]: [[notBorges/notBorges/The Roses, Taken|The Roses, Taken]] Callie Rows, Pedal Press. 2024.
-[^RecursionCroen]: [[The Light Illuminating Itself]], [[The Visions]], 2021.
+
+

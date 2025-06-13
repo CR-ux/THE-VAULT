@@ -411,4 +411,5 @@ Enough of their reality had been stripped away, unwinded like the mangled tape o
 There is a certain liberation in Loss, as many struggling souls will know; a saturation point of grief, where the only part of oneself left is the most fundamental component. 
 
 The finalisation of this installation sapped the last of their Father's inheritance, which he earned, in part, through the mutilation of their body; which would become their Beginning, and their end. ⧖eno held the crazed resolve of an exhausted and underpaid actor, knowingly entering their Final Act. 
+
 [^ab]: ![[Abandon]]

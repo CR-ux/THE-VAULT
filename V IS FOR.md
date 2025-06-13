@@ -12,8 +12,8 @@ Five.
 **No. N must be for**
 Violence.
 **🜄 / ♝ | OBS: 21:00 | D=3**
-**whtifNfor**
+**whtif we theLanguage we N**
 Vent.
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-**Now I am I sure. That N is for** 
+**Now I am I sure. That N gives us** 
 Volition.

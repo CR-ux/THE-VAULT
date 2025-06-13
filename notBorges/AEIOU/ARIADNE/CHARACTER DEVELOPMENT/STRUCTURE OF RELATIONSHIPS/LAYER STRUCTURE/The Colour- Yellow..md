@@ -37,17 +37,17 @@ Keys:
 
 ## **ÆBSTRACT**
 <br>
-**The Lexicomythographical Contexts of the Colour Yellow: 
-*Through the Looking Glass of Aesthetic Hermeticism***
+The Lexicomythographical Contexts of the Colour Yellow: 
+*Through the Looking Glass of Aesthetic Hermeticism*
 
-**Author(s): S. Elk<sup>1</sup>, M. Endive<sup>2</sup>***
+Author(s): S. Elk<sup>1</sup>, M. Endive<sup>2</sup>
 
 <sup>1</sup> Founder of The School of Biomolecular Chessics
 <sup>2</sup> Founder of The School of Non-Ironic Byron{if|or}matics
 
 <br>
 
-This Seminal paper explores arborescent nature of **yellow** as {symbol|process} within the Emergent School of **Aesthetic Hermeticism**[^†]
+This Seminal paper explores arborescent nature of yellow as {symbol|process} within the Emergent School of Aesthetic Hermeticism[^†]
 
 Yellow, {primari|final}ly, reflects an underlying symbol for the ever-{present|elusive} origin of trans{formation|genderism}: the fading, s\<ac>red bruise, born of oxygenated (red) and deoxygenated (blue) blood. 
 The {residue of trauma|evidence of healing}, a Gnoebius strip of Art{i|e}fact, where {{dis}ease} exists in binomial necessity.
