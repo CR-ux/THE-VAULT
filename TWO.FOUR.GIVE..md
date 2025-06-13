@@ -280,7 +280,7 @@ They began, again, as is the usual practice, with the prologue:
 
 And this was what dragged him back to the Central Galleries of the Library. This Eternally Recurring Event:
 
-Through a vent, a letter, made of letters, between Four characters of Six, was being passed:
+Through a vent there was {in will|as in|striving|to be} {a letter, made of|definitions of {defined sequences of letters|words}} between {Four characters of|{Six pieces}}, in a system {of {at least} Six} rooms}, being pas{sed|t}:
 
 ---
  V | …for is ܗ | Oar: Glu{on}

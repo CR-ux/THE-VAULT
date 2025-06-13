@@ -66,7 +66,7 @@ XENO is scratching their RIGHT SHOULDER using their LEFT HAND.
 
 RACK FOCUS TO:
 
-A pile of dirty dishes in the foreground blocks our view of XENO. PAN to a PAN that still has a congealed, half-fried egg in its centre. ZOOM in on the YOLK, a Pale Yellow matching that of the discarded MATCH--
+A pile of dirty dishes in the foreground blocks our view of XENO. PAN to a PAN that still has a congealed, half-fried egg in its centre. ZOOM in on the YOLK, a Pale Yellow matching that of the head of a discarded MATCH--
 
 MATCH CUT TO:
 
