@@ -1,6 +1,5 @@
 ---
 permalink: Character
 ---
-lexDef "Character" {usage::: Croen} < N.B. "A Character of Concepts"[^CharacterCroen]
+lexDef "Character" {usage::: Croen {ARIA|DNE} || Prodverb} < N.B. ARIA var = "A Character of Constructed Languages" | DNE var = "A Forgiveness of Characters" || *To Forgive The Characters*. 
 
-[^CharacterCroen]: [[Forgive]], Jesus Christ Upon His Return, An Unknowable Future

@@ -744,9 +744,24 @@ And Pawn was left, alone.
 ---
 XX | …for is ܪ  | Oar: Met
 
+But Pawn asked the wallpaper, 
+addressing her, held inside it, 
+directly this time. 
 ![[Y?]]
 
 ![[Sentence]]
+
+There was only one place left to go.
+
+---
+
+On the other side of the Moats Surrounding, the opposite to the library; the Tundra sprawled, snoring in its softness and sludge.  
+
+It had been thought uncrossable, that infinite fractal landscape, those Bothies all impossibly separate from one another at all times;
+
+But N had managed it, before the the story they'd read Flo at night. They had managed to escape the library, perhaps, because of the writing of it. 
+
+Whether NoetNietzsche knew this or not, or knew that they'd made Flo aware of this or not, the bedtime story was a vehicle. We are N{ever} going on a Bear Hunt Ever A Gain was the only floatation device across t 
 
 Through performing a Ritual, with an egg {laid on a leaf}, by a learned chess player and lesser-known Witch, once thought and written down as fiction, but brought into {k}Not-Being, which is to say, friction; Being--
 

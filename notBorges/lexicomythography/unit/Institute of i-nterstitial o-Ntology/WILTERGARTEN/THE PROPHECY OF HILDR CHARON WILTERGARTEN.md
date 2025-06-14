@@ -103,21 +103,6 @@ One
 
 
 
----
-
-Ne[^Ne]
-E
-d
-O
-|
-O
-d
-E
-
-
-
-
-
 [^right]: "It isn't right"[^left]
 [^left]: The way you[^you] Left me, kicked me, on the street.
 [^8]:-temporal power.[^Re] 
@@ -147,9 +132,7 @@ E
 
 [^you]: As in, "Why? Oh. You."
 
-End
 
-DNE
 
 
 
