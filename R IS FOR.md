@@ -26,10 +26,5 @@
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
 ****
-**Now I am I sure. That N is for** 
-Roe.
-Rho. 
-Row. 
-Your Boat
-Gently Down
-The 
+**she is listening. i hear her writing from the other side of the wall she cannot speak but she is writing the woman in the wallpaper wants to write a story that is starting at the N is for** 
+![[RED_RING_PARALLEL_]]

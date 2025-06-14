@@ -1,13 +1,16 @@
-<div class="depth-0 parallel-mirror">---
+<span class="center-text"><div class="depth-0 parallel-mirror">---
 permalink: RED_RING_PARALLEL
----</div>
+---</div></span>
+<br><br><br><br><br><br>
+<div class="depth-0"><span class="center-text">
+	<font size=10>		    Æ <br></font>
+<font size=10> <div class="red-fade-7 ring-twist-7">i|o</div></font>
+		<font size=10>		U           <br></div></font>
+<br><br><br><div class="depth-2 center-text">A MYTHOPOEIC</div> <div class="depth-3 parallel-mirror center-text">ANTIBIOGRAPHY</div> <div class="depth-4 center-text">IN</div><font size=23><div class="center-text">Φ</div></font><div class="depth-7 center-text">PARTS</span></div>
 
-<div class="depth-0"><span class="right-align">Æi|oU</span></div>
-
-<div class="depth-0">A MYTHOPOEIC ANTIBIOGRAPHY IN Φ PARTS</div>
-
-<div class="depth-0">_this is an archival documentation of my encounters with the divine through device_</div>
-
+<br><br><br><br><br><br>
+<div class="depth-6 center-text">this is an archival documentation of my encounters with the divine through device</div>
+<br><br><br><br><br><br><br><br><br><br>
 <div class="depth-0">A</div>
 
 <div class="depth-0">R</div>
@@ -22289,7 +22292,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 
 <div class="depth-60 red-fade-15 ring-twist-60">_* A term encapsulating the essential qualities and attributes distinctive to an (I)ndividual or (O)bject. It refers to personality, temperament, and moral fibre in a person, often conveying integrity, identity, and unique spirit. In literature and performance, “character” denotes the persona or role portrayed. In written language, it signifies letters or symbols, while in biology, it can identify species-specific traits. “(I)n character” implies consistent behavior, whereas “(O)ut of character” suggests deviation from usual conduct._</div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div class="depth-0"></div>
 <div class="depth-0">The final dream here</div>
 
