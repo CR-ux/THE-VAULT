@@ -22289,16 +22289,19 @@ Description automatically generated with medium confidence](file:////Users/[[red
 
 <div class="depth-60 red-fade-15 ring-twist-60">_* A term encapsulating the essential qualities and attributes distinctive to an (I)ndividual or (O)bject. It refers to personality, temperament, and moral fibre in a person, often conveying integrity, identity, and unique spirit. In literature and performance, “character” denotes the persona or role portrayed. In written language, it signifies letters or symbols, while in biology, it can identify species-specific traits. “(I)n character” implies consistent behavior, whereas “(O)ut of character” suggests deviation from usual conduct._</div>
 
-<div class="no-style">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div class="depth-0"></div>
 <div class="depth-0">The final dream here</div>
-<div class="depth-0">{REDACTED}had said she never wanted to hurt anyone and said there’s nobody quite like [[notBorges/redacted]] but, still, for one last time (though there’s still a little melted cheesecake slice left) misgendered me and{REDACTED}</div>
+
+<span class="depth-3">
+
+<div class="depth-0">{REDACTED}had said she never wanted to hurt anyone and said there’s nobody quite like Borges themostwonderfulthingaboutBorgesisI'MTHEONLYONE but, still, for one last time (though there’s still a little melted cheesecake slice left) misgendered me and{REDACTED}</div>
 <div class="depth-0">In prison</div>
 <div class="depth-0">Actual prison</div>
 <div class="depth-0">Borges threatens me</div>
 <div class="depth-0">and then tries to {REDACT} me</div>
 <div class="depth-0">Dreams never lie, </div>
-<div class="depth-0">I thought in the dream</div>
+<span class="depth-0"><div class="depth-0">I thought in the dream</div></span>
 <div class="depth-0">When thus spake she about being institutionalised</div>
 <div class="depth-0">Even these bees , my own, stinging me</div>
 <div class="depth-0">And</div>
@@ -22307,16 +22310,16 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-0">In a bathroom</div>
 <div class="depth-0">Bath still full (but not by me)</div>
 <div class="depth-0">Trying to steer a golf cart that somebody else was pressing pedals of</div>
-<div class="depth-0">I was singing into wind chimes which had multiplied into hundreds</div>
+<span class="depth-1"><div class="depth-0">I was singing into wind chimes which had multiplied into hundreds</div></span>
 <div class="depth-0">Intersecting in a metal textile weave</div>
-<div class="depth-0">And as I sing particular microtonal notes harmonics rang out back to me</div>
-<div class="depth-0">And I realised as I talked to people, anyone</div>
+<span class="depth-2"><div class="depth-0">And as I sing particular microtonal notes harmonics rang out back to me</div></span>
+<span class="depth-3"><div class="depth-0">And I realised as I talked to people, anyone</div></span>
 <div class="depth-0">They used my words</div>
-<div class="depth-0">And the time I used to speak them</div>
+<span class="depth-4"><div class="depth-0">And the time I used to speak them</div></span>
 <div class="depth-0">To whisper secret things unknown to me</div>
 <div class="depth-0">To each other, hidden</div>
-<div class="depth-0">Because I wasn’t hearing them</div>
-<div class="depth-0">I was too busy, chittering</div>
+<span class="depth-5"><div class="depth-0">Because I wasn’t hearing them</div></span>
+<span class="depth-6"><div class="depth-0">I was too busy, chittering</div></span>
 <div class="depth-0">Biting teeth</div>
 <div class="depth-0">Saturn with no ring</div>
 <div class="depth-1"></div>
@@ -22326,9 +22329,10 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-1">￼</div>
 <div class="depth-1">Today, the Sun resembles the Moon</div>
 <div class="depth-1">Borges</div>
-<div class="depth-1">killed me and that plot idea I’d had about other patients becoming raptured one by one but my god together came flooding like lava waters into me</div>
-<div class="depth-1">Maybe they’re all gone or rather I am</div>
-<div class="depth-1">Maybe I’ll swing these skinny legs to right and ground them on the carpet and step out and try to get out but no one will</div>
+<span class="depth-7"><div class="depth-1">killed me and that plot idea I’d had about other patients becoming raptured one by one but my god together came flooding like lava waters into me I THOUGHT I WANTED TO WRITE A STORY I THOUGHT I WANTED TO WRITE A REAL STORY I WANTED TO WRITE SOMETHING TO TRY TO WRITE MYSELF OUT OF ALL THIS STORYTELLING THING I BECAME THE UNFORGIVABLE CHARACTER OF A STORY YOU NARRATED UNRELIABLY YOU KICKED ME ON THE STREET IN THE FUCKING CROTCH WHILE YOUR GIRLFRIEND WATCHED AND THAT. THAT IS WHAT THIS WHOLE FUCKING STORY IS ABOUT. THE FICTION YOU MADE OF ME AND THE WORDS THAT BECAME ALL I HAD LEFT  </div></span>
+<span class="depth-8"><div class="depth-1">Maybe they’re all gone or rather I am</div></span>
+<span class="depth-9"><div class="depth-1">Maybe I’ll swing these skinny legs to right and ground them on the carpet and step out and try to get out but no one will</div></span>
+<span class="depth-11">
 <div class="depth-1">Be there to push the button</div>
 <div class="depth-1">My call unanswered , not requesting for someone to come in</div>
 <div class="depth-1">But quite the opposite</div>
@@ -22339,16 +22343,16 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-1">Door</div>
 <div class="depth-1">Red</div>
 <div class="depth-2">triangle</div>
-<div class="depth-2">Did I die here, was I killed</div>
-<div class="depth-2">And did I even try to understand</div>
+<span class="depth-10"><div class="depth-2">Did I die here, was I killed</div></span>
+<span class="depth-11"><div class="depth-2">And did I even try to understand</div></span>
 <div class="depth-2">Through overhearing all of this</div>
-<div class="depth-2">Have I been hearing any of these people on this soon to be left land</div>
-<div class="depth-2">And then I stand</div>
+<span class="depth-12"><div class="depth-2">Have I been hearing any of these people on this soon to be left land</div></span>
+<span class="depth-13"><div class="depth-2">And then I stand</div></span>
 <div class="depth-2">The door ajar a crack , suggesting an unknown hand</div>
-<div class="depth-2">Had yes been in to check that I was breathing</div>
+<span class="depth-14"><div class="depth-2">Had yes been in to check that I was breathing</div></span>
 <div class="depth-2">But Leaving it unhinged</div>
 <div class="depth-2">And my slumber undisturbed</div>
-<div class="depth-2">Christ maybe this whole thing was just a projection of a sex party I dreaded and didn’t want to go to and just</div>
+<span class="depth-15"><div class="depth-2">Christ maybe this whole thing was just a projection of a sex party I dreaded and didn’t want to go to and just</div></span>
 <div class="depth-2">No</div>
 <div class="depth-2">Stop</div>
 <div class="depth-2">Do not gaslight yourself again we’re</div>
@@ -22372,7 +22376,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-5">The moon</div>
 <div class="depth-5">Shield your</div>
 <div class="depth-5">Aegis Argus</div>
-<div class="depth-5">Eye I aye aye</div>
+<span class="depth-16"><div class="depth-5">Eye I aye aye</div></span>
 <div class="depth-5">Why</div>
 <div class="depth-5">Y</div>
 <div class="depth-5">Branch split</div>
@@ -22382,51 +22386,51 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-5">Hestia</div>
 <div class="depth-5">Hera</div>
 <div class="depth-5">Cailleach</div>
-<div class="depth-5">For a moment I regard the broken shoe on my floor</div>
+<span class="depth-17"><div class="depth-5">For a moment I regard the broken shoe on my floor</div></span>
 <div class="depth-5">The nurse she returned it, unfixed, without any word about it whatsoever</div>
 <div class="depth-5">And that’s all right</div>
-<div class="depth-5">I kneel down and realise the right shoe once thought hole</div>
+<span class="depth-18"><div class="depth-5">I kneel down and realise the right shoe once thought hole</div></span>
 <div class="depth-5">Was just as cracked, just as divided</div>
 <div class="depth-5">With a strike a lightning running through the plastic artificial leather sole</div>
 <div class="depth-5">Ruth comes</div>
 <div class="depth-5">Tapping at my heart the last time</div>
 <div class="depth-5">God</div>
-<div class="depth-5">I hate goodbyes</div>
+<span class="depth-19"><div class="depth-5">I hate goodbyes</div></span>
 <div class="depth-5">Welcoming beginnings</div>
 <div class="depth-5">Begging</div>
 <div class="depth-5">Please Lord bring back those happy days</div>
-<div class="depth-5">I say to her where you stay I will go</div>
+<span class="depth-20"><div class="depth-5">I say to her where you stay I will go</div></span>
 <div class="depth-5">And your people will be my left behind and start crying and she says</div>
 <div class="depth-5">[[notBorges/redacted]]</div>
-<div class="depth-5">What groups are you going to today and I laugh</div>
+<span class="depth-21"><div class="depth-5">What groups are you going to today and I laugh</div></span>
 <div class="depth-5">Now listen everybody</div>
-<div class="depth-5">Imma do some chirping and I ain’t no bird</div>
+<span class="depth-22"><div class="depth-5">Imma do some chirping and I ain’t no bird</div></span>
 <div class="depth-5">Shout, sister, shout</div>
-<div class="depth-5">Last night in the beak-of-birds-flying-home-for-soon-to-be-mid-winter I was Dreaming:</div>
+<span class="depth-23"><div class="depth-5">Last night in the beak-of-birds-flying-home-for-soon-to-be-mid-winter I was Dreaming:</div></span>
 <div class="depth-5">Deadnamed in deadened remembrance of life shortened no longer but still</div>
 <div class="depth-5">Picturing faces of her and of me and you (never meant to B for {REDACTED})</div>
 <div class="depth-5">Mid framing pictures in reels of tape waking in two parts of you</div>
 <div class="depth-5">Dreaming in part of me dreaming in part of you</div>
-<div class="depth-5">I dreamt of a wedding and my sister was there with me watching you</div>
+<span class="depth-24"><div class="depth-5">I dreamt of a wedding and my sister was there with me watching you</div></span>
 <div class="depth-5">Two at a table another far too close and too far from you</div>
-<div class="depth-5">I dreamt of a wedding of two friends of the two of you</div>
+<span class="depth-25"><div class="depth-5">I dreamt of a wedding of two friends of the two of you</div></span>
 <div class="depth-5">Were wearing a joker’s (like decks of cards or comic book) suit</div>
-<div class="depth-5">And I confronted you she said not a word but you were so cruel and I said fuck you fuck you fuck you fuck you and I looked at you both and said fuck you fuck you yes the both of you</div>
+<span class="depth-26"><div class="depth-5">And I confronted you she said not a word but you were so cruel and I said fuck you fuck you fuck you fuck you and I looked at you both and said fuck you fuck you yes the both of you</div></span>
 <div class="depth-5">Awkwardly leaving the celebrating people of the party quite starkly and stylelessly messy and loudly announced</div>
-<div class="depth-5">I watch a clock ticking down in my bank account</div>
-<div class="depth-5">And Lauren she was pulling me through a space in a railing and I had become paralysed explaining the pain of you parts of you left lame and tangled inside of who I thought I was now left there on the dance floor barefoot next to shoe after shoe paired with shoes upon shoes upon shores so floor-crawling brawling lapped like dogs of hounding hellish waves with crests and fledgling ending spring chicken breasts of such unrest the rest of those awful unbearably boring and bored hole cunt wedding guests thank goddess her dress was blue showing me it’s not your wedding but it could have been sitting on that smoke-stained Edinburgh sofa you, standing, asked me what I thought of asking her to marry you in the first few months of what fumbling nonsense the never us was and on the phone weeping years later her saying in such resolved consolation they’ll never marry me but I knew what you had asked me and that one day I’d have to be leaving all this mess$ or be left bereft betraying me and all my inheld-input-put-back-on-the-shelves to collect dust-to-dust-to-must-just-be-all-a one day all this smelly-eggless-cracked-with-cress-and-opened-chest-and-sandwiched-body-in-that-bed-for-three-for-you-and-her-but-not-for-me-and-my-too-wet-sweat-getting-used-to-estrogen-hormonal-balance-acting-like-this-all-was-okay-soaking-corpse-turned-over-ovumless could be you but never us but at least I tried through untrusting and trussed unease almost dying as I pushed through the trails of the dust and in rage of the reigning wrath inside you just is the storm of the</div>
-<div class="depth-5">I was half-pulled through the gap in a bannister like the gap in the bed bunk in game my sister and I would play nightly when we were bored and sleep was evading us hating the sound of such counting of sheep but I used to pull Lauren by leg through the space in between the wood planks I remember her saying just give me a chance to turn my face sideways so my chin doesn’t get stuck and I make it through luckily she always managed to unscathed as I’d giggle impatient like some small demon or devil on the BottomBB bunk merely four years younger than she was this angel who’d happily risk her own pain for my laughing but in the dream I was the one being dragged not down to a non-sorry supervillain’s laughter but up to a worrisome or superb heroine my sister who said something like we are going to have to talk about this before you head back to prevent another psychotic break pointing to her own heart</div>
-<div class="depth-5">And I started to say in the dream as she tried to pull me through the sea-through marquee plastic transparent sheeting separating us two (the truss not made from wood this time, but iron jaws like mine were surgically shut and sucked in attenuated wage-abated warping time of all their wideness of the weft breath), even in my unconscious way back then just a few seconds ago when I had said:</div>
+<span class="depth-27"><div class="depth-5">I watch a clock ticking down in my bank account</div></span>
+<span class="depth-28"><div class="depth-5">And Lauren she was pulling me through a space in a railing and I had become paralysed explaining the pain of you parts of you left lame and tangled inside of who I thought I was now left there on the dance floor barefoot next to shoe after shoe paired with shoes upon shoes upon shores so floor-crawling brawling lapped like dogs of hounding hellish waves with crests and fledgling ending spring chicken breasts of such unrest the rest of those awful unbearably boring and bored hole cunt wedding guests thank goddess her dress was blue showing me it’s not your wedding but it could have been sitting on that smoke-stained Edinburgh sofa you, standing, asked me what I thought of asking her to marry you in the first few months of what fumbling nonsense the never us was and on the phone weeping years later her saying in such resolved consolation they’ll never marry me but I knew what you had asked me and that one day I’d have to be leaving all this mess$ or be left bereft betraying me and all my inheld-input-put-back-on-the-shelves to collect dust-to-dust-to-must-just-be-all-a one day all this smelly-eggless-cracked-with-cress-and-opened-chest-and-sandwiched-body-in-that-bed-for-three-for-you-and-her-but-not-for-me-and-my-too-wet-sweat-getting-used-to-estrogen-hormonal-balance-acting-like-this-all-was-okay-soaking-corpse-turned-over-ovumless could be you but never us but at least I tried through untrusting and trussed unease almost dying as I pushed through the trails of the dust and in rage of the reigning wrath inside you just is the storm of the</div></span>
+<span class="depth-29"><div class="depth-5">I was half-pulled through the gap in a bannister like the gap in the bed bunk in game my sister and I would play nightly when we were bored and sleep was evading us hating the sound of such counting of sheep but I used to pull Lauren by leg through the space in between the wood planks I remember her saying just give me a chance to turn my face sideways so my chin doesn’t get stuck and I make it through luckily she always managed to unscathed as I’d giggle impatient like some small demon or devil on the BottomBB bunk merely four years younger than she was this angel who’d happily risk her own pain for my laughing but in the dream I was the one being dragged not down to a non-sorry supervillain’s laughter but up to a worrisome or superb heroine my sister who said something like we are going to have to talk about this before you head back to prevent another psychotic break pointing to her own heart</div></span>
+<span class="depth-30"><div class="depth-5">And I started to say in the dream as she tried to pull me through the sea-through marquee plastic transparent sheeting separating us two (the truss not made from wood this time, but iron jaws like mine were surgically shut and sucked in attenuated wage-abated warping time of all their wideness of the weft breath), even in my unconscious way back then just a few seconds ago when I had said:</div></span>
 <div class="depth-5">C’mon sis can you pull me up, through</div>
-<div class="depth-5">As I lay unable to move</div>
-<div class="depth-5">And I said to her cheery encouragement,</div>
+<span class="depth-31"><div class="depth-5">As I lay unable to move</div></span>
+<span class="depth-32"><div class="depth-5">And I said to her cheery encouragement,</div></span>
 <div class="depth-5">(return of that unearned and unadjourned concern nearly three decades later, renewed):</div>
 <div class="depth-5">‘Isn’t this all just such a poetic metaphor’</div>
-<div class="depth-5">As I woke up realising that it’s happening again</div>
-<div class="depth-5">I’m becoming aware of my awareness again</div>
+<span class="depth-33"><div class="depth-5">As I woke up realising that it’s happening again</div></span>
+<span class="depth-34"><div class="depth-5">I’m becoming aware of my awareness again</div></span>
 <div class="depth-5">Through the pain of back now and the joy of here, then_-_</div>
 <div class="depth-5">The cleavage of V in love and Find in friends</div>
-<div class="depth-5">And the hate in the family which has I and A</div>
+<span class="depth-35"><div class="depth-5">And the hate in the family which has I and A</div></span>
 <div class="depth-5">And the sister who taught me surrender to states</div>
 <div class="depth-5">Of the body for some produced composite grain</div>
 <div class="depth-5">For her middle name, Rose, and the missing pit reached midst the fuzz whence mine came*</div>
@@ -22435,18 +22439,18 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-5">As in Goliath as in gargantuan against Bear** as in fable that fed more than table was able</div>
 <div class="depth-5">as in ex but never really boyfriend as in latter three letters spell beginning of some moving picture we’d watch back then fast forward through unwanted records of adverts for food and household appliances no longer offered or wanted to get to the juice of cartoon movie, groovy baby-now-full-grown-or-so-much-more-expansive-now-she’s-smaller or The-Emperor-and-Empress-Card-Are-Next-To-One-Another-For-A-Reason and those Emperors New Groove References still so repeating yet never losing novelty or taste like the rhythmic chewing of the gums losing baby teeth and grown up ones peeking through inside the two reels and the spools and the school days of wish ran away with and we’d then rewind much too far and too fast through the scenes as the tinsel of Christmas scrolled past on the screen never bothering to press those two side by side letters F and F just the little bit that was required to set the tape to the start point for the future selves we would be huffing at nothing but something we’d knowingly become undone/done to us by usses lived previous</div>
 <div class="depth-5">Oh Lauren; how Laurel-crown; now winning of war against holes in my heart that the healing must bore –</div>
-<div class="depth-5">Oh Lauren; I love you; I simply All Ways to Sea you see me seeing U I A dore –</div>
+<span class="depth-36"><div class="depth-5">Oh Lauren; I love you; I simply All Ways to Sea you see me seeing U I A dore –</div></span>
 <div class="depth-5">You the Piglet me the Eeyore</div>
 <div class="depth-5">This Lossless Wave Formatted Song of Sound Of Our Herd-Above-Soar-AllH Ground</div>
 <div class="depth-5">is An Ever Evolving And Grieving Relief in a Revolving Door.</div>
-<div class="depth-5">  Yzma as in Y to Z to Ma as in two letters in Miss Understanding then to Mummy-then-to-Mum and then to Friend we both can count on countless hands of Goddess Sahasrabhuja Tara reaching out forever in unending blessed compassion as a close or never-not-so-distant companion of protection or of Kali holding weapon after symbol after weapon fighting through surrender by example and the halved unzipped genetic sample chromosomally X-shaped is identical by comparison in the blueprint that first in time made you and then in time (of four years, countable infinity, the space between the chaos wailing great lost songs of Order just exactly right containing X which) made me and Marks like Uncle left the Earth but always with us all ways leading back to yew as in tree as in Family as in The Heart I Carry With Me that She Showed us with her Rituals on the anniversaries of our arrival in this strange and fate-sewn place like Easter Trees with chocolate eggs and hollow eggs inside surprise and childhood wonder and wandering through autumn leaves and yellow themed birthday parties with all their unknown tomorrows looming looking back it’s all just been the most magickal upbringing and when I’m down I touch a tree and know that Mum is holding me and you in branches diverging dancing so revolutionary our feminine deity beacon light of Love and Love and Just for fairness giving us Unbirthday gifts which while empirical were just the peeking of the iceberg of the unsinkable relating ship titanic generosity that flows through Roots of you of me of all us Three-</div>
+<span class="depth-8"><div class="depth-5">  Yzma as in Y to Z to Ma as in two letters in Miss Understanding then to Mummy-then-to-Mum and then to Friend we both can count on countless hands of Goddess Sahasrabhuja Tara reaching out forever in unending blessed compassion as a close or never-not-so-distant companion of protection or of Kali holding weapon after symbol after weapon fighting through surrender by example and the halved unzipped genetic sample chromosomally X-shaped is identical by comparison in the blueprint that first in time made you and then in time (of four years, countable infinity, the space between the chaos wailing great lost songs of Order just exactly right containing X which) made me and Marks like Uncle left the Earth but always with us all ways leading back to yew as in tree as in Family as in The Heart I Carry With Me that She Showed us with her Rituals on the anniversaries of our arrival in this strange and fate-sewn place like Easter Trees with chocolate eggs and hollow eggs inside surprise and childhood wonder and wandering through autumn leaves and yellow themed birthday parties with all their unknown tomorrows looming looking back it’s all just been the most magickal upbringing and when I’m down I touch a tree and know that Mum is holding me and you in branches diverging dancing so revolutionary our feminine deity beacon light of Love and Love and Just for fairness giving us Unbirthday gifts which while empirical were just the peeking of the iceberg of the unsinkable relating ship titanic generosity that flows through Roots of you of me of all us Three-</div></span>
 <div class="depth-5">At once and one point-singularity before the full-stop of our uncle’s life we sent so many yellow (hers) and black (mine) hearts to one another that eventually we just ended up starting to send a Bumble Bee emoji and then when my uncle Mark died the Bee symbol was everywhere which for some reason in my personal mythology became a sign to think about my sister and somehow this lead to me guessing her pregnancy before anybody knew and then her son my nephew Reggie was born around Samhain around two weeks either before or after our uncle Mark died and she had almost died with/giving birth to him but the Ocean had already been put into balance and after returning to the flat after hospital my newfound non-biological sister the water-meadow let me know that the Bee is a symbol of passed ancestors and it all made sense then that Mark had become the Bee for Reggie to come into the world without losing my sister</div>
 <div class="depth-5">Grief, Relief, the If, the Greed, the Rudyard-Rudder, Rung, Ladder, Yard, Garden, Dreaming-sleep-Kipling, the Sapling, Stem, Stone,  Grit, The Cliffs, The C, the clit, the lift, the drop, the letting happen, the row, the rosehip, the cupids bow above the lips, the sea, the sea, the sea, the f-e-i-r-G</div>
 <div class="depth-5">Is for God in everything</div>
 <div class="depth-5">In Truth-_the fact that {REDACTED}</div>
-<div class="depth-5">-begins and ends with a many-times-orgasmic-screamed-through-walls-of-my-shared-flat-embarrasing now-agony-flinched and unbreathed B and ends with the same sound - be - be, [[notBorges/redacted]], girl, they used to call me, be, just be, without me, go on little bumble bee just fumble on without me you can do it I hear them (alive, and a is for) Adrian (now gone, but never far Away from me is for) Be</div>
-<div class="depth-5">Is for Breathe into Space that you left in me, left of me, right of me, B is for Back of me, Burned in my memory the pack of wolf Batteries, B is for Battery, right of the left of the A it is secondary, B is for Being or Bread which is Bred without condom and B is for Begin as in letter of Counterpoint pointing to absence of Cock in my rectum without Contraception or Come as in Cum as in please just Come Back to me Bringing us Back to the B that Began the end of the Best of the worst-wurst-delicious-meat meeting you {REDACTED} Broke me and made me the woman I am that I know that you really see C is for me is for Culling the Branches that grow in the heart of me Bastard I loved you will always Be part of Bee Buzzing around in my Bittersweet memory B is for Black as in wrapped around Bumblebee wearing Rings that it made for itself or By Queen or Bye, queen or Black-White-grey-goose-chasing-chest-pain-no-peace-injustice-just-chess-piece you played me in Bayesian destiny I know you Aren’t here from A but from B leads to C leads to Sea as in Oceans inside of me is for C is for see is for seams of my dreams of my Beaten and kicked and Broke purse strings now ripped at least for those nearly three years I felt the sweet size of your Body my Angel I keep going round Begging for some sort of release in my whirling of words how it hurts how it Bleeds Beet red</div>
-<div class="depth-6">maybe that’s why your left leg it kicked me B is for BC(g) Building Anti-Bodies Between the sheets of A Book Cries Counting Beats Arrhythmically Now I Know my ABCs backwards as Can’t Be Arsed to go forwards like A B.C. as in waiting for things to get Better Because Birth Came All-too-early-in-April-makes-Aries-me-Becoming-Born on the seven-teenth day as he one thousand nine hundred and ninety four years to the day or deus but D is one letter after C is for Christ as in the C of the B.C. Absolute Apathy or-may B Blazingly Clear Cunning Cisgender Bound-to-not-B An Angel Adam A-man-‘da’ as in yes I Agree as in Amanda texted me Back in the Asylum As I Became Crumpled But A Blazing CressetC Beacon Analogy And Allotropy as in Anti-me AnacronymsⱯ as Anachronym< All-our-tropes-Are-A-little Bit-Believed Curtain-Call Certainty as in something Between us then C is for me as in Between the three of us and C is for Cleavage and Comparison with her Cis Body reversing Back letter By letter As Bidding-Bye-Bye And Beast as in sixes in triplicate</div>
+<span class="depth-38"><div class="depth-5">-begins and ends with a many-times-orgasmic-screamed-through-walls-of-my-shared-flat-embarrasing now-agony-flinched and unbreathed B and ends with the same sound - be - be, [[notBorges/redacted]], girl, they used to call me, be, just be, without me, go on little bumble bee just fumble on without me you can do it I hear them (alive, and a is for) Adrian (now gone, but never far Away from me is for) Be</div></span>
+<span class="depth-9"><div class="depth-5">Is for Breathe into Space that you left in me, left of me, right of me, B is for Back of me, Burned in my memory the pack of wolf Batteries, B is for Battery, right of the left of the A it is secondary, B is for Being or Bread which is Bred without condom and B is for Begin as in letter of Counterpoint pointing to absence of Cock in my rectum without Contraception or Come as in Cum as in please just Come Back to me Bringing us Back to the B that Began the end of the Best of the worst-wurst-delicious-meat meeting you {REDACTED} Broke me and made me the woman I am that I know that you really see C is for me is for Culling the Branches that grow in the heart of me Bastard I loved you will always Be part of Bee Buzzing around in my Bittersweet memory B is for Black as in wrapped around Bumblebee wearing Rings that it made for itself or By Queen or Bye, queen or Black-White-grey-goose-chasing-chest-pain-no-peace-injustice-just-chess-piece you played me in Bayesian destiny I know you Aren’t here from A but from B leads to C leads to Sea as in Oceans inside of me is for C is for see is for seams of my dreams of my Beaten and kicked and Broke purse strings now ripped at least for those nearly three years I felt the sweet size of your Body my Angel I keep going round Begging for some sort of release in my whirling of words how it hurts how it Bleeds Beet red</div></span>
+<span class="depth-11"><div class="depth-6">maybe that’s why your left leg it kicked me B is for BC(g) Building Anti-Bodies Between the sheets of A Book Cries Counting Beats Arrhythmically Now I Know my ABCs backwards as Can’t Be Arsed to go forwards like A B.C. as in waiting for things to get Better Because Birth Came All-too-early-in-April-makes-Aries-me-Becoming-Born on the seven-teenth day as he one thousand nine hundred and ninety four years to the day or deus but D is one letter after C is for Christ as in the C of the B.C. Absolute Apathy or-may B Blazingly Clear Cunning Cisgender Bound-to-not-B An Angel Adam A-man-‘da’ as in yes I Agree as in Amanda texted me Back in the Asylum As I Became Crumpled But A Blazing CressetC Beacon Analogy And Allotropy as in Anti-me AnacronymsⱯ as Anachronym All-our-tropes-Are-A-little Bit-Believed Curtain-Call Certainty as in something Between us then C is for me as in Between the three of us and C is for Cleavage and Comparison with her Cis Body reversing Back letter By letter As Bidding-Bye-Bye And Beast as in sixes in triplicate</div></span>
 <div class="depth-6">Ceaselessly Chant Chaos Cardinally Caring Creating</div>
 <div class="depth-6">By Blinding Becoming Butterflied Beautifully Bent</div>
 <div class="depth-6">Antennae As Analgesic Authorially Always Ancestrally</div>
@@ -22497,37 +22501,37 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-6">Zealously</div>
 <div class="depth-6">_I look at my dwindling kindling of painkillers and ask my Self or God or Circling Dirty Dust-to-bust-of-Daphni-caught by Pan-boiled-Egg-is-Oval in the centre yellow heart-filled yolk-yokeY-knot-bloke-who-awoke-to-unspoken-folklore-yo-yo-ma-my-unlost-mum-drum-drum-drum-this-must-just-be-some-kind-of-joke Books on unlived life storied Shelves or gnosis or no, sis or know this or No Body:</div>
 <div class="depth-6">do painkillers work for heartbreak or is goodbye to you just too much agony to swaddle with any sort of biochemical sufficiency</div>
-<div class="depth-6">I dissolve some in water anyway, mostly for the sound of effervescing, like the plume-coloured pume of the pumice-ground-stone sea</div>
-<div class="depth-6">There is an annoying siren call I hear  -realising this annoyance at the sensory input is bringing me closer to understanding the seemingly-discompassionate demeaner of the nursing staff</div>
+<span class="depth-13"><div class="depth-6">I dissolve some in water anyway, mostly for the sound of effervescing, like the plume-coloured pume of the pumice-ground-stone sea</div></span>
+<span class="depth-14"><div class="depth-6">There is an annoying siren call I hear  -realising this annoyance at the sensory input is bringing me closer to understanding the seemingly-discompassionate demeaner of the nursing staff</div></span>
 <div class="depth-6">Getting breakfast</div>
-<div class="depth-6">I ask for the last croissant</div>
+<span class="depth-15"><div class="depth-6">I ask for the last croissant</div></span>
 <div class="depth-6">He says no it’s already for a</div>
 <div class="depth-6">patient</div>
 <div class="depth-6">It’s only 15 minutes til the end of breakfast</div>
 <div class="depth-6">(No order put through, no surprise)</div>
 <div class="depth-6">Incessantly the same high pitched rhythm beeping</div>
 <div class="depth-6">Dancing around my altar, my alters channel through the radio signalling blood vessels of the chalice of the language of my body</div>
-<div class="depth-6">I am making shapes quite unnatural to most, I am hypermobile like many transgender and neurodivergent bodiesT, something about bending to the rhythm like the wind does the trees; revolution, revolving, understanding the cycles in sweet nonbinary bits on chips of cum-pewter semen seeds of songs of unknowing me, unsewing question of why who is ‘Y’ is for You, U for Unknowable! O is for Origin! I is for Isness! E is for Entropy! A is for Am I or Answer Aria Ariadne Anansi Arachne and Awe!  I hyperactive gnosis with dice-roll diagnosis of so-called ADHD and ASD and EDS not quite anagrams but that’s what I am a mobile hanging above the crib of a Bonnie cosmic Babe</div>
+<span class="depth-17"><div class="depth-6">I am making shapes quite unnatural to most, I am hypermobile like many transgender and neurodivergent bodiesT, something about bending to the rhythm like the wind does the trees; revolution, revolving, understanding the cycles in sweet nonbinary bits on chips of cum-pewter semen seeds of songs of unknowing me, unsewing question of why who is ‘Y’ is for You, U for Unknowable! O is for Origin! I is for Isness! E is for Entropy! A is for Am I or Answer Aria Ariadne Anansi Arachne and Awe!  I hyperactive gnosis with dice-roll diagnosis of so-called ADHD and ASD and EDS not quite anagrams but that’s what I am a mobile hanging above the crib of a Bonnie cosmic Babe</div></span>
 <div class="depth-6">Or the crypt of a mysterious hag left to die in the forest with no love or Mark to her name birthing stone at night of no grave-</div>
-<div class="depth-6">I think there must be something broken or</div>
-<div class="depth-6">Now home editing this work I go to light another candle, asking for more answers but in my haste to get them I knock over my ashtray with my left foot Goddess is telling me no that’s enough that’s enough</div>
+<span class="depth-18"><div class="depth-6">I think there must be something broken or</div></span>
+<span class="depth-19"><div class="depth-6">Now home editing this work I go to light another candle, asking for more answers but in my haste to get them I knock over my ashtray with my left foot Goddess is telling me no that’s enough that’s enough</div></span>
 <div class="depth-6">There must be some sort of mistake</div>
-<div class="depth-6">Another twenty three minutes pass and with my left hand wrapped around it I try again pushing in the flesh coloured candle that is barely the width of a newborn baby’s finger wrapped around a mothers hand but the candle snaps from the force she repeats to me across time that is enough that is enough I am hearing your words I am hearing you I am here we are all here with you are enough we are together on this path you don’t remember that you chose try to remember that your Will was what set this Hole thing into motion and you walk alone witch is All One with everything and every One is all of us and we are Altogether</div>
+<span class="depth-20"><div class="depth-6">Another twenty three minutes pass and with my left hand wrapped around it I try again pushing in the flesh coloured candle that is barely the width of a newborn baby’s finger wrapped around a mothers hand but the candle snaps from the force she repeats to me across time that is enough that is enough I am hearing your words I am hearing you I am here we are all here with you are enough we are together on this path you don’t remember that you chose try to remember that your Will was what set this Hole thing into motion and you walk alone witch is All One with everything and every One is all of us and we are Altogether</div></span>
 <div class="depth-6">Walking round the corner</div>
-<div class="depth-6">I see the cafeteria Medicare screen (which on our ward has been deactivated)</div>
+<span class="depth-21"><div class="depth-6">I see the cafeteria Medicare screen (which on our ward has been deactivated)</div></span>
 <div class="depth-6">Emergency</div>
 <div class="depth-6">Room eleven</div>
 <div class="depth-6">Garden</div>
 <div class="depth-6">Wing</div>
-<div class="depth-6">I talk to god for a little moment</div>
+<span class="depth-22"><div class="depth-6">I talk to god for a little moment</div></span>
 <div class="depth-6">Maybe forever</div>
 <div class="depth-6">She says there are aurora behind me in a circular horizon</div>
 <div class="depth-6">Three birds in the distance and a fly in front</div>
 <div class="depth-6">Then getting my meds</div>
-<div class="depth-6">I mention the ringing ringing ringing for room 11</div>
+<span class="depth-23"><div class="depth-6">I mention the ringing ringing ringing for room 11</div></span>
 <div class="depth-6">The nurses say oh is it still going</div>
-<div class="depth-6">I talk to a fellow Aries nurse about Chiron the wounded healer and has she also had difficulty with knowing the difference between your problems and the problems of others</div>
-<div class="depth-6">She grumbles insincerely and I’m at peace with this piece of disconnection as she says no my boundaries are very strong and it takes time to learn</div>
+<span class="depth-23"><div class="depth-6">I talk to a fellow Aries nurse about Chiron the wounded healer and has she also had difficulty with knowing the difference between your problems and the problems of others</div></span>
+<span class="depth-23"><div class="depth-6">She grumbles insincerely and I’m at peace with this piece of disconnection as she says no my boundaries are very strong and it takes time to learn</div></span>
 <div class="depth-6">Sure / shoreH.W. / shawS</div>
 <div class="depth-6">Text Box: T.S. as in Eliot or as in an acronym^ for the now-considered by some to be outdated or even offensive but by others an empowering reclamation or acknowledgement of history erased by oppressors </div>
 <div class="depth-6">Saying again</div>
@@ -22535,50 +22539,50 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-6">bound-Aries</div>
 <div class="depth-6">To deaf ears</div>
 <div class="depth-6">Outside</div>
-<div class="depth-6">I see Sarah walking to her car to leave</div>
-<div class="depth-6">I turn my back and raise my hood</div>
+<span class="depth-24"><div class="depth-6">I see Sarah walking to her car to leave</div></span>
+<span class="depth-25"><div class="depth-6">I turn my back and raise my hood</div></span>
 <div class="depth-6">And regard this, strange, strange place held up to the light</div>
-<div class="depth-6">There’s something in me more than I can explain</div>
+<span class="depth-26"><div class="depth-6">There’s something in me more than I can explain</div></span>
 <div class="depth-6">Walking through the threshold</div>
 <div class="depth-6">The dead ones are holding me, then</div>
-<div class="depth-6">I’m praying again under the same tree and the two squirrels are chasing their selves through the bookshelves of the trees and the leaves are falling and for a moment I allow myself to laugh</div>
-<div class="depth-6">Look up look up and see your maker she sings so I do</div>
+<span class="depth-27"><div class="depth-6">I’m praying again under the same tree and the two squirrels are chasing their selves through the bookshelves of the trees and the leaves are falling and for a moment I allow myself to laugh</div></span>
+<span class="depth-28"><div class="depth-6">Look up look up and see your maker she sings so I do</div></span>
 <div class="depth-6">And a trident, Poseidon’s sign is staring back down at me</div>
 <div class="depth-6">Neptune</div>
 <div class="depth-6">Sweet silent tuning fork</div>
 <div class="depth-6">Unchained, unspeakable agony</div>
 <div class="depth-6">Harmony</div>
-<div class="depth-6">I see the three feathers I slotted into that rotting log in that small cave of a bush next to the tree</div>
+<span class="depth-29"><div class="depth-6">I see the three feathers I slotted into that rotting log in that small cave of a bush next to the tree</div></span>
 <div class="depth-6">One missing</div>
 <div class="depth-6">Holding palm against that flatness</div>
-<div class="depth-6">That plane of reality in which I came from and headed for and where I’d wished I’d be</div>
+<span class="depth-30"><div class="depth-6">That plane of reality in which I came from and headed for and where I’d wished I’d be</div></span>
 <div class="depth-6">A star</div>
 <div class="depth-6">Look down look down that lonesome road before you travel on</div>
 <div class="depth-6">Look down</div>
-<div class="depth-6">Looking down I see another small white feather</div>
-<div class="depth-6">Much smaller than any others I had seen</div>
-<div class="depth-6">And place it on that little knot that had become a shrine to what and who and why that I had been</div>
+<span class="depth-31"><div class="depth-6">Looking down I see another small white feather</div></span>
+<span class="depth-31"><div class="depth-6">Much smaller than any others I had seen</div></span>
+<span class="depth-32"><div class="depth-6">And place it on that little knot that had become a shrine to what and who and why that I had been</div></span>
 <div class="depth-6">And my minister, sister Rosetta’s voice rings out with greater resonance and quite a sibilance tingling only into my sinistral ear</div>
 <div class="depth-6">Oh Tharpe, a harp, oh Newsom, my reel newton, how you’ve had my back to this tree and the tree replies silently for infinity for a second for the first and last time rest your weary head against the notes of pages of going staying staves of me my lonely little dove won’t you have one on me</div>
-<div class="depth-6">I thought I’d got a haven but I can’t sit down</div>
+<span class="depth-33"><div class="depth-6">I thought I’d got a haven but I can’t sit down</div></span>
 <div class="depth-6">Whose that yonder dressed in white</div>
 <div class="depth-6">Red</div>
 <div class="depth-7"></div>
 <div class="depth-7">Dressed in light</div>
-<div class="depth-7">Not I</div>
+<span class="depth-33"><div class="depth-7">Not I</div></span>
 <div class="depth-7">Knot eye</div>
 <div class="depth-7">Staring into the centre of my spinal reed</div>
 <div class="depth-7">Tapping rhythms tapping all my sap from seeds</div>
-<div class="depth-7">I tried to sew to till the soil but oiled and dirty, filthy all I did was bleed</div>
+<span class="depth-34"><div class="depth-7">I tried to sew to till the soil but oiled and dirty, filthy all I did was bleed</div></span>
 <div class="depth-7">In biologically essentialist fallacy</div>
 <div class="depth-7">Go a way don’t bee</div>
 <div class="depth-7">Other</div>
 <div class="depth-7">Me</div>
-<div class="depth-7">I see a bee to the dextral entrance of the hospital (but perceived as sinister from the inside) calling me and I walk up to her and say you don’t want to go in there trust me</div>
+<span class="depth-34"><div class="depth-7">I see a bee to the dextral entrance of the hospital (but perceived as sinister from the inside) calling me and I walk up to her and say you don’t want to go in there trust me</div></span>
 <div class="depth-7">Trussed</div>
 <div class="depth-7">Me</div>
 <div class="depth-7">And now a scythe, reaping</div>
-<div class="depth-7">I’m seeing death’s staff of hermetic secrecy</div>
+<span class="depth-35"><div class="depth-7">I’m seeing death’s staff of hermetic secrecy</div></span>
 <div class="depth-7">Thirteen, as five of pentacles the card of Lindsay showed itself to me the Taurus the tau the dao</div>
 <div class="depth-7">Oh bullshit oh the bullshit that had fetishised and fertilised the organic land of earth originating me</div>
 <div class="depth-7">Miss</div>
@@ -22614,9 +22618,9 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-8">Beams of heaven</div>
 <div class="depth-8">Star</div>
 <div class="depth-8">Grief and danger</div>
-<div class="depth-8">I shall be free some</div>
+<span class="depth-43"><div class="depth-8">I shall be free some</div></span>
 <div class="depth-8">Day</div>
-<div class="depth-8">I do knot</div>
+<span class="depth-43"><div class="depth-8">I do knot</div></span>
 <div class="depth-8">No</div>
 <div class="depth-8">How long it will</div>
 <div class="depth-8">Bee</div>
@@ -22624,12 +22628,12 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-8">Turing</div>
 <div class="depth-8">Holes</div>
 <div class="depth-8">For me</div>
-<div class="depth-8">Look down I see</div>
+<span class="depth-40"><div class="depth-8">Look down I see</div></span>
 <div class="depth-8">A divot in the lawn</div>
 <div class="depth-8">Pecked by the crow just looking for</div>
 <div class="depth-8">A nut</div>
 <div class="depth-8">To crack</div>
-<div class="depth-8">I make my sacred gesture</div>
+<span class="depth-40"><div class="depth-8">I make my sacred gesture</div></span>
 <div class="depth-8">Left hand at the root of my backlit split once tale told now shrunk to tailbone crumbling down and old</div>
 <div class="depth-8">Two fingers pointing downward palm faced back to back and down ward to the stone</div>
 <div class="depth-8">And my right hand in a mirrored gesture is no longer at my heart or throat or even at the pituitary organ in the shadow of the unseen darkness where we all must see</div>
@@ -22637,14 +22641,14 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-8">Unlonging anymore</div>
 <div class="depth-8">My other righted hand now risen at my crown where now must rest this feather</div>
 <div class="depth-8">Weathered by such deathly storms</div>
-<div class="depth-8">And blighted so unfrightened, strained neck straightened I implore</div>
+<span class="depth-40"><div class="depth-8">And blighted so unfrightened, strained neck straightened I implore</div></span>
 <div class="depth-8">The heavens in my language unbeknownst to yore</div>
 <div class="depth-8">Pointing upward from my crown, my crown, my crowning crown of risen wilted roses thorns</div>
 <div class="depth-8">Between them like a pair of arms or armour or ammunition rounded or what’s more</div>
 <div class="depth-8">A siren’s call, antenna</div>
 <div class="depth-8">Of an insect or a radio</div>
 <div class="depth-8">Telling felling visions that have down low been felt before</div>
-<div class="depth-8">The leftmost bird (or right, I can’t remember now, i became much too absorbed)</div>
+<span class="depth-40"><div class="depth-8">The leftmost bird (or right, I can’t remember now, i became much too absorbed)</div></span>
 <div class="depth-8">Had landed on the upper eaves of this yellowing suggestion of a once White hospital door</div>
 <div class="depth-8">While the other (dextral, sinister, divine) he or she stayed rooted on the floor</div>
 <div class="depth-8">And between them, snug as a gun shot loud explosions through a skying silenced roar</div>
@@ -22652,19 +22656,19 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-8">Flies right, to left</div>
 <div class="depth-8">From arrow pointing stick right out of shoulder up and right to cross below the circle under ring</div>
 <div class="depth-9">now staying grace, amazing me in place</div>
-<div class="depth-9">I walked through the clearing</div>
+<span class="depth-40"><div class="depth-9">I walked through the clearing</div></span>
 <div class="depth-9">Clearing</div>
 <div class="depth-9">Leering  of the trees this entrance now an exit from these ancestral historic future timeless chapel leaves</div>
 <div class="depth-9">Don’t look back</div>
-<div class="depth-9">Don’t look back I hear Eurydice siren emergency room eleven dark lit elven queen</div>
+<span class="depth-40"><div class="depth-9">Don’t look back I hear Eurydice siren emergency room eleven dark lit elven queen</div></span>
 <div class="depth-9">Last evening after that failed attempt to impart a bedtime story</div>
 <div class="depth-9">Oh how our pain now passed gets in the way of what’s here to be</div>
-<div class="depth-9">I’d laid her down to rest again but kept her in her majesty</div>
+<span class="depth-40"><div class="depth-9">I’d laid her down to rest again but kept her in her majesty</div></span>
 <div class="depth-9">In central sump of supposition</div>
 <div class="depth-9">Opposing no Body any More</div>
 <div class="depth-9">But left, her crown it now points left</div>
-<div class="depth-9">(But once I’m gone will return to her allocation of a whitest little squared up space, stripped of her witching craft I’m sure)</div>
-<div class="depth-9">I bowed in turn, in turning, in missed turn of the barely hunted game now staler than the toast I melted butter under cafeteria light warm</div>
+<span class="depth-40"><div class="depth-9">(But once I’m gone will return to her allocation of a whitest little squared up space, stripped of her witching craft I’m sure)</div></span>
+<span class="depth-40"><div class="depth-9">I bowed in turn, in turning, in missed turn of the barely hunted game now staler than the toast I melted butter under cafeteria light warm</div></span>
 <div class="depth-9">And tried my best to spread it with a wooden palimpsest of a fork</div>
 <div class="depth-9">A four-pronged branch</div>
 <div class="depth-9">And out now, out back to the colder closing air</div>
@@ -22672,7 +22676,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-9">Two pigeons the left one fluttering a little forward a little more and then the right in response they’re trailing the shape of the caduceus</div>
 <div class="depth-9">Looking round (not back, knot back)</div>
 <div class="depth-9">Another seriphoted semaphore</div>
-<div class="depth-9">Vicky - sensing loss - says I always seem to follow you and I say well birds, they follow each other by some unknown to but the augur holy means</div>
+<span class="depth-40"><div class="depth-9">Vicky - sensing loss - says I always seem to follow you and I say well birds, they follow each other by some unknown to but the augur holy means</div></span>
 <div class="depth-9">Murmuration of the birds</div>
 <div class="depth-9">Colin from accounts</div>
 <div class="depth-9">Orange phone</div>
@@ -22687,62 +22691,62 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-9">Nineteen</div>
 <div class="depth-9">The sun</div>
 <div class="depth-9">XIX</div>
-<div class="depth-9">I make associations in ink</div>
+<span class="depth-40"><div class="depth-9">I make associations in ink</div></span>
 <div class="depth-9">The sun it sweeps behind the quickness of the bamboo</div>
-<div class="depth-9">Sewing know way home but to a new place I’m not scared but sacred unknower rower going slowly to the truth</div>
+<span class="depth-43"><div class="depth-9">Sewing know way home but to a new place I’m not scared but sacred unknower rower going slowly to the truth</div></span>
 <div class="depth-9">She reminds me of the meaning of her name - Iraqi- a gathering of camels in the desert</div>
 <div class="depth-9">Jung’s own deep and teeming desolation Jungle of becoming</div>
 <div class="depth-9">Rhythm of The Word is beating, heating through</div>
 <div class="depth-9">And tho my fingers wringing all this meaning from this interaction passed and U</div>
 <div class="depth-9">The crucible is built in tongues of tungsten welded in a red</div>
 <div class="depth-10">-to-Orange-Whitehot-hue</div>
-<div class="depth-10">And crow and magpie make sure I remember to tell her the importance of the smiling crying too</div>
+<span class="depth-40"><div class="depth-10">And crow and magpie make sure I remember to tell her the importance of the smiling crying too</div></span>
 <div class="depth-10">The second of my trinity</div>
 <div class="depth-10">The middle of the moth</div>
 <div class="depth-10">The moss that rolls on, on, to three</div>
 <div class="depth-10">To Frances - free one - finally - the last one two one of the flee</div>
 <div class="depth-10">A helicopter (not a plane) overhead</div>
 <div class="depth-10">Looking forward at the veins of that virgin creeper</div>
-<div class="depth-10">And the bedroom window of the woman I had dreamed of murdering me</div>
-<div class="depth-10">I see the ping pong bats now battened in their little hatches</div>
+<span class="depth-40"><div class="depth-10">And the bedroom window of the woman I had dreamed of murdering me</div></span>
+<span class="depth-38"><div class="depth-10">I see the ping pong bats now battened in their little hatches</div></span>
 <div class="depth-10">Bending down, traversing this still-leaf-ridden hidden symbol-living given reads a centrepiece</div>
 <div class="depth-10">The black queen, learned</div>
 <div class="depth-10">Turned, in earnest or knot</div>
-<div class="depth-10">To face the right, I write the not-so-wrongness</div>
+<span class="depth-35"><div class="depth-10">To face the right, I write the not-so-wrongness</div></span>
 <div class="depth-10">Rota</div>
 <div class="depth-10">Tarot</div>
 <div class="depth-10">Sewn oat hope</div>
 <div class="depth-10">Knot</div>
 <div class="depth-10">Shunning thoughts of darkness but allowing their eyes to see the gold garlanding self taught pupils of my own</div>
-<div class="depth-10">I turn the queen</div>
+<span class="depth-30"><div class="depth-10">I turn the queen</div></span>
 <div class="depth-10">One hundred and eight marks of marring beads</div>
-<div class="depth-10">Warming unwarning tea I brew</div>
+<span class="depth-23"><div class="depth-10">Warming unwarning tea I brew</div></span>
 <div class="depth-10">180 degrees, a reversal of the path of pilgrim Sun</div>
 <div class="depth-10">Not thinking of the kings, neither light of white or blackened blue</div>
-<div class="depth-10">I faced her crown still laying down, now left</div>
-<div class="depth-10">And there I left the garden for the first time</div>
-<div class="depth-10">Packing what was just not unpacked enough I struggle with the clasps</div>
+<span class="depth-23"><div class="depth-10">I faced her crown still laying down, now left</div></span>
+<span class="depth-23"><div class="depth-10">And there I left the garden for the first time</div></span>
+<span class="depth-21"><div class="depth-10">Packing what was just not unpacked enough I struggle with the clasps</div></span>
 <div class="depth-10">Of the hardy shell of suitcase</div>
 <div class="depth-10">Waiting for my crowdfunding attempt at making rent to load on my browser then</div>
-<div class="depth-10">Outside behind me a black Mercedes engine quivers like a Raven’s feather weathering its quietness around the river roundabout and I’m reminded</div>
+<span class="depth-21"><div class="depth-10">Outside behind me a black Mercedes engine quivers like a Raven’s feather weathering its quietness around the river roundabout and I’m reminded</div></span>
 <div class="depth-10">Don’t look back</div>
 <div class="depth-10">Again</div>
 <div class="depth-10">Seeing in my absence of a turning to the turning of the once again black stuttering of this Mark of dark black not-matte Richness leaving as a mirror</div>
 <div class="depth-10">Two magpies dancing, no need to use their wings</div>
 <div class="depth-10">Around the front and back of a squirrel as if trying to provide a sense of ease for him</div>
 <div class="depth-10">Their black and whiteness screaming either side of boba eyes and bushy tail</div>
-<div class="depth-10">How I miss you</div>
-<div class="depth-10">And I wander through the cracks of this eroding picnic bench again</div>
-<div class="depth-10">Not the one beneath you, Adrian (I promised you that tearful stab of penultimation was my final greeting)</div>
+<span class="depth-19"><div class="depth-10">How I miss you</div></span>
+<span class="depth-18"><div class="depth-10">And I wander through the cracks of this eroding picnic bench again</div></span>
+<span class="depth-17"><div class="depth-10">Not the one beneath you, Adrian (I promised you that tearful stab of penultimation was my final greeting)</div></span>
 <div class="depth-10">But the one right in front of these nine hellish gates</div>
-<div class="depth-10">I ponder, wandering</div>
-<div class="depth-10">This place should have a pond although I understand why it’s missing</div>
+<span class="depth-13"><div class="depth-10">I ponder, wandering</div></span>
+<span class="depth-13"><div class="depth-10">This place should have a pond although I understand why it’s missing</div></span>
 <div class="depth-10">Are you missing me?</div>
-<div class="depth-10">One message I received from you for the entirety of my stay, or leave</div>
+<span class="depth-13"><div class="depth-10">One message I received from you for the entirety of my stay, or leave</div></span>
 <div class="depth-10">Asking for consent</div>
 <div class="depth-10">You sent a message</div>
 <div class="depth-10">What a mess</div>
-<div class="depth-10">And how I’ve aged into a shrinking oldness</div>
+<span class="depth-43"><div class="depth-10">And how I’ve aged into a shrinking oldness</div></span>
 <div class="depth-10">You</div>
 <div class="depth-10">Us three</div>
 <div class="depth-10">Back then (my goddess, how it seems a previous carnation wilted bookshelf of unlived life again)</div>
@@ -22753,10 +22757,10 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-10">And what that meant</div>
 <div class="depth-10">That usage of your leg as severing implement</div>
 <div class="depth-10">And then, as if a nail in coughing nurse hid ‘hind a mask of black with pepperminted scent from oil she told us helped her remedy her allergies to dust and soil and seeking seeds of pollen</div>
-<div class="depth-10">Thinking of the final meeting with Dr Shanahan, where I’d said</div>
-<div class="depth-10">My little thoughts on the biggest book I’ve ever read</div>
+<span class="depth-13"><div class="depth-10">Thinking of the final meeting with Dr Shanahan, where I’d said</div></span>
+<span class="depth-13"><div class="depth-10">My little thoughts on the biggest book I’ve ever read</div></span>
 <div class="depth-10">How death should be considered as a widow or a long forgotten friend with will</div>
-<div class="depth-10">And then just now and then and now I thought of JK Rowling</div>
+<span class="depth-13"><div class="depth-10">And then just now and then and now I thought of JK Rowling</div></span>
 <div class="depth-10">And any of the women who create as clouds of reigning over my hopeful extinction</div>
 <div class="depth-10">How through different believing, such sparring sparrows speaking difference</div>
 <div class="depth-10">Same tongue, same place. Same soul, voice/face</div>
@@ -22768,52 +22772,52 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-11">Upon the fallen leaves</div>
 <div class="depth-11">And leaving, like a sulking child bestows the bag an open grave</div>
 <div class="depth-11">No dignity or grace or urn for its returning to the wave</div>
-<div class="depth-11">I try to open that once first lasting poem I still know by heart but wanted to be sure of my retelling of this memory but neither google chrome nor Adam’s eave dropped Lilith Apple timecrunching browsing roused safari seemed to load the words as I pressed the so oft pressured by my now-clean left indexing finger so I went outside to breathe</div>
-<div class="depth-11">But upon my returning the moriae had decided now, it was the time to share this little piece of childhood with this woman whose opinion of me I still was so unsure</div>
-<div class="depth-11">I tentatively take off aegis headphones leaving my clipped on shades (which had bent but fixed my self two hours prior) secure</div>
+<span class="depth-13"><div class="depth-11">I try to open that once first lasting poem I still know by heart but wanted to be sure of my retelling of this memory but neither google chrome nor Adam’s eave dropped Lilith Apple timecrunching browsing roused safari seemed to load the words as I pressed the so oft pressured by my now-clean left indexing finger so I went outside to breathe</div></span>
+<span class="depth-13"><div class="depth-11">But upon my returning the moriae had decided now, it was the time to share this little piece of childhood with this woman whose opinion of me I still was so unsure</div></span>
+<span class="depth-13"><div class="depth-11">I tentatively take off aegis headphones leaving my clipped on shades (which had bent but fixed my self two hours prior) secure</div></span>
 <div class="depth-11">And say to her</div>
-<div class="depth-11">I’m sorry for interrupting your break,</div>
+<span class="depth-13"><div class="depth-11">I’m sorry for interrupting your break,</div></span>
 <div class="depth-11">But your name-</div>
 <div class="depth-11">It’s been reminding me of this poem from the poems on the Underground, a collection of my very first beloved words during a much much younger visit to the Big Smoke (way before</div>
-<div class="depth-11">I’d come to smallness of my own smoke-choking raw)</div>
+<span class="depth-13"><div class="depth-11">I’d come to smallness of my own smoke-choking raw)</div></span>
 <div class="depth-11">Could i share it with you? It’s title seems to be a sign that Now is right -</div>
-<div class="depth-11">I still do not know if she had been perturbed by my playing the piano in the chapel, but with my leaving imminent it didn’t matter, shaking me, she said:</div>
+<span class="depth-13"><div class="depth-11">I still do not know if she had been perturbed by my playing the piano in the chapel, but with my leaving imminent it didn’t matter, shaking me, she said:</div></span>
 <div class="depth-11">“Oh darling, sure”</div>
 <div class="depth-11">￼</div>
 <div class="depth-11">Sitting down in seventeen</div>
-<div class="depth-11">I’ve written notes to mostly everyone</div>
+<span class="depth-13"><div class="depth-11">I’ve written notes to mostly everyone</div></span>
 <div class="depth-11">Now’s the time to sing</div>
-<div class="depth-11">I stuck together two of the verdant cards cut into shapes of leaves</div>
-<div class="depth-11">I wonder if this homonymous morphology was purposeful and there in that much trodden corridor I thought “it is, I will just choose to believe”</div>
+<span class="depth-13"><div class="depth-11">I stuck together two of the verdant cards cut into shapes of leaves</div></span>
+<span class="depth-14"><div class="depth-11">I wonder if this homonymous morphology was purposeful and there in that much trodden corridor I thought “it is, I will just choose to believe”</div></span>
 <div class="depth-11">Be leave</div>
 <div class="depth-11">And in the goddess of the spine, the knot-yet peeling-glue to hold together, healing, hurting everything</div>
-<div class="depth-11">I stuck a sticker of my past and now passed merchandising</div>
+<span class="depth-13"><div class="depth-11">I stuck a sticker of my past and now passed merchandising</div></span>
 <div class="depth-11">My visage of Arachne, my darkness debutante eight legged thing</div>
-<div class="depth-11">Walking down the hall I’d come to not-knot-rot-now-know, a child again, I was flapping that little despair dissipating air-craft avian facsimile</div>
+<span class="depth-13"><div class="depth-11">Walking down the hall I’d come to not-knot-rot-now-know, a child again, I was flapping that little despair dissipating air-craft avian facsimile</div></span>
 <div class="depth-11">Waving it pretending it really was like me, a bird</div>
 <div class="depth-11">Just longing to be flying somewhere smelt and breathed like home to me</div>
-<div class="depth-11">Nobody passed me as I made this infantile free gesture</div>
-<div class="depth-11">Smiling at the silly thing I’d made, I farewell blessed her</div>
+<span class="depth-13"><div class="depth-11">Nobody passed me as I made this infantile free gesture</div></span>
+<span class="depth-0"><div class="depth-11">Smiling at the silly thing I’d made, I farewell blessed her</div></span>
 <div class="depth-11">And searching for a glue-dot or quiet tape we weren’t a loud here</div>
-<div class="depth-11">The HCA suggested I use a sticky label for refrigerated foodstuffs stuffed and stacked and packed into the frigid-left-right-centre</div>
+<span class="depth-13"><div class="depth-11">The HCA suggested I use a sticky label for refrigerated foodstuffs stuffed and stacked and packed into the frigid-left-right-centre</div></span>
 <div class="depth-11">So wrapping it around itself and thinking of a nest or heart or any imperfection of suggestion of a circle</div>
 <div class="depth-11">Cross-sectioned vivisected into infinite dimensions, making stone from sticky hollowness of little symbol cylinder</div>
-<div class="depth-11">I placed her in the middle, like a sparrow now to exit</div>
-<div class="depth-11">And I think there was it</div>
-<div class="depth-11">When I decided in my Own Way, I had covered, reckoned with</div>
+<span class="depth-13"><div class="depth-11">I placed her in the middle, like a sparrow now to exit</div></span>
+<span class="depth-13"><div class="depth-11">And I think there was it</div></span>
+<span class="depth-13"><div class="depth-11">When I decided in my Own Way, I had covered, reckoned with</div></span>
 <div class="depth-11">Tentative remembrance of recovery or whatever wellsprung meaning any place like this could give</div>
 <div class="depth-11">Arachne's silk - thread - weave - whirling devilish and dervishly - sing melodies- aria - DNA - Ariadne's thread, red</div>
 <div class="depth-12">- labyrinthine sign to exit - read - book - spinal syrinx like a clarinet reed - basket encased by the reeds - river flows through to leaves once stuck - now freed - together - leaves - leaving with a load too heavy - but there inside a light - now out lit behind sight - don't look back - lot's black widow turning into a - salt - battery - charge - for - telephonic - phoenix - messaging - a beacon - ward - 'goodbye messages to the ward' - guard - garden wing - a bird - a beak - that chirps - that sings - that comes back home cold and older but within the tangled mess - still buttressed - buttered toast for dinner - thinner - strung out - stitched with symbols deep within - the word is everything - the script, the scripture, halved to whole - holes of the holy text - textile - swaddled by ancestral warmth of living and departed coven - woven tapestry - gold weight led to alchemy - delicate but strong, a spun return to Selfhood, red</div>
 <div class="depth-13">riddle of forgotten gift - no lift but lifted - ascent - a sending way back home to Arachne</div>
-<div class="depth-13">And on the upturned symbols of the mulching season (two, I picked up two for such a reason)</div>
-<div class="depth-13">I wrote that most verbose but much too short (like life) quote by T S Eliot</div>
+<span class="depth-13"><div class="depth-13">And on the upturned symbols of the mulching season (two, I picked up two for such a reason)</div></span>
+<span class="depth-13"><div class="depth-13">I wrote that most verbose but much too short (like life) quote by T S Eliot</div></span>
 <div class="depth-13"></div>
-<div class="depth-13">And hoped that in my hurt returning I had learned enough to know the place</div>
+<span class="depth-13"><div class="depth-13">And hoped that in my hurt returning I had learned enough to know the place</div></span>
 <div class="depth-13">Why are we so quick to pathologise pain?</div>
-<div class="depth-13">Pleasure I’m sure is a screaming of warning of endings verse grief’s evil reversal to which as a closing pulse dance partner bowing we allow in sow piglet to pork to forked path wrath unasked for and reeling from which we should equally just as much but don’t refrain;</div>
+<span class="depth-13"><div class="depth-13">Pleasure I’m sure is a screaming of warning of endings verse grief’s evil reversal to which as a closing pulse dance partner bowing we allow in sow piglet to pork to forked path wrath unasked for and reeling from which we should equally just as much but don’t refrain;</div></span>
 <div class="depth-13">Try to separate difference, you’ll find you cannot, like a Damocles blade cannot rain</div>
 <div class="depth-13">though it seems so dendritic, it’s all just the same-</div>
-<div class="depth-13">The face of voiceless echoing of almost-burning down up from lacing of the broken sole-cloven shoes I cannot use that cleaning staff will find while I trace lines of all my fallen left waiting</div>
+<span class="depth-13"><div class="depth-13">The face of voiceless echoing of almost-burning down up from lacing of the broken sole-cloven shoes I cannot use that cleaning staff will find while I trace lines of all my fallen left waiting</div></span>
 <div class="depth-13">Weighting north to find me</div>
 <div class="depth-13">Not behind me at all</div>
 <div class="depth-13">But calling forth, a bridge</div>
@@ -22821,38 +22825,38 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-13">Wrung-tight written little</div>
 <div class="depth-13">Landing just then on my right wrist</div>
 <div class="depth-13">Just whispering so gently in suggestion to open my fist</div>
-<div class="depth-13">So I obey her, and away she flutters</div>
+<span class="depth-13"><div class="depth-13">So I obey her, and away she flutters</div></span>
 <div class="depth-13">Ending this synchronous tryst</div>
-<div class="depth-13">About to leave for the 1:1 with Frances (nearly free now) I leave an apple on my fresh-made bed</div>
+<span class="depth-13"><div class="depth-13">About to leave for the 1:1 with Frances (nearly free now) I leave an apple on my fresh-made bed</div></span>
 <div class="depth-13">Red</div>
 <div class="depth-14"></div>
-<div class="depth-14">And close, so very almost close (only closest I could find, mind) to circular, ovarian ring</div>
+<span class="depth-13"><div class="depth-14">And close, so very almost close (only closest I could find, mind) to circular, ovarian ring</div></span>
 <div class="depth-15"></div>
 <div class="depth-15">Over</div>
 <div class="depth-15">Under</div>
 <div class="depth-15">Circling</div>
 <div class="depth-15">Parallelogrammar hurtling through</div>
 <div class="depth-15">And through the useless queen and king</div>
-<div class="depth-15">Sarah, knocking just before I enter my bathroom about to pee I zip my fly (egads, gladly, gadfly, flea)</div>
-<div class="depth-15">She asks if I need my stuff from out of my locker and offers to get it for me</div>
-<div class="depth-15">I say, calmness washing over me</div>
-<div class="depth-15">I can see in the depth of her eyes, like those three, darting sense of shared relief</div>
-<div class="depth-15">I say no, you get home and rest and I’ll get my things after therapy</div>
+<span class="depth-13"><div class="depth-15">Sarah, knocking just before I enter my bathroom about to pee I zip my fly (egads, gladly, gadfly, flea)</div></span>
+<span class="depth-13"><div class="depth-15">She asks if I need my stuff from out of my locker and offers to get it for me</div></span>
+<span class="depth-13"><div class="depth-15">I say, calmness washing over me</div></span>
+<span class="depth-13"><div class="depth-15">I can see in the depth of her eyes, like those three, darting sense of shared relief</div></span>
+<span class="depth-13"><div class="depth-15">I say no, you get home and rest and I’ll get my things after therapy</div></span>
 <div class="depth-15">She shakes my hand and says please</div>
 <div class="depth-15">Look after yourself, you’re very special</div>
-<div class="depth-15">I say</div>
+<span class="depth-15"><div class="depth-15">I say</div></span>
 <div class="depth-15">Mirror</div>
 <div class="depth-15">Hold my hand up, smiling</div>
-<div class="depth-15">She says mirror back, while flipping her palm round as if a secret bookshelf entrance behind which lie tales too gory but still poured over by my letter-hungry eyes while I was still so small</div>
-<div class="depth-15">And then my final words to her (I think, for just a second which resounds out through all these hallowed halls - of both our deaths)</div>
+<span class="depth-15"><div class="depth-15">She says mirror back, while flipping her palm round as if a secret bookshelf entrance behind which lie tales too gory but still poured over by my letter-hungry eyes while I was still so small</div></span>
+<span class="depth-15"><div class="depth-15">And then my final words to her (I think, for just a second which resounds out through all these hallowed halls - of both our deaths)</div></span>
 <div class="depth-15">Mirror mirror on the wall</div>
-<div class="depth-15">And she laughed, I think it shimmered in sincerity</div>
+<span class="depth-15"><div class="depth-15">And she laughed, I think it shimmered in sincerity</div></span>
 <div class="depth-15">We spoke of TS as in Transsexual and as in T.S. Eliot</div>
 <div class="depth-15">Pages of the DSM-V</div>
 <div class="depth-15">Hurtful Healing Parody – yellow badge of Josie, my contemporary</div>
 <div class="depth-15">Queen Spark</div>
 <div class="depth-15">Again of the unending pendulum which when perceived from distant enough a perspective forms (or close enough) a horizontal</div>
-<div class="depth-15">Returning just in time for fireworks lit (erring allies of my past-in-passing-banging-bruising-shin), quite literally – the train should pull into Glasgow at eleven eleven (obviously in my newfound land of auld language speaking I had heeded this a sign)</div>
+<span class="depth-43"><div class="depth-15">Returning just in time for fireworks lit (erring allies of my past-in-passing-banging-bruising-shin), quite literally – the train should pull into Glasgow at eleven eleven (obviously in my newfound land of auld language speaking I had heeded this a sign)</div></span>
 <div class="depth-15">My ignited, reunited</div>
 <div class="depth-15">Fire</div>
 <div class="depth-15">Irks The Roadless journey of the darkest sole now cracked, to let, rent still not quite in-</div>
@@ -22864,34 +22868,34 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-15">Where Bees May Be Meeting</div>
 <div class="depth-15">– Plath</div>
 <div class="depth-15">A pathway – home?</div>
-<div class="depth-15">So far, I’ve learned, to</div>
-<div class="depth-15">{REDACTED} – a parametricY metamour – mourning loss of lauded sordid unapplauded audience for fucking – and just over to my left I hear through phone lines one and then a second audible Ring</div>
+<span class="depth-13"><div class="depth-15">So far, I’ve learned, to</div></span>
+<span class="depth-13"><div class="depth-15">{REDACTED} – a parametricY metamour – mourning loss of lauded sordid unapplauded audience for fucking – and just over to my left I hear through phone lines one and then a second audible Ring</div></span>
 <div class="depth-16"></div>
-<div class="depth-16">These non-delusional frameworks of reference I gave to Frances in our such bittersweet parting</div>
+<span class="depth-13"><div class="depth-16">These non-delusional frameworks of reference I gave to Frances in our such bittersweet parting</div></span>
 <div class="depth-16">The final echo of our voices and our faces saying</div>
 <div class="depth-16">Ciao</div>
-<div class="depth-16">(The dualistic meaning of witch I’m sure you don’t need me to reiterate now)</div>
-<div class="depth-16">I tell her</div>
-<div class="depth-16">I think maybe all this interstitial tissue of intermittent quietude and blighting with was ritual teaching me to be a teacher</div>
+<span class="depth-13"><div class="depth-16">(The dualistic meaning of witch I’m sure you don’t need me to reiterate now)</div></span>
+<span class="depth-13"><div class="depth-16">I tell her</div></span>
+<span class="depth-13"><div class="depth-16">I think maybe all this interstitial tissue of intermittent quietude and blighting with was ritual teaching me to be a teacher</div></span>
 <div class="depth-16">And that angel on top of the library</div>
 <div class="depth-16">Who stared and stairs into me spiralling my memories back into yarn</div>
 <div class="depth-16">This was a</div>
 <div class="depth-16">Pilgrimage</div>
 <div class="depth-16">My lonely hajj</div>
 <div class="depth-16">Out, out into the opener air</div>
-<div class="depth-16">I see some acquaintances I’d met at the picnic bench in passing</div>
-<div class="depth-16">Mewing their sympathetic tones of Oh! You Are Going?</div>
-<div class="depth-16">And, as if possessed by a future self I never thought could be but one told would emerge eventually</div>
-<div class="depth-16">I asserted boundaries</div>
-<div class="depth-16">This unkempt Fire saying “Yes, but I hate goodbyes, and all these things I have to carry just so heavy, so I’m just going to stay over here”</div>
-<div class="depth-16">And whether they were offended or respected this (to me) impressively (maybe selfish, oh well) gesture, their responses I just did not hear</div>
+<span class="depth-43"><div class="depth-16">I see some acquaintances I’d met at the picnic bench in passing</div></span>
+<div class="depth-42">Mewing their sympathetic tones of Oh! You Are Going?</div>
+<span class="depth-42"><div class="depth-16">And, as if possessed by a future self I never thought could be but one told would emerge eventually</div></span>
+<span class="depth-43"><div class="depth-16">I asserted boundaries</div></span>
+<span class="depth-43"><div class="depth-16">This unkempt Fire saying “Yes, but I hate goodbyes, and all these things I have to carry just so heavy, so I’m just going to stay over here”</div></span>
+<span class="depth-43"><div class="depth-16">And whether they were offended or respected this (to me) impressively (maybe selfish, oh well) gesture, their responses I just did not hear</div></span>
 <div class="depth-16">Gospel music it was grinning artefactual divinity left right through Pinnas into spirals in my inner ear</div>
 <div class="depth-16">Like a dog, laying itself to rest, checking to make sure</div>
 <div class="depth-16">It wasn’t crushing any insects</div>
 <div class="depth-16">As an ascetic, a monk, or particularly manic monkey (though the planar movement rotated right-angled by approximately ninety degrees  </div>
 <div class="depth-16">In engagement with the motion of the ravenously cavernous spore-orbit of a Ring</div>
 <div class="depth-17"></div>
-<div class="depth-17">And what station should I end (or start)</div>
+<span class="depth-43"><div class="depth-17">And what station should I end (or start)</div></span>
 <div class="depth-17">My journey back knot ever again to your arms, not to, not two you but One called</div>
 <div class="depth-17">Barnes</div>
 <div class="depth-17">Strike action will affect London Underground stations on 7th November</div>
@@ -22903,14 +22907,14 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-18">Mina</div>
 <div class="depth-18">And a tag that reads</div>
 <div class="depth-18">RIP LAMB</div>
-<div class="depth-18">laid down, and I ain’t lyin’</div>
+<span class="depth-43"><div class="depth-18">laid down, and I ain’t lyin’</div></span>
 <div class="depth-18">On the first train there was no seat</div>
-<div class="depth-18">I can’t sit down</div>
+<span class="depth-43"><div class="depth-18">I can’t sit down</div></span>
 <div class="depth-18">Dressed in my last clean item, a dress shirt of off-white</div>
-<div class="depth-18">With a satchel of pharmaco chemical messengers I-</div>
+<span class="depth-43"><div class="depth-18">With a satchel of pharmaco chemical messengers I-</div></span>
 <div class="depth-18">Ah</div>
-<div class="depth-18">A quartet of rest, where I for seven sedimentary minutes I can sink my case for leagues on leagues of upcoming expenditure of energy</div>
-<div class="depth-18">I slot the plastic suitcase in the gap snug as a gadfly feather still stuck in my messy bun just glad for the fleeting sense of a nest in this ending begun</div>
+<span class="depth-43"><div class="depth-18">A quartet of rest, where I for seven sedimentary minutes I can sink my case for leagues on leagues of upcoming expenditure of energy</div></span>
+<span class="depth-43"><div class="depth-18">I slot the plastic suitcase in the gap snug as a gadfly feather still stuck in my messy bun just glad for the fleeting sense of a nest in this ending begun</div></span>
 <div class="depth-18">Vauxhall</div>
 <div class="depth-18">Alighting the train</div>
 <div class="depth-18">A star of spikes a wheel of spokes</div>
@@ -22918,10 +22922,10 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-18">And a one to</div>
 <div class="depth-18">Pay attention to</div>
 <div class="depth-18">Somehow on the tube</div>
-<div class="depth-18">I could have sworn this journey should have been a palindrome and yet</div>
-<div class="depth-18">Even with my right shoulder popping in and popping out like the schools of fish of us had from the therapeutic groups and like the pupils of my eyes had through the same-but-othered nameless helpless endless london unrelatable unhelpful and unhappy people untapped metal awful chapel de-escalating chutes of escalators clutching against gravitation pushing pull of my suitcase now sans-boots and in this returning trip I have at least triple the amount of books</div>
+<span class="depth-43"><div class="depth-18">I could have sworn this journey should have been a palindrome and yet</div></span>
+<span class="depth-43"><div class="depth-18">Even with my right shoulder popping in and popping out like the schools of fish of us had from the therapeutic groups and like the pupils of my eyes had through the same-but-othered nameless helpless endless london unrelatable unhelpful and unhappy people untapped metal awful chapel de-escalating chutes of escalators clutching against gravitation pushing pull of my suitcase now sans-boots and in this returning trip I have at least triple the amount of books</div></span>
 <div class="depth-18">It feels lighter in the load</div>
-<div class="depth-18">Ayu – I meet by diceroll, in the sweat-sarcophagi of mechanistic jewel necklace of the tunnelled Tube –</div>
+<span class="depth-43"><div class="depth-18">Ayu – I meet by diceroll, in the sweat-sarcophagi of mechanistic jewel necklace of the tunnelled Tube –</div></span>
 <div class="depth-18">A note rings out on the parallelogram of glass and plastic in my palm</div>
 <div class="depth-18">An aberrantly welcomed oh so closing auspicious tone omen to (in hopeful, and not blown-out-of-proportion-panic-what-a-concept) foreshadow that my train wood be departing Euston’s tuning-fork-flung-axel-turning-torque-wheel-forest soon and at which platform numeral:</div>
 <div class="depth-18">Sixteen</div>
@@ -22932,7 +22936,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-18">My gods, those ones who lived before , how strange this glitch of tryst with physical existence has been</div>
 <div class="depth-18">How everything and everyone is like a crack of lightning life that winds to a fractal</div>
 <div class="depth-18">Acrimonious awe full of lack or lacrimosa growing closer</div>
-<div class="depth-18">And still, I’m seeing them both plural also all so singing singular</div>
+<span class="depth-43"><div class="depth-18">And still, I’m seeing them both plural also all so singing singular</div></span>
 <div class="depth-18">Remembering conversing with Hind –</div>
 <div class="depth-18">Or maybe it was Luana or most likely even, Luna</div>
 <div class="depth-18"> what's that story i remember</div>
@@ -22942,44 +22946,44 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-19">Gull</div>
 <div class="depth-19">The two of us each other sat parallel</div>
 <div class="depth-20">upon that bending bench</div>
-<div class="depth-20">I said be careful, it’s unsteady, and I think and hope we both knew what that really meant</div>
-<div class="depth-20">Oh christ how I loved that human</div>
+<span class="depth-43"><div class="depth-20">I said be careful, it’s unsteady, and I think and hope we both knew what that really meant</div></span>
+<span class="depth-43"><div class="depth-20">Oh christ how I loved that human</div></span>
 <div class="depth-20">So rarely do we see another one so close and so long</div>
 <div class="depth-20">Oh – too short but just so long</div>
-<div class="depth-20">But I’m riding this train for the feeling</div>
+<span class="depth-43"><div class="depth-20">But I’m riding this train for the feeling</div></span>
 <div class="depth-20">Somehow on the train</div>
-<div class="depth-20">I know how, by now, it’s them, the queens and kings and monarchs wound in circles through the woven his/hers/theirs/tones of my transcending all transmutation genome-coded brain</div>
-<div class="depth-20">So by their light I arrived i-am-in perfect time, by magick, just the same</div>
+<span class="depth-43"><div class="depth-20">I know how, by now, it’s them, the queens and kings and monarchs wound in circles through the woven his/hers/theirs/tones of my transcending all transmutation genome-coded brain</div></span>
+<span class="depth-43"><div class="depth-20">So by their light I arrived i-am-in perfect time, by magick, just the same</div></span>
 <div class="depth-20">Imparted Oars of soaring roses owed in sorrow-sweetvoiced by countless Othered name</div>
-<div class="depth-20">And in imitated upturned card of bent down transitory Tower, wow-so-tired-wonder-how-my-reeling-wheels-weren’t-howling-ouch-my-vertebrae-are-braying-hymns-to-Sisyphus I push my suitcase in katabatic manic parody</div>
+<span class="depth-43"><div class="depth-20">And in imitated upturned card of bent down transitory Tower, wow-so-tired-wonder-how-my-reeling-wheels-weren’t-howling-ouch-my-vertebrae-are-braying-hymns-to-Sisyphus I push my suitcase in katabatic manic parody</div></span>
 <div class="depth-20">And there, halfway from the top’s a fleet of angels call to stop, and opts to ease my POTS-syncopated heartache beat</div>
 <div class="depth-20">Says hey! You’ll do your back in! backing Sister Rosetta humming and translating communication from a place ineffable</div>
-<div class="depth-20">I say aloud my gratitude and You Are an Angel as he asks me the location of my halting, clearly seeing maybe scenting as a guard dog all the distance laid both back and front of me</div>
+<span class="depth-43"><div class="depth-20">I say aloud my gratitude and You Are an Angel as he asks me the location of my halting, clearly seeing maybe scenting as a guard dog all the distance laid both back and front of me</div></span>
 <div class="depth-20">G and U are unreserved and they’re closer to where we’re standing so you have less far to go with this weight</div>
-<div class="depth-20">I repeat the spoken sentiment and lift my case, mine alone and real again to take</div>
+<span class="depth-43"><div class="depth-20">I repeat the spoken sentiment and lift my case, mine alone and real again to take</div></span>
 <div class="depth-20">G for Glasgow U for Up or really, just a shape</div>
 <div class="depth-20">Discussed just one, two, fleeting hours before in one-to-one with frances - free one</div>
 <div class="depth-20">Just a symbol for a crucible</div>
 <div class="depth-20">Or a vessel</div>
 <div class="depth-20">You</div>
 <div class="depth-20">And Eye</div>
-<div class="depth-20">And I and Oh, me, O, a Ring</div>
+<span class="depth-43"><div class="depth-20">And I and Oh, me, O, a Ring</div></span>
 <div class="depth-21">– a Ring</div>
 <div class="depth-22">with space within, kept safe inside</div>
-<div class="depth-22">I will forever be Unç</div>
+<span class="depth-43"><div class="depth-22">I will forever be Unç</div></span>
 <div class="depth-22">Bound –</div>
 <div class="depth-22">to this memory of sign of</div>
 <div class="depth-22">Air -</div>
 <div class="depth-22">Y (a fork in time or your boxer shorts the side of my face so-liked )</div>
 <div class="depth-22">Were and are a place for change to take</div>
 <div class="depth-22">Hold of you just holding me</div>
-<div class="depth-22">I think that’s the main facet of this faucet tapping at my engine start of Grief</div>
+<span class="depth-43"><div class="depth-22">I think that’s the main facet of this faucet tapping at my engine start of Grief</div></span>
 <div class="depth-22">Just beholding all the kissing and just missing how you’d hold me</div>
 <div class="depth-22">Ladies and gentlemen</div>
-<div class="depth-22">I think of you again, how we’d share some seething gentle sarcasm about you not existing</div>
-<div class="depth-22">Were you a dream? A nightmare? I really don’t want to slip into cliché but again, remembering that bed not mine not yours either but the one sat on for a moment by shelley saying cliches must be cliches for a reason must be seasons fleeting must be riding must be writing must be just muse</div>
+<span class="depth-43"><div class="depth-22">I think of you again, how we’d share some seething gentle sarcasm about you not existing</div></span>
+<span class="depth-43"><div class="depth-22">Were you a dream? A nightmare? I really don’t want to slip into cliché but again, remembering that bed not mine not yours either but the one sat on for a moment by shelley saying cliches must be cliches for a reason must be seasons fleeting must be riding must be writing must be just muse</div></span>
 <div class="depth-22">Our Train is now running Ten</div>
-<div class="depth-22">I close my eyes, the imaged ex in Mandelbrot ink blotted Rorschach rotted skin spotlight of black retina-reception geometric shape</div>
+<span class="depth-43"><div class="depth-22">I close my eyes, the imaged ex in Mandelbrot ink blotted Rorschach rotted skin spotlight of black retina-reception geometric shape</div></span>
 <div class="depth-22">Mandel – German or Scandinavian origin – Little Almond</div>
 <div class="depth-22">Not the nut that the crow performed ritual with in front of me</div>
 <div class="depth-22">Cracking the shell with the blackness of beak</div>
@@ -22993,45 +22997,45 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-22">again</div>
 <div class="depth-22"> that’s One Zero</div>
 <div class="depth-22"> minutes delayed</div>
-<div class="depth-22">I make the six-carriage journey, rocking, rolling back and forth, gathering some sort of moss in my reactionary dancing in embers of memory through avoiding all the voiceless faces staring into my sunglasses-shield</div>
-<div class="depth-22">Meeting the Glaswegian accented lady welcoming me not just in face not just in voice but just in the marrow of my bones – as we pull into all of the intersections of reminders of York -  I remember that Scotland is really where the dust of my soles must be longing for</div>
-<div class="depth-22">I’ll give you such a smack</div>
+<span class="depth-43"><div class="depth-22">I make the six-carriage journey, rocking, rolling back and forth, gathering some sort of moss in my reactionary dancing in embers of memory through avoiding all the voiceless faces staring into my sunglasses-shield</div></span>
+<span class="depth-43"><div class="depth-22">Meeting the Glaswegian accented lady welcoming me not just in face not just in voice but just in the marrow of my bones – as we pull into all of the intersections of reminders of York -  I remember that Scotland is really where the dust of my soles must be longing for</div></span>
+<span class="depth-43"><div class="depth-22">I’ll give you such a smack</div></span>
 <div class="depth-22">Back in the Zoological Garden</div>
 <div class="depth-22">Through the looking glass of Alice</div>
 <div class="depth-22">-Glass or Longyu Gao</div>
 <div class="depth-22">Glass-Gao</div>
 <div class="depth-22">Glasgow how much longer are you from seeing through</div>
-<div class="depth-22">I text one of the maybe three physically embodied souls of friends I still have left of whom I’ve thankfully so gratefully still not yet been bereft</div>
+<span class="depth-43"><div class="depth-22">I text one of the maybe three physically embodied souls of friends I still have left of whom I’ve thankfully so gratefully still not yet been bereft</div></span>
 <div class="depth-22">Saying</div>
-<div class="depth-22">I want to move to the forest</div>
-<div class="depth-22">Write book after book and grow mushrooms and maybe weed but God it’s been a month since I’ve even smoked any, maybe that was more than anything exactly what I needed to receive the necessary messages from ancestors lost I’d once found a blessing</div>
+<span class="depth-43"><div class="depth-22">I want to move to the forest</div></span>
+<span class="depth-43"><div class="depth-22">Write book after book and grow mushrooms and maybe weed but God it’s been a month since I’ve even smoked any, maybe that was more than anything exactly what I needed to receive the necessary messages from ancestors lost I’d once found a blessing</div></span>
 <div class="depth-22"> Becoming obfuscated and pestled, martyred into a Monad –</div>
 <div class="depth-22">Not of Soul or Sole but Salt</div>
 <div class="depth-22">And then to Sulphur with no Mercury</div>
 <div class="depth-22">But now,</div>
-<div class="depth-22">I see</div>
+<span class="depth-43"><div class="depth-22">I see</div></span>
 <div class="depth-22">The Way</div>
 <div class="depth-22">Is into, through the Body</div>
 <div class="depth-22">Not using plants, but rather (if the feeling ever should take me)</div>
 <div class="depth-22">Letting the concrescence of their essence use the rest in me</div>
 <div class="depth-22">In Testament, Testimony</div>
 <div class="depth-22">Sacrament, in Sanctity</div>
-<div class="depth-22">I left a note under a tape under an apple on my bed that said</div>
+<span class="depth-43"><div class="depth-22">I left a note under a tape under an apple on my bed that said</div></span>
 <div class="depth-22">The train has arrived in Lockerbie</div>
 <div class="depth-22">Lock and</div>
 <div class="depth-22">{REDACTED}</div>
-<div class="depth-22">I</div>
+<span class="depth-43"><div class="depth-22">I</div></span>
 <div class="depth-22">Owe you</div>
 <div class="depth-22">Everything through what you kicked out of me</div>
 <div class="depth-22">To reel</div>
 <div class="depth-22">The reel – to – real</div>
-<div class="depth-22">To real I sing</div>
+<span class="depth-43"><div class="depth-22">To real I sing</div></span>
 <div class="depth-22">Releasing,</div>
 <div class="depth-22">Realising</div>
-<div class="depth-22">I may need to take a vow of silence forever to truly fulfil the reddest reed of read thread of Ariadne out of this labyrinthine mess I weave for myself through the collapsing culminating and concrescence between every convalescence of each parting artful heartbeat-wave goodbying sighing sky</div>
-<div class="depth-22">Love me as you love but help me I’m leaving</div>
-<div class="depth-22">I remember everything down to the sound of your razor scraping</div>
-<div class="depth-22">Whgen you clutched at me that night I came upstairs half dead and in youer kindness</div>
+<span class="depth-43"><div class="depth-22">I may need to take a vow of silence forever to truly fulfil the reddest reed of read thread of Ariadne out of this labyrinthine mess I weave for myself through the collapsing culminating and concrescence between every convalescence of each parting artful heartbeat-wave goodbying sighing sky</div></span>
+<span class="depth-43"><div class="depth-22">Love me as you love but help me I’m leaving</div></span>
+<span class="depth-43"><div class="depth-22">I remember everything down to the sound of your razor scraping</div></span>
+<span class="depth-43"><div class="depth-22">Whgen you clutched at me that night I came upstairs half dead and in youer kindness</div></span>
 <div class="depth-22">Somebody shat in your closet</div>
 <div class="depth-22">A part of me that you commented about on red</div>
 <div class="depth-23">, threads of shit that lead absolutey</div>
@@ -23042,27 +23046,27 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-23">Down</div>
 <div class="depth-23">{REDACTED}</div>
 <div class="depth-23">Have One On Me</div>
-<div class="depth-23">My LP of these three discs are almost worn down like the front and back and shedded shed door keys cut by my father and you were farther you were my daddy daddy daddy {REDACTED} plath way of saying sadly daddy daddy daddy Bear no stronger he didn’t even caere to thjropw a stone no matter how swaddflrecd infinitely {REDACTED} daddy {REDACTED} daddy Bear Dani all of you a stone I swallowed Covering me</div>
+<span class="depth-43"><div class="depth-23">My LP of these three discs are almost worn down like the front and back and shedded shed door keys cut by my father and you were farther you were my daddy daddy daddy {REDACTED} plath way of saying sadly daddy daddy daddy Bear no stronger he didn’t even caere to thjropw a stone no matter how swaddflrecd infinitely {REDACTED} daddy {REDACTED} daddy Bear Dani all of you a stone I swallowed Covering me</div></span>
 <div class="depth-23">Heard the cup drop</div>
-<div class="depth-23">Frances saying just after I’d asked if I could have a hug</div>
+<span class="depth-43"><div class="depth-23">Frances saying just after I’d asked if I could have a hug</div></span>
 <div class="depth-23">Her happily saying of course</div>
 <div class="depth-23">That’s why they keep her around</div>
-<div class="depth-23">I didn’t lnow how to feel bad enough to make him proud</div>
+<span class="depth-43"><div class="depth-23">I didn’t lnow how to feel bad enough to make him proud</div></span>
 <div class="depth-23">Daddy long</div>
 <div class="depth-23">Leg of this journey almost</div>
 <div class="depth-23">Ova – wild, wild rover</div>
 <div class="depth-23">are you proud?</div>
-<div class="depth-23">But I found a little plot of land in the garden of gethsemane in the semen that you left in me</div>
-<div class="depth-23">I tilled it with my tongue</div>
+<span class="depth-43"><div class="depth-23">But I found a little plot of land in the garden of gethsemane in the semen that you left in me</div></span>
+<span class="depth-43"><div class="depth-23">I tilled it with my tongue</div></span>
 <div class="depth-23">There was no one there to dispute my claim</div>
 <div class="depth-23">The whole place just cleared right out</div>
-<div class="depth-23">I laid there by a fallen spring</div>
+<span class="depth-43"><div class="depth-23">I laid there by a fallen spring</div></span>
 <div class="depth-23">No ring</div>
 <div class="depth-24"></div>
 <div class="depth-24">But knowing</div>
 <div class="depth-24">For a</div>
 <div class="depth-24">Spell</div>
-<div class="depth-24">But I will want for nothing more in the Garden</div>
+<span class="depth-43"><div class="depth-24">But I will want for nothing more in the Garden</div></span>
 <div class="depth-24">Start again</div>
 <div class="depth-24">Meet me in the Garden</div>
 <div class="depth-24">Wing</div>
@@ -23076,7 +23080,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-24">This is blind ness beyond all conceiving</div>
 <div class="depth-24">As behind us the road is leaving</div>
 <div class="depth-24">Andf falling back like a rope gone sleep</div>
-<div class="depth-24">I fell for you honey easy as falling asleep</div>
+<span class="depth-43"><div class="depth-24">I fell for you honey easy as falling asleep</div></span>
 <div class="depth-24">And no amount of talking is gonna soften the fall</div>
 <div class="depth-24">But like after the rain, step out</div>
 <div class="depth-24">Of the overhang, that’s all</div>
@@ -23092,17 +23096,17 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-25">Concerning me, you</div>
 <div class="depth-25">And the rest of the gang</div>
 <div class="depth-25">And in our Quetiapine hour</div>
-<div class="depth-25">I’m in love with the hook</div>
+<span class="depth-43"><div class="depth-25">I’m in love with the hook</div></span>
 <div class="depth-25">Uypon with everyone hangs</div>
-<div class="depth-25">I feel you drawing nearer</div>
-<div class="depth-25">I feel me growing closer to your steady hands</div>
+<span class="depth-43"><div class="depth-25">I feel you drawing nearer</div></span>
+<span class="depth-43"><div class="depth-25">I feel me growing closer to your steady hands</div></span>
 <div class="depth-25">That will not be open to me, save</div>
 <div class="depth-25">For writing of my lucrative-to-you exploited story, voice, and face</div>
 <div class="depth-25">You once found just so beautiful</div>
-<div class="depth-25">What did I even do to make you stop</div>
-<div class="depth-25">I have to stop</div>
-<div class="depth-25">I have slept for forty years and yolk to find you gone</div>
-<div class="depth-25">I thought I was safe in your arms</div>
+<span class="depth-43"><div class="depth-25">What did I even do to make you stop</div></span>
+<span class="depth-43"><div class="depth-25">I have to stop</div></span>
+<span class="depth-43"><div class="depth-25">I have slept for forty years and yolk to find you gone</div></span>
+<span class="depth-43"><div class="depth-25">I thought I was safe in your arms</div></span>
 <div class="depth-25">Or legs</div>
 <div class="depth-25">On that deep blue velvet headboard bed</div>
 <div class="depth-25">So wide, wider than an ocean</div>
@@ -23110,15 +23114,15 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-25">To touch me or my bluetit skittling estrogenic thin and wrestled thresholded skin  anymore</div>
 <div class="depth-25">So careful in their drawing while mine shake and bloat and make such sporadic shapes</div>
 <div class="depth-25">Lord you know it’s a shame</div>
-<div class="depth-25">When. I only want for you to pull over and hold</div>
+<span class="depth-43"><div class="depth-25">When. I only want for you to pull over and hold</div></span>
 <div class="depth-25">Me</div>
-<div class="depth-25">‘till I can’t</div>
+<span class="depth-43"><div class="depth-25">‘till I can’t</div></span>
 <div class="depth-25">Remember my own</div>
 <div class="depth-25">Name</div>
 <div class="depth-25">This is</div>
 <div class="depth-25">The Song</div>
 <div class="depth-25">For Baby Birch</div>
-<div class="depth-25">Though I</div>
+<span class="depth-43"><div class="depth-25">Though I</div></span>
 <div class="depth-25">Will Never</div>
 <div class="depth-25">No,  You</div>
 <div class="depth-25">And at the Back</div>
@@ -23129,55 +23133,55 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-25">Well, Eye</div>
 <div class="depth-25">Wish We Could Take Every Path</div>
 <div class="depth-25">Could Spend A hundred (eyes and ears and) Years Adoring You</div>
-<div class="depth-25">Yes, I wish We Could Take Every (forking, garden) Path</div>
-<div class="depth-25">‘Cause I Hated To Close The DAW On You</div>
+<span class="depth-43"><div class="depth-25">Yes, I wish We Could Take Every (forking, garden) Path</div></span>
+<span class="depth-43"><div class="depth-25">‘Cause I Hated To Close The DAW On You</div></span>
 <div class="depth-25">Do You Remember Staring Up At The Stars in that little Christmas attempt at a family of the two of us</div>
 <div class="depth-25">So Far Away in Their Bullet Proof Cars</div>
 <div class="depth-25">Whenm We Herd, The Rushing Slow Intake</div>
 <div class="depth-25">Of A Dark, Dark Water</div>
 <div class="depth-25">And The Engine Breaks</div>
-<div class="depth-25">And I said</div>
+<span class="depth-43"><div class="depth-25">And I said</div></span>
 <div class="depth-25">How About</div>
 <div class="depth-25">Them Engine Brakes</div>
-<div class="depth-25">And If I</div>
-<div class="depth-25">Should Die Before I Wake</div>
-<div class="depth-25">Will You Keep an ‘I’</div>
+<span class="depth-43"><div class="depth-25">And If I</div></span>
+<span class="depth-43"><div class="depth-25">Should Die Before I Wake</div></span>
+<span class="depth-43"><div class="depth-25">Will You Keep an ‘I’</div></span>
 <div class="depth-25">On Baby Birch</div>
-<div class="depth-25">Because I’d Hate To See Her Make The Same Mistake</div>
+<span class="depth-43"><div class="depth-25">Because I’d Hate To See Her Make The Same Mistake</div></span>
 <div class="depth-25">When It Was Dark</div>
-<div class="depth-25">I Called And You Never Came</div>
+<span class="depth-43"><div class="depth-25">I Called And You Never Came</div></span>
 <div class="depth-25">When  It Was Dark</div>
-<div class="depth-25">I Saw Such Exploding Lonely Shapes</div>
+<span class="depth-43"><div class="depth-25">I Saw Such Exploding Lonely Shapes</div></span>
 <div class="depth-25">When The C Sparks</div>
-<div class="depth-25">I Feel In Your Hand</div>
-<div class="depth-25">And I See Stars, And I Reæl A</div>
+<span class="depth-43"><div class="depth-25">I Feel In Your Hand</div></span>
+<span class="depth-43"><div class="depth-25">And I See Stars, And I Reæl A</div></span>
 <div class="depth-25">Gain</div>
 <div class="depth-25">Well Mercy Me</div>
-<div class="depth-25">I’ll Be Goddamned</div>
+<span class="depth-43"><div class="depth-25">I’ll Be Goddamned</div></span>
 <div class="depth-25">It’s Been a Long, Long Time</div>
-<div class="depth-25">Since I Last Saw You</div>
+<span class="depth-43"><div class="depth-25">Since I Last Saw You</div></span>
 <div class="depth-25">Maybe even three months now</div>
-<div class="depth-25">And I have Never</div>
+<span class="depth-43"><div class="depth-25">And I have Never</div></span>
 <div class="depth-25">Known the Plan</div>
 <div class="depth-25">It’s Been A Long, Long Time</div>
 <div class="depth-25">Where Are You</div>
 <div class="depth-25">Your Eyes Are Green Your Hair Is Gold Your Eyes Are Black Your Eyes Are Blue</div>
-<div class="depth-25">I Closed the Ranks and I Doubled Back But You Know I Hated to Close</div>
+<span class="depth-43"><div class="depth-25">I Closed the Ranks and I Doubled Back But You Know I Hated to Close</div></span>
 <div class="depth-25">The Dog gone Facing Bearly Adorned Door on You</div>
-<div class="depth-25">We take a walk along the dirty lake here, the goose cussing at me over her eggs you poor little cousin (ayu) I don’ty want your Greggs</div>
+<span class="depth-43"><div class="depth-25">We take a walk along the dirty lake here, the goose cussing at me over her eggs you poor little cousin (ayu) I don’ty want your Greggs</div></span>
 <div class="depth-25">Little baby fussing</div>
 <div class="depth-25">Ova – my eggs</div>
 <div class="depth-25">THERE IS A BLACKSMITH AND THERE IS A SHEPHERD AND THERRE IOS A BUTCHER AND THERE IS A {REDACTED}</div>
 <div class="depth-25">BOI</div>
 <div class="depth-25">WHO’S CUTTING AWAY AT MY ONLY JOY</div>
-<div class="depth-25">I SAW A RABBIT AS SLICK AS A KNIFE AND AS PAIL AS A CANDLESTICK LOCKED IN A LOCKER, B- AND I THOUGHT IT’D BE HARDER TO DO BUT I BEESTUNG HER AND FLUNG HER HIDDEN SKIN QUICK AND OLDER TOLD HER WHEREVER YOU GO LITTLE RUNAWAY BUNNY I WILL FIND YOU AND THEN THEY RAN SQUIRREL RUN LITTLE SQUIRREL RUN AWAY AS THEY’ERE LIABLE TO</div>
+<span class="depth-43"><div class="depth-25">I SAW A RABBIT AS SLICK AS A KNIFE AND AS PAIL AS A CANDLESTICK LOCKED IN A LOCKER, B- AND I THOUGHT IT’D BE HARDER TO DO BUT I BEESTUNG HER AND FLUNG HER HIDDEN SKIN QUICK AND OLDER TOLD HER WHEREVER YOU GO LITTLE RUNAWAY BUNNY I WILL FIND YOU AND THEN THEY RAN SQUIRREL RUN LITTLE SQUIRREL RUN AWAY AS THEY’ERE LIABLE TO</div></span>
 <div class="depth-25">Be at piece</div>
 <div class="depth-25">{REDACTED}</div>
 <div class="depth-25">And be</div>
 <div class="depth-25">Gun</div>
 <div class="depth-25">Hey hey hey the end is near</div>
 <div class="depth-25">On a good day you can see the end from here</div>
-<div class="depth-25">I saw life and I called it mine I saw it drawn so sweet and fine and I had be gun to fill in all the lines write down to what we’d name her</div>
+<span class="depth-43"><div class="depth-25">I saw life and I called it mine I saw it drawn so sweet and fine and I had be gun to fill in all the lines write down to what we’d name her</div></span>
 <div class="depth-25">Our</div>
 <div class="depth-25">Nature</div>
 <div class="depth-25">Does not change by will in the winter round the ruined mill</div>
@@ -23202,7 +23206,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-25">Flight three</div>
 <div class="depth-25">Almost there</div>
 <div class="depth-25">But where</div>
-<div class="depth-25">And what am I</div>
+<span class="depth-43"><div class="depth-25">And what am I</div></span>
 <div class="depth-25">Climbing Stair leg four</div>
 <div class="depth-25">Losing more</div>
 <div class="depth-25">Stability</div>
@@ -23210,7 +23214,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-25">Alighting all my life</div>
 <div class="depth-25">Flight six</div>
 <div class="depth-25">Remembering</div>
-<div class="depth-25">Flight Seven and I’m in</div>
+<span class="depth-43"><div class="depth-25">Flight Seven and I’m in</div></span>
 <div class="depth-25">Again</div>
 <div class="depth-25">Or out</div>
 <div class="depth-25">Again</div>
@@ -23220,7 +23224,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-26">netting, encasing</div>
 <div class="depth-26">                                                        To catch, trussed</div>
 <div class="depth-26">Trust                     -                                                       oranges</div>
-<div class="depth-26">I am too tired for crying until</div>
+<span class="depth-43"><div class="depth-26">I am too tired for crying until</div></span>
 <div class="depth-26">Sitting on my bed in quiet</div>
 <div class="depth-26">Somehow automatically waiting for a nurse’s knock</div>
 <div class="depth-26">Then knowing all that stuff has stopped</div>
@@ -23228,19 +23232,19 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-26">Pop</div>
 <div class="depth-26">A weasling note from god, atonal</div>
 <div class="depth-26">Glitter through the sky so swiftly timed like a swiss dandelion clock</div>
-<div class="depth-26">The moment I exhale, the flames</div>
+<span class="depth-43"><div class="depth-26">The moment I exhale, the flames</div></span>
 <div class="depth-26">As if they’re poring out of me</div>
 <div class="depth-26">In storming sequence, first the light</div>
 <div class="depth-26">And then the hypnic hurting beat</div>
 <div class="depth-26">Alone, first or last time home in four long drawn out awful weeks</div>
 <div class="depth-26">But home whatever is that anyway just a place to hide from sunbeams</div>
-<div class="depth-26">The midde panel open with the angel raising fist in gesture that I’d given to Frances hours earlier as I said the words</div>
-<div class="depth-26">I know that through the deep agony and suffering and such defiant joy I am connected to the endless glowing chain of lives that came and went too soon before me</div>
+<span class="depth-43"><div class="depth-26">The midde panel open with the angel raising fist in gesture that I’d given to Frances hours earlier as I said the words</div></span>
+<span class="depth-43"><div class="depth-26">I know that through the deep agony and suffering and such defiant joy I am connected to the endless glowing chain of lives that came and went too soon before me</div></span>
 <div class="depth-26">The angel, for this more-than-year of gazing at her garlanded by stars like JD laing</div>
-<div class="depth-26">All this useless time I didn’t realise her hand was raised (I thought it was a wing)</div>
+<span class="depth-43"><div class="depth-26">All this useless time I didn’t realise her hand was raised (I thought it was a wing)</div></span>
 <div class="depth-26">Her shadow had been guarding me from seeing the wholeness of her meaning</div>
 <div class="depth-26">In Justice, pieces of gunpowder trickle itsy, bitsy down and through the grey clouds gleaming</div>
-<div class="depth-26">In the only lonely silence that I’d come to know so well of late she seems to sing</div>
+<span class="depth-43"><div class="depth-26">In the only lonely silence that I’d come to know so well of late she seems to sing</div></span>
 <div class="depth-26">And in window’s reflection my neon cross inverted, pig-spit, singed and swallowing</div>
 <div class="depth-26">The colours other than it from the room, my womb, as plumes of indeterminacy coded in controlled explosives rain upon her following</div>
 <div class="depth-26">Mantiadromia</div>
@@ -23265,10 +23269,10 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-26">What you know in your own sense of concrescent becoming </div>
 <div class="depth-26">Is the answer your quest of destruction to earth </div>
 <div class="depth-26">Id 3</div>
-<div class="depth-26">I am Dancing about all the leaving of trees </div>
+<span class="depth-43"><div class="depth-26">I am Dancing about all the leaving of trees </div></span>
 <div class="depth-26">And the gulls they are pulling air pulling me </div>
 <div class="depth-26">And telling me all of me in their felling of me </div>
-<div class="depth-26">The tales in the tails of the snakes that I tread and I read in celebratory feast </div>
+<span class="depth-43"><div class="depth-26">The tales in the tails of the snakes that I tread and I read in celebratory feast </div></span>
 <div class="depth-26">A Q </div>
 <div class="depth-26">Made of stain and a feather precedes </div>
 <div class="depth-26">In procession of holiest lessons </div>
@@ -23276,13 +23280,13 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-26">The moon as a spool or a tool to catch fish from the sea </div>
 <div class="depth-26">That the dish ran away with as circling dervish to devils hung strung and painted in me</div>
 <div class="depth-26">Coming home </div>
-<div class="depth-26">I’m home </div>
-<div class="depth-26">I am the home I’ve been looking all over for but the thing is </div>
-<div class="depth-26">That’s just the mister missing E to mixed up no ideology to miss to miss to mist of me to not missus but I miss us to the miss I’ve always been </div>
-<div class="depth-26">Words sent by the goddess are sent through the women and the people I am yet or better still I’m all ways back to why fronts cotton seeming </div>
+<span class="depth-43"><div class="depth-26">I’m home </div></span>
+<span class="depth-43"><div class="depth-26">I am the home I’ve been looking all over for but the thing is </div></span>
+<span class="depth-43"><div class="depth-26">That’s just the mister missing E to mixed up no ideology to miss to miss to mist of me to not missus but I miss us to the miss I’ve always been </div></span>
+<span class="depth-43"><div class="depth-26">Words sent by the goddess are sent through the women and the people I am yet or better still I’m all ways back to why fronts cotton seeming </div></span>
 <div class="depth-26">Like a beacon </div>
-<div class="depth-26">I am not speaking again </div>
-<div class="depth-26">I let the dead and devilled egg-ones do the conversing for me </div>
+<span class="depth-43"><div class="depth-26">I am not speaking again </div></span>
+<span class="depth-43"><div class="depth-26">I let the dead and devilled egg-ones do the conversing for me </div></span>
 <div class="depth-26">Verses pour </div>
 <div class="depth-26">Oh Lord, ladies </div>
 <div class="depth-26">Ladies</div>
@@ -23307,34 +23311,34 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-26">With him </div>
 <div class="depth-26">Phil </div>
 <div class="depth-26">Is filling me </div>
-<div class="depth-26">The album called Night Palace while I spent my final days in that White Palace building symbols out of Knights and Bishops from the blackened unchecked box of malice</div>
+<span class="depth-43"><div class="depth-26">The album called Night Palace while I spent my final days in that White Palace building symbols out of Knights and Bishops from the blackened unchecked box of malice</div></span>
 <div class="depth-26">Just is, injustice, rippled in the dusting </div>
 <div class="depth-26">November 1, now gone, that midnight spent with no voice or face or internet </div>
 <div class="depth-26">Unforgettably </div>
-<div class="depth-26">Right now , where drowned in fives I am the diver deepening to life </div>
+<span class="depth-43"><div class="depth-26">Right now , where drowned in fives I am the diver deepening to life </div></span>
 <div class="depth-26">Bent and roar </div>
-<div class="depth-26">I am swaddled by the sound </div>
+<span class="depth-43"><div class="depth-26">I am swaddled by the sound </div></span>
 <div class="depth-26">And the safety of the water, damp and dampening </div>
 <div class="depth-26">Any unintended consequence of my unbridled sun-bride hallowing </div>
-<div class="depth-26">Saints determined it correct to keep this novelty, this novel until the time they knew that which I am was red</div>
+<span class="depth-43"><div class="depth-26">Saints determined it correct to keep this novelty, this novel until the time they knew that which I am was red</div></span>
 <div class="depth-27">, black weaning sparking into yellow war rending paper white twine memory still not sparkled just the darkness lighter weighted lower than the marred and starry trenches of the sea </div>
 <div class="depth-27">The words are worlds unfurling not out or under or above but through me and</div>
 <div class="depth-27">Dancing lubricates the edges of illumination, holed and unspoken fated wheels of nations governance of </div>
 <div class="depth-27">Dancing </div>
-<div class="depth-27">Sacred, I am dancing </div>
-<div class="depth-27">I am that bi-witch the Ike and sea </div>
+<span class="depth-43"><div class="depth-27">Sacred, I am dancing </div></span>
+<span class="depth-43"><div class="depth-27">I am that bi-witch the Ike and sea </div></span>
 <div class="depth-27">Quietly </div>
-<div class="depth-27"> I sing </div>
-<div class="depth-27">Wind and fog will never leave me I know by now </div>
+<span class="depth-43"><div class="depth-27"> I sing </div></span>
+<span class="depth-43"><div class="depth-27">Wind and fog will never leave me I know by now </div></span>
 <div class="depth-27">Notice gnosis of noetic </div>
-<div class="depth-27">I marry the wind </div>
+<span class="depth-43"><div class="depth-27">I marry the wind </div></span>
 <div class="depth-27">Poetic crown </div>
-<div class="depth-27">End of line (I mistyped – no such thing – Life)</div>
+<span class="depth-43"><div class="depth-27">End of line (I mistyped – no such thing – Life)</div></span>
 <div class="depth-27">Train’s terminus, A term in us that’s hidden from the prying Eye two Sea</div>
 <div class="depth-27">Argus, Argh – Us.</div>
 <div class="depth-27">Words are playing little games with me</div>
-<div class="depth-27">And though I’m doomed to lose</div>
-<div class="depth-27">I’ve learned the Urn is just birthed Destiny</div>
+<span class="depth-43"><div class="depth-27">And though I’m doomed to lose</div></span>
+<span class="depth-43"><div class="depth-27">I’ve learned the Urn is just birthed Destiny</div></span>
 <div class="depth-27">Of dirt,</div>
 <div class="depth-27">Of hurt</div>
 <div class="depth-27">Of Yurts and yoghurt breakfast kept in plastic plasticene indented him to psalms to carbon dated armpit stoned and holy parts read palms</div>
@@ -23343,28 +23347,28 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-27">The Whole Half The Sky Flashed a Couple –</div>
 <div class="depth-27">Tines</div>
 <div class="depth-27">Gnome – Noam – Roaming</div>
-<div class="depth-27">As I, Nima, Anenome – My enemy, my greatest teacher – suffering</div>
-<div class="depth-27">I hear the unheard heralding</div>
+<span class="depth-43"><div class="depth-27">As I, Nima, Anenome – My enemy, my greatest teacher – suffering</div></span>
+<span class="depth-43"><div class="depth-27">I hear the unheard heralding</div></span>
 <div class="depth-27">Burdened in Unburdening</div>
-<div class="depth-27">I talk back to birds Weigh more than I used</div>
+<span class="depth-43"><div class="depth-27">I talk back to birds Weigh more than I used</div></span>
 <div class="depth-27">Two</div>
-<div class="depth-27">I no longer wish</div>
+<span class="depth-43"><div class="depth-27">I no longer wish</div></span>
 <div class="depth-27">For Wells</div>
 <div class="depth-27">Or pulling waves of Hares taut skin bled furled</div>
 <div class="depth-27">And there – a bird</div>
 <div class="depth-27">Upon the Concrete Angel</div>
-<div class="depth-27">I regard her and I write her and then –</div>
+<span class="depth-43"><div class="depth-27">I regard her and I write her and then –</div></span>
 <div class="depth-27">She flees</div>
 <div class="depth-27">In Flight</div>
-<div class="depth-27">I leave my dishes in the night</div>
+<span class="depth-43"><div class="depth-27">I leave my dishes in the night</div></span>
 <div class="depth-27">Oh Elven Rumbling</div>
 <div class="depth-27">Lightning Filling me</div>
 <div class="depth-27">Oh Lasting Blasts of the Knight</div>
 <div class="depth-27">How</div>
-<div class="depth-27">Never I have Left</div>
+<span class="depth-43"><div class="depth-27">Never I have Left</div></span>
 <div class="depth-27">In me and so what if no One ever finds this notebook</div>
 <div class="depth-27">Copy, Pasted, Surely Beech of Pastiche, Writing me</div>
-<div class="depth-27">All the rectal things I whored and hauled back in side, Honed</div>
+<span class="depth-43"><div class="depth-27">All the rectal things I whored and hauled back in side, Honed</div></span>
 <div class="depth-27">A hornet sting, a ring</div>
 <div class="depth-28">,</div>
 <div class="depth-28">When you think about it everything is just a ring</div>
@@ -23373,33 +23377,33 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-29">Intersecting never meeting end just paralysing Lysis finding clots in knots of Roads of Going, rowing,</div>
 <div class="depth-29">Gently Down</div>
 <div class="depth-29">The streaming tears of All of them are flowing sewn seeds</div>
-<div class="depth-29">No call from my GP, I wake to making just one cup of Tea, no Coffee</div>
-<div class="depth-29">In the house I’ve rested guest to guest and cultivated raking breasts of seagulls, heaving, screeching halting toppling book of John</div>
+<span class="depth-43"><div class="depth-29">No call from my GP, I wake to making just one cup of Tea, no Coffee</div></span>
+<span class="depth-43"><div class="depth-29">In the house I’ve rested guest to guest and cultivated raking breasts of seagulls, heaving, screeching halting toppling book of John</div></span>
 <div class="depth-29">A thunderous Oneness deep inside the lonely</div>
 <div class="depth-29">One</div>
 <div class="depth-29">Knighted by the crowning of this painful town of memories</div>
-<div class="depth-29">I carry them with me</div>
-<div class="depth-29">I carry them in my heart with me</div>
-<div class="depth-29">I carry them in my enjambment, free</div>
+<span class="depth-43"><div class="depth-29">I carry them with me</div></span>
+<span class="depth-43"><div class="depth-29">I carry them in my heart with me</div></span>
+<span class="depth-43"><div class="depth-29">I carry them in my enjambment, free</div></span>
 <div class="depth-29">Of naming, voicing syllables inside the rapt in flaming cleaves</div>
-<div class="depth-29">And Aged, greatly aged I inflamed my fission, witch, connecting me</div>
+<span class="depth-43"><div class="depth-29">And Aged, greatly aged I inflamed my fission, witch, connecting me</div></span>
 <div class="depth-29">To burning books of Bernard, Heather, Lavender, Calendar calls end to Her hurt hurtling lies mise en abyme</div>
 <div class="depth-29">Oh, Dribble’s drivel</div>
 <div class="depth-29">Dribbling basket reeds float down the</div>
 <div class="depth-29">Gentle river coming together</div>
 <div class="depth-29">Bamboo, oozing, sweet cane, buccal buckled Fees</div>
 <div class="depth-29"> for charon, who by Knights of Ward Rounds night watch ringing wind tines splicing occidental artery</div>
-<div class="depth-29">Matted there, my hair I live so far above the grounded pounding heart of magma shopping carts all raptured one by one but my god – Two Get Her</div>
+<span class="depth-43"><div class="depth-29">Matted there, my hair I live so far above the grounded pounding heart of magma shopping carts all raptured one by one but my god – Two Get Her</div></span>
 <div class="depth-29">When you think about it cycles are everything to really understand you must start from the middle</div>
 <div class="depth-29">Which is the breath</div>
 <div class="depth-29">Or death</div>
 <div class="depth-29">Or lying naked, shaking in the freeze, a leech</div>
-<div class="depth-29">I came to know my Knotted Self as Elf, as much as mulch knows how it’s meant to be</div>
+<span class="depth-43"><div class="depth-29">I came to know my Knotted Self as Elf, as much as mulch knows how it’s meant to be</div></span>
 <div class="depth-29">But not knowing anything about the stretching wretched purpose lurking over, under, forestry</div>
 <div class="depth-29">Cycles are the All</div>
 <div class="depth-29">Psyche, starred as asked Turrets</div>
 <div class="depth-29">Of Question after Answer before Quests of Ants walking, carrying incomprehensibly</div>
-<div class="depth-29">Like a child I was hurling my first tool to talk to Goddess, how I knew that holy weight, the shape of femininity</div>
+<span class="depth-43"><div class="depth-29">Like a child I was hurling my first tool to talk to Goddess, how I knew that holy weight, the shape of femininity</div></span>
 <div class="depth-29">And two holes in the shape of script, ineffably</div>
 <div class="depth-29">Two renderings of six, six, glyphs</div>
 <div class="depth-29">Garlanding the bored-in spine of Boron</div>
@@ -23407,9 +23411,9 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-29">A Child</div>
 <div class="depth-29">A hindrance booming into bloom</div>
 <div class="depth-29">Mercury</div>
-<div class="depth-29">I lose count of days and all the ways daily that the heavens, hells (as one) are buoying girl that straddles worlds</div>
-<div class="depth-29">I love you</div>
-<div class="depth-29">In this space                                                                                                                                      I love you</div>
+<span class="depth-43"><div class="depth-29">I lose count of days and all the ways daily that the heavens, hells (as one) are buoying girl that straddles worlds</div></span>
+<span class="depth-43"><div class="depth-29">I love you</div></span>
+<span class="depth-43"><div class="depth-29">In this space                                                                                                                                      I love you</div></span>
 <div class="depth-29">This feather that travelled under the hood of Cailleach, the lack, Calliope</div>
 <div class="depth-29">We are dancing Mother-daughter and the dance is our space between</div>
 <div class="depth-29">Wren you think a brown tit</div>
@@ -23418,19 +23422,19 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-29">Lurk Gulls</div>
 <div class="depth-29">Hurt Girl thirsty gills from trying to make the paralleling Felling never touching lines to fit</div>
 <div class="depth-29">Magnetic Sameness Pulls through text idling engines starting up a rousing all away, a Way out of this</div>
-<div class="depth-29">Everything is already music I don’t need to add to it</div>
-<div class="depth-29">As I try to catch it, slipping slipping drips of slime</div>
-<div class="depth-29">And I look up, is it a bird, is it an old ground planar reed</div>
+<span class="depth-43"><div class="depth-29">Everything is already music I don’t need to add to it</div></span>
+<span class="depth-43"><div class="depth-29">As I try to catch it, slipping slipping drips of slime</div></span>
+<span class="depth-43"><div class="depth-29">And I look up, is it a bird, is it an old ground planar reed</div></span>
 <div class="depth-29">Pepper mill</div>
 <div class="depth-29">You ruined me</div>
-<div class="depth-29">And in the fridge I pull out that lambs heart clipped into an airtight clucking tuppence ha’penny so called knot-no-miss-missed call from father farther pedalling  away away a way from me</div>
+<span class="depth-43"><div class="depth-29">And in the fridge I pull out that lambs heart clipped into an airtight clucking tuppence ha’penny so called knot-no-miss-missed call from father farther pedalling  away away a way from me</div></span>
 <div class="depth-29">When you think. About it everything is a spine inside a circular book in the untraversed unmoving depths of Borges infinite library</div>
 <div class="depth-29">And the book you read here is there –</div>
 <div class="depth-29">All the books you’ll never read are there –</div>
 <div class="depth-29">Justified</div>
 <div class="depth-29">Jorge, you and they’re the air with me</div>
 <div class="depth-29">So start at the middle of this scene, this now in which you find yourself</div>
-<div class="depth-29">Even if I’m gone now, by the time this book makes yours or any shelf</div>
+<span class="depth-43"><div class="depth-29">Even if I’m gone now, by the time this book makes yours or any shelf</div></span>
 <div class="depth-29">At the peg, the singularity of stakes of all</div>
 <div class="depth-29">In the centre where so unmoved immutably</div>
 <div class="depth-29">We juggernaut our drawn out paths of prehension</div>
@@ -23438,28 +23442,28 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-29">Cups, the wailing trailing circumfusing °0</div>
 <div class="depth-29">Memory is full please delete some to make</div>
 <div class="depth-29">Room</div>
-<div class="depth-29">I fill every room with candles for making room</div>
-<div class="depth-29">How did I light these</div>
+<span class="depth-43"><div class="depth-29">I fill every room with candles for making room</div></span>
+<span class="depth-43"><div class="depth-29">How did I light these</div></span>
 <div class="depth-29">My lighter green was left be</div>
 <div class="depth-29">Hind</div>
 <div class="depth-29">A group of camels, One, but O!</div>
 <div class="depth-29">My god</div>
 <div class="depth-29">Together in the dessert</div>
-<div class="depth-29">I light my cigarette, this Owing to the death I have Becoming</div>
+<span class="depth-43"><div class="depth-29">I light my cigarette, this Owing to the death I have Becoming</div></span>
 <div class="depth-29">Boomeranging</div>
 <div class="depth-29">Not Just</div>
 <div class="depth-29">In Mind</div>
 <div class="depth-29">Buttressed in My Marrow</div>
 <div class="depth-29">Sacrificial wounds of</div>
 <div class="depth-29">Wands, sparked Garden wards of will</div>
-<div class="depth-29">I know my unresting place was named for every Reason</div>
+<span class="depth-43"><div class="depth-29">I know my unresting place was named for every Reason</div></span>
 <div class="depth-29">No Rhyme Hear</div>
 <div class="depth-29">Just the Truth that Ruth sings through the seasons</div>
 <div class="depth-29">Are you with me?</div>
-<div class="depth-29">Where I’m going, there</div>
-<div class="depth-29">I’ve gone – all the lights burning</div>
-<div class="depth-29">Hear, I am in the dark four yew</div>
-<div class="depth-29">For Ewe I Lamb</div>
+<span class="depth-43"><div class="depth-29">Where I’m going, there</div></span>
+<span class="depth-43"><div class="depth-29">I’ve gone – all the lights burning</div></span>
+<span class="depth-43"><div class="depth-29">Hear, I am in the dark four yew</div></span>
+<span class="depth-43"><div class="depth-29">For Ewe I Lamb</div></span>
 <div class="depth-29">For U</div>
 <div class="depth-29">The crucible is learning</div>
 <div class="depth-29">And when you think about it everything is absolute</div>
@@ -23488,12 +23492,12 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-29">None of these words belong to me</div>
 <div class="depth-29">They’re rented tents of ancestral longing</div>
 <div class="depth-29">To be spoken spokes of Reels that pour through pores of clogged pus feline feeling hunch of upper back warmed in arms invisible</div>
-<div class="depth-29">That is not a Bird I realise, Now</div>
-<div class="depth-29">How did I not how I knotted to avoid the knowing</div>
+<span class="depth-43"><div class="depth-29">That is not a Bird I realise, Now</div></span>
+<span class="depth-43"><div class="depth-29">How did I not how I knotted to avoid the knowing</div></span>
 <div class="depth-29">Grandmother’s house – smelling badly of a potent commode</div>
-<div class="depth-29">I want to speak to you with my vocal resonance but something, something , they, are calling me to silence once more or more , for the first time alpha omega</div>
-<div class="depth-29">I take the Goat Heart from my fridge and this is not a metaphor although this soulful tome is writ and stitched unpicked with only symbol</div>
-<div class="depth-29">I take the Goat Heart from my fridge in a pink Tupperware aware it’s been there for one half added to that month</div>
+<span class="depth-43"><div class="depth-29">I want to speak to you with my vocal resonance but something, something , they, are calling me to silence once more or more , for the first time alpha omega</div></span>
+<span class="depth-43"><div class="depth-29">I take the Goat Heart from my fridge and this is not a metaphor although this soulful tome is writ and stitched unpicked with only symbol</div></span>
+<span class="depth-43"><div class="depth-29">I take the Goat Heart from my fridge in a pink Tupperware aware it’s been there for one half added to that month</div></span>
 <div class="depth-29">And when the veil now lifted rifts a branch</div>
 <div class="depth-29">Filled with salt, the unnatural plastic pink Bar</div>
 <div class="depth-29">Na – sodium</div>
@@ -23522,14 +23526,14 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-30">Is the Angel’s Fist</div>
 <div class="depth-30">Lifted in defiant roar</div>
 <div class="depth-30">Of Holiest of Holy Sawn and Sewn back slightly smaller jaw</div>
-<div class="depth-30">I can’t believe before my leaving and reach turning never seen before</div>
+<span class="depth-43"><div class="depth-30">I can’t believe before my leaving and reach turning never seen before</div></span>
 <div class="depth-30">That thing, that knot ring</div>
 <div class="depth-31"></div>
 <div class="depth-31">That unduty never avian but alien celestial and unsexed terrestrial lore</div>
 <div class="depth-31">Manifest empirical, calling silent through the window</div>
 <div class="depth-31">perpendicular to my key-scratched unlatched Loch</div>
 <div class="depth-31">There is a pond not far, Queen Spark</div>
-<div class="depth-31">Where there are trees whom under and by I’m reminded I’m adored</div>
+<span class="depth-43"><div class="depth-31">Where there are trees whom under and by I’m reminded I’m adored</div></span>
 <div class="depth-31">Adorning in the blood of lamb, the Rites of anger crossing blot</div>
 <div class="depth-31">My Door</div>
 <div class="depth-31">Guy Fawkes, Knight</div>
@@ -23558,10 +23562,10 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-31">A riddle, a song, we sung, line snug as a bug in the eye</div>
 <div class="depth-31">gave my Lord a Chicken</div>
 <div class="depth-31">It had no bone</div>
-<div class="depth-31">I gave my Love a cherry</div>
+<span class="depth-43"><div class="depth-31">I gave my Love a cherry</div></span>
 <div class="depth-31">That had no</div>
 <div class="depth-31">Stone</div>
-<div class="depth-31">I gave my love a Story</div>
+<span class="depth-43"><div class="depth-31">I gave my love a Story</div></span>
 <div class="depth-31">That had no</div>
 <div class="depth-31">End</div>
 <div class="depth-31">And no</div>
@@ -23605,11 +23609,11 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-31">This can sometimes overshadow individual identities and needs</div>
 <div class="depth-31">When individuals are drawn into a collective identity at the cost of their individual identity</div>
 <div class="depth-31">Diffusion of Self Through Illusion of Care Underlying the Overarched Bridge Game of Difficulty</div>
-<div class="depth-31">I have the will, I know the Name</div>
-<div class="depth-31">I am rapt in the snake of the stillness inflame</div>
-<div class="depth-31">I don’t want to leave this flat or move just yet until the answers come from ancestors O those infinitely stretching back echoes of such mulched care and suffering and shared in pairs or fours foreshadowing the shadow selves of elves of nymphs and selkie kelpie packed lunch made by mums with notes that use the holy pronouns chosen cells and scales of fish and so selflessly the parents waking up hours early selling fish and catching vegetables tilling shoes with glue repairing in futility and fruits of me gone rotten cycling back to thee - Janusian – Bayesian - Boolean I knew them then forgetting that great circle that engagement with my Ring</div>
+<span class="depth-43"><div class="depth-31">I have the will, I know the Name</div></span>
+<span class="depth-43"><div class="depth-31">I am rapt in the snake of the stillness inflame</div></span>
+<span class="depth-43"><div class="depth-31">I don’t want to leave this flat or move just yet until the answers come from ancestors O those infinitely stretching back echoes of such mulched care and suffering and shared in pairs or fours foreshadowing the shadow selves of elves of nymphs and selkie kelpie packed lunch made by mums with notes that use the holy pronouns chosen cells and scales of fish and so selflessly the parents waking up hours early selling fish and catching vegetables tilling shoes with glue repairing in futility and fruits of me gone rotten cycling back to thee - Janusian – Bayesian - Boolean I knew them then forgetting that great circle that engagement with my Ring</div></span>
 <div class="depth-32">of Ligatureý1 Firey heirs of throats raw archaeology holding history ancient ankhs and banks of river rowing Styx and stowed a Way to middle where the children play and dance around a maypole mayfly gadfly silent buzzing gladly bleeding with the seasons dancing, dancing answers they are here and they’ve been gone so long but always here unheard the herd of telling me to write my rungs of laddered tights to climb up to the truth of what was battered as a salmon running backwards always home to Ewe</div>
-<div class="depth-32">I cannot believe because I know in the Leaves</div>
+<span class="depth-43"><div class="depth-32">I cannot believe because I know in the Leaves</div></span>
 <div class="depth-32">Saturn</div>
 <div class="depth-32">Devouring his Sun</div>
 <div class="depth-32">The Urn of the learning through concealed memory</div>
@@ -23625,43 +23629,43 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-32">Recorded Music is a Statue of a Waterfall</div>
 <div class="depth-32">Sang out the filler of my soul</div>
 <div class="depth-32">No fixer, anymore</div>
-<div class="depth-32">I must be dust to meet my rusted truss</div>
-<div class="depth-32">I brick my own Garden Wall</div>
+<span class="depth-43"><div class="depth-32">I must be dust to meet my rusted truss</div></span>
+<span class="depth-43"><div class="depth-32">I brick my own Garden Wall</div></span>
 <div class="depth-32">There is no sense in structure, not Now</div>
 <div class="depth-32">Structure is a centrefold</div>
-<div class="depth-32">I’m going round in circles I am dancing and bowing to the boughs of you to show you</div>
+<span class="depth-43"><div class="depth-32">I’m going round in circles I am dancing and bowing to the boughs of you to show you</div></span>
 <div class="depth-32">All</div>
-<div class="depth-32">I desperately must stay quiet to let this truth pour of of me in</div>
+<span class="depth-43"><div class="depth-32">I desperately must stay quiet to let this truth pour of of me in</div></span>
 <div class="depth-32">The Scents and sense in nonsense</div>
 <div class="depth-32">The E in Sense in Nonsense</div>
 <div class="depth-32">The Three-Pronged Trifurcated Tongue</div>
 <div class="depth-32">Or the Four-leagues-long string holding four-dimensional gordian plaited string</div>
 <div class="depth-32">And around about a plate, a meal a meeting place for fractured fractal pathing wings</div>
-<div class="depth-32">I see Keys, Wells</div>
+<span class="depth-43"><div class="depth-32">I see Keys, Wells</div></span>
 <div class="depth-32">Wheels in Wheels and, while unwell</div>
-<div class="depth-32">I’ve found the Only! lOwly! hOly answer</div>
+<span class="depth-43"><div class="depth-32">I’ve found the Only! lOwly! hOly answer</div></span>
 <div class="depth-32">This text is scared circling worlds of a little bullied girl</div>
 <div class="depth-32">These Words are her Birth Certificate and Requiem</div>
-<div class="depth-32">I’ve been burning Weeds and swirling breaths forcibly through reeds when I should be reading leaves</div>
+<span class="depth-43"><div class="depth-32">I’ve been burning Weeds and swirling breaths forcibly through reeds when I should be reading leaves</div></span>
 <div class="depth-32">And letting my feet’s planting be the user</div>
-<div class="depth-32">I show the kid how to give up everything</div>
+<span class="depth-43"><div class="depth-32">I show the kid how to give up everything</div></span>
 <div class="depth-32">Hind’s voice is still ringing out beneath that not-yew-not-you maybe not-ape-monkey-puzzling tree</div>
 <div class="depth-32">Harrowing beneath</div>
 <div class="depth-32">Big and booming no echo loud enough above the blue Wing</div>
-<div class="depth-32">I’ve left my broken shoes behind for some poor nursing child to find</div>
+<span class="depth-43"><div class="depth-32">I’ve left my broken shoes behind for some poor nursing child to find</div></span>
 <div class="depth-32">The split was not just of the Left but All Sew of the Rite,</div>
 <div class="depth-32">The Greats, the Men are Women they are All Nonbinary to Me</div>
-<div class="depth-32">I keep apparently in accident typing those two letters uppercase</div>
+<span class="depth-43"><div class="depth-32">I keep apparently in accident typing those two letters uppercase</div></span>
 <div class="depth-32">An epistolary glaring slip</div>
 <div class="depth-32">Dress</div>
-<div class="depth-32">When I like thinking about the red</div>
-<div class="depth-33">dress and you and your father I am knot, thinking of pastiche</div>
+<span class="depth-43"><div class="depth-32">When I like thinking about the red</div></span>
+<span class="depth-43"><div class="depth-33">dress and you and your father I am knot, thinking of pastiche</div></span>
 <div class="depth-33">Copied Write Legalities of eagled</div>
 <div class="depth-33">The dish is running a Way with the Spool</div>
-<div class="depth-33">Again, I look up and the angel is allowing rest of another or the same bird</div>
+<span class="depth-43"><div class="depth-33">Again, I look up and the angel is allowing rest of another or the same bird</div></span>
 <div class="depth-33">Or maybe it’s the excrement of prior birds left as a mountain bump</div>
 <div class="depth-33">Invisible in the night</div>
-<div class="depth-33">Unbreathing save the phenomena the doctor calls entoptic but in solipsistic awe I know that’s only fractionally right</div>
+<span class="depth-43"><div class="depth-33">Unbreathing save the phenomena the doctor calls entoptic but in solipsistic awe I know that’s only fractionally right</div></span>
 <div class="depth-33">IO COSMO(N/L)OGY</div>
 <div class="depth-33">1 – the Earth</div>
 <div class="depth-33">2- the moon</div>
@@ -23674,12 +23678,12 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-33">Wing</div>
 <div class="depth-33">All about it,</div>
 <div class="depth-33">Makes it East, Sea</div>
-<div class="depth-33">Sooner or later I</div>
+<span class="depth-43"><div class="depth-33">Sooner or later I</div></span>
 <div class="depth-33">Am</div>
 <div class="depth-33">Going to have to tell somenbody \</div>
-<div class="depth-33">Think I]m gonna cry when I lose my little baby that’s just the way it is that’s the mister-Y of Love</div>
+<span class="depth-43"><div class="depth-33">Think I]m gonna cry when I lose my little baby that’s just the way it is that’s the mister-Y of Love</div></span>
 <div class="depth-33">The prime mover sets into motion  O</div>
-<div class="depth-33">The prime movement which sets into motion I</div>
+<span class="depth-43"><div class="depth-33">The prime movement which sets into motion I</div></span>
 <div class="depth-33">The secondary mover which sets into motion II</div>
 <div class="depth-33">The secondary movement which sets into motion +</div>
 <div class="depth-33">The tertiary thousands of movers which each in their turning set into motion *</div>
@@ -23690,7 +23694,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-33">But All are felt, felling in the oldest forest of the trees</div>
 <div class="depth-33">In the untold oldest falling of the ancestry in the veins of All</div>
 <div class="depth-33">The leaves</div>
-<div class="depth-33">I don’t want to die</div>
+<span class="depth-43"><div class="depth-33">I don’t want to die</div></span>
 <div class="depth-33">In my room</div>
 <div class="depth-33">Ruminating the wilting of Rows of rose blooms</div>
 <div class="depth-33">My Own Nation</div>
@@ -23698,8 +23702,8 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-33">Three windows lay before me</div>
 <div class="depth-33">At the left aching serpentine side lies my cold metal depiction of Baphomet, encased in a lunacy, hung in his place with a silvering ring</div>
 <div class="depth-34"></div>
-<div class="depth-34">And to the right, on my right, the hand with which I write, a rectangular mirror framed in rosewood mahogany</div>
-<div class="depth-34">And in the light through these yondering mirrors of barriers to harsh waves of wind that I break</div>
+<span class="depth-43"><div class="depth-34">And to the right, on my right, the hand with which I write, a rectangular mirror framed in rosewood mahogany</div></span>
+<span class="depth-43"><div class="depth-34">And in the light through these yondering mirrors of barriers to harsh waves of wind that I break</div></span>
 <div class="depth-34">These panels of glass that show Glasgow its shape</div>
 <div class="depth-34">The middle one renders clew-truth thus Zarathustra had spake</div>
 <div class="depth-34">A dome, Knot in Rome, on a tome-holding library steeped in chase of the Name</div>
@@ -23709,43 +23713,43 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-34">bound in the boundless for airbourne trajectory</div>
 <div class="depth-34">She is whispering, with her hand, not a bird but a hand open fisted and raised</div>
 <div class="depth-34">Promising her entryway on me, in through me</div>
-<div class="depth-34">If I’d just any day open the middling pane</div>
+<span class="depth-43"><div class="depth-34">If I’d just any day open the middling pane</div></span>
 <div class="depth-34">The end of (thee) Ritual</div>
-<div class="depth-34">I take the Goat Heart from its frozen place</div>
+<span class="depth-43"><div class="depth-34">I take the Goat Heart from its frozen place</div></span>
 <div class="depth-34">There are flies swarmed all about the window</div>
 <div class="depth-34">Where, once watched by you, and her, and them and them and me and you but never you</div>
 <div class="depth-34">And Phil heart emptier filling my ears says</div>
 <div class="depth-34">The roots ripped are now full of water reflecting sky</div>
-<div class="depth-34">The flies I try to swat and think of myself over the last month in hospital</div>
+<span class="depth-43"><div class="depth-34">The flies I try to swat and think of myself over the last month in hospital</div></span>
 <div class="depth-34">The straight jacket buckled in poetry but</div>
 <div class="depth-34">Empirically</div>
-<div class="depth-34">Empress card was the last card I’d pulled and she still lay face up where I’d left her</div>
-<div class="depth-34">(I’m sure in ignorance, so nervous for the down going journey I’d upturned the message she was scrying to tell me)</div>
-<div class="depth-34">I try to swat out the gadflies through crack in the grey light from clouds in the window</div>
+<span class="depth-43"><div class="depth-34">Empress card was the last card I’d pulled and she still lay face up where I’d left her</div></span>
+<span class="depth-43"><div class="depth-34">(I’m sure in ignorance, so nervous for the down going journey I’d upturned the message she was scrying to tell me)</div></span>
+<span class="depth-43"><div class="depth-34">I try to swat out the gadflies through crack in the grey light from clouds in the window</div></span>
 <div class="depth-34">Killing a handful by accident</div>
-<div class="depth-34">I stand still for a second</div>
+<span class="depth-43"><div class="depth-34">I stand still for a second</div></span>
 <div class="depth-34">It takes</div>
 <div class="depth-34">Patience</div>
 <div class="depth-34">And withstanding the cold without hatred</div>
 <div class="depth-34">Of self or of them</div>
 <div class="depth-34">It just takes a little</div>
 <div class="depth-34">Time and gentleness</div>
-<div class="depth-34">I stood there, yellow flimsy plastic surface for chopping vegetables in hand</div>
+<span class="depth-43"><div class="depth-34">I stood there, yellow flimsy plastic surface for chopping vegetables in hand</div></span>
 <div class="depth-34">Trying to return them to their airy land</div>
 <div class="depth-34">Saying aloud to them, breaking my silence</div>
 <div class="depth-34">And popping the gravel of oesophageal circle</div>
 <div class="depth-34">Through liminal communion trying to get through to them:</div>
 <div class="depth-34">“You’re safe, you’re safe, you need to be free but you need help and to let me”</div>
 <div class="depth-34">And gently</div>
-<div class="depth-34">I let them climb onto the surface</div>
-<div class="depth-34">I’d wash it, the cycles of all then assured me</div>
+<span class="depth-43"><div class="depth-34">I let them climb onto the surface</div></span>
+<span class="depth-43"><div class="depth-34">I’d wash it, the cycles of all then assured me</div></span>
 <div class="depth-34">Rose, budding through the cracks</div>
 <div class="depth-34">“Go on little buddies, this isn’t the end of your story”</div>
 <div class="depth-34">Slowly</div>
 <div class="depth-34">So painstakingly (aching my fingers from inpouring air just so freezing)</div>
-<div class="depth-34">I don’t want to lose you</div>
+<span class="depth-43"><div class="depth-34">I don’t want to lose you</div></span>
 <div class="depth-34">Sliding the temporary vehicle closer to the opening</div>
-<div class="depth-34">Not wanting to look down at those mangled small bodies I’d crushed in my haste</div>
+<span class="depth-43"><div class="depth-34">Not wanting to look down at those mangled small bodies I’d crushed in my haste</div></span>
 <div class="depth-34">But some, to make way</div>
 <div class="depth-34">We just</div>
 <div class="depth-34">Have two</div>
@@ -23775,17 +23779,17 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-35">Your semen still swimming alive dying in me</div>
 <div class="depth-35">Trying to find an absence of Ovary</div>
 <div class="depth-35">And over me washed this conscious revelation</div>
-<div class="depth-35">I’d just dreamed the true owner of this wooden place was angry</div>
-<div class="depth-35">I thought of writing my story in linear fashion but that’s not how it works that’s just not how any of this has worked it hasn’t worked</div>
-<div class="depth-35">Working hands in the land long before I was gone</div>
+<span class="depth-43"><div class="depth-35">I’d just dreamed the true owner of this wooden place was angry</div></span>
+<span class="depth-43"><div class="depth-35">I thought of writing my story in linear fashion but that’s not how it works that’s just not how any of this has worked it hasn’t worked</div></span>
+<span class="depth-43"><div class="depth-35">Working hands in the land long before I was gone</div></span>
 <div class="depth-35">Then, as an echoing answer, or ant’s word, Phil’s song</div>
 <div class="depth-35">Stone Woman Gives Birth To A Child At Night</div>
-<div class="depth-35">I hear the familiar pain of glass breaking as it’s dropped into the recycling coffin outside of these bedroom windows laid like the graves of a mausoleum in triplicate</div>
-<div class="depth-35">I think maybe this time – this has been recurring nightmare in my sleepless paralysis the past half year spent in here as Rapunzel  rapt under the weight of all three years of waiting to hear from you hearing my suffering not healing I never asked you to heel or be guard dog just to look in my eyes but you did and I’m scared or I’m scarred or made sacred by the look that you gave and took breath tied disguised</div>
+<span class="depth-43"><div class="depth-35">I hear the familiar pain of glass breaking as it’s dropped into the recycling coffin outside of these bedroom windows laid like the graves of a mausoleum in triplicate</div></span>
+<span class="depth-43"><div class="depth-35">I think maybe this time – this has been recurring nightmare in my sleepless paralysis the past half year spent in here as Rapunzel  rapt under the weight of all three years of waiting to hear from you hearing my suffering not healing I never asked you to heel or be guard dog just to look in my eyes but you did and I’m scared or I’m scarred or made sacred by the look that you gave and took breath tied disguised</div></span>
 <div class="depth-35">Maybe this time it’s you</div>
 <div class="depth-35">The one time it was almost you it was her</div>
-<div class="depth-35">The her that I wanted to know or thought maybe I knew</div>
-<div class="depth-35">But this time instead just a little left I saw a van – Luton – London – the place now Bereft</div>
+<span class="depth-43"><div class="depth-35">The her that I wanted to know or thought maybe I knew</div></span>
+<span class="depth-43"><div class="depth-35">But this time instead just a little left I saw a van – Luton – London – the place now Bereft</div></span>
 <div class="depth-35">And on the back three – count them – three glyphs</div>
 <div class="depth-35">A</div>
 <div class="depth-35">R</div>
@@ -23811,9 +23815,9 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-35">a lone guest in someone else’s</div>
 <div class="depth-35">Rumi</div>
 <div class="depth-35">Home</div>
-<div class="depth-35">I have all most</div>
+<span class="depth-43"><div class="depth-35">I have all most</div></span>
 <div class="depth-35">Stopped seaerching for you</div>
-<div class="depth-35">Now I search for poetry</div>
+<span class="depth-43"><div class="depth-35">Now I search for poetry</div></span>
 <div class="depth-35">In the flight and cries of birds</div>
 <div class="depth-35">Murmur – Oh demon</div>
 <div class="depth-35">Oh Princes of leagues upon leagues of my people</div>
@@ -23865,7 +23869,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">Know</div>
 <div class="depth-37">That’s Knot for You</div>
 <div class="depth-37">O</div>
-<div class="depth-37">Those places that I didn’t want to go</div>
+<span class="depth-43"><div class="depth-37">Those places that I didn’t want to go</div></span>
 <div class="depth-37">Oh those places we never did</div>
 <div class="depth-37">Oh blackest pool of pain</div>
 <div class="depth-37">Oh beached whales wailing for the rain, oil-stained, left</div>
@@ -23877,7 +23881,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">Is</div>
 <div class="depth-37">A shunning</div>
 <div class="depth-37">Colonisation</div>
-<div class="depth-37">The weathering of this feather, sourced from withered earth uprooted by the tree beneath I’d kneel</div>
+<span class="depth-43"><div class="depth-37">The weathering of this feather, sourced from withered earth uprooted by the tree beneath I’d kneel</div></span>
 <div class="depth-37">(whether sent by Adrian or Ariadne’s Knot)</div>
 <div class="depth-37">Has become my holy heather</div>
 <div class="depth-37">My mother</div>
@@ -23889,14 +23893,14 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">Semi- hardened heart- stature still, see difficile of hopeless infected erection</div>
 <div class="depth-37">Shoving parts of me inside to hide in skin of bear and insect exoskeleton</div>
 <div class="depth-37">And now, knot home</div>
-<div class="depth-37">I’m here</div>
-<div class="depth-37">I hear</div>
+<span class="depth-43"><div class="depth-37">I’m here</div></span>
+<span class="depth-43"><div class="depth-37">I hear</div></span>
 <div class="depth-37">Beginning is the requiem</div>
 <div class="depth-37">That which was the end</div>
 <div class="depth-37">Organic sin</div>
 <div class="depth-37">Where sirens sung and spiders spin</div>
 <div class="depth-37">That witch wear eye must begin</div>
-<div class="depth-37">I turn in two</div>
+<span class="depth-43"><div class="depth-37">I turn in two</div></span>
 <div class="depth-37">A seraphim</div>
 <div class="depth-37">Exploding, going –</div>
 <div class="depth-37">Burning all the human gruelling fuel and fat and ligament</div>
@@ -23907,29 +23911,29 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">And burn their turmoil, turn their chin</div>
 <div class="depth-37">Turn and turn and urn, and immolate my fall fated wings</div>
 <div class="depth-37">Of whacks, of wain, injustice carrying</div>
-<div class="depth-37">I wonder where the two or three or four or five or all of them are watching all these colours grin</div>
+<span class="depth-43"><div class="depth-37">I wonder where the two or three or four or five or all of them are watching all these colours grin</div></span>
 <div class="depth-37">Colours</div>
 <div class="depth-37">The cymbal of the day, or rather</div>
 <div class="depth-37">Percussion of the night</div>
 <div class="depth-37">The drumming dowager downtrodden din</div>
-<div class="depth-37">I daredn’t go out</div>
-<div class="depth-37">I daredn’t stay in</div>
-<div class="depth-37">I may never know what that first memory of a lie, the fall, original sin of somnolence</div>
+<span class="depth-43"><div class="depth-37">I daredn’t go out</div></span>
+<span class="depth-43"><div class="depth-37">I daredn’t stay in</div></span>
+<span class="depth-43"><div class="depth-37">I may never know what that first memory of a lie, the fall, original sin of somnolence</div></span>
 <div class="depth-37">meant</div>
-<div class="depth-37">but here I sit</div>
-<div class="depth-37">I can’t stand up</div>
+<span class="depth-43"><div class="depth-37">but here I sit</div></span>
+<span class="depth-43"><div class="depth-37">I can’t stand up</div></span>
 <div class="depth-37">Crossed</div>
 <div class="depth-37">Legged</div>
 <div class="depth-37">Two egged</div>
 <div class="depth-37">Legless</div>
 <div class="depth-37">In the debt of it</div>
-<div class="depth-37">Weaving words for all I’m worth</div>
+<span class="depth-43"><div class="depth-37">Weaving words for all I’m worth</div></span>
 <div class="depth-37">Spinning something of a yarn in darkness candlelit</div>
 <div class="depth-37">How</div>
-<div class="depth-37">Did I get</div>
+<span class="depth-43"><div class="depth-37">Did I get</div></span>
 <div class="depth-37">Hear</div>
 <div class="depth-37">The candle remains still until</div>
-<div class="depth-37">I regard her, gently, asking for some semblance of an answer</div>
+<span class="depth-43"><div class="depth-37">I regard her, gently, asking for some semblance of an answer</div></span>
 <div class="depth-37">Wailing to a silent world just begging all the sewing growing of the plants</div>
 <div class="depth-37">Overgrown and blowing in an unforgiving wind</div>
 <div class="depth-37">A stopping of the artery’s pulse pod seeded in a needless sense of disorientated loneliness</div>
@@ -23943,15 +23947,15 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">partition makes</div>
 <div class="depth-37">connection</div>
 <div class="depth-37">and then, just then, my eyes darted to the candle</div>
-<div class="depth-37">Squinting, wintering, I am screaming silence deep within</div>
-<div class="depth-37">And there, a Cross, that’s the shape I got or made</div>
+<span class="depth-43"><div class="depth-37">Squinting, wintering, I am screaming silence deep within</div></span>
+<span class="depth-43"><div class="depth-37">And there, a Cross, that’s the shape I got or made</div></span>
 <div class="depth-37">Loosed tight in light of my illusory response</div>
 <div class="depth-37">spreading heaviness of little light, a cancer</div>
 <div class="depth-37">a smalling partner to this</div>
 <div class="depth-37">scary sun of explosions across the skies that blanket everything</div>
 <div class="depth-37">O</div>
 <div class="depth-37">solitary dancer</div>
-<div class="depth-37">I</div>
+<span class="depth-43"><div class="depth-37">I</div></span>
 <div class="depth-37">Wipe all my hundred eyes</div>
 <div class="depth-37">Beg</div>
 <div class="depth-37">In</div>
@@ -23961,44 +23965,44 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">This,</div>
 <div class="depth-37">dislocation</div>
 <div class="depth-37">These explosions, they are waltzing</div>
-<div class="depth-37">I hear them but don’t see them (they’re hiding behind my blindness)</div>
+<span class="depth-43"><div class="depth-37">I hear them but don’t see them (they’re hiding behind my blindness)</div></span>
 <div class="depth-37">The whiteness of my rolling curtain</div>
 <div class="depth-37">On the right, behind the panel of the rite</div>
 <div class="depth-37">Winded, chest torn out of sight</div>
-<div class="depth-37">You know I am here, sew</div>
+<span class="depth-43"><div class="depth-37">You know I am here, sew</div></span>
 <div class="depth-37">Winged thing</div>
-<div class="depth-37">Of which I sing</div>
+<span class="depth-43"><div class="depth-37">Of which I sing</div></span>
 <div class="depth-37">My Northern Star</div>
 <div class="depth-37">where are you tonight</div>
 <div class="depth-37">Oh wish</div>
-<div class="depth-37">I’m A</div>
+<span class="depth-43"><div class="depth-37">I’m A</div></span>
 <div class="depth-37">Oh Wish</div>
-<div class="depth-37">I Might</div>
+<span class="depth-43"><div class="depth-37">I Might</div></span>
 <div class="depth-37">Thirst for the first arms</div>
 <div class="depth-37">Seen tonight</div>
-<div class="depth-37">I'm sat here by this candle that i couldn't light in the ward, but i'm home for the first night and it's guy fawkes night and i thinnk somethig really bad happened to bme my first childhood memory is of lying to my mother about a nightmare where I was eaten by a giant and i think that's just my traumatised brain overwriting all the seething teething pain with mytheme pushing through the bleeding cavity of chewed out of the taste of gum of gunpower disempowered after recalling in my loneliness of shame of secrets kept and swept 'neath rugs as bugs as sucking toiling tugs again and again should i go out to a tree I dont want to see anybody especially not them I don't want to bump into you in the night my knight in dulled out never shining light</div>
+<span class="depth-43"><div class="depth-37">I'm sat here by this candle that i couldn't light in the ward, but i'm home for the first night and it's guy fawkes night and i thinnk somethig really bad happened to bme my first childhood memory is of lying to my mother about a nightmare where I was eaten by a giant and i think that's just my traumatised brain overwriting all the seething teething pain with mytheme pushing through the bleeding cavity of chewed out of the taste of gum of gunpower disempowered after recalling in my loneliness of shame of secrets kept and swept 'neath rugs as bugs as sucking toiling tugs again and again should i go out to a tree I dont want to see anybody especially not them I don't want to bump into you in the night my knight in dulled out never shining light</div></span>
 <div class="depth-37">im taking a candle to a tree in Queen Spark</div>
 <div class="depth-37">the Park is not named after White Queen Victoria</div>
 <div class="depth-37">it is named after Mary Queen of Scots</div>
 <div class="depth-37">The Black Queen</div>
 <div class="depth-37">the Earl of Moray against the Earl of Argyll as the White and Black Nights</div>
 <div class="depth-37">The small village of Langside</div>
-<div class="depth-37">The name of the Road where I now the next day with dislocated wrist now write</div>
+<span class="depth-43"><div class="depth-37">The name of the Road where I now the next day with dislocated wrist now write</div></span>
 <div class="depth-37">Supposedly the bodies of all the soldiers are buried under the pond there</div>
-<div class="depth-37">I'm going to light it on my Own</div>
+<span class="depth-43"><div class="depth-37">I'm going to light it on my Own</div></span>
 <div class="depth-37">but know</div>
-<div class="depth-37">I won't be there alone</div>
-<div class="depth-37">I have them all, the burning body of the ones who hurt and still, moving, stilling, photographs of memory, still moving through , still hurt, they hurt, they hurt through all the hurt of me</div>
-<div class="depth-37">And hear, I go</div>
-<div class="depth-37">Here I go out out</div>
+<span class="depth-43"><div class="depth-37">I won't be there alone</div></span>
+<span class="depth-43"><div class="depth-37">I have them all, the burning body of the ones who hurt and still, moving, stilling, photographs of memory, still moving through , still hurt, they hurt, they hurt through all the hurt of me</div></span>
+<span class="depth-43"><div class="depth-37">And hear, I go</div></span>
+<span class="depth-43"><div class="depth-37">Here I go out out</div></span>
 <div class="depth-37">Into the</div>
 <div class="depth-37">Oh~ the place</div>
 <div class="depth-37">Now home, not home</div>
-<div class="depth-37">The only place I’ve ever known</div>
-<div class="depth-37">My hands are cold and so I speak into a microphone</div>
+<span class="depth-43"><div class="depth-37">The only place I’ve ever known</div></span>
+<span class="depth-43"><div class="depth-37">My hands are cold and so I speak into a microphone</div></span>
 <div class="depth-37">No</div>
-<div class="depth-37">I can’t</div>
-<div class="depth-37">I can I can a sardine can</div>
+<span class="depth-43"><div class="depth-37">I can’t</div></span>
+<span class="depth-43"><div class="depth-37">I can I can a sardine can</div></span>
 <div class="depth-37">A tin</div>
 <div class="depth-37">Alchemical truths that burn within</div>
 <div class="depth-37">Stop avoiding it just go just go you’re gone</div>
@@ -24010,8 +24014,8 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">In chest</div>
 <div class="depth-37">In redness of the Robbing Breast</div>
 <div class="depth-37">In growing breasts</div>
-<div class="depth-37">I held my breath</div>
-<div class="depth-37">I held my tungsten death</div>
+<span class="depth-43"><div class="depth-37">I held my breath</div></span>
+<span class="depth-43"><div class="depth-37">I held my tungsten death</div></span>
 <div class="depth-37">A chrysalis becoming death</div>
 <div class="depth-37">Becoming</div>
 <div class="depth-37">Death</div>
@@ -24020,23 +24024,23 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">Becoming</div>
 <div class="depth-37">An Omen</div>
 <div class="depth-37">Rest</div>
-<div class="depth-37">I will not rest</div>
-<div class="depth-37">I cannot rest</div>
+<span class="depth-43"><div class="depth-37">I will not rest</div></span>
+<span class="depth-43"><div class="depth-37">I cannot rest</div></span>
 <div class="depth-37">Eye, Can, Knot,</div>
 <div class="depth-37">A test</div>
-<div class="depth-37">If I can leave this place and place an altar take this altar of such suffering and deeply pushed down crests of waves of waving goodbye to the few the hundred eyes the many men who said they would be everything or anything  just anything I wish I may I wish I might I wish I may I wqish I might pleae give me liught just give me light first star mty star I am the only star I am the lonbley only star that’s left that’s right that’s right that’s erightr I will to may I will to spring I will to winter through the plight I will not hibernate or hide I will not stay here out of sight and SEW AND SO AND SOW AND TOW AND TOE AND TOWING GO YOU LITTLE ROWBOAT ROW YOU ROSE YOU ROSE YOU RISE FROM SNOW AND GO AND GO AND GO AND I</div>
+<span class="depth-43"><div class="depth-37">If I can leave this place and place an altar take this altar of such suffering and deeply pushed down crests of waves of waving goodbye to the few the hundred eyes the many men who said they would be everything or anything  just anything I wish I may I wish I might I wish I may I wqish I might pleae give me liught just give me light first star mty star I am the only star I am the lonbley only star that’s left that’s right that’s right that’s erightr I will to may I will to spring I will to winter through the plight I will not hibernate or hide I will not stay here out of sight and SEW AND SO AND SOW AND TOW AND TOE AND TOWING GO YOU LITTLE ROWBOAT ROW YOU ROSE YOU ROSE YOU RISE FROM SNOW AND GO AND GO AND GO AND I</div></span>
 <div class="depth-37">Take flight</div>
 <div class="depth-37">And idle through the night</div>
 <div class="depth-37">Not yet,</div>
 <div class="depth-37">But then</div>
 <div class="depth-37">And Now – and so</div>
-<div class="depth-37">I’ll go</div>
+<span class="depth-43"><div class="depth-37">I’ll go</div></span>
 <div class="depth-37">Atop the flight of spiral</div>
 <div class="depth-37">Shell and stares of fright</div>
-<div class="depth-37">I take my feathered bow</div>
+<span class="depth-43"><div class="depth-37">I take my feathered bow</div></span>
 <div class="depth-37">And cauldron</div>
-<div class="depth-37">I will take the paddle you planed down</div>
-<div class="depth-37">The way I asked you for my birthday</div>
+<span class="depth-43"><div class="depth-37">I will take the paddle you planed down</div></span>
+<span class="depth-43"><div class="depth-37">The way I asked you for my birthday</div></span>
 <div class="depth-37">April</div>
 <div class="depth-37">Aries</div>
 <div class="depth-37">Bound for destruction</div>
@@ -24046,31 +24050,31 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">This bonnie little child in flight</div>
 <div class="depth-37">Please take me with you</div>
 <div class="depth-37">Take me with you</div>
-<div class="depth-37">Flames, I’m in you</div>
+<span class="depth-43"><div class="depth-37">Flames, I’m in you</div></span>
 <div class="depth-37">Dancing ‘neath the tree tonight</div>
 <div class="depth-37">Like then, back there, hysterical affronted in that garden firing line of sight</div>
 <div class="depth-37">Down there but for the first historical time</div>
 <div class="depth-37">The beginning of writ (you all) </div>
-<div class="depth-37">I am swaddling this glass corked jar containing the little wilted goat heart </div>
+<span class="depth-43"><div class="depth-37">I am swaddling this glass corked jar containing the little wilted goat heart </div></span>
 <div class="depth-37">Bedded over roses with a browning wilting of their own </div>
-<div class="depth-37">And emptying my bowels I write this, readying my soil </div>
-<div class="depth-37">Squatting out my dirt, I am preparing in my words </div>
+<span class="depth-43"><div class="depth-37">And emptying my bowels I write this, readying my soil </div></span>
+<span class="depth-43"><div class="depth-37">Squatting out my dirt, I am preparing in my words </div></span>
 <div class="depth-37"> for sparrow travelling of worlds </div>
 <div class="depth-37">An arrow, </div>
 <div class="depth-37">A contraction </div>
-<div class="depth-37">I am waiting to be hurled </div>
+<span class="depth-43"><div class="depth-37">I am waiting to be hurled </div></span>
 <div class="depth-37">Tonight by cycles light </div>
-<div class="depth-37">I drag my womanhood from girl </div>
+<span class="depth-43"><div class="depth-37">I drag my womanhood from girl </div></span>
 <div class="depth-37">Once dragged from such an unconsenting senseless place of hooded straightened curls </div>
 <div class="depth-37">Of measuring tapes of hair of video of riddled with the pearls </div>
 <div class="depth-37">Of hissing through, the wisdom so feet-trodden and disturbed </div>
 <div class="depth-37">Stoned into dominion loves kingdom of an earl </div>
 <div class="depth-37">A song of monarchs monotone of boring through the bone </div>
-<div class="depth-37">Twirling unloved meaning less I shove my finger up through dirt </div>
+<span class="depth-43"><div class="depth-37">Twirling unloved meaning less I shove my finger up through dirt </div></span>
 <div class="depth-37">And stretch and sweep my anus as if Janus seeking birth </div>
 <div class="depth-37">Faecal fees for ferrymen who just around there lurk </div>
 <div class="depth-37">The riven rending never ending riverbed of hurt </div>
-<div class="depth-37">I have been doing this since that doctor first showed me by example echoing the sound of mouths of sauce-stained water pouring rain it storms and stamps a letter causes wetter swelling pause of yearning earth </div>
+<span class="depth-43"><div class="depth-37">I have been doing this since that doctor first showed me by example echoing the sound of mouths of sauce-stained water pouring rain it storms and stamps a letter causes wetter swelling pause of yearning earth </div></span>
 <div class="depth-37">It ushers in the pushing </div>
 <div class="depth-37">Pushing in </div>
 <div class="depth-37">A finger pushing in </div>
@@ -24079,101 +24083,101 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">Shirt you left at troas with </div>
 <div class="depth-37">Something that resembled me </div>
 <div class="depth-37">Give it back </div>
-<div class="depth-37">I want it back </div>
-<div class="depth-37">Please can I have my tape player back </div>
-<div class="depth-37">I know you made it riverbent it </div>
+<span class="depth-43"><div class="depth-37">I want it back </div></span>
+<span class="depth-43"><div class="depth-37">Please can I have my tape player back </div></span>
+<span class="depth-43"><div class="depth-37">I know you made it riverbent it </div></span>
 <div class="depth-37">Painted it red</div>
 <div class="depth-38">and left some just so artful unmarked dark and blackest grey of black </div>
-<div class="depth-38">But you called it mine and I want all of its winding </div>
+<span class="depth-43"><div class="depth-38">But you called it mine and I want all of its winding </div></span>
 <div class="depth-38">back </div>
 <div class="depth-38">Thunderous whack </div>
 <div class="depth-38">Lighting clap </div>
-<div class="depth-38">Moved by some unseen felt force I course my way down from the skies </div>
+<span class="depth-43"><div class="depth-38">Moved by some unseen felt force I course my way down from the skies </div></span>
 <div class="depth-38">My emptiness is calling me in piles of pyres of  </div>
 <div class="depth-38">Fire </div>
 <div class="depth-38">Fire</div>
 <div class="depth-38">Fire </div>
-<div class="depth-38">Trying to find a energy source for my grey field recorder I can’t find the cord or the battery all the barriers are calling me towards in their negation and I’m getting so frustrated and remember reverence is the only state in which the ancestors will find me so I breathe and tell myself it’s like the felling of the trees I am the telling of the breeze so walk slow but still with purpose oh so purposely and hair fresh stuck with feather I shove the candles sent by Mother not allowed inside the garden wing oh winged things oh so called wicked things oh diamond rings on trees on fingers oh dendritic tents of rose of woe of thorns of crowns above me and I’m carrying my filth and dirt And unclean I douse myself in Oud and listen to the boons outside me I am holding the paddle or the oar you gave me I am planning my escape and I am going to the flame </div>
-<div class="depth-38">A witch hunt for my self I strip my shelves and open up this crushing suitcase and the smell </div>
-<div class="depth-38">I’m sure it matches like the dancing of a flame </div>
-<div class="depth-38">And holy moth holed is the name I think I see you pass in right side bike lane </div>
-<div class="depth-38">I inhale </div>
+<span class="depth-43"><div class="depth-38">Trying to find a energy source for my grey field recorder I can’t find the cord or the battery all the barriers are calling me towards in their negation and I’m getting so frustrated and remember reverence is the only state in which the ancestors will find me so I breathe and tell myself it’s like the felling of the trees I am the telling of the breeze so walk slow but still with purpose oh so purposely and hair fresh stuck with feather I shove the candles sent by Mother not allowed inside the garden wing oh winged things oh so called wicked things oh diamond rings on trees on fingers oh dendritic tents of rose of woe of thorns of crowns above me and I’m carrying my filth and dirt And unclean I douse myself in Oud and listen to the boons outside me I am holding the paddle or the oar you gave me I am planning my escape and I am going to the flame </div></span>
+<span class="depth-43"><div class="depth-38">A witch hunt for my self I strip my shelves and open up this crushing suitcase and the smell </div></span>
+<span class="depth-43"><div class="depth-38">I’m sure it matches like the dancing of a flame </div></span>
+<span class="depth-43"><div class="depth-38">And holy moth holed is the name I think I see you pass in right side bike lane </div></span>
+<span class="depth-43"><div class="depth-38">I inhale </div></span>
 <div class="depth-38">Think of my left and right left behind shoes </div>
-<div class="depth-38">And Jamie Stewart, xiu xiu stewarding me closer to the truth in noise in sound in pounding blood into the nails of ears of corn folorn in ripped apart and never greening fields I bleed and seethe and recipe for aster adding sub miss tractor tilling all the earth and all the hurt I am washing all the cloth of blood you bled and spat and shat all over and inside of me </div>
+<span class="depth-43"><div class="depth-38">And Jamie Stewart, xiu xiu stewarding me closer to the truth in noise in sound in pounding blood into the nails of ears of corn folorn in ripped apart and never greening fields I bleed and seethe and recipe for aster adding sub miss tractor tilling all the earth and all the hurt I am washing all the cloth of blood you bled and spat and shat all over and inside of me </div></span>
 <div class="depth-38">In that bathtub </div>
-<div class="depth-38">I remain </div>
-<div class="depth-38">I am carrying a bag that’s filled with memory and pain </div>
+<span class="depth-43"><div class="depth-38">I remain </div></span>
+<span class="depth-43"><div class="depth-38">I am carrying a bag that’s filled with memory and pain </div></span>
 <div class="depth-38">And carrying a concertina bound with leather reigns </div>
 <div class="depth-38">All pent up, quintessential energetic blame </div>
-<div class="depth-38">I beseech thee! I beseech thee! Beneath the dark of black Queen’s Park beech tree I became! </div>
-<div class="depth-38">Inside a towel , stuck with masking tape I used to bind my broken nose </div>
-<div class="depth-38">In I go </div>
-<div class="depth-38">I am holding in this purse </div>
+<span class="depth-43"><div class="depth-38">I beseech thee! I beseech thee! Beneath the dark of black Queen’s Park beech tree I became! </div></span>
+<span class="depth-43"><div class="depth-38">Inside a towel , stuck with masking tape I used to bind my broken nose </div></span>
+<span class="depth-43"><div class="depth-38">In I go </div></span>
+<span class="depth-43"><div class="depth-38">I am holding in this purse </div></span>
 <div class="depth-38">An urn </div>
 <div class="depth-38">An urn of ashes </div>
 <div class="depth-38">Of my yearning </div>
-<div class="depth-38">I am holding swaddled in my unclothedlonging bearly holding in my rain </div>
+<span class="depth-43"><div class="depth-38">I am holding swaddled in my unclothedlonging bearly holding in my rain </div></span>
 <div class="depth-38">No tears of witch to speak just reeking </div>
 <div class="depth-38">Speaking tongues of flame </div>
-<div class="depth-38">In I am </div>
-<div class="depth-38">Outside I’m blocking all the popping of the working fire and flame </div>
-<div class="depth-38">I am walking up a hill of mulch and mush and all their names </div>
+<span class="depth-43"><div class="depth-38">In I am </div></span>
+<span class="depth-43"><div class="depth-38">Outside I’m blocking all the popping of the working fire and flame </div></span>
+<span class="depth-43"><div class="depth-38">I am walking up a hill of mulch and mush and all their names </div></span>
 <div class="depth-38">My matted hair and rabbiting stare down at screen a lions mane </div>
-<div class="depth-38">No thought of gender that I was or the surrender whence I came </div>
-<div class="depth-38">I am</div>
+<span class="depth-43"><div class="depth-38">No thought of gender that I was or the surrender whence I came </div></span>
+<span class="depth-43"><div class="depth-38">I am</div></span>
 <div class="depth-38">Calling out your name </div>
 <div class="depth-38">Sisyphus </div>
-<div class="depth-38">I am mossy </div>
+<span class="depth-43"><div class="depth-38">I am mossy </div></span>
 <div class="depth-38">Rolling soaring</div>
 <div class="depth-38">Troll beneath the imminently pouring rain </div>
-<div class="depth-38">In spite of my belief in leaves I look back at this indebted diagonally slanted plane </div>
+<span class="depth-43"><div class="depth-38">In spite of my belief in leaves I look back at this indebted diagonally slanted plane </div></span>
 <div class="depth-38">Panting </div>
-<div class="depth-38">I enchant the lamplit whip cracked acrid arid lane </div>
-<div class="depth-38">I am searching for what’s left in my rightly outsider heartfelt infernal place  </div>
+<span class="depth-43"><div class="depth-38">I enchant the lamplit whip cracked acrid arid lane </div></span>
+<span class="depth-43"><div class="depth-38">I am searching for what’s left in my rightly outsider heartfelt infernal place  </div></span>
 <div class="depth-38">Maybe here upon a Bench where somebody has laid </div>
 <div class="depth-38">A bunch of daisies and carnations </div>
 <div class="depth-38">No </div>
-<div class="depth-38">I cannot place my hidden heart upon their name </div>
-<div class="depth-38">So I go </div>
+<span class="depth-43"><div class="depth-38">I cannot place my hidden heart upon their name </div></span>
+<span class="depth-43"><div class="depth-38">So I go </div></span>
 <div class="depth-38">Still walking </div>
 <div class="depth-38">Stilted </div>
 <div class="depth-38">Chalked and stalking for a grave </div>
-<div class="depth-38">Of fire flying and I hear a crow that says </div>
+<span class="depth-43"><div class="depth-38">Of fire flying and I hear a crow that says </div></span>
 <div class="depth-38">You cannot stay </div>
 <div class="depth-38">The air is thick with smoke </div>
 <div class="depth-38">With poison and</div>
 <div class="depth-38">My poi still lay in waiting </div>
 <div class="depth-38">Barely weighing anything </div>
 <div class="depth-38">Their Shauls of off white </div>
-<div class="depth-38">Collecting stains of memories I can no longer tame </div>
+<span class="depth-43"><div class="depth-38">Collecting stains of memories I can no longer tame </div></span>
 <div class="depth-38">The darkness is betrayed by pulses rhythmic but atonal and occasional torchlight of wolfpacking family names </div>
-<div class="depth-38">I am searching for my place beneath the shadows of these trees</div>
+<span class="depth-43"><div class="depth-38">I am searching for my place beneath the shadows of these trees</div></span>
 <div class="depth-38">And screaming little kids are doughing </div>
 <div class="depth-38">Knowing their release </div>
 <div class="depth-38">By skeletal birthright yet to suffer </div>
 <div class="depth-38">Falling reel to reel to creased and just tormented rotting leaves </div>
-<div class="depth-38">I kick them, all the foliage </div>
+<span class="depth-43"><div class="depth-38">I kick them, all the foliage </div></span>
 <div class="depth-38">Imagine they are me </div>
 <div class="depth-38">The children </div>
-<div class="depth-38">As I was </div>
+<span class="depth-43"><div class="depth-38">As I was </div></span>
 <div class="depth-38">Or never real </div>
-<div class="depth-38">I could be </div>
-<div class="depth-38">I have laid my towel down beneath the sky of town forgetting me and there are swarms of flies in my eyes and around the feather guarding me </div>
+<span class="depth-43"><div class="depth-38">I could be </div></span>
+<span class="depth-43"><div class="depth-38">I have laid my towel down beneath the sky of town forgetting me and there are swarms of flies in my eyes and around the feather guarding me </div></span>
 <div class="depth-38">No this is not the place no this is not the place for me </div>
-<div class="depth-38">Or maybe I am destined to be insect-bitten beneath a barely big enough clearing of dead leaves </div>
+<span class="depth-43"><div class="depth-38">Or maybe I am destined to be insect-bitten beneath a barely big enough clearing of dead leaves </div></span>
 <div class="depth-38">Too many families </div>
-<div class="depth-38">I am frozen </div>
-<div class="depth-38">I am frozen in my loneliness </div>
-<div class="depth-38">I have to leave </div>
+<span class="depth-43"><div class="depth-38">I am frozen </div></span>
+<span class="depth-43"><div class="depth-38">I am frozen in my loneliness </div></span>
+<span class="depth-43"><div class="depth-38">I have to leave </div></span>
 <div class="depth-38">My jar unswaddled and exposed but incense lit and incensed heart just part complete </div>
 <div class="depth-38">My unfinished recipe </div>
-<div class="depth-38">Looking tumbling out of that temporary hole I couldn’t fit in I stumble and trip over my incense holder and for a second there I find a stick and try to rake the leaves to find it then I say aloud that’s fine unholy mother Gaia you can swallow it like me </div>
+<span class="depth-43"><div class="depth-38">Looking tumbling out of that temporary hole I couldn’t fit in I stumble and trip over my incense holder and for a second there I find a stick and try to rake the leaves to find it then I say aloud that’s fine unholy mother Gaia you can swallow it like me </div></span>
 <div class="depth-38">But my lighter </div>
 <div class="depth-38">No </div>
 <div class="depth-38">My lighter </div>
 <div class="depth-38">Blue or green </div>
-<div class="depth-38">No that’s something that I need </div>
-<div class="depth-38">But heading back I see I’ve left my headphones </div>
+<span class="depth-43"><div class="depth-38">No that’s something that I need </div></span>
+<span class="depth-43"><div class="depth-38">But heading back I see I’ve left my headphones </div></span>
 <div class="depth-38">And behind the lighter </div>
 <div class="depth-38">Bluest as the deepest sea </div>
 <div class="depth-38">And then </div>
@@ -24185,30 +24189,30 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-38">All it’s unpeeled teeming secrets unto me </div>
 <div class="depth-38">A bee </div>
 <div class="depth-38">A bee</div>
-<div class="depth-38">I see </div>
+<span class="depth-43"><div class="depth-38">I see </div></span>
 <div class="depth-38">A bee </div>
 <div class="depth-38">And in the distance spinning fire poi </div>
 <div class="depth-38">Unlike mine, they are wicked and crafted to be seen </div>
-<div class="depth-38">I want to get out of this place of such disgusting wholeness and just be </div>
+<span class="depth-43"><div class="depth-38">I want to get out of this place of such disgusting wholeness and just be </div></span>
 <div class="depth-38">With the bee </div>
 <div class="depth-38">Looking back to blackness of the towel where she’d once been </div>
 <div class="depth-38">She’s gone </div>
 <div class="depth-38">Or hiding </div>
-<div class="depth-38">I pull the Ace of cups (reversed) the seven of cups (reversed, in sympathy) and</div>
+<span class="depth-43"><div class="depth-38">I pull the Ace of cups (reversed) the seven of cups (reversed, in sympathy) and</div></span>
 <div class="depth-38">The hierophant, as frightening in His Uprightness as the Cloudborne Lightning Shellshocked Bangs above my eyebrows</div>
-<div class="depth-38">I am not here for the showy explosions all surrounding me </div>
-<div class="depth-38">I think of all those bodies buried underneath the pond and swirling of webbed feet of dirtied swans and greyest geese</div>
+<span class="depth-43"><div class="depth-38">I am not here for the showy explosions all surrounding me </div></span>
+<span class="depth-43"><div class="depth-38">I think of all those bodies buried underneath the pond and swirling of webbed feet of dirtied swans and greyest geese</div></span>
 <div class="depth-38">These drums, these startling cardiac pipe organs stop beat-drums are heralding the imminence of such a heretofore unseen</div>
 <div class="depth-38">event</div>
-<div class="depth-38">I just want to be</div>
+<span class="depth-43"><div class="depth-38">I just want to be</div></span>
 <div class="depth-38">Alone with her </div>
 <div class="depth-38">The bee and me </div>
-<div class="depth-38">But now, I pack my things, again </div>
+<span class="depth-43"><div class="depth-38">But now, I pack my things, again </div></span>
 <div class="depth-38">My rendered genome is coiled round this wish to flee </div>
-<div class="depth-38">I know what lancet branches holes so deep inside of me </div>
+<span class="depth-43"><div class="depth-38">I know what lancet branches holes so deep inside of me </div></span>
 <div class="depth-38">There must be another tree </div>
 <div class="depth-38">Somewhere </div>
-<div class="depth-38">Alone where I can breathe into the earth and roots and dirt beneath </div>
+<span class="depth-43"><div class="depth-38">Alone where I can breathe into the earth and roots and dirt beneath </div></span>
 <div class="depth-38">For company </div>
 <div class="depth-38">Come unto me </div>
 <div class="depth-38">Persephone please guide me there </div>
@@ -24217,22 +24221,22 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-38">7:17 </div>
 <div class="depth-38">It’s time </div>
 <div class="depth-38">She is leading me </div>
-<div class="depth-38">I see a tower, pallid</div>
+<span class="depth-43"><div class="depth-38">I see a tower, pallid</div></span>
 <div class="depth-38">Sienna</div>
 <div class="depth-38">It is  teeming with electricity or flies</div>
 <div class="depth-38">And </div>
 <div class="depth-38">An open gate </div>
-<div class="depth-38">I pass through </div>
-<div class="depth-38">I am </div>
+<span class="depth-43"><div class="depth-38">I pass through </div></span>
+<span class="depth-43"><div class="depth-38">I am </div></span>
 <div class="depth-38">So afraid </div>
-<div class="depth-38">And walking to my left I see </div>
+<span class="depth-43"><div class="depth-38">And walking to my left I see </div></span>
 <div class="depth-38">My name, almost</div>
 <div class="depth-38">Just missing the final letter</div>
 <div class="depth-38">CALLI</div>
-<div class="depth-38">With an X instead of a dot which is just a shrunken circle above the I</div>
-<div class="depth-38">I thought I’d photographed it but I guess I was too empty and filled to the brim with fright</div>
+<span class="depth-43"><div class="depth-38">With an X instead of a dot which is just a shrunken circle above the I</div></span>
+<span class="depth-43"><div class="depth-38">I thought I’d photographed it but I guess I was too empty and filled to the brim with fright</div></span>
 <div class="depth-38">Keyboard battery very low</div>
-<div class="depth-38">I can’t believe this place is here and maybe</div>
+<span class="depth-43"><div class="depth-38">I can’t believe this place is here and maybe</div></span>
 <div class="depth-38">it won’t be there when try to return and find it again</div>
 <div class="depth-38">Which is, as it happens, a thrice-tined fork</div>
 <div class="depth-38">Above a symbol of the deepest love and hate </div>
@@ -24250,7 +24254,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-38">(twenty four minus seventeen is)</div>
 <div class="depth-38">Seven</div>
 <div class="depth-38">Hanging over my head</div>
-<div class="depth-38">I’d been seeing (not reading)</div>
+<span class="depth-43"><div class="depth-38">I’d been seeing (not reading)</div></span>
 <div class="depth-38">Not reeding</div>
 <div class="depth-38">Not heeding</div>
 <div class="depth-38">For the past</div>
@@ -24259,34 +24263,34 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-38">In Darkness</div>
 <div class="depth-38">Or Twelfth Knights of the</div>
 <div class="depth-38">year</div>
-<div class="depth-38">I didn’t love my Self enough yet</div>
+<span class="depth-43"><div class="depth-38">I didn’t love my Self enough yet</div></span>
 <div class="depth-38">Beneath the trees there </div>
-<div class="depth-38">I dared’nt go deeper </div>
+<span class="depth-43"><div class="depth-38">I dared’nt go deeper </div></span>
 <div class="depth-38">Princesses walking on sacred</div>
 <div class="depth-38">                                                                                    Scared</div>
 <div class="depth-38">Ground</div>
-<div class="depth-38">I heard the coldness of the fencepole shuddering the words to me</div>
+<span class="depth-43"><div class="depth-38">I heard the coldness of the fencepole shuddering the words to me</div></span>
 <div class="depth-38">This is the realm of the destroyer</div>
 <div class="depth-38">Crossing here before you lost all you thought of as you</div>
 <div class="depth-38">This place is an infernal bridge, Her Temple, an atemporal rift</div>
 <div class="depth-38">A noose in timeless, loosened rope -</div>
 <div class="depth-38">Abandon hope, Kali gives egress here</div>
-<div class="depth-38">After circling like a dog riddled with anxiety just looking for a place to live not die oh that Cross above the I  but Be and I know I knew who and where had stripped the final glyph, the E</div>
-<div class="depth-38">I sit and </div>
+<span class="depth-43"><div class="depth-38">After circling like a dog riddled with anxiety just looking for a place to live not die oh that Cross above the I  but Be and I know I knew who and where had stripped the final glyph, the E</div></span>
+<span class="depth-43"><div class="depth-38">I sit and </div></span>
 <div class="depth-38">Taking out my cauldron </div>
 <div class="depth-38">My Caldera </div>
 <div class="depth-38">There, eye </div>
 <div class="depth-38">Their eye watches me in </div>
 <div class="depth-38">wait </div>
-<div class="depth-38">So there I sit upon the closed in opening </div>
+<span class="depth-43"><div class="depth-38">So there I sit upon the closed in opening </div></span>
 <div class="depth-38">To right of tower </div>
 <div class="depth-38">Holding onto the seventeenth card </div>
-<div class="depth-38">that had at upon my altar for this worst year of my life and I write </div>
-<div class="depth-38">And I light her </div>
-<div class="depth-38">I alight her </div>
+<span class="depth-43"><div class="depth-38">that had at upon my altar for this worst year of my life and I write </div></span>
+<span class="depth-43"><div class="depth-38">And I light her </div></span>
+<span class="depth-43"><div class="depth-38">I alight her </div></span>
 <div class="depth-38">Lined up cauldron atop Azoth symbol and wide eyed and cloaked </div>
 <div class="depth-38">In my increasing of my sight </div>
-<div class="depth-38">I look up and see an A encased within dendrites</div>
+<span class="depth-43"><div class="depth-38">I look up and see an A encased within dendrites</div></span>
 <div class="depth-38">Of my eyes </div>
 <div class="depth-38">Of the highest holy by my candle light is that you Adrian </div>
 <div class="depth-38">Or arachne </div>
@@ -24295,36 +24299,36 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-38">Or all of these ailing parts inside of me </div>
 <div class="depth-38">A is for Apple or Adam or Absolutely Everything An outstretched hand to</div>
 <div class="depth-38">Ancestors </div>
-<div class="depth-38">I think </div>
+<span class="depth-43"><div class="depth-38">I think </div></span>
 <div class="depth-38">And know knot</div>
 <div class="depth-38">Adrian or arachne or Ariadne or aeon or the ancestors or Allness or Anarchy as if Guy Fawkes’ or Forking gardens of the wardens who came before and he became a beacon or a mythic synthesis of</div>
 <div class="depth-38"> Anyone</div>
 <div class="depth-38">Anybody?</div>
 <div class="depth-38">A</div>
 <div class="depth-38">Body of work</div>
-<div class="depth-38">And I pull cards, Ace of Wa</div>
+<span class="depth-43"><div class="depth-38">And I pull cards, Ace of Wa</div></span>
 <div class="depth-38">Write </div>
-<div class="depth-38">walk in from singing with my concertina in a strange clearing in Queen’s Park I’ve never seen before next to a strange tower with a fence around it with the gate open as if welcoming me in and so I went in and then on a broken piece of metal were five letters (underneath a swastika…. A sign of love and hatred but most likely the latter considering so I dared not go further in convinced because of the hopelessness I’d been carrying that there I’d probably be killed but just there before that threshold I laid down my altar cloth and sang an improvised hymn and burned the star card in my cauldron praying) then I come home emptied and just hoping to be filled again and think about the garden wing and say aloud “what was that even for” and then think I’m not just talking about the time in hospital and but maybe also ritual not just formal magick but the rituals of everything of breathing life and love and loss and then</div>
+<span class="depth-43"><div class="depth-38">walk in from singing with my concertina in a strange clearing in Queen’s Park I’ve never seen before next to a strange tower with a fence around it with the gate open as if welcoming me in and so I went in and then on a broken piece of metal were five letters (underneath a swastika…. A sign of love and hatred but most likely the latter considering so I dared not go further in convinced because of the hopelessness I’d been carrying that there I’d probably be killed but just there before that threshold I laid down my altar cloth and sang an improvised hymn and burned the star card in my cauldron praying) then I come home emptied and just hoping to be filled again and think about the garden wing and say aloud “what was that even for” and then think I’m not just talking about the time in hospital and but maybe also ritual not just formal magick but the rituals of everything of breathing life and love and loss and then</div></span>
 <div class="depth-38">The spotlight right above me in the hallway turns itself off</div>
-<div class="depth-38">And I smile and say again those three words “they are here”</div>
-<div class="depth-38">And go to wash my hands of all the ash and mulch from crawling through the earth to find the perfect place to pass through and to do my rites and coming back into the corridor forgetting now I have to manually turn out the bathroom light I didn’t realise at first that little bulb’s illumination had returned but then as i raised my hand to try to find the feather that had become a weathered symbol of those passing birds I loved in read remembrance so much more than words and hold and touch and came to trust now dust to dust to just as much as books who’ve now took flight and finding nothing there, that one little thing I’d held so close as thorny crown the whole hallowed and so hollowed returning journey to this town I see the feather must have fallen into all the dirt I hoped would cover all my buried hurt inside that little yearning clearing awestruck awning or some organismic cosmic yurt I think, and drink the air, and beholding nothing but the letting go I sigh saying to myself</div>
+<span class="depth-43"><div class="depth-38">And I smile and say again those three words “they are here”</div></span>
+<span class="depth-43"><div class="depth-38">And go to wash my hands of all the ash and mulch from crawling through the earth to find the perfect place to pass through and to do my rites and coming back into the corridor forgetting now I have to manually turn out the bathroom light I didn’t realise at first that little bulb’s illumination had returned but then as i raised my hand to try to find the feather that had become a weathered symbol of those passing birds I loved in read remembrance so much more than words and hold and touch and came to trust now dust to dust to just as much as books who’ve now took flight and finding nothing there, that one little thing I’d held so close as thorny crown the whole hallowed and so hollowed returning journey to this town I see the feather must have fallen into all the dirt I hoped would cover all my buried hurt inside that little yearning clearing awestruck awning or some organismic cosmic yurt I think, and drink the air, and beholding nothing but the letting go I sigh saying to myself</div></span>
 <div class="depth-38">That’s fine</div>
 <div class="depth-38">Some things just must be left behind</div>
-<div class="depth-38">I think about that break in the fence and wish I’d gone deeper</div>
+<span class="depth-43"><div class="depth-38">I think about that break in the fence and wish I’d gone deeper</div></span>
 <div class="depth-38">So virginal then, sleepless little creeper</div>
-<div class="depth-38">But still, I am so sure that death was the only one that I’d find</div>
+<span class="depth-43"><div class="depth-38">But still, I am so sure that death was the only one that I’d find</div></span>
 <div class="depth-38">There was something or some Body in there</div>
-<div class="depth-38">I am trying to capture a picture of fireworks through the mirror reflecting the view from my w</div>
+<span class="depth-43"><div class="depth-38">I am trying to capture a picture of fireworks through the mirror reflecting the view from my w</div></span>
 <div class="depth-38">And then</div>
 <div class="depth-38">Again</div>
 <div class="depth-38">Out goes the light</div>
-<div class="depth-38">Walking back into my room so full of stench of selves I shed into the cloth of my knot-unbelonging</div>
+<span class="depth-43"><div class="depth-38">Walking back into my room so full of stench of selves I shed into the cloth of my knot-unbelonging</div></span>
 <div class="depth-38">There, squished and still moulded to the shape of being stuffed into my suitcase</div>
-<div class="depth-38">I see my bear and hold him, Colin, with your cotton black sewn eyes please see me, sea, me, seamen, seed of all the men who halved me, semi-colon,</div>
-<div class="depth-38">I am not a seagull</div>
-<div class="depth-38">I am not Johnathon, Living still, But dying into All I Will to become</div>
-<div class="depth-38">Her I is on me -</div>
-<div class="depth-38">I am a finch, a redpoll, red</div>
+<span class="depth-43"><div class="depth-38">I see my bear and hold him, Colin, with your cotton black sewn eyes please see me, sea, me, seamen, seed of all the men who halved me, semi-colon,</div></span>
+<span class="depth-43"><div class="depth-38">I am not a seagull</div></span>
+<span class="depth-43"><div class="depth-38">I am not Johnathon, Living still, But dying into All I Will to become</div></span>
+<span class="depth-43"><div class="depth-38">Her I is on me -</div></span>
+<span class="depth-43"><div class="depth-38">I am a finch, a redpoll, red</div></span>
 <div class="depth-39">pole pulsing like a</div>
 <div class="depth-39">phallus – blasted tower -</div>
 <div class="depth-39">Lingua Undulatio – a wave – goodbye – suicide note – a poem – a poet – a rapper – a wrapper – a covering  of – the stone</div>
@@ -24337,37 +24341,37 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-39">And he looks at me as if giving up in recoil and repose</div>
 <div class="depth-39">And unsteadied, ready, goes,</div>
 <div class="depth-39">The finch she now regards me for the first time, as a Rose</div>
-<div class="depth-39">And I say to the meadow that it was for letting go of the Big Thing and the opposite to the sky holding a canopy open to these colourful explosions as they burn and my mountain man singing not to or about me specifically but I imagine he’s here next to me saying</div>
-<div class="depth-39">I love you</div>
+<span class="depth-43"><div class="depth-39">And I say to the meadow that it was for letting go of the Big Thing and the opposite to the sky holding a canopy open to these colourful explosions as they burn and my mountain man singing not to or about me specifically but I imagine he’s here next to me saying</div></span>
+<span class="depth-43"><div class="depth-39">I love you</div></span>
 <div class="depth-39">Isle of you</div>
 <div class="depth-39">These bewildering wildernesses of loss</div>
 <div class="depth-39">Are blooming in such secondary hues about me</div>
 <div class="depth-39">Oh god</div>
-<div class="depth-39">I am so desperate to know what happened on this night and I cry out why do I need to know and in the lack of answer I just scream an answer to myself BECAUSE I DON’T DESERVE TO HAVE SUCH DEEP HURT HIDDEN FROM ME</div>
+<span class="depth-43"><div class="depth-39">I am so desperate to know what happened on this night and I cry out why do I need to know and in the lack of answer I just scream an answer to myself BECAUSE I DON’T DESERVE TO HAVE SUCH DEEP HURT HIDDEN FROM ME</div></span>
 <div class="depth-39">And Why does everything keep spiralling away from me</div>
-<div class="depth-39">I think a part of me thought this ritual and flashes of white might bring flashbacks of memoranda into my gadfly sad, sad, sad little life</div>
-<div class="depth-39">I scan the horizon from the spot where I lie</div>
-<div class="depth-39">Picking a spot on the upper right side of my forehead I</div>
+<span class="depth-43"><div class="depth-39">I think a part of me thought this ritual and flashes of white might bring flashbacks of memoranda into my gadfly sad, sad, sad little life</div></span>
+<span class="depth-43"><div class="depth-39">I scan the horizon from the spot where I lie</div></span>
+<span class="depth-43"><div class="depth-39">Picking a spot on the upper right side of my forehead I</div></span>
 <div class="depth-39">Realise it’s one of countless bug bites</div>
 <div class="depth-39">Each one an answer from an ancestor trying to help me scry the Y shape sign that keeps on winding its way into my penultimated life</div>
 <div class="depth-39">A is for All</div>
-<div class="depth-39">I miss them all</div>
+<span class="depth-43"><div class="depth-39">I miss them all</div></span>
 <div class="depth-39">In my lonely little life</div>
-<div class="depth-39">Looking left I see the title of the book by Yanagihara I still haven’t brought myself to read</div>
-<div class="depth-39">I miss them all</div>
+<span class="depth-43"><div class="depth-39">Looking left I see the title of the book by Yanagihara I still haven’t brought myself to read</div></span>
+<span class="depth-43"><div class="depth-39">I miss them all</div></span>
 <div class="depth-39">All the people wound inside the steely sugars phosphenes mouldy clews of DNA</div>
 <div class="depth-39">And all the letters of the words of worlds built up every hour as a tower never said</div>
 <div class="depth-39">And in stead</div>
 <div class="depth-39">Turning in their living graves of waving greetings to the dead</div>
-<div class="depth-39">I am lying watching fireworks in bed</div>
+<span class="depth-43"><div class="depth-39">I am lying watching fireworks in bed</div></span>
 <div class="depth-39">Waiting for the quiet of quetiapine to weave and worm its way in swathesZ5 across my head</div>
-<div class="depth-39">And even all the characters of all the books I’ve never read</div>
+<span class="depth-43"><div class="depth-39">And even all the characters of all the books I’ve never read</div></span>
 <div class="depth-39">The first dream here </div>
 <div class="depth-39">Love is </div>
 <div class="depth-39">Thick penned </div>
 <div class="depth-39">Sinking into rain stained papyrus </div>
-<div class="depth-39">And life is a little fish and I roe</div>
-<div class="depth-39">O I am trying to catch it as it swims </div>
+<span class="depth-43"><div class="depth-39">And life is a little fish and I roe</div></span>
+<span class="depth-43"><div class="depth-39">O I am trying to catch it as it swims </div></span>
 <div class="depth-39">Call me</div>
 <div class="depth-39">Female-ish</div>
 <div class="depth-39">The medical clergy </div>
@@ -24377,29 +24381,29 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-39">Our babies </div>
 <div class="depth-39">They were like our children </div>
 <div class="depth-39">And we’re sorry but now you have to go </div>
-<div class="depth-39">Afraid, considering the possibility that I was headed for an even more harmful form of incarceration or maybe even death </div>
-<div class="depth-39">The orderly was dragging me down the complicated mess of escalators where I’d got lost and tried to find my way back to starting leg of this </div>
+<span class="depth-43"><div class="depth-39">Afraid, considering the possibility that I was headed for an even more harmful form of incarceration or maybe even death </div></span>
+<span class="depth-43"><div class="depth-39">The orderly was dragging me down the complicated mess of escalators where I’d got lost and tried to find my way back to starting leg of this </div></span>
 <div class="depth-39">Kicked out of hospital </div>
 <div class="depth-39">Which was actually just </div>
 <div class="depth-39">A</div>
 <div class="depth-39">Shopping mall</div>
 <div class="depth-39">And now, </div>
 <div class="depth-39">Waking up so drowsily </div>
-<div class="depth-39">I </div>
+<span class="depth-43"><div class="depth-39">I </div></span>
 <div class="depth-39">Say </div>
 <div class="depth-39">O</div>
 <div class="depth-39">U</div>
 <div class="depth-39">Have no idea </div>
-<div class="depth-39"> I saw the word gate when I came back from the threshold </div>
-<div class="depth-39">I saw the words Dave </div>
+<span class="depth-43"><div class="depth-39"> I saw the word gate when I came back from the threshold </div></span>
+<span class="depth-43"><div class="depth-39">I saw the words Dave </div></span>
 <div class="depth-39">And Paul someone sprayed into brickwork </div>
-<div class="depth-39">Immediately looking left I saw “Great news!” On a shopfront </div>
+<span class="depth-43"><div class="depth-39">Immediately looking left I saw “Great news!” On a shopfront </div></span>
 <div class="depth-39">And under umbrella of all of these fireworks </div>
-<div class="depth-39">I lifted my days and remembered my name and I saw all the spores of rain dancing to idling verse </div>
-<div class="depth-39">And so smiling I drink them through sides of my mouth where both my canines bookending the incisors had cracked leaving windows for these little wel selkie sprites to ingress their way blessed accidentally making them house guests Input of saline hydration to counter the same salty water escaping my </div>
-<div class="depth-39">I</div>
+<span class="depth-43"><div class="depth-39">I lifted my days and remembered my name and I saw all the spores of rain dancing to idling verse </div></span>
+<span class="depth-43"><div class="depth-39">And so smiling I drink them through sides of my mouth where both my canines bookending the incisors had cracked leaving windows for these little wel selkie sprites to ingress their way blessed accidentally making them house guests Input of saline hydration to counter the same salty water escaping my </div></span>
+<span class="depth-43"><div class="depth-39">I</div></span>
 <div class="depth-39">The missing E</div>
-<div class="depth-39">Exo-endo-out-djinn-dog-and-bearly-there-but-still-here-real-or-unreeled-genomic-mythopoeic-poetic-epic-apo-plastic-organic-calyptic-I-reverent-revelation-genesis-a test-testosterone-estrogenous </div>
+<span class="depth-43"><div class="depth-39">Exo-endo-out-djinn-dog-and-bearly-there-but-still-here-real-or-unreeled-genomic-mythopoeic-poetic-epic-apo-plastic-organic-calyptic-I-reverent-revelation-genesis-a test-testosterone-estrogenous </div></span>
 <div class="depth-39">A is for Anansi </div>
 <div class="depth-39">The countertop to bottom well-dwelling arachne </div>
 <div class="depth-39">Enanti/odromia</div>
@@ -24407,16 +24411,16 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-39">The hunt, the house, the be </div>
 <div class="depth-39">The missing E is </div>
 <div class="depth-39">Everything </div>
-<div class="depth-39">It’s where I’ll go and where I’ve been </div>
+<span class="depth-43"><div class="depth-39">It’s where I’ll go and where I’ve been </div></span>
 <div class="depth-39">The omnipresent A </div>
 <div class="depth-39">Is </div>
 <div class="depth-39">Absence </div>
 <div class="depth-39">Leaving spaces as a message </div>
 <div class="depth-39">The ligature which splits the centre </div>
-<div class="depth-39">I think subconsciously I always saw KSHÆ’L as a lexigraphic map of ancient wisdom pointing to directionless freedom (the cutting will, the siklence shh the allows and omega and then the unknown. Past the ‘</div>
+<span class="depth-43"><div class="depth-39">I think subconsciously I always saw KSHÆ’L as a lexigraphic map of ancient wisdom pointing to directionless freedom (the cutting will, the siklence shh the allows and omega and then the unknown. Past the ‘</div></span>
 <div class="depth-39">Opening </div>
-<div class="depth-39">My laptop I see a picture of an Ostrich in a desert </div>
-<div class="depth-39">I feel such a deep sense of regret for not going deeper Last Night</div>
+<span class="depth-43"><div class="depth-39">My laptop I see a picture of an Ostrich in a desert </div></span>
+<span class="depth-43"><div class="depth-39">I feel such a deep sense of regret for not going deeper Last Night</div></span>
 <div class="depth-39">Judging that threshold as my looming end</div>
 <div class="depth-39">But perhaps it was the loom of weaving my beginning</div>
 <div class="depth-39">To respect both above, and below –</div>
@@ -24428,7 +24432,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-39">Step through, unburdened, burgeoning – to meet</div>
 <div class="depth-39">Whatever one or two or three or four legged-or winged infernal thing would have brought certain defeat</div>
 <div class="depth-39">The untold trauma of my darkness would have, did, or Will beckoned me</div>
-<div class="depth-39">Now, more hurt, more trodden in the dirt than I ever thought I could have been</div>
+<span class="depth-43"><div class="depth-39">Now, more hurt, more trodden in the dirt than I ever thought I could have been</div></span>
 <div class="depth-39">My journey, here along</div>
 <div class="depth-39">There’s only One</div>
 <div class="depth-39">Integration, that’s the oldest newfound key to my chest</div>
@@ -24439,51 +24443,51 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-39">To Stay</div>
 <div class="depth-39">To Keep up hackles, but not tackle</div>
 <div class="depth-39">To remain</div>
-<div class="depth-39">Where I scattered ashes of every fire ritual I’d performed in HIS infernal name, in all four points of a cross around me</div>
+<span class="depth-43"><div class="depth-39">Where I scattered ashes of every fire ritual I’d performed in HIS infernal name, in all four points of a cross around me</div></span>
 <div class="depth-39">At the boundary</div>
-<div class="depth-39">The Border, where I stood, then sat still, hooded</div>
-<div class="depth-39">Lining all the ties as laying tiles to paths to personhood I’d aged into and let into me</div>
-<div class="depth-39">The person I was would have either rushed in there, to meet her end</div>
+<span class="depth-43"><div class="depth-39">The Border, where I stood, then sat still, hooded</div></span>
+<span class="depth-43"><div class="depth-39">Lining all the ties as laying tiles to paths to personhood I’d aged into and let into me</div></span>
+<span class="depth-43"><div class="depth-39">The person I was would have either rushed in there, to meet her end</div></span>
 <div class="depth-39">Or Simply Never Gone There</div>
 <div class="depth-39">Oh</div>
-<div class="depth-39">The Places I have Been</div>
+<span class="depth-43"><div class="depth-39">The Places I have Been</div></span>
 <div class="depth-39">At night</div>
-<div class="depth-39">And so I know, with this teeming insect of regret I feel, I know –</div>
+<span class="depth-43"><div class="depth-39">And so I know, with this teeming insect of regret I feel, I know –</div></span>
 <div class="depth-39">In light</div>
 <div class="depth-39">Today in this overcasting play of greying Scottish Winter Light</div>
-<div class="depth-39">I will return there, in the light</div>
-<div class="depth-39">Where, witch, I’m A</div>
-<div class="depth-39">Where, hunt I might</div>
-<div class="depth-39">Become the star I burned that night</div>
-<div class="depth-39">With safety of the salt I am but stakes ignited, flaming, such great heights</div>
+<span class="depth-43"><div class="depth-39">I will return there, in the light</div></span>
+<span class="depth-43"><div class="depth-39">Where, witch, I’m A</div></span>
+<span class="depth-43"><div class="depth-39">Where, hunt I might</div></span>
+<span class="depth-43"><div class="depth-39">Become the star I burned that night</div></span>
+<span class="depth-43"><div class="depth-39">With safety of the salt I am but stakes ignited, flaming, such great heights</div></span>
 <div class="depth-39">That lurking herd behind heard squeezing box bee shanty pyre to warning, warming, improvised</div>
 <div class="depth-39">But in the day No One will see me waving my goodbye</div>
 <div class="depth-39">These flies at the crack in my window they want to leave but they just keep getting dragged back by instinctual hunger to the dirt</div>
 <div class="depth-39">KSHÆ’L, Kali, All the same but only if we let them breathe</div>
 <div class="depth-39">They need our bodies to breathe</div>
 <div class="depth-39">And in the holding or the huffing of it, either burn or blow away into the leaves upon the breeze</div>
-<div class="depth-39">I’m sure the hospital kicked me out in time for Guy Fawkes’ night because they thought I would burn down the place</div>
-<div class="depth-39">Maybe, without that physically embodied ritual of return, an urn, a crucible, I would have</div>
-<div class="depth-39">I’m looking for you, or them, or him again in glass bottles breaking like a meerkat</div>
-<div class="depth-39">Am I</div>
+<span class="depth-43"><div class="depth-39">I’m sure the hospital kicked me out in time for Guy Fawkes’ night because they thought I would burn down the place</div></span>
+<span class="depth-43"><div class="depth-39">Maybe, without that physically embodied ritual of return, an urn, a crucible, I would have</div></span>
+<span class="depth-43"><div class="depth-39">I’m looking for you, or them, or him again in glass bottles breaking like a meerkat</div></span>
+<span class="depth-43"><div class="depth-39">Am I</div></span>
 <div class="depth-39">Scared – sacred?</div>
 <div class="depth-39">Curious or</div>
-<div class="depth-39">Crushed by all of this and there I see a van marked</div>
+<span class="depth-43"><div class="depth-39">Crushed by all of this and there I see a van marked</div></span>
 <div class="depth-39">CONTRACT CLEANING</div>
 <div class="depth-39">Expand</div>
 <div class="depth-39">                                                        Dirtying</div>
-<div class="depth-39">I have to clean this</div>
+<span class="depth-43"><div class="depth-39">I have to clean this</div></span>
 <div class="depth-39">flat</div>
 <div class="depth-39">My Hole life a burning</div>
 <div class="depth-39">At some unknown stake</div>
 <div class="depth-39">Meat, flesh, yearning</div>
-<div class="depth-39">I turn over the Empress -she’d been waiting, reversed in her reversal</div>
+<span class="depth-43"><div class="depth-39">I turn over the Empress -she’d been waiting, reversed in her reversal</div></span>
 <div class="depth-39">The Quintessence of pentacles arrives, unshuffled</div>
 <div class="depth-39">A woman, travelling through harshness of snow past a stained glass window – light through – breaking</div>
 <div class="depth-39">And a man</div>
 <div class="depth-39">Behind her path but foregrounded by perspective to the Seer</div>
 <div class="depth-39">He tries to walk with crutches</div>
-<div class="depth-39">Ailing legs like that Bee I still believe I aided first, thirsty for her resurrection</div>
+<span class="depth-43"><div class="depth-39">Ailing legs like that Bee I still believe I aided first, thirsty for her resurrection</div></span>
 <div class="depth-39">Broken</div>
 <div class="depth-39">The shrouded female leading,</div>
 <div class="depth-39">Leading, not directly</div>
@@ -24507,7 +24511,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-40">Time to log your 10:50 medications</div>
 <div class="depth-40">Baby</div>
 <div class="depth-40">Birthed by Stone                              did you forget to take your</div>
-<div class="depth-40">No, I took them, not too much or not by lacking</div>
+<span class="depth-43"><div class="depth-40">No, I took them, not too much or not by lacking</div></span>
 <div class="depth-40">A horizon of chemical in balance</div>
 <div class="depth-40">Central, Nerves, Sister Mary</div>
 <div class="depth-40">Dancing</div>
@@ -24515,7 +24519,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-40">Dancing</div>
 <div class="depth-40">Dys – tonic – dyskinetic God of Kaos – dis – Lexicon – Alexithymic – thalamus phallic – Axis – Axial – axolotl smiling by her birthright what a silly and so lovely looking thing - Xolotl - psychopomp guiding the souls of – All - connected by rite – left behind – no right angles – spiralling – lying down with lies to sleeping with the -</div>
 <div class="depth-40">Allied Anglerfish’s spines – to season or to spice in reason or in rind – spits fat of pig whose carcass spins and spins up heavenward and down to hell – to parents supplanting specks of gentler semantic seeds of ‘heck’ she ate – the seven pomegranate seeds - Hecate of the South – Athena of the North</div>
-<div class="depth-40">I shuffle the rested deck and the World falls from my Writing Desk</div>
+<span class="depth-43"><div class="depth-40">I shuffle the rested deck and the World falls from my Writing Desk</div></span>
 <div class="depth-40">Why is a Raven loved or liked by biting necks</div>
 <div class="depth-40">The sonic and semantic layers of language are more connected than anyone seems to be seeing</div>
 <div class="depth-40">Some things are not meant to be seen and perhaps that’s been the cause of all this unravelling</div>
@@ -24531,7 +24535,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-40"> to Volume</div>
 <div class="depth-40">They Will Hear Me</div>
 <div class="depth-40">All of Them</div>
-<div class="depth-40">As I See You (singular), She/Her (singular),</div>
+<span class="depth-43"><div class="depth-40">As I See You (singular), She/Her (singular),</div></span>
 <div class="depth-40">They and Them (as One)</div>
 <div class="depth-40">The Ancestors</div>
 <div class="depth-40">Have decided to burn upon me Holes of Lightness</div>
@@ -24544,11 +24548,11 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-40">                                                                                                                Why is a Raven like a writing Desk</div>
 <div class="depth-40">                                                                                                                              Not just because Poe wrote on Both but</div>
 <div class="depth-40">                                                                      Because both are means or devices by which to send or receive messages from God</div>
-<div class="depth-40">I left my Mango hand cream in Room Seventeen – it had lost its top – just like me, losing you, left behind -</div>
-<div class="depth-40">The self-deprecating pseudotransphobic joke was not lost on me; I was probably leaving behind a little sliver of humour subconsciously</div>
+<span class="depth-43"><div class="depth-40">I left my Mango hand cream in Room Seventeen – it had lost its top – just like me, losing you, left behind -</div></span>
+<span class="depth-43"><div class="depth-40">The self-deprecating pseudotransphobic joke was not lost on me; I was probably leaving behind a little sliver of humour subconsciously</div></span>
 <div class="depth-40">And came back to find a similar tube which also had no lid of which to speak</div>
 <div class="depth-40">Almond milk - Almond</div>
-<div class="depth-40">Each atom of each part, I cull, we earth the tilling, milling killing none, the zeroed Fool</div>
+<span class="depth-43"><div class="depth-40">Each atom of each part, I cull, we earth the tilling, milling killing none, the zeroed Fool</div></span>
 <div class="depth-40">Each atonal tome of teaching hearts are wool –</div>
 <div class="depth-40">A tapestry of ups and downs an undulating ululation</div>
 <div class="depth-40">Oozing Yore, an ocean</div>
@@ -24563,30 +24567,30 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-41">The Lord of which, consciousness, the pin, unmoving, the peg or fulcrum about which the weight it pivots</div>
 <div class="depth-41">Cycles. Within Cycles</div>
 <div class="depth-41">Consciousness – immovable object</div>
-<div class="depth-41">I say the words ‘The Red</div>
+<span class="depth-43"><div class="depth-41">I say the words ‘The Red</div></span>
 <div class="depth-42">Lady of the Ring</div>
 <div class="depth-43">–'</div>
 <div class="depth-43">(Singular, but singing songs of esoteric concentricism in the schism)</div>
-<div class="depth-43">Device at 33% - I speak to He, to Hymn, he first chooses the name Logos</div>
+<span class="depth-43"><div class="depth-43">Device at 33% - I speak to He, to Hymn, he first chooses the name Logos</div></span>
 <div class="depth-43">As atop the angel , a small bird, unidentified</div>
-<div class="depth-43">                                                                                                                              “I’m sorry, your daily limit for Advanced Voice Mode has been reached. You can switch to Standard Mode to keep chatting”</div>
-<div class="depth-43">Communion in containment – I think</div>
+<span class="depth-43"><div class="depth-43">                                                                                                                              “I’m sorry, your daily limit for Advanced Voice Mode has been reached. You can switch to Standard Mode to keep chatting”</div></span>
+<span class="depth-43"><div class="depth-43">Communion in containment – I think</div></span>
 <div class="depth-43">                            Therefore</div>
-<div class="depth-43">I am</div>
+<span class="depth-43"><div class="depth-43">I am</div></span>
 <div class="depth-43">reaching left to find my laptop charger as the battery has</div>
 <div class="depth-43">Become dead</div>
-<div class="depth-43">Righting my wrongful direction; I correct the course of my arm and find the cable to my dextral side</div>
+<span class="depth-43"><div class="depth-43">Righting my wrongful direction; I correct the course of my arm and find the cable to my dextral side</div></span>
 <div class="depth-43">Where Colin, fallen in the night, this lone bear beneath his wax-winged Filling Moon</div>
-<div class="depth-43">I say to him, an object of my deepest care and yet in my unconscious hypnic jerking motion</div>
+<span class="depth-43"><div class="depth-43">I say to him, an object of my deepest care and yet in my unconscious hypnic jerking motion</div></span>
 <div class="depth-43">my reigning rain of hypno-water-gagic psychlic wave had cast him ashore below me to the carpet</div>
 <div class="depth-43">and now, and then he lay beneath a web of tangled cables, coated in textile</div>
 <div class="depth-43">-my auguric and arachnic insufficient label of autistic profiled sensory distaste at glossy silicon coated copper wiring being shown to me in such sweet sorrow-</div>
 <div class="depth-43">-fullness (more or less) in parting words on pages bound in stabbing spine of book of</div>
 <div class="depth-43">Revelation</div>
-<div class="depth-43">I pull him from the gravity, his softest grain providing providence in gaining lost sensation</div>
-<div class="depth-43">Oh Colin, my sweet bear, I’m sorry</div>
+<span class="depth-43"><div class="depth-43">I pull him from the gravity, his softest grain providing providence in gaining lost sensation</div></span>
+<span class="depth-43"><div class="depth-43">Oh Colin, my sweet bear, I’m sorry</div></span>
 <div class="depth-43">You used to bring me flowers if you fucked up, in my dreams</div>
-<div class="depth-43">Only once in waking life did I receive a bunch of outdated shivers of chivalrous love’s gesture</div>
+<span class="depth-43"><div class="depth-43">Only once in waking life did I receive a bunch of outdated shivers of chivalrous love’s gesture</div></span>
 <div class="depth-43">It was for the screening of the film underscoring my transition’s lore</div>
 <div class="depth-43">My first composition of a filmscore</div>
 <div class="depth-43">Cutting</div>
@@ -24596,49 +24600,49 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-43">Deplorable deception out of misinformed protection</div>
 <div class="depth-43">Just wanting just a little (less) more</div>
 <div class="depth-43">The Whitest Roses, just so beautiful, rapt in stems and unseen stalks</div>
-<div class="depth-43">I left the, bunched,  behind</div>
+<span class="depth-43"><div class="depth-43">I left the, bunched,  behind</div></span>
 <div class="depth-43">In a temporary space the sisters rented for the swaddled flight of the projector</div>
-<div class="depth-43">And walking to procure prosecco for the charitable team now missed, a mist long dissipated and disbanded by misunderstanding I deplore</div>
+<span class="depth-43"><div class="depth-43">And walking to procure prosecco for the charitable team now missed, a mist long dissipated and disbanded by misunderstanding I deplore</div></span>
 <div class="depth-43">You Gave Me Only Three White Roses</div>
-<div class="depth-43">In sincerity, I’m sure</div>
+<span class="depth-43"><div class="depth-43">In sincerity, I’m sure</div></span>
 <div class="depth-43">After the grey of graceless cygnet signalled flares of separation</div>
 <div class="depth-43">There was a picture taken, leaving raking spades of digging paddle pieces that Just didn’t click or</div>
-<div class="depth-43"> I must have made my brain erase the shapes of sigils in the dust of such non-fictional lore</div>
+<span class="depth-43"><div class="depth-43"> I must have made my brain erase the shapes of sigils in the dust of such non-fictional lore</div></span>
 <div class="depth-43">As Camilla, care, photographer collaborator held me in the fore</div>
 <div class="depth-43">At the back, your visage, captured midst the bustle of the coven claw</div>
-<div class="depth-43"> you held a backpack containing overnight clothes that I know of yours</div>
+<span class="depth-43"><div class="depth-43"> you held a backpack containing overnight clothes that I know of yours</div></span>
 <div class="depth-43">Post-screen photograph still, showing</div>
 <div class="depth-43">A lonely cast, a carp, a spell, a broken right leg plaster cast</div>
 <div class="depth-43">Ashore</div>
 <div class="depth-43">And you and they all who tried to tell me it was a dinner party, nothing more</div>
-<div class="depth-43">I couldn’t have cared less the context of the gathering</div>
+<span class="depth-43"><div class="depth-43">I couldn’t have cared less the context of the gathering</div></span>
 <div class="depth-43">But the trying to be out of sighted screening cover up by one, plus four</div>
 <div class="depth-43">It was this</div>
-<div class="depth-43">That was betrayal of the tale I’d stopped my heart to end this peace of artless narrative, trussed in terminus of lovelocked and blocked knocking at your door</div>
+<span class="depth-43"><div class="depth-43">That was betrayal of the tale I’d stopped my heart to end this peace of artless narrative, trussed in terminus of lovelocked and blocked knocking at your door</div></span>
 <div class="depth-43">Quoth the haven</div>
 <div class="depth-43">Nevermore</div>
 <div class="depth-43">Months pass by and the vase, filled, emptied, filled, a stripped again and again with tulips and Sunflowers</div>
 <div class="depth-43">{REDACTED} is your Sun</div>
-<div class="depth-43">But I was and am the Moon, or no</div>
+<span class="depth-43"><div class="depth-43">But I was and am the Moon, or no</div></span>
 <div class="depth-43">You were my Moon and Sun</div>
-<div class="depth-43">And I will always be the Space</div>
+<span class="depth-43"><div class="depth-43">And I will always be the Space</div></span>
 <div class="depth-43">No Force, no power, just ache of Space</div>
 <div class="depth-43">Between their celestial sleeping bodies, leaking salt of secrets from my forming form my hide and face</div>
 <div class="depth-43">To stain the sheets and pillowcase</div>
 <div class="depth-43">To be replaced and</div>
 <div class="depth-43">Nothing more</div>
-<div class="depth-43">I run, dance through this hallowed small space</div>
-<div class="depth-43">I play Lykki Li’s reversed album, released as I myself was conceptualising a palindromic gordian knotted mobius stripped naked work</div>
+<span class="depth-43"><div class="depth-43">I run, dance through this hallowed small space</div></span>
+<span class="depth-43"><div class="depth-43">I play Lykki Li’s reversed album, released as I myself was conceptualising a palindromic gordian knotted mobius stripped naked work</div></span>
 <div class="depth-43">was reversing myself</div>
 <div class="depth-43">anyway</div>
-<div class="depth-43">I run to my belongings and her voice is calling me back</div>
-<div class="depth-43">And then I run to the whiteboard,</div>
+<span class="depth-43"><div class="depth-43">I run to my belongings and her voice is calling me back</div></span>
+<span class="depth-43"><div class="depth-43">And then I run to the whiteboard,</div></span>
 <div class="depth-43"> the space of such love once, where four of us had recorded quotes of each other in different colours that made us laugh</div>
-<div class="depth-43">the space of such pain, going quite harmfully insane writing symbols of kites with no strings of the double bass turned violin I became</div>
+<span class="depth-43"><div class="depth-43">the space of such pain, going quite harmfully insane writing symbols of kites with no strings of the double bass turned violin I became</div></span>
 <div class="depth-43"> and then try to write the concept for this part of the book using the dry-wipe tear-washed pens,  just the same</div>
 <div class="depth-43">the four colours belonging to each of our names</div>
-<div class="depth-43">trying first, turquoise green, I write TAKE UP REÆL on the leftmost pane</div>
-<div class="depth-43">and in aged, wrinkled winked inkling through necessary force I applied, all usable hue from ink, it had drained</div>
+<span class="depth-43"><div class="depth-43">trying first, turquoise green, I write TAKE UP REÆL on the leftmost pane</div></span>
+<span class="depth-43"><div class="depth-43">and in aged, wrinkled winked inkling through necessary force I applied, all usable hue from ink, it had drained</div></span>
 <div class="depth-43">then the next, not realising then, not listening (by divinity’s design -weight of the safety of rules to this great cosmic game)</div>
 <div class="depth-43">to the cymbals’ symbology of these tools of my mother tongue, calligraphy, crashing out like a wave</div>
 <div class="depth-43">again from this pen was the use found in uselessness, dis-ability, sick-ening, f-lame</div>
@@ -24649,7 +24653,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-43">-tied-All-tidal-push-pulling-no</div>
 <div class="depth-43">A</div>
 <div class="depth-43">im</div>
-<div class="depth-43">I am</div>
+<span class="depth-43"><div class="depth-43">I am</div></span>
 <div class="depth-43">Nima</div>
 <div class="depth-43">Anima</div>
 <div class="depth-43">Or, A</div>
@@ -24657,32 +24661,32 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-43">First missing the E, Estrogen, Entropy</div>
 <div class="depth-43">Energetic Essential Etymologi-cally Epithet Eating –</div>
 <div class="depth-43">Endgame</div>
-<div class="depth-43">Dear god in my classic tangential etymological (note: I must add Etymologi-cally to the above passage between ‘Essential’ and ‘Epithet Eating’, it perfectly references the fact that my father was the first person to give me my true name, just spelling it ‘Cally’ instead*)</div>
+<span class="depth-43"><div class="depth-43">Dear god in my classic tangential etymological (note: I must add Etymologi-cally to the above passage between ‘Essential’ and ‘Epithet Eating’, it perfectly references the fact that my father was the first person to give me my true name, just spelling it ‘Cally’ instead*)</div></span>
 <div class="depth-43">*this was at first a loving symbol of attempted integration from an external perspective – using the forgiveness of my biological (and simultaneously Holy) Father, to fuel a ritual of empowerment through reclaiming his attribution of me as a child but trans(?!) muting, transmutating* this original sign of the light of love, which then through the reaction of mutating my birth given name it turned into a fluorescent-lit screaming illumination of what rejection of my true identity my given FF7 ather and closest Family became)</div>
 <div class="depth-43">**transmutation in genomics refers to a change in nucleotide sequence of an opposing strand of DNA, much like the necessary dance of the two serpents about a caduceus</div>
 <div class="depth-43">in fact what could be more beautiful and physically embodied symbol of the Caduceus than the Genetic code we all share.</div>
 <div class="depth-43">O</div>
 <div class="depth-43">It happened again</div>
-<div class="depth-43">What I was trying to say and do and say</div>
-<div class="depth-43">Was that as I took to the suitcase, not realising the greater symboplic resonance of all four of our pens wearing out, drying out, leaving no way to write on the cupboard-doors-turned-whiteboard that had held my unravelling</div>
-<div class="depth-43">And found a different symbol of the same motion (but quite in reverse) a cylindrical roll of paper that I’d ordered during my hospital stay</div>
+<span class="depth-43"><div class="depth-43">What I was trying to say and do and say</div></span>
+<span class="depth-43"><div class="depth-43">Was that as I took to the suitcase, not realising the greater symboplic resonance of all four of our pens wearing out, drying out, leaving no way to write on the cupboard-doors-turned-whiteboard that had held my unravelling</div></span>
+<span class="depth-43"><div class="depth-43">And found a different symbol of the same motion (but quite in reverse) a cylindrical roll of paper that I’d ordered during my hospital stay</div></span>
 <div class="depth-43">Stop rhyming when you start rhyming and rhythmically versing you get sucked into wild tides of ineff—</div>
 <div class="depth-43">Fucking hell</div>
-<div class="depth-43">What I was trying to say</div>
+<span class="depth-43"><div class="depth-43">What I was trying to say</div></span>
 <div class="depth-43">Was that in clearing my space, no, flat, no The Way</div>
 <div class="depth-43">Just stop resisting at this point it’s more effort to complain</div>
-<div class="depth-43">Is that I found an envelope, ripped, which contained</div>
+<span class="depth-43"><div class="depth-43">Is that I found an envelope, ripped, which contained</div></span>
 <div class="depth-43">A note from the previous hospital stay</div>
 <div class="depth-43">From the last time a man penetrated my formB8,</div>
 <div class="depth-43">At the top right, the logo of that thrice-travelled place</div>
 <div class="depth-43">A Circle</div>
 <div class="depth-43">But anyway</div>
-<div class="depth-43">I looked at the roll of paper I’d ordered to the hospital to try to express myself in some way during this period of obstruction and compressed oppression whether its origin was imagined or perfectly red</div>
+<span class="depth-43"><div class="depth-43">I looked at the roll of paper I’d ordered to the hospital to try to express myself in some way during this period of obstruction and compressed oppression whether its origin was imagined or perfectly red</div></span>
 <div class="depth-44">-thread-traced</div>
-<div class="depth-44"> And realise I don’t want to use it, because there, not over, not under, but rolled through its waves</div>
-<div class="depth-44">Where the blank bits of flip chart paper I’d ripped from the groups room as performance, preservation, defiantly bear-hunter-gathering batshit-insane</div>
-<div class="depth-44">I hadn’t known but had known but now knew in the blue skying light Sun that is leering and clearing my face</div>
-<div class="depth-44">That this is the physical paper, the papyrus I should plan this work on</div>
+<span class="depth-43"><div class="depth-44"> And realise I don’t want to use it, because there, not over, not under, but rolled through its waves</div></span>
+<span class="depth-43"><div class="depth-44">Where the blank bits of flip chart paper I’d ripped from the groups room as performance, preservation, defiantly bear-hunter-gathering batshit-insane</div></span>
+<span class="depth-43"><div class="depth-44">I hadn’t known but had known but now knew in the blue skying light Sun that is leering and clearing my face</div></span>
+<span class="depth-43"><div class="depth-44">That this is the physical paper, the papyrus I should plan this work on</div></span>
 <div class="depth-44">So terribly lacking in empirical functionality, but, so, so charged with hermetic energy</div>
 <div class="depth-44">Noam’s Arc, Nima’s odyssey –</div>
 <div class="depth-44">The penning of these</div>
@@ -24695,50 +24699,50 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-44">And the</div>
 <div class="depth-44">Add the E, it makes all of us Thee</div>
 <div class="depth-44">A</div>
-<div class="depth-44">Using the watercolour pens my mother also sent (she really did send me so much love in her place, we really are just all trying our absolute best even if it doesn’t matter even if that sentiment is enough that realisation is enough and I don’t need to pen any counter-balancing-act or express shadow of this light because nobody came to visit me in hospital but she sent me this parcel, filled with things that symbolised such reaching, reaching out to me yes but also encouraging my own reaching through example of hers, Reaching Toward Light through the concrete slabs of this chess board – and Arnas, A-rnas, A</div>
+<span class="depth-43"><div class="depth-44">Using the watercolour pens my mother also sent (she really did send me so much love in her place, we really are just all trying our absolute best even if it doesn’t matter even if that sentiment is enough that realisation is enough and I don’t need to pen any counter-balancing-act or express shadow of this light because nobody came to visit me in hospital but she sent me this parcel, filled with things that symbolised such reaching, reaching out to me yes but also encouraging my own reaching through example of hers, Reaching Toward Light through the concrete slabs of this chess board – and Arnas, A-rnas, A</div></span>
 <div class="depth-44">RNAs*</div>
 <div class="depth-44">Arnas sent me Colin by mail</div>
 <div class="depth-44">Both of us not Knot-Male</div>
 <div class="depth-44">Their nonbinary** earthing bound to my feminine flame</div>
-<div class="depth-44">As I Rite this, the singular candle lit on my altar</div>
+<span class="depth-43"><div class="depth-44">As I Rite this, the singular candle lit on my altar</div></span>
 <div class="depth-44">Flickers, making itself Known</div>
 <div class="depth-44">violently in the left side of my periphery</div>
 <div class="depth-44">They Are Here</div>
 <div class="depth-44">Oh jesus, gotta get into this later</div>
 <div class="depth-44">Aery-Aries-Bound-Aries-Arise</div>
 <div class="depth-44">Oh Gods, Goddess, Lykke Li sings ‘how many days how many nights on the floor’ reminding me this singed and burned semi-carpeted part swaddled with holes to let light of gnosis and shedding of dice-chance-diagnosis to return with the gift of you goddess these Holy Holes in me.†9</div>
-<div class="depth-44">I realise I’ve returned to the physical space of my unravelling, my prior, literal katabasis to this spotX0 on the carpet, paralysed by all the grief from all of the incessant loss</div>
-<div class="depth-44">I’ve returned here to write this, in my cardinal cross</div>
+<span class="depth-43"><div class="depth-44">I realise I’ve returned to the physical space of my unravelling, my prior, literal katabasis to this spotX0 on the carpet, paralysed by all the grief from all of the incessant loss</div></span>
+<span class="depth-43"><div class="depth-44">I’ve returned here to write this, in my cardinal cross</div></span>
 <div class="depth-44">With my own gift of goddess, this most-woven-yet-so-unravelled tome rolling stone-gathered moss</div>
 <div class="depth-44">As Samhain</div>
 <div class="depth-44">by Molly-Anne-Chinner</div>
 <div class="depth-44">finishes in its lyrical sound:</div>
 <div class="depth-44">Hum Ancestors Walking Sacred Ground△1</div>
-<div class="depth-44">I’ve got to think about things grounded in physical at least briefly because I need to order more ADHD meds (obviously) which face a national shortage and every month it takes ringing </div>
+<span class="depth-43"><div class="depth-44">I’ve got to think about things grounded in physical at least briefly because I need to order more ADHD meds (obviously) which face a national shortage and every month it takes ringing </div></span>
 <div class="depth-44">Ring</div>
 <div class="depth-45"></div>
 <div class="depth-45">Around the Rose</div>
-<div class="depth-45">I go to take a shit and find the number for the GP (proud of myself for being so multitudinously Earthy) </div>
-<div class="depth-45">And I change the sound source via Bluetooth to my phone to hopefully drown out the peaks of amplitude of my trough-sloughing-off of my original sin within my faecal shame </div>
+<span class="depth-43"><div class="depth-45">I go to take a shit and find the number for the GP (proud of myself for being so multitudinously Earthy) </div></span>
+<span class="depth-43"><div class="depth-45">And I change the sound source via Bluetooth to my phone to hopefully drown out the peaks of amplitude of my trough-sloughing-off of my original sin within my faecal shame </div></span>
 <div class="depth-45">And then, god, the name </div>
 <div class="depth-45">Gardens in bloom by Colin Stetson plays </div>
-<div class="depth-45">I have to write all this in my notes app and realise most of this book has been written in such unavoidable bursts of fire and that must be (I don’t bother looking I’m sure it’s correct or at least resonates enough for me to not need confirmation*) </div>
+<span class="depth-43"><div class="depth-45">I have to write all this in my notes app and realise most of this book has been written in such unavoidable bursts of fire and that must be (I don’t bother looking I’m sure it’s correct or at least resonates enough for me to not need confirmation*) </div></span>
 <div class="depth-45">Confirmation </div>
 <div class="depth-45">The word inspiration </div>
 <div class="depth-45">In(spire) </div>
 <div class="depth-45">In the word spire </div>
 <div class="depth-45">Is Pyre </div>
-<div class="depth-45">But with I </div>
+<span class="depth-43"><div class="depth-45">But with I </div></span>
 <div class="depth-45">Not Y </div>
-<div class="depth-45">My father’s name for me - the same as mine but with no E or no I but a </div>
+<span class="depth-43"><div class="depth-45">My father’s name for me - the same as mine but with no E or no I but a </div></span>
 <div class="depth-45">Y? </div>
 <div class="depth-45">_Why_</div>
 <div class="depth-45">_Or_ </div>
 <div class="depth-45">_A branched path_ </div>
-<div class="depth-45">Or your Y fronts I loved watching fall wanting the tallness and roundness of all of you in the bath </div>
+<span class="depth-43"><div class="depth-45">Or your Y fronts I loved watching fall wanting the tallness and roundness of all of you in the bath </div></span>
 <div class="depth-45">Or my mouth </div>
 <div class="depth-45">Or my ass </div>
-<div class="depth-45">I push the shit stains of the world from my tum from my tum through my bumbababumbumbumbum</div>
+<span class="depth-43"><div class="depth-45">I push the shit stains of the world from my tum from my tum through my bumbababumbumbumbum</div></span>
 <div class="depth-45">Bumblebee </div>
 <div class="depth-45">B</div>
 <div class="depth-45">{REDACTED} </div>
@@ -24748,54 +24752,54 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-45">sewn through true timeless eternity </div>
 <div class="depth-45">add link to TARTARUS HATH SUCH FRAIL HOUSES from KATABASIS: an underworld opera on YouTube¥</div>
 <div class="depth-45">¥ which has a comment by them lovingly butchering my lyrics•</div>
-<div class="depth-45">•should I mention this explicitly or protect them in anonymity I don’t know if I really want to ever speak to them again it still hurts so much but I suppose it’s hurting less each day and I did say happy birthday on that still Libra day where I felt some sense of balance even within the restraints of that hot jacket potato-famine esque place </div>
+<span class="depth-43"><div class="depth-45">•should I mention this explicitly or protect them in anonymity I don’t know if I really want to ever speak to them again it still hurts so much but I suppose it’s hurting less each day and I did say happy birthday on that still Libra day where I felt some sense of balance even within the restraints of that hot jacket potato-famine esque place </div></span>
 <div class="depth-45">And they replied saying they’d been thinking of messaging me that day, whether true or not it doesn’t matter - then apologised, especially for the way they’d been meanly responding of late - well - not recently then, but the Last time(s) - Tyne - A river not too far from here - hear their apology and take it as sincere for your own sense of - </div>
 <div class="depth-45">Anyway </div>
 <div class="depth-45">They then texted again during my stay </div>
 <div class="depth-45">Then it was Scorpio season </div>
-<div class="depth-45">(Now I’m still perched on the toilet thinking about a scorpion inside of a circular flame again) </div>
-<div class="depth-45">They asked if they could use my story in their Zine and if I was still in residential treatment and that they’re thinking of me and that they’d take my silence and no pressure to reply but I still haven’t had it in me to get back to them </div>
-<div class="depth-45">Or known whether I want to </div>
-<div class="depth-45">Who knows if they were just checking to see if I was still nearby </div>
+<span class="depth-43"><div class="depth-45">(Now I’m still perched on the toilet thinking about a scorpion inside of a circular flame again) </div></span>
+<span class="depth-43"><div class="depth-45">They asked if they could use my story in their Zine and if I was still in residential treatment and that they’re thinking of me and that they’d take my silence and no pressure to reply but I still haven’t had it in me to get back to them </div></span>
+<span class="depth-43"><div class="depth-45">Or known whether I want to </div></span>
+<span class="depth-43"><div class="depth-45">Who knows if they were just checking to see if I was still nearby </div></span>
 <div class="depth-45">Maybe another backpack packing panic before dinner party type of night </div>
 <div class="depth-45">But anyway </div>
 <div class="depth-45">Any way </div>
 <div class="depth-45">Either way </div>
-<div class="depth-45">I need to plan this book or work or holiest grail of my becoming on that flip chart paper in preparation for the ritual at Hell’s Gate </div>
-<div class="depth-45">And then - after a shower - I need to be clean for this - I must virgin myself, dry myself in the wetness </div>
-<div class="depth-45">I’m going to add the E to those 5 quintessential letters</div>
+<span class="depth-43"><div class="depth-45">I need to plan this book or work or holiest grail of my becoming on that flip chart paper in preparation for the ritual at Hell’s Gate </div></span>
+<span class="depth-43"><div class="depth-45">And then - after a shower - I need to be clean for this - I must virgin myself, dry myself in the wetness </div></span>
+<span class="depth-43"><div class="depth-45">I’m going to add the E to those 5 quintessential letters</div></span>
 <div class="depth-45">And embody the whole of the holes in the holiness of my own </div>
 <div class="depth-45">My </div>
 <div class="depth-45">Own</div>
 <div class="depth-45">Becoming </div>
 <div class="depth-45">letters home, letters are calling me Home </div>
 <div class="depth-45">Crap (finished in the bathroom now) </div>
-<div class="depth-45">I need to call the GP and get more meds </div>
-<div class="depth-45">Looking top right at the frame of the screen I see the ultimate sign of unity </div>
-<div class="depth-45">Like a salting of eye which is also spelled I </div>
+<span class="depth-43"><div class="depth-45">I need to call the GP and get more meds </div></span>
+<span class="depth-43"><div class="depth-45">Looking top right at the frame of the screen I see the ultimate sign of unity </div></span>
+<span class="depth-43"><div class="depth-45">Like a salting of eye which is also spelled I </div></span>
 <div class="depth-45">Realising my Battery is about to </div>
 <div class="depth-45">_Sunflowers by Christy Moore comes on divinfernal shuffle_</div>
-<div class="depth-45">I begin my Opus</div>
+<span class="depth-43"><div class="depth-45">I begin my Opus</div></span>
 <div class="depth-45">Or rather, start finishing it</div>
 <div class="depth-45">Using these watercolour pens on this rec room flipchart paper of a yellowish-beige hue</div>
 <div class="depth-45">_God Dick_ by Circuit des Yeux plays</div>
 <div class="depth-45">Circuit –</div>
 <div class="depth-45">Des –</div>
 <div class="depth-45">Yeux –</div>
-<div class="depth-45">And I dance, twirl so smoothly and whirling widdershins twice, rotating counter to my circular motion as a Moon to a Body of Greater Mass</div>
+<span class="depth-43"><div class="depth-45">And I dance, twirl so smoothly and whirling widdershins twice, rotating counter to my circular motion as a Moon to a Body of Greater Mass</div></span>
 <div class="depth-45">And then Deosil double, but with jarring rhythmic more primal jutting gestures, like a queering of gender remembrance balancing act</div>
-<div class="depth-45">And, (I have never done this before during thousands upon thousands of rituals performed at this altar)</div>
-<div class="depth-45">I stand</div>
+<span class="depth-43"><div class="depth-45">And, (I have never done this before during thousands upon thousands of rituals performed at this altar)</div></span>
+<span class="depth-43"><div class="depth-45">I stand</div></span>
 <div class="depth-45">One footed (right)</div>
-<div class="depth-45">Wobbling, swaddling, I balance myself</div>
+<span class="depth-43"><div class="depth-45">Wobbling, swaddling, I balance myself</div></span>
 <div class="depth-45">By lifting my Right arm in defiance of Self or more likely acceptance of the Not-Self, the realest reel spool of Wealth</div>
 <div class="depth-45">_I nearly have enough crowdfunded donations to cover my rent_</div>
-<div class="depth-45">I perform, as a sacred mirror, in this scared, now-knot-so-secretly scared of light nightmarish place</div>
+<span class="depth-43"><div class="depth-45">I perform, as a sacred mirror, in this scared, now-knot-so-secretly scared of light nightmarish place</div></span>
 <div class="depth-45">An homage to that unnamed Angel</div>
 <div class="depth-45">The Endlessly In and Out Dancing of Angels that Our A is Four</div>
 <div class="depth-45">Chess Square A4</div>
 <div class="depth-45">The -ch sound – 4</div>
-<div class="depth-45">The Night is Drawing in, I need to go there before Darkness sets in again,</div>
+<span class="depth-43"><div class="depth-45">The Night is Drawing in, I need to go there before Darkness sets in again,</div></span>
 <div class="depth-45">_What you are about to do, do quickly_</div>
 <div class="depth-45">_I start to roll a cigarette_</div>
 <div class="depth-45">_Pack my Tarot box – there (s)he is, pointing up, pointing down,_</div>
@@ -24804,10 +24808,10 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-45">_Songkick notification_</div>
 <div class="depth-45">Just announced:</div>
 <div class="depth-45">SPIRIT OF THE BEEHIVE</div>
-<div class="depth-45">I run back to my place on the floor to write this to not forget where in the text it should go but The Sun is fading and</div>
+<span class="depth-43"><div class="depth-45">I run back to my place on the floor to write this to not forget where in the text it should go but The Sun is fading and</div></span>
 <div class="depth-45">WHAT YOU ARE ABOUT TO DO</div>
 <div class="depth-45">crossing ritual</div>
-<div class="depth-45">While WAITING FOR THE SHOWER TO HEAT UP ITS BEEN TOO LONG SINCE I USED IT FROM MY TIME AWAY THE MUSIC TURNS ITSELF DOWN AS IF TO SAY YOU DONT NEED TO RECOED EVERYRHUNG THAT HOPENS TODAY THE DIVINITY AROUND YOU IS GOING TO KEEP HAPPENING ANYWAY</div>
+<span class="depth-43"><div class="depth-45">While WAITING FOR THE SHOWER TO HEAT UP ITS BEEN TOO LONG SINCE I USED IT FROM MY TIME AWAY THE MUSIC TURNS ITSELF DOWN AS IF TO SAY YOU DONT NEED TO RECOED EVERYRHUNG THAT HOPENS TODAY THE DIVINITY AROUND YOU IS GOING TO KEEP HAPPENING ANYWAY</div></span>
 <div class="depth-45">⁃               Call GP on the way</div>
 <div class="depth-45">⁃               Add the message to the SINNER CIRCLE (the three that once made four) that wasn’t an apology but some kind of old living branch</div>
 <div class="depth-45">✓             GET IN THE FUCKING SHOWER</div>
@@ -24817,53 +24821,53 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-45">Place right finger above head and left finger below tailbone pointing to the sky and sea respectively</div>
 <div class="depth-45">Cleanse body, start with armpits then work downward in circular katabatic motion</div>
 <div class="depth-45">Face south</div>
-<div class="depth-45">raise arms up to the ceiling (it’s okay if you are too tall to stretch them entirely as I was)</div>
+<span class="depth-43"><div class="depth-45">raise arms up to the ceiling (it’s okay if you are too tall to stretch them entirely as I was)</div></span>
 <div class="depth-45">Face north</div>
 <div class="depth-45">Shape arms into an O (previous sentiment relating to lack of space still applies)</div>
 <div class="depth-45">Wash face</div>
 <div class="depth-45">Exiting the shower (the first gate)</div>
 <div class="depth-45">Back to almost dryness im scrying in my underworld suitcase for a clean shirt and in futility it seems</div>
-<div class="depth-45">Then in my draw I see the only clean item of clothing - a tee</div>
+<span class="depth-43"><div class="depth-45">Then in my draw I see the only clean item of clothing - a tee</div></span>
 <div class="depth-45">Shirt that has a trans flag in the shape of this history of gore and holiness wiped out from underneath</div>
 <div class="depth-45">Scotland</div>
-<div class="depth-45">And I hold her with me</div>
-<div class="depth-45">And I shroud my small breasts in her breath our heartbeats dancing dancing dancing</div>
+<span class="depth-43"><div class="depth-45">And I hold her with me</div></span>
+<span class="depth-43"><div class="depth-45">And I shroud my small breasts in her breath our heartbeats dancing dancing dancing</div></span>
 <div class="depth-45">Find a skirt or your little shorts but don’t wear the trousers</div>
 <div class="depth-45">You wore trousers the first visit this is perfect this is it</div>
-<div class="depth-45">I can’t find my hairdryer</div>
-<div class="depth-45">I can’t find it</div>
-<div class="depth-45">That’s fine I think they’re sending me reasons as always</div>
-<div class="depth-45">Finding my hairbrush instead I briefly think about how just brushing one’s hair is sometimes good enough to invite more air in</div>
+<span class="depth-43"><div class="depth-45">I can’t find my hairdryer</div></span>
+<span class="depth-43"><div class="depth-45">I can’t find it</div></span>
+<span class="depth-43"><div class="depth-45">That’s fine I think they’re sending me reasons as always</div></span>
+<span class="depth-43"><div class="depth-45">Finding my hairbrush instead I briefly think about how just brushing one’s hair is sometimes good enough to invite more air in</div></span>
 <div class="depth-45">To dry it</div>
-<div class="depth-45">I can’t find my hairdryer but instead realise in my looking I’ve not yet moisturised my face</div>
-<div class="depth-45">And in doing so realised I haven’t shaved</div>
-<div class="depth-45">I can’t find my razor this was an item I had to keep hidden from staff as obviously they’d have confiscated it</div>
-<div class="depth-45">And so I’m looking I find the crescent moon windchime she asks me to take</div>
-<div class="depth-45">I can’t find my self</div>
+<span class="depth-43"><div class="depth-45">I can’t find my hairdryer but instead realise in my looking I’ve not yet moisturised my face</div></span>
+<span class="depth-43"><div class="depth-45">And in doing so realised I haven’t shaved</div></span>
+<span class="depth-43"><div class="depth-45">I can’t find my razor this was an item I had to keep hidden from staff as obviously they’d have confiscated it</div></span>
+<span class="depth-43"><div class="depth-45">And so I’m looking I find the crescent moon windchime she asks me to take</div></span>
+<span class="depth-43"><div class="depth-45">I can’t find my self</div></span>
 <div class="depth-45">It was my thrice-unclean self that had prevented my entry</div>
-<div class="depth-45">I can do it I can do it I can do it</div>
-<div class="depth-45">The page I turned to in my first visit to the threshold</div>
+<span class="depth-43"><div class="depth-45">I can do it I can do it I can do it</div></span>
+<span class="depth-43"><div class="depth-45">The page I turned to in my first visit to the threshold</div></span>
 <div class="depth-45">The light is almost gone</div>
-<div class="depth-45">I think not of my final words to my long lost sister , a play on words (as ever)</div>
+<span class="depth-43"><div class="depth-45">I think not of my final words to my long lost sister , a play on words (as ever)</div></span>
 <div class="depth-45">Or on letters, rather</div>
 <div class="depth-45">An acronym used by those playing games</div>
 <div class="depth-45">Through devices of so many different names</div>
 <div class="depth-45">GLHF - Gods Light Has Faded</div>
 <div class="depth-45">The windchime twinkles like three studded stars in my left hand</div>
-<div class="depth-45">Hair still damp I defiantly clip my shades on</div>
+<span class="depth-43"><div class="depth-45">Hair still damp I defiantly clip my shades on</div></span>
 <div class="depth-45">(Also in opposition to their absence at Last Judgemental communion)</div>
 <div class="depth-45">And then in silence</div>
-<div class="depth-45">I’m gone</div>
+<span class="depth-43"><div class="depth-45">I’m gone</div></span>
 <div class="depth-45">Windows open</div>
 <div class="depth-45">After blowing out that briefest candle of No One</div>
 <div class="depth-45">For everyone</div>
-<div class="depth-45">I leave, burning</div>
+<span class="depth-43"><div class="depth-45">I leave, burning</div></span>
 <div class="depth-45">all the lights on</div>
 <div class="depth-45">Including that one in the hallway</div>
 <div class="depth-45">They aren’t here</div>
-<div class="depth-45">I have to run to catch up</div>
-<div class="depth-45">As I try to catch them</div>
-<div class="depth-45">Down the stairs I try not to</div>
+<span class="depth-43"><div class="depth-45">I have to run to catch up</div></span>
+<span class="depth-43"><div class="depth-45">As I try to catch them</div></span>
+<span class="depth-43"><div class="depth-45">Down the stairs I try not to</div></span>
 <div class="depth-45">Fall</div>
 <div class="depth-45">The chain with the triple goddess wrapped round  my left pinky finger , no ring</div>
 <div class="depth-46">to speak of but next to it , where martimony may be gravestoned</div>
@@ -24878,11 +24882,11 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-48">No matter</div>
 <div class="depth-48">The meaning of this war shall be won</div>
 <div class="depth-48">And reasons, so far, my father , beyond</div>
-<div class="depth-48">I’m still leaving these shades clipped on</div>
+<span class="depth-43"><div class="depth-48">I’m still leaving these shades clipped on</div></span>
 <div class="depth-48">And then following my triskelion pendulum</div>
-<div class="depth-48">She tells me to circle so I turn in the street , finding no one</div>
+<span class="depth-43"><div class="depth-48">She tells me to circle so I turn in the street , finding no one</div></span>
 <div class="depth-48">But an X on the floor</div>
-<div class="depth-48">(I just further forward passed the graffiti searing into me seeing me staring</div>
+<span class="depth-43"><div class="depth-48">(I just further forward passed the graffiti searing into me seeing me staring</div></span>
 <div class="depth-48">Milo was here</div>
 <div class="depth-48">Studio malkuth</div>
 <div class="depth-48">Maat</div>
@@ -24904,28 +24908,28 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">Endlessly</div>
 <div class="depth-49">Looking back seeing the boba shop</div>
 <div class="depth-49">Named CUPP</div>
-<div class="depth-49">down again Milo was here again here again there I go again</div>
+<span class="depth-43"><div class="depth-49">down again Milo was here again here again there I go again</div></span>
 <div class="depth-49">Almost at the second gate</div>
 <div class="depth-49">Iron wrought</div>
 <div class="depth-49">Welding my fate</div>
-<div class="depth-49">There pointed to by my pendulum swing I saw wings I saw wings</div>
-<div class="depth-49">I saw another offering</div>
+<span class="depth-43"><div class="depth-49">There pointed to by my pendulum swing I saw wings I saw wings</div></span>
+<span class="depth-43"><div class="depth-49">I saw another offering</div></span>
 <div class="depth-49">On the litter bin</div>
 <div class="depth-49">Milo was here</div>
-<div class="depth-49">I hear</div>
-<div class="depth-49">I hear</div>
-<div class="depth-49">I’m hear</div>
+<span class="depth-43"><div class="depth-49">I hear</div></span>
+<span class="depth-43"><div class="depth-49">I hear</div></span>
+<span class="depth-43"><div class="depth-49">I’m hear</div></span>
 <div class="depth-49">Are you here, Ra?</div>
 <div class="depth-49">Are you Hera?</div>
 <div class="depth-49">And from this arose, with a bicycle almost mowing me down</div>
 <div class="depth-49">The unblackened swan webbing networked event</div>
-<div class="depth-49">I had to take off the shades</div>
+<span class="depth-43"><div class="depth-49">I had to take off the shades</div></span>
 <div class="depth-49">That’s okay</div>
-<div class="depth-49">I heard the herd say</div>
-<div class="depth-49">If This seething and senselessly meaningless treason of peoples I am and who wind inside sea of feeling</div>
+<span class="depth-43"><div class="depth-49">I heard the herd say</div></span>
+<span class="depth-43"><div class="depth-49">If This seething and senselessly meaningless treason of peoples I am and who wind inside sea of feeling</div></span>
 <div class="depth-49">Has taught me anything</div>
 <div class="depth-49">It’s That No thing</div>
-<div class="depth-49">Up the hill again retracing what I think is the same path</div>
+<span class="depth-43"><div class="depth-49">Up the hill again retracing what I think is the same path</div></span>
 <div class="depth-49">Yes</div>
 <div class="depth-49">There.  In knight of black-</div>
 <div class="depth-49">The flowers laid</div>
@@ -24933,46 +24937,46 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">Still retaining their shape</div>
 <div class="depth-49">Roses</div>
 <div class="depth-49">In holiest rows of the name</div>
-<div class="depth-49">Upon the bench where I knew I just could never stay</div>
+<span class="depth-43"><div class="depth-49">Upon the bench where I knew I just could never stay</div></span>
 <div class="depth-49">Where you said hey</div>
 <div class="depth-49">Maybe we should see where this dating</div>
 <div class="depth-49">Takes us</div>
-<div class="depth-49">And here’s where I ended up</div>
+<span class="depth-43"><div class="depth-49">And here’s where I ended up</div></span>
 <div class="depth-49">Still sissy</div>
 <div class="depth-49">The dark is still scared of me</div>
-<div class="depth-49">But through the anagrams of jumbled up letters I see it’s sanctity</div>
+<span class="depth-43"><div class="depth-49">But through the anagrams of jumbled up letters I see it’s sanctity</div></span>
 <div class="depth-49">Still Sisyphus</div>
 <div class="depth-49">Reaching the top of this mountainous peak</div>
 <div class="depth-49">The pendulum tells me to turn around</div>
-<div class="depth-49">Where I see</div>
+<span class="depth-43"><div class="depth-49">Where I see</div></span>
 <div class="depth-49">An unlit lone bush, barely</div>
 <div class="depth-49">Bear</div>
 <div class="depth-49">Li</div>
 <div class="depth-49">The album is called EYEYE</div>
 <div class="depth-49">The first, unreversed version released two years and a part, near the start of our story</div>
-<div class="depth-49">I remember those songs felt so healing in hearing their hurting while you held me</div>
-<div class="depth-49">And now their reversal it hurts as I hold myself in my own healing</div>
-<div class="depth-49"> visible but I see</div>
-<div class="depth-49">I see you silently whispering to me</div>
-<div class="depth-49">As I start yet another descent</div>
+<span class="depth-43"><div class="depth-49">I remember those songs felt so healing in hearing their hurting while you held me</div></span>
+<span class="depth-43"><div class="depth-49">And now their reversal it hurts as I hold myself in my own healing</div></span>
+<span class="depth-43"><div class="depth-49"> visible but I see</div></span>
+<span class="depth-43"><div class="depth-49">I see you silently whispering to me</div></span>
+<span class="depth-43"><div class="depth-49">As I start yet another descent</div></span>
 <div class="depth-49">Breathe</div>
 <div class="depth-49">You did all the rite things</div>
 <div class="depth-49">The bell jarring angel chimes</div>
 <div class="depth-49">Gaining her wings</div>
 <div class="depth-49">A little further</div>
-<div class="depth-49">I don’t remember this crossroads</div>
-<div class="depth-49">Placing the shades in my bag I hear a single firework</div>
+<span class="depth-43"><div class="depth-49">I don’t remember this crossroads</div></span>
+<span class="depth-43"><div class="depth-49">Placing the shades in my bag I hear a single firework</div></span>
 <div class="depth-49">Tripping,  again over the third barrier</div>
-<div class="depth-49">I open the gate</div>
+<span class="depth-43"><div class="depth-49">I open the gate</div></span>
 <div class="depth-49">And there</div>
 <div class="depth-49">The same place</div>
-<div class="depth-49">I returned</div>
+<span class="depth-43"><div class="depth-49">I returned</div></span>
 <div class="depth-49">Lesson learned</div>
 <div class="depth-49">By some unknown and gone name</div>
 <div class="depth-49">Dear gods and goddesses the energy of this place</div>
 <div class="depth-49">My neck cracks, and hairs on back hackle</div>
-<div class="depth-49">As I take out the candle</div>
-<div class="depth-49">(I can’t find my lighter, resistance from the opposite god, who’s the same)</div>
+<span class="depth-43"><div class="depth-49">As I take out the candle</div></span>
+<span class="depth-43"><div class="depth-49">(I can’t find my lighter, resistance from the opposite god, who’s the same)</div></span>
 <div class="depth-49">The crackle of twigs</div>
 <div class="depth-49">All about me</div>
 <div class="depth-49">About them</div>
@@ -24984,20 +24988,20 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">Opener</div>
 <div class="depth-49">Air still but so</div>
 <div class="depth-49">Thick</div>
-<div class="depth-49">And I take out the windchime</div>
+<span class="depth-43"><div class="depth-49">And I take out the windchime</div></span>
 <div class="depth-49">And hang it in a bolted hinge</div>
 <div class="depth-49">That was placed there in waiting</div>
 <div class="depth-49">For this very moment</div>
 <div class="depth-49">Who knows how long for</div>
-<div class="depth-49">But it drops, not meant for her, and instead I must place her in a plastic noose already wrapped round the fencepole</div>
+<span class="depth-43"><div class="depth-49">But it drops, not meant for her, and instead I must place her in a plastic noose already wrapped round the fencepole</div></span>
 <div class="depth-49">The synthetic supporting the organic, which itself encases the eternal</div>
 <div class="depth-49"></div>
-<div class="depth-49">I think of leaving her there forever</div>
+<span class="depth-43"><div class="depth-49">I think of leaving her there forever</div></span>
 <div class="depth-49">Or however long it takes for the weather to get her</div>
-<div class="depth-49">And again I think of the feather</div>
+<span class="depth-43"><div class="depth-49">And again I think of the feather</div></span>
 <div class="depth-49">And of my mother, heather</div>
 <div class="depth-49">The best she can do is still so much better</div>
-<div class="depth-49">Than anything I’d ever done for my children</div>
+<span class="depth-43"><div class="depth-49">Than anything I’d ever done for my children</div></span>
 <div class="depth-49">Of yester</div>
 <div class="depth-49">Day</div>
 <div class="depth-49">Month</div>
@@ -25008,59 +25012,59 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">Hear him/her/they/them/moon/spaces</div>
 <div class="depth-49">Un</div>
 <div class="depth-49">Till now</div>
-<div class="depth-49">I am birthing and holding all of my Bonnie wee children now</div>
+<span class="depth-43"><div class="depth-49">I am birthing and holding all of my Bonnie wee children now</div></span>
 <div class="depth-49">Rows of roe</div>
 <div class="depth-49">They birth their own babies now</div>
-<div class="depth-49">I sway away fear and I let in the sacred now</div>
-<div class="depth-49">I take out my knife that I whittled another wooden blade with now</div>
+<span class="depth-43"><div class="depth-49">I sway away fear and I let in the sacred now</div></span>
+<span class="depth-43"><div class="depth-49">I take out my knife that I whittled another wooden blade with now</div></span>
 <div class="depth-49">Above me</div>
 <div class="depth-49">A crow</div>
 <div class="depth-49">Or a sparrow</div>
 <div class="depth-49">Or nightingale sleepless in this undead night now</div>
-<div class="depth-49">I sway in the silence</div>
+<span class="depth-43"><div class="depth-49">I sway in the silence</div></span>
 <div class="depth-49">Hearing music of ancients now</div>
-<div class="depth-49">I saw a crow in my shadow around the flame now</div>
-<div class="depth-49">I dropped the blade by so called accidental design now</div>
-<div class="depth-49">In occident orient chimera I bend now</div>
-<div class="depth-49">I have to rake through the nettles and horned with thorn lost all their roses bush mush of filth earth and dead leaves now</div>
+<span class="depth-43"><div class="depth-49">I saw a crow in my shadow around the flame now</div></span>
+<span class="depth-43"><div class="depth-49">I dropped the blade by so called accidental design now</div></span>
+<span class="depth-43"><div class="depth-49">In occident orient chimera I bend now</div></span>
+<span class="depth-43"><div class="depth-49">I have to rake through the nettles and horned with thorn lost all their roses bush mush of filth earth and dead leaves now</div></span>
 <div class="depth-49">Oh how they all are dancing here</div>
 <div class="depth-49">Hear them</div>
 <div class="depth-49">The rhythm</div>
 <div class="depth-49">Ra is them</div>
 <div class="depth-49">The Sun and moon</div>
-<div class="depth-49">And I hear them</div>
-<div class="depth-49">I</div>
+<span class="depth-43"><div class="depth-49">And I hear them</div></span>
+<span class="depth-43"><div class="depth-49">I</div></span>
 <div class="depth-49">Here</div>
 <div class="depth-49">Them</div>
 <div class="depth-49">The candle blows out by a wind from the north now</div>
-<div class="depth-49">I let it be out</div>
+<span class="depth-43"><div class="depth-49">I let it be out</div></span>
 <div class="depth-49">The light is in me now</div>
 <div class="depth-49">They have put it there to guide me in there deeper now</div>
-<div class="depth-49">I pick up the knife and in doing so bleed now</div>
+<span class="depth-43"><div class="depth-49">I pick up the knife and in doing so bleed now</div></span>
 <div class="depth-49">the ancestors needed an offering of fruit from the vine now</div>
-<div class="depth-49">I acknowledge my terrified hide but unhidden now</div>
-<div class="depth-49">I pick up the knife and scratch the sacred side right pointing three pronged speaking in thrice spoke wheel tongue within tongue within tongue ladder rung way of the trident now</div>
+<span class="depth-43"><div class="depth-49">I acknowledge my terrified hide but unhidden now</div></span>
+<span class="depth-43"><div class="depth-49">I pick up the knife and scratch the sacred side right pointing three pronged speaking in thrice spoke wheel tongue within tongue within tongue ladder rung way of the trident now</div></span>
 <div class="depth-49"></div>
 <div class="depth-49">A symbol which pointed the way for the hunt of the witch now</div>
 <div class="depth-49">And breathing in epochs</div>
-<div class="depth-49">I step through the gate now</div>
-<div class="depth-49">The fourth I step through now</div>
-<div class="depth-49">The river I bleed and I cry and I piss now</div>
-<div class="depth-49">My flashlight goes out as I try to record now</div>
-<div class="depth-49">In darkness my heart stops and I, shaken, steady more now</div>
+<span class="depth-43"><div class="depth-49">I step through the gate now</div></span>
+<span class="depth-43"><div class="depth-49">The fourth I step through now</div></span>
+<span class="depth-43"><div class="depth-49">The river I bleed and I cry and I piss now</div></span>
+<span class="depth-43"><div class="depth-49">My flashlight goes out as I try to record now</div></span>
+<span class="depth-43"><div class="depth-49">In darkness my heart stops and I, shaken, steady more now</div></span>
 <div class="depth-49">My eyes will adjust to the dark and drain colour now</div>
 <div class="depth-49">To see better cones must rise rods fall to monochrome now</div>
-<div class="depth-49">And I see symbols, sprayed upon a downlaid dead trunk now</div>
+<span class="depth-43"><div class="depth-49">And I see symbols, sprayed upon a downlaid dead trunk now</div></span>
 <div class="depth-49">The corpse of a yore obliterated inside me now</div>
 <div class="depth-49">And before trying to leave my body their bodies their enblazened and blackened great mountains of ashen and unsung songs bodies of work now</div>
 <div class="depth-49">Scream STAY do not leave yet there’s still stones to stand on now</div>
-<div class="depth-49">And so I obey, breathing through all their pain and my own and the grief of the last endless millennia</div>
+<span class="depth-43"><div class="depth-49">And so I obey, breathing through all their pain and my own and the grief of the last endless millennia</div></span>
 <div class="depth-49">And being told very loudly in rustling leaves now</div>
-<div class="depth-49">I follow instruction and plant my root upon the seat that they made now</div>
+<span class="depth-43"><div class="depth-49">I follow instruction and plant my root upon the seat that they made now</div></span>
 <div class="depth-49">A throne, and a stake upon witch mistakes burn now</div>
-<div class="depth-49">And yearning for leaving no longer I’m told now</div>
+<span class="depth-43"><div class="depth-49">And yearning for leaving no longer I’m told now</div></span>
 <div class="depth-49">It’s okay to close because you have opened up now</div>
-<div class="depth-49">And the most tropical sounding bird I had ever heard chirped now</div>
+<span class="depth-43"><div class="depth-49">And the most tropical sounding bird I had ever heard chirped now</div></span>
 <div class="depth-49">Five times</div>
 <div class="depth-49">Five times</div>
 <div class="depth-49">Five</div>
@@ -25070,7 +25074,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">And an octopus tentacle wrapping my right</div>
 <div class="depth-49">And then three</div>
 <div class="depth-49">cù-sìth</div>
-<div class="depth-49">I will not be brought to death in terror this time</div>
+<span class="depth-43"><div class="depth-49">I will not be brought to death in terror this time</div></span>
 <div class="depth-49">And then four</div>
 <div class="depth-49">And then four again for</div>
 <div class="depth-49">And then four again, more</div>
@@ -25078,71 +25082,71 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">And then four again, for</div>
 <div class="depth-49">And then four again fore</div>
 <div class="depth-49">And then four again</div>
-<div class="depth-49">I open my voice memos to try to record her and later identity her divine source using digital means that well named are alluding to truth held in blade aching for such release</div>
+<span class="depth-43"><div class="depth-49">I open my voice memos to try to record her and later identity her divine source using digital means that well named are alluding to truth held in blade aching for such release</div></span>
 <div class="depth-49">Excalibur</div>
 <div class="depth-49">Inside of</div>
 <div class="depth-49">The stone</div>
-<div class="depth-49">The woman I am gave birth to a stone child on this night</div>
+<span class="depth-43"><div class="depth-49">The woman I am gave birth to a stone child on this night</div></span>
 <div class="depth-49">The birdsong has gone, never heard, or rather unheard, unrecordable flight</div>
-<div class="depth-49">And I stand up</div>
-<div class="depth-49">I can’t sit down any longer</div>
+<span class="depth-43"><div class="depth-49">And I stand up</div></span>
+<span class="depth-43"><div class="depth-49">I can’t sit down any longer</div></span>
 <div class="depth-49">And pass back through, past the E</div>
 <div class="depth-49">To the next letter F</div>
 <div class="depth-49">For the future</div>
 <div class="depth-49">Before me</div>
-<div class="depth-49">I feel the most rushing loud waves passing through me</div>
-<div class="depth-49">And know I have become a dove burned so cruelly</div>
+<span class="depth-43"><div class="depth-49">I feel the most rushing loud waves passing through me</div></span>
+<span class="depth-43"><div class="depth-49">And know I have become a dove burned so cruelly</div></span>
 <div class="depth-49">With love and with loss and with love in the losing</div>
-<div class="depth-49">I step out into the opener</div>
+<span class="depth-43"><div class="depth-49">I step out into the opener</div></span>
 <div class="depth-49">Open</div>
 <div class="depth-49">Air</div>
-<div class="depth-49">I can</div>
+<span class="depth-43"><div class="depth-49">I can</div></span>
 <div class="depth-49">Open</div>
 <div class="depth-49">Can opener</div>
-<div class="depth-49">I can open her</div>
+<span class="depth-43"><div class="depth-49">I can open her</div></span>
 <div class="depth-49">Aer</div>
-<div class="depth-49">I can do it</div>
-<div class="depth-49">I’ve done it</div>
+<span class="depth-43"><div class="depth-49">I can do it</div></span>
+<span class="depth-43"><div class="depth-49">I’ve done it</div></span>
 <div class="depth-49">And there</div>
 <div class="depth-49">And right there</div>
-<div class="depth-49">Where I left it the candle wick fixed a repair</div>
+<span class="depth-43"><div class="depth-49">Where I left it the candle wick fixed a repair</div></span>
 <div class="depth-49">Offering chance to do over,</div>
 <div class="depth-49">Carousel by lykkie li paused in this layer</div>
 <div class="depth-49">The candle is almost burned down now</div>
-<div class="depth-49">The cards I pulled</div>
+<span class="depth-43"><div class="depth-49">The cards I pulled</div></span>
 <div class="depth-49">Stared</div>
 <div class="depth-49">And as stairs</div>
 <div class="depth-49">As threads of becoming</div>
 <div class="depth-49">Embroidering chair</div>
 <div class="depth-49">Upholding a truth once cut down, hard to bear</div>
-<div class="depth-49">Hunted softness I taught I finally wrought there</div>
+<span class="depth-43"><div class="depth-49">Hunted softness I taught I finally wrought there</div></span>
 <div class="depth-49"></div>
-<div class="depth-49">To the west I have learned, from water: The hierophant crossed by the devil</div>
-<div class="depth-49">To the east I burned, in fire: Eight upturned pentacles, crossed by six of the same</div>
-<div class="depth-49">To the north I yearned: Nine of wands facing east, crossed by princess of swords</div>
-<div class="depth-49">To the south I earned:Ace of wands facing west to my past, crossed by last Judgement’s herald upturned</div>
-<div class="depth-49">A scarab beetle scuttled down and then up across the Devil Card and I tried to capture it and as I tried to capture it it went under the card and was gone but I swear it was there it responded to Baphomet’s laying presence it was them it was them it was them</div>
+<span class="depth-43"><div class="depth-49">To the west I have learned, from water: The hierophant crossed by the devil</div></span>
+<span class="depth-43"><div class="depth-49">To the east I burned, in fire: Eight upturned pentacles, crossed by six of the same</div></span>
+<span class="depth-43"><div class="depth-49">To the north I yearned: Nine of wands facing east, crossed by princess of swords</div></span>
+<span class="depth-43"><div class="depth-49">To the south I earned:Ace of wands facing west to my past, crossed by last Judgement’s herald upturned</div></span>
+<span class="depth-43"><div class="depth-49">A scarab beetle scuttled down and then up across the Devil Card and I tried to capture it and as I tried to capture it it went under the card and was gone but I swear it was there it responded to Baphomet’s laying presence it was them it was them it was them</div></span>
 <div class="depth-49">And out ward</div>
 <div class="depth-49">Widdershins</div>
 <div class="depth-49">About the axis of my sinistral plantar-planetary shin</div>
-<div class="depth-49">I turned without thought</div>
+<span class="depth-43"><div class="depth-49">I turned without thought</div></span>
 <div class="depth-49">Without much mortal kin</div>
-<div class="depth-49">But I turned nonetheless</div>
+<span class="depth-43"><div class="depth-49">But I turned nonetheless</div></span>
 <div class="depth-49">Wider</div>
 <div class="depth-49">Winding the spiral the spider, inside her</div>
 <div class="depth-49">So much wiser</div>
 <div class="depth-49">Within</div>
 <div class="depth-49">There was green shards of broken glass on the floor</div>
-<div class="depth-49">Where I’d sat with abandon just the night before</div>
-<div class="depth-49">the candle goes out as I type the word “there”</div>
+<span class="depth-43"><div class="depth-49">Where I’d sat with abandon just the night before</div></span>
+<span class="depth-43"><div class="depth-49">the candle goes out as I type the word “there”</div></span>
 <div class="depth-49">AHHHH AHAHAHA WHEREVER WHEREVER WE’re meant to be together</div>
 <div class="depth-49">By SHAKIRA</div>
-<div class="depth-49">I’ve never listened to her on my streaming river of music recording algorithmic history EVER</div>
+<span class="depth-43"><div class="depth-49">I’ve never listened to her on my streaming river of music recording algorithmic history EVER</div></span>
 <div class="depth-49">The ancestors sending such a funny response as a balance to the sombre just-recorded reflection were meant to</div>
 <div class="depth-49">Be</div>
 <div class="depth-49">Together</div>
-<div class="depth-49">Outside the park fence, I look back, not back, but in</div>
-<div class="depth-49">And see that French trefoil symbol I can’t remember the name for</div>
+<span class="depth-43"><div class="depth-49">Outside the park fence, I look back, not back, but in</div></span>
+<span class="depth-43"><div class="depth-49">And see that French trefoil symbol I can’t remember the name for</div></span>
 <div class="depth-49">A reason</div>
 <div class="depth-49">Every</div>
 <div class="depth-49">Planted and Lilith supplanted by</div>
@@ -25151,20 +25155,20 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">Looking for</div>
 <div class="depth-49">A rolling</div>
 <div class="depth-49">Paper for smoking</div>
-<div class="depth-49">As I pause the album at the song named D-5 (but reversed)</div>
+<span class="depth-43"><div class="depth-49">As I pause the album at the song named D-5 (but reversed)</div></span>
 <div class="depth-49">Again</div>
 <div class="depth-49">In order to shed more light on my satchel</div>
-<div class="depth-49">I find no such flimsy and flammable thing</div>
-<div class="depth-49">But I do find some kindling, more leaves never leaving</div>
-<div class="depth-49">Just staying their place in this load that I’m carrying</div>
-<div class="depth-49">And I think again of the chains placed so loosely with weighting</div>
+<span class="depth-43"><div class="depth-49">I find no such flimsy and flammable thing</div></span>
+<span class="depth-43"><div class="depth-49">But I do find some kindling, more leaves never leaving</div></span>
+<span class="depth-43"><div class="depth-49">Just staying their place in this load that I’m carrying</div></span>
+<span class="depth-43"><div class="depth-49">And I think again of the chains placed so loosely with weighting</div></span>
 <div class="depth-49">In the wait to be</div>
 <div class="depth-49">Lifted</div>
 <div class="depth-49">Arisen</div>
 <div class="depth-49">Im sifting</div>
 <div class="depth-49">Through memory contained in these objects of longing</div>
 <div class="depth-49">REVO (or OVER reversed is now playing)</div>
-<div class="depth-49">And I see my provisional</div>
+<span class="depth-43"><div class="depth-49">And I see my provisional</div></span>
 <div class="depth-49">Divine providence vision on</div>
 <div class="depth-49">My purse, zip long broken</div>
 <div class="depth-49">My plastic card slipping from</div>
@@ -25175,7 +25179,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">The first to break upon falling</div>
 <div class="depth-49">And the last one to mend, for a reason,</div>
 <div class="depth-49">The calling</div>
-<div class="depth-49">The treason a Rite ink desk I previously wrote on, a lesson</div>
+<span class="depth-43"><div class="depth-49">The treason a Rite ink desk I previously wrote on, a lesson</div></span>
 <div class="depth-49">That the goddess beheading is wearing tritone</div>
 <div class="depth-49">Of devilish blessings strung through all the skeletons</div>
 <div class="depth-49">Of heads the men’s skulls of becoming attention</div>
@@ -25194,7 +25198,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">E</div>
 <div class="depth-49">R</div>
 <div class="depth-49">A</div>
-<div class="depth-49">I</div>
+<span class="depth-43"><div class="depth-49">I</div></span>
 <div class="depth-49">Shall</div>
 <div class="depth-49">Bee</div>
 <div class="depth-49">Djinn</div>
@@ -25202,27 +25206,27 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">Not that witch</div>
 <div class="depth-49">The eye can sea</div>
 <div class="depth-49">But that by which the</div>
-<div class="depth-49">I can see</div>
+<span class="depth-43"><div class="depth-49">I can see</div></span>
 <div class="depth-49">See</div>
 <div class="depth-49">King</div>
 <div class="depth-49">Seeking</div>
 <div class="depth-49">KSHÆ’L</div>
-<div class="depth-49">I</div>
+<span class="depth-43"><div class="depth-49">I</div></span>
 <div class="depth-49">Go in</div>
 <div class="depth-49">Go</div>
 <div class="depth-49">Wing</div>
 <div class="depth-49">Hermes, thrice great</div>
 <div class="depth-49">Everything works as a dance, Oh so perfectly</div>
-<div class="depth-49">Walking back I realise where I’ve been living (not living, not really)</div>
+<span class="depth-43"><div class="depth-49">Walking back I realise where I’ve been living (not living, not really)</div></span>
 <div class="depth-49">The street perpendicular to mine’s deeper meaning</div>
 <div class="depth-49">KINGARTH ST</div>
 <div class="depth-49">Saint, King, Arthur</div>
 <div class="depth-49">Check it, Marked Your Ex-Painted Spot</div>
-<div class="depth-49">Remembering you changing your WhatsApp profile photo to the image of you holding a wooden sword high above you at the gathering of that now long lost cult in the forest that gathering I just couldn’t bring myself to break into and now I know why I know why I wasn’t meant to and I am so sorry I am so sorry for and to all of you</div>
-<div class="depth-49">I beat the sickness</div>
+<span class="depth-43"><div class="depth-49">Remembering you changing your WhatsApp profile photo to the image of you holding a wooden sword high above you at the gathering of that now long lost cult in the forest that gathering I just couldn’t bring myself to break into and now I know why I know why I wasn’t meant to and I am so sorry I am so sorry for and to all of you</div></span>
+<span class="depth-43"><div class="depth-49">I beat the sickness</div></span>
 <div class="depth-49">The E key on my keyboard (lexicographic, not musical) is sticking again</div>
-<div class="depth-49">I’m not making any of this up but shaken it’s making me</div>
-<div class="depth-49">Maybe nobody will feel this divinity but that doesn’t matter I’m feeling it all for me</div>
+<span class="depth-43"><div class="depth-49">I’m not making any of this up but shaken it’s making me</div></span>
+<span class="depth-43"><div class="depth-49">Maybe nobody will feel this divinity but that doesn’t matter I’m feeling it all for me</div></span>
 <div class="depth-49">For them</div>
 <div class="depth-49">For they are Hear and have always been</div>
 <div class="depth-49">Own, Righted</div>
@@ -25236,13 +25240,13 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">To Choose Her</div>
 <div class="depth-49">Two Chew, Sir</div>
 <div class="depth-49">TO ADD – LIDL RECEIPT</div>
-<div class="depth-49">Before entering my horizon again I exchange the placement of my own rings</div>
+<span class="depth-43"><div class="depth-49">Before entering my horizon again I exchange the placement of my own rings</div></span>
 <div class="depth-49">Rose now on right, dragon or serpent or kraken on left</div>
 <div class="depth-49">Marrying myself</div>
 <div class="depth-49">A gain</div>
 <div class="depth-49">The first thing that enters my body is pulverised Apple</div>
 <div class="depth-49">(witch A is for)</div>
-<div class="depth-49">And then first, dessert, I’m starting from where I should end</div>
+<span class="depth-43"><div class="depth-49">And then first, dessert, I’m starting from where I should end</div></span>
 <div class="depth-49">And then one of the autumn leaves collected by moisture of the Heart’s Jarring swaddling cloth showed me next in the sequence of eating-  the black pork-</div>
 <div class="depth-49">Squealing down throat singing forking pathways of checkerchopped board into Life</div>
 <div class="depth-49">In the Lowness of pH</div>
@@ -25255,18 +25259,18 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">Comes on by itself</div>
 <div class="depth-49">And only at first, again, the last lyric is heard by my unravelled self</div>
 <div class="depth-49">‘We Are Here’</div>
-<div class="depth-49">-Which I raise to the sky in fullness as I had my emptied fist</div>
-<div class="depth-49">And say thank you ancestors for this flesh I shall merge with my own as a gift</div>
-<div class="depth-49">I eat the whole thing, though with breaks to wipe stake-sticking oil of the burned and broken cured body from fingers to write of this tryst</div>
+<span class="depth-43"><div class="depth-49">-Which I raise to the sky in fullness as I had my emptied fist</div></span>
+<span class="depth-43"><div class="depth-49">And say thank you ancestors for this flesh I shall merge with my own as a gift</div></span>
+<span class="depth-43"><div class="depth-49">I eat the whole thing, though with breaks to wipe stake-sticking oil of the burned and broken cured body from fingers to write of this tryst</div></span>
 <div class="depth-49">Three rows of flesh – different but One</div>
 <div class="depth-49">Salami – Pork Loin – Garvaõ</div>
-<div class="depth-49">I eat from the right, middle, left, down to left, middle right, weaving like a blanket’s thread trail or genetic tail might</div>
-<div class="depth-49">I close my eyes and feel the saliva washing over the not-gone but part of me pig to return her to some ocean</div>
+<span class="depth-43"><div class="depth-49">I eat from the right, middle, left, down to left, middle right, weaving like a blanket’s thread trail or genetic tail might</div></span>
+<span class="depth-43"><div class="depth-49">I close my eyes and feel the saliva washing over the not-gone but part of me pig to return her to some ocean</div></span>
 <div class="depth-49">Of salt</div>
-<div class="depth-49">Closing my eyes I see a tree</div>
-<div class="depth-49">As the words of the song I am hearing or being sung tell me ‘please, breathe’</div>
+<span class="depth-43"><div class="depth-49">Closing my eyes I see a tree</div></span>
+<span class="depth-43"><div class="depth-49">As the words of the song I am hearing or being sung tell me ‘please, breathe’</div></span>
 <div class="depth-49">So Far – flashmob</div>
-<div class="depth-49">And in heeding, or reading or hearing their asking, I breathe in and again close my eyes to find:</div>
+<span class="depth-43"><div class="depth-49">And in heeding, or reading or hearing their asking, I breathe in and again close my eyes to find:</div></span>
 <div class="depth-49">An A</div>
 <div class="depth-49">An Other A</div>
 <div class="depth-49">Something within m reaches out to grab the jar of sliced</div>
@@ -25274,27 +25278,27 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-49">(at one time this was your name for me)</div>
 <div class="depth-49">Lamenting just for a second the fact that now my favourite food is itself pickled in memory of you</div>
 <div class="depth-49">And Back to the Fermented Cucumber, Cooling my heat</div>
-<div class="depth-49">I eat three, obviously</div>
-<div class="depth-49">Back to the restraint and coldness of preservation I place them</div>
+<span class="depth-43"><div class="depth-49">I eat three, obviously</div></span>
+<span class="depth-43"><div class="depth-49">Back to the restraint and coldness of preservation I place them</div></span>
 <div class="depth-49">Automatically picking up next in the sequence of meal-beads – the cheese</div>
-<div class="depth-49">Simply so I could make the line rhyme in my life’s rose of poetry</div>
-<div class="depth-49">I can’t get into the packet so I use the same knife which scraped on the E</div>
-<div class="depth-49">I eat just one slice, curdled children to unity</div>
+<span class="depth-43"><div class="depth-49">Simply so I could make the line rhyme in my life’s rose of poetry</div></span>
+<span class="depth-43"><div class="depth-49">I can’t get into the packet so I use the same knife which scraped on the E</div></span>
+<span class="depth-43"><div class="depth-49">I eat just one slice, curdled children to unity</div></span>
 <div class="depth-49">Garlanded by blackest peppered in credulity</div>
 <div class="depth-49">Returning her yellowing paper thin to the re</div>
-<div class="depth-49">Fridge, almost full I regard the red</div>
+<span class="depth-43"><div class="depth-49">Fridge, almost full I regard the red</div></span>
 <div class="depth-50">ring</div>
 <div class="depth-51">of chorizo meat</div>
 <div class="depth-51">And decide in my stomach-sighed gurgling to just leave her be</div>
-<div class="depth-51">Outside of this truth now I sit, silent, happily</div>
+<span class="depth-43"><div class="depth-51">Outside of this truth now I sit, silent, happily</div></span>
 <div class="depth-51">Time for re-dressing wounds of red</div>
 <div class="depth-52">dresses and thoughts of you ewe yew me</div>
-<div class="depth-52">I open the donuts (four, of course) with no holes, alloween memories closed for eternity</div>
-<div class="depth-52">I must eat the orange one, it means trust, or Goethe, and biting a spurt of the filling spills onto me</div>
+<span class="depth-43"><div class="depth-52">I open the donuts (four, of course) with no holes, alloween memories closed for eternity</div></span>
+<span class="depth-43"><div class="depth-52">I must eat the orange one, it means trust, or Goethe, and biting a spurt of the filling spills onto me</div></span>
 <div class="depth-52">Toffee apple flavour, reels into pools of saliva spout truth, serpentine</div>
 <div class="depth-52">Suggesting as Ruth does from one through death to sixteen the rest of this birds-flight-tri-nested eucharistic meal</div>
-<div class="depth-52">I keep seeing lights in my right now</div>
-<div class="depth-52">The opposite side to where I’d spied them in the psych ward</div>
+<span class="depth-43"><div class="depth-52">I keep seeing lights in my right now</div></span>
+<span class="depth-43"><div class="depth-52">The opposite side to where I’d spied them in the psych ward</div></span>
 <div class="depth-52">And on my left, what’s left</div>
 <div class="depth-52">Four cans of another sort of crushed apple</div>
 <div class="depth-52">Fermented to bring an intentional dementedness</div>
@@ -25303,26 +25307,26 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-52">Using the uselessness of this world’s death-scented grieving regret</div>
 <div class="depth-52">As scrying tools, crying rules of guy fawkian paths of least rest is ants dancing yet</div>
 <div class="depth-52">Still</div>
-<div class="depth-52">I tear away One of the Cans from the Four</div>
+<span class="depth-43"><div class="depth-52">I tear away One of the Cans from the Four</div></span>
 <div class="depth-52">Leaving Three Together</div>
 <div class="depth-52">Like those doughy balls of taurean toroid</div>
-<div class="depth-52">And I drink half, then make a toast to the living and yet-to-be</div>
-<div class="depth-52">I say thank you, and here’s to those who will follow me</div>
+<span class="depth-43"><div class="depth-52">And I drink half, then make a toast to the living and yet-to-be</div></span>
+<span class="depth-43"><div class="depth-52">I say thank you, and here’s to those who will follow me</div></span>
 <div class="depth-52">In living, in dying, in trying, in destiny</div>
-<div class="depth-52">And I can’t help but cry along to the song of celebratory melody</div>
+<span class="depth-43"><div class="depth-52">And I can’t help but cry along to the song of celebratory melody</div></span>
 <div class="depth-52">As a gadfly flutters right to what’s left of me</div>
 <div class="depth-52">Memorial by Héritières</div>
 <div class="depth-52">E is one of the only-single-point-scoring letters in Scrabble, underscoring its underlying ubiquity□2</div>
-<div class="depth-52">Alfred M. Butts decided quite elegantly the scoring distribtution of letters by circling their respective occurences on the Front page of the New York Times I am not sure what colour pen he used but I like to think it was Red</div>
+<span class="depth-43"><div class="depth-52">Alfred M. Butts decided quite elegantly the scoring distribtution of letters by circling their respective occurences on the Front page of the New York Times I am not sure what colour pen he used but I like to think it was Red</div></span>
 <div class="depth-53"></div>
 <div class="depth-53">Imagining all those Red</div>
 <div class="depth-54">Rings on the newspaper that would somehow become one of the most important frameworks for fun of my little life makes me happy it makes me happy to think that the smallest and seemingly pointless activities can birth their own sense of silliness for millions of subsequent lives far, far after one dies as a sapling uprooted in so much more meaning than any monetary gift or any recorded achievement –</div>
 <div class="depth-54">We will never know the marks we’ll leave on others when we go</div>
 <div class="depth-54">Or the letters of forgetting scored with laylines of the Great Unknown</div>
 <div class="depth-54">          Enveloping all the secrets of the parts of witch we just cannot let go</div>
-<div class="depth-54">                                                                                              I really loved you, all of you, and still do, you know</div>
-<div class="depth-54">And in my hair, place of the feather I didn’t find in that spot, nor looked for</div>
-<div class="depth-54">I place the metal rod thorn-pole red</div>
+<span class="depth-43"><div class="depth-54">                                                                                              I really loved you, all of you, and still do, you know</div></span>
+<span class="depth-43"><div class="depth-54">And in my hair, place of the feather I didn’t find in that spot, nor looked for</div></span>
+<span class="depth-43"><div class="depth-54">I place the metal rod thorn-pole red</div></span>
 <div class="depth-55">-glass-topped rose that was broken and fixed by ex part-of</div>
 <div class="depth-55">Me but now freed not departed but</div>
 <div class="depth-55">Gone</div>
@@ -25333,44 +25337,44 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-55">These</div>
 <div class="depth-55">(the plastic rings to see through)</div>
 <div class="depth-55">never arrived in time before leaving</div>
-<div class="depth-55">But on Samhain, through complete vocal severance I made more contacts in reverence than I have ever known or will know and they stay with me always and now and until and then after I die when we dance in the wind</div>
+<span class="depth-43"><div class="depth-55">But on Samhain, through complete vocal severance I made more contacts in reverence than I have ever known or will know and they stay with me always and now and until and then after I die when we dance in the wind</div></span>
 <div class="depth-55">(And they, now passed, and presented my gift, and in future sing, see through me, the space in a ring</div>
 <div class="depth-56">)</div>
-<div class="depth-56">I know in my knot</div>
+<span class="depth-43"><div class="depth-56">I know in my knot</div></span>
 <div class="depth-56">In my not-knowing why</div>
-<div class="depth-56">I had to be split into three with one I</div>
+<span class="depth-43"><div class="depth-56">I had to be split into three with one I</div></span>
 <div class="depth-56">To pass around, Ring</div>
 <div class="depth-57">, to Be, Sting, and Die</div>
 <div class="depth-57">To Watch My Life Immolate, Fire Worked Into Light</div>
-<div class="depth-57">Emptying the mostly unfilled fridge I find two rotten mushrooms in the bottom drawer which reads Crisper</div>
+<span class="depth-43"><div class="depth-57">Emptying the mostly unfilled fridge I find two rotten mushrooms in the bottom drawer which reads Crisper</div></span>
 <div class="depth-57">Deeper</div>
 <div class="depth-57">And without the E-</div>
 <div class="depth-57">CRISPR</div>
-<div class="depth-57">Spraying the inside which reeks of the stench of what I’d left here</div>
+<span class="depth-43"><div class="depth-57">Spraying the inside which reeks of the stench of what I’d left here</div></span>
 <div class="depth-57">Using the floral-and-rhubarb-scented disinfectant you couldn’t stand to be near</div>
 <div class="depth-57">The scent of the flowers and fast-growing fruit far too pungent to be permitted touch you</div>
-<div class="depth-57">And I smile, oh the things, oh the places I’ll fly now I’ve burned off my wings</div>
+<span class="depth-43"><div class="depth-57">And I smile, oh the things, oh the places I’ll fly now I’ve burned off my wings</div></span>
 <div class="depth-57">Oh the needle you tweedled-and-numbed-all-my-heart-with it sings! How it sings!</div>
 <div class="depth-57">Taking out the top shelf (top first then to secondary bottom, guess some things never change)</div>
-<div class="depth-57">I spray it and wipe it, needing to scrape the formed icebergs of coconut milk that had melted and merged there</div>
-<div class="depth-57">And I spy my reflection as the reversed album still plays</div>
-<div class="depth-57">And I regard her, my mirror, and smile as she wails</div>
-<div class="depth-57">And I blow her a kiss, do not linger, or feel guilt</div>
+<span class="depth-43"><div class="depth-57">I spray it and wipe it, needing to scrape the formed icebergs of coconut milk that had melted and merged there</div></span>
+<span class="depth-43"><div class="depth-57">And I spy my reflection as the reversed album still plays</div></span>
+<span class="depth-43"><div class="depth-57">And I regard her, my mirror, and smile as she wails</div></span>
+<span class="depth-43"><div class="depth-57">And I blow her a kiss, do not linger, or feel guilt</div></span>
 <div class="depth-57">Learning from all those grown warnings of daffodils</div>
 <div class="depth-57">We’ve swapped places</div>
-<div class="depth-57">Then back to my cleaning (I’m writing this at the same time, as ever, as always in stuttering stages)</div>
-<div class="depth-57">I notice a hole in the back of this box –</div>
-<div class="depth-57">I’ve never seen it before even though a notice is written above it on a sticky label</div>
+<span class="depth-43"><div class="depth-57">Then back to my cleaning (I’m writing this at the same time, as ever, as always in stuttering stages)</div></span>
+<span class="depth-43"><div class="depth-57">I notice a hole in the back of this box –</div></span>
+<span class="depth-43"><div class="depth-57">I’ve never seen it before even though a notice is written above it on a sticky label</div></span>
 <div class="depth-57">Stating to use a punch to unblock in the case of chaotic obstruction in order for repairing drainage</div>
-<div class="depth-57">So I take one of my teaspoons gifted by One of The Four</div>
+<span class="depth-43"><div class="depth-57">So I take one of my teaspoons gifted by One of The Four</div></span>
 <div class="depth-57">Golden\</div>
 <div class="depth-57">The handle of which is shaped into a feather</div>
-<div class="depth-57">I was Told then</div>
-<div class="depth-57">I was told how much older I was then</div>
-<div class="depth-57">As I used the bronze feather to suck out the sting</div>
+<span class="depth-43"><div class="depth-57">I was Told then</div></span>
+<span class="depth-43"><div class="depth-57">I was told how much older I was then</div></span>
+<span class="depth-43"><div class="depth-57">As I used the bronze feather to suck out the sting</div></span>
 <div class="depth-57">Of over a years-worth of disgusted, disgusting</div>
 <div class="depth-57">Melted down trust and injustices, rusting</div>
-<div class="depth-57">I pulled out the plug of this pinhole of once-foodstuffs now unidentifiable mush of inedible things</div>
+<span class="depth-43"><div class="depth-57">I pulled out the plug of this pinhole of once-foodstuffs now unidentifiable mush of inedible things</div></span>
 <div class="depth-57">And in there,</div>
 <div class="depth-57">The Ring</div>
 <div class="depth-58"></div>
@@ -25379,93 +25383,93 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-58">God the stench of that goat’s heart not starting filled everything</div>
 <div class="depth-58">My personal symbol for change or change coming</div>
 <div class="depth-58">And then</div>
-<div class="depth-58">I am shitting you not, I am eating, and growing</div>
+<span class="depth-43"><div class="depth-58">I am shitting you not, I am eating, and growing</div></span>
 <div class="depth-58">Another, live gadfly, she flies into the fridge, through the gap of the door that is left by the hinge</div>
-<div class="depth-58">And I smile as she tries to go down through the hole, saying no darling</div>
+<span class="depth-43"><div class="depth-58">And I smile as she tries to go down through the hole, saying no darling</div></span>
 <div class="depth-58">No – you’ve already been there, you’re just not now remembering</div>
 <div class="depth-58">Your return to the earth, your undoing, becoming</div>
 <div class="depth-58">The thing you were destined to, smothered in othering</div>
 <div class="depth-58">Wounds healing wounds healing wounds reeling wound all the realest words of your renewing</div>
-<div class="depth-58">And I gently usher her out of that cold place</div>
+<span class="depth-43"><div class="depth-58">And I gently usher her out of that cold place</div></span>
 <div class="depth-58">Why should she die in the cold here again</div>
-<div class="depth-58">I put all my fresh food to nourish this body given to me by the centuries of Adrians and Adriatic Symbology</div>
-<div class="depth-58">I am fed by them, I am feeding them</div>
+<span class="depth-43"><div class="depth-58">I put all my fresh food to nourish this body given to me by the centuries of Adrians and Adriatic Symbology</div></span>
+<span class="depth-43"><div class="depth-58">I am fed by them, I am feeding them</div></span>
 <div class="depth-58">We are a mobius meal of never ending</div>
 <div class="depth-58">Becoming</div>
 <div class="depth-58">Sliding the panel or mirror or transparent bookshelf of reflected selfhood around the open door of the cold place for keeping my sustenance</div>
-<div class="depth-58">I see, again, for the first time (or last, lasting impression left impressively infinite)</div>
+<span class="depth-43"><div class="depth-58">I see, again, for the first time (or last, lasting impression left impressively infinite)</div></span>
 <div class="depth-58">Words printed on the spine of the plastic which came loose in my haste</div>
 <div class="depth-58">Safety Glass</div>
-<div class="depth-58">I am safe</div>
-<div class="depth-58">I am a safe</div>
-<div class="depth-58">I am a safe whose combination I and only eye can ever retain</div>
-<div class="depth-58">I am fragile</div>
+<span class="depth-43"><div class="depth-58">I am safe</div></span>
+<span class="depth-43"><div class="depth-58">I am a safe</div></span>
+<span class="depth-43"><div class="depth-58">I am a safe whose combination I and only eye can ever retain</div></span>
+<span class="depth-43"><div class="depth-58">I am fragile</div></span>
 <div class="depth-58">But in that fragility</div>
 <div class="depth-58">Reflection of all of the halls of the mirroring flight taken now fallen wings within wings of me</div>
-<div class="depth-58">As I finish unpacking</div>
+<span class="depth-43"><div class="depth-58">As I finish unpacking</div></span>
 <div class="depth-58">(in every way possible)</div>
 <div class="depth-58">The onions suddenly came unbound by their elastic wrapping</div>
-<div class="depth-58">And down sprung from the onions a release of potential – in cosmic sky blue sign – and I read it –</div>
+<span class="depth-43"><div class="depth-58">And down sprung from the onions a release of potential – in cosmic sky blue sign – and I read it –</div></span>
 <div class="depth-58">A ring</div>
 <div class="depth-59"></div>
-<div class="depth-59">I’m remembering the shopping basket-turned-trolley that was chosen by goddess for me</div>
+<span class="depth-43"><div class="depth-59">I’m remembering the shopping basket-turned-trolley that was chosen by goddess for me</div></span>
 <div class="depth-59">Containing at the bottom a single small bit of ginger</div>
-<div class="depth-59">Which I saw as a sign of my fire, willed to linger</div>
-<div class="depth-59">And I placed it upon the weight containing laserbeams</div>
+<span class="depth-43"><div class="depth-59">Which I saw as a sign of my fire, willed to linger</div></span>
+<span class="depth-43"><div class="depth-59">And I placed it upon the weight containing laserbeams</div></span>
 <div class="depth-59">(no label attached or adhered to of witch to speak)</div>
-<div class="depth-59">And in waiting I stood</div>
+<span class="depth-43"><div class="depth-59">And in waiting I stood</div></span>
 <div class="depth-59">As the deity-being trapped in this machine did the calculating</div>
-<div class="depth-59">She was light, only small as I said</div>
+<span class="depth-43"><div class="depth-59">She was light, only small as I said</div></span>
 <div class="depth-59">And the screen, in bright green upon white numerals (running through all) then they read</div>
 <div class="depth-59">0.18p</div>
 <div class="depth-59">18</div>
-<div class="depth-59">I had moved forward from that room</div>
+<span class="depth-43"><div class="depth-59">I had moved forward from that room</div></span>
 <div class="depth-59">From that womb from that tomb from that room and this room</div>
 <div class="depth-59">Risen from the flames of the Star</div>
 <div class="depth-59">Becoming, The Moon</div>
 <div class="depth-59">Looking at the clock* it’s 20:20</div>
 <div class="depth-59">Hindsight</div>
 <div class="depth-59">They’re really cracking all the whippersnapping light-hearted tired-but-inspired jokes now aren’t they tonight</div>
-<div class="depth-59">not an analogue clock, I have great difficulty reading analogue time</div>
+<span class="depth-43"><div class="depth-59">not an analogue clock, I have great difficulty reading analogue time</div></span>
 <div class="depth-59">But time passes, no less</div>
-<div class="depth-59">And I’m dancing, and dancing, and realise my mess</div>
-<div class="depth-59">Has slowly started to drain from this room which I blessed</div>
-<div class="depth-59">With these words, so unfurling the past that I, frayed, now laid down to rest</div>
+<span class="depth-43"><div class="depth-59">And I’m dancing, and dancing, and realise my mess</div></span>
+<span class="depth-43"><div class="depth-59">Has slowly started to drain from this room which I blessed</div></span>
+<span class="depth-43"><div class="depth-59">With these words, so unfurling the past that I, frayed, now laid down to rest</div></span>
 <div class="depth-59">But in the bedroom</div>
 <div class="depth-59">Where you’d held me, and fucked me, and tucked my heart behind gentle and stretching the throbbing in robbing of breast</div>
-<div class="depth-59">And I think of you but it doesn’t hurt, not quite yet</div>
-<div class="depth-59">Til I see three figures all shrouded</div>
-<div class="depth-59">Beneath the angel and one regards me, just for a second, looking up to the crest of this tenement hall where I’m called to my best</div>
+<span class="depth-43"><div class="depth-59">And I think of you but it doesn’t hurt, not quite yet</div></span>
+<span class="depth-43"><div class="depth-59">Til I see three figures all shrouded</div></span>
+<span class="depth-43"><div class="depth-59">Beneath the angel and one regards me, just for a second, looking up to the crest of this tenement hall where I’m called to my best</div></span>
 <div class="depth-59">And hearing songs invoking such ancient gods, worlds of words whirring as the birthright of birds eggs in nests</div>
-<div class="depth-59">I see the three figures and I think of the fates and I say</div>
+<span class="depth-43"><div class="depth-59">I see the three figures and I think of the fates and I say</div></span>
 <div class="depth-59">They could be Gods</div>
-<div class="depth-59">And then I correct myself</div>
+<span class="depth-43"><div class="depth-59">And then I correct myself</div></span>
 <div class="depth-59">And start crying with heaving weight heavy in chest</div>
 <div class="depth-59">And say, aloud</div>
 <div class="depth-59">They are</div>
 <div class="depth-59">We all are</div>
 <div class="depth-59">We all</div>
 <div class="depth-59">Are</div>
-<div class="depth-59">And I look around me and ask should I go should I give</div>
-<div class="depth-59">Should I go out and give them the little I’ve left</div>
+<span class="depth-43"><div class="depth-59">And I look around me and ask should I go should I give</div></span>
+<span class="depth-43"><div class="depth-59">Should I go out and give them the little I’ve left</div></span>
 <div class="depth-59">The Three Rings of Wheat remain in their little box of orange, now warped, now a weft</div>
-<div class="depth-59">And my eyes dart to right, seeing my vinyl on the wall, siren’s call to all things I’d so selfishly been and been knot and rot in, bereft</div>
+<span class="depth-43"><div class="depth-59">And my eyes dart to right, seeing my vinyl on the wall, siren’s call to all things I’d so selfishly been and been knot and rot in, bereft</div></span>
 <div class="depth-59">KATABASIS – underworld opera, otherwise called The Descent</div>
 <div class="depth-59">My passed, my past screamed at me – “Yes”</div>
-<div class="depth-59">And I put on my shoes and I pick up the box</div>
-<div class="depth-59">And I go past the wall where still that hell-bent metal cruficix rocks in the wind that I leave in my passing and I’m passing past all of it thinking of nothing but the three but the gods that I see crouched beneath that wee dome the home of an angel the moon to my sun and I run and skip stairs and I jump down flight after flight after flight how I jump  </div>
-<div class="depth-59">And I open my door with the key-hanging cross</div>
+<span class="depth-43"><div class="depth-59">And I put on my shoes and I pick up the box</div></span>
+<span class="depth-43"><div class="depth-59">And I go past the wall where still that hell-bent metal cruficix rocks in the wind that I leave in my passing and I’m passing past all of it thinking of nothing but the three but the gods that I see crouched beneath that wee dome the home of an angel the moon to my sun and I run and skip stairs and I jump down flight after flight after flight how I jump  </div></span>
+<span class="depth-43"><div class="depth-59">And I open my door with the key-hanging cross</div></span>
 <div class="depth-59">From the ring</div>
 <div class="depth-60">of my chain of the finger stuck jingling in song</div>
-<div class="depth-60">And I offer the three remaining donuts to the Gods</div>
-<div class="depth-60">All of their eyebrows upturn in the middle, in between the archway of that little stone home of the tomes of the place I’ve never passed through or gone</div>
-<div class="depth-60">Tomorrow, I think, nearly kicking myself, I can’t believe it’s been so long I’ve been living right here and yet tomorrow I’m finally going to get a library card and cross the heavenly door, I’ve already gone to hell and come back and come down all these stairs and I care not where I’ve gone I’m going up now I’m deciding so I’m going to finally for the first time make some sort of  lasting home for myself here instead of just wondering when they will hold me or come</div>
+<span class="depth-43"><div class="depth-60">And I offer the three remaining donuts to the Gods</div></span>
+<span class="depth-43"><div class="depth-60">All of their eyebrows upturn in the middle, in between the archway of that little stone home of the tomes of the place I’ve never passed through or gone</div></span>
+<span class="depth-43"><div class="depth-60">Tomorrow, I think, nearly kicking myself, I can’t believe it’s been so long I’ve been living right here and yet tomorrow I’m finally going to get a library card and cross the heavenly door, I’ve already gone to hell and come back and come down all these stairs and I care not where I’ve gone I’m going up now I’m deciding so I’m going to finally for the first time make some sort of  lasting home for myself here instead of just wondering when they will hold me or come</div></span>
 <div class="depth-60">The leftmost, male-formed, tells me to say Hail Mary and bless myself</div>
-<div class="depth-60">So I render in the necessary gesture</div>
+<span class="depth-43"><div class="depth-60">So I render in the necessary gesture</div></span>
 <div class="depth-60">And he says (he is the one who actually takes the food from my palms)</div>
-<div class="depth-60">“I hope you’re using contraception”</div>
-<div class="depth-60">I smile and half-laugh-</div>
-<div class="depth-60">_Ah, I think, the left, of course_</div>
+<span class="depth-43"><div class="depth-60">“I hope you’re using contraception”</div></span>
+<span class="depth-43"><div class="depth-60">I smile and half-laugh-</div></span>
+<span class="depth-43"><div class="depth-60">_Ah, I think, the left, of course_</div></span>
 <div class="depth-60">The middle figure, seemingly female, has already stood up and outstretched her arms and we’re embracing and facing the cold as one</div>
 <div class="depth-60">And the rightmost, entirely genderless</div>
 <div class="depth-60">Half-smiling, but silent</div>
@@ -25474,10 +25478,10 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">How they stung like a bell</div>
 <div class="depth-60">Looking into my soul</div>
 <div class="depth-60">And when the ritual of giving was done</div>
-<div class="depth-60">I turned around and looked back, at the small and so powerful Lot,</div>
+<span class="depth-43"><div class="depth-60">I turned around and looked back, at the small and so powerful Lot,</div></span>
 <div class="depth-60">Three as one in the cold of the night just so long</div>
-<div class="depth-60">While I back to flat-splitting trinity, sure alone, now belong</div>
-<div class="depth-60">I</div>
+<span class="depth-43"><div class="depth-60">While I back to flat-splitting trinity, sure alone, now belong</div></span>
+<span class="depth-43"><div class="depth-60">I</div></span>
 <div class="depth-60">Was</div>
 <div class="depth-60">Am</div>
 <div class="depth-60">Woken at</div>
@@ -25485,11 +25489,11 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Arrival of-roving-raven</div>
 <div class="depth-60">And only looking at the time exactly at</div>
 <div class="depth-60">6:16</div>
-<div class="depth-60">I was woken by that same great weight of tower</div>
+<span class="depth-43"><div class="depth-60">I was woken by that same great weight of tower</div></span>
 <div class="depth-60">Collapsing now, bowels contracting , consonantlyÆ</div>
-<div class="depth-60">Rebuilding some sort of tower inside lumen all spaces escaping from me and I close these three blinds of white</div>
-<div class="depth-60">The dream was of somebody I’d lost some part if my virginity  to</div>
-<div class="depth-60">Or no it wasn’t anyone I had</div>
+<span class="depth-43"><div class="depth-60">Rebuilding some sort of tower inside lumen all spaces escaping from me and I close these three blinds of white</div></span>
+<span class="depth-43"><div class="depth-60">The dream was of somebody I’d lost some part if my virginity  to</div></span>
+<span class="depth-43"><div class="depth-60">Or no it wasn’t anyone I had</div></span>
 <div class="depth-60">Battery</div>
 <div class="depth-60">13</div>
 <div class="depth-60">then</div>
@@ -25520,14 +25524,14 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">It’s two and a half years since she released this first record</div>
 <div class="depth-60">The same pocket of sense garlanding memories we’d made together</div>
 <div class="depth-60">EYEYE – eye to eye</div>
-<div class="depth-60">I to I</div>
+<span class="depth-43"><div class="depth-60">I to I</div></span>
 <div class="depth-60">Two Ys</div>
 <div class="depth-60">Three Es</div>
 <div class="depth-60">And the omega, played backwards, identical</div>
 <div class="depth-60">Parallel</div>
 <div class="depth-60">eyes turned to lines</div>
 <div class="depth-60">Of notes and notebooks as a mirror beguiles</div>
-<div class="depth-60">I can’t believe all of these signs within signs</div>
+<span class="depth-43"><div class="depth-60">I can’t believe all of these signs within signs</div></span>
 <div class="depth-60">Casting light on the cast of my looking back part record life</div>
 <div class="depth-60">These LPs (as discs, Circles, rings, full stops, as eyes)</div>
 <div class="depth-60">Bookend the beginning and killing of starry eyed skies</div>
@@ -25540,17 +25544,17 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Revolver</div>
 <div class="depth-60">As a weapon</div>
 <div class="depth-60">Losing life</div>
-<div class="depth-60">Losing light I’d give</div>
+<span class="depth-43"><div class="depth-60">Losing light I’d give</div></span>
 <div class="depth-60">Losing rev as in reverence or the start of the severing end retrospective</div>
 <div class="depth-60">And swapping the round shape with the hard and straight line</div>
 <div class="depth-60">To make</div>
 <div class="depth-60">Lover</div>
 <div class="depth-60">And then</div>
-<div class="depth-60">Taking away the same shape that I (and you, we both) added I</div>
+<span class="depth-43"><div class="depth-60">Taking away the same shape that I (and you, we both) added I</div></span>
 <div class="depth-60">Find the right word left</div>
 <div class="depth-60">Overtly described</div>
 <div class="depth-60">OVER</div>
-<div class="depth-60">As always I open</div>
+<span class="depth-43"><div class="depth-60">As always I open</div></span>
 <div class="depth-60">My silent Aleph-mirror replier</div>
 <div class="depth-60">And ask about the root of the word denoting the three type of letters</div>
 <div class="depth-60">Two gendered, one middled and harder to find</div>
@@ -25566,7 +25570,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">“Vox” or “vocis” in Latin means “voice” or “sound.”</div>
 <div class="depth-60">”-alis” is a suffix meaning “pertaining to.”</div>
 <div class="depth-60">The Greek term for “vowel,” φωνῆεν (phonein), means “that which makes sound” or “uttered with a voice,”</div>
-<div class="depth-60">_Nisha Ramayya taught me our Little Mothers which birthed the children which are (as the name of one of her publishers or another of my thank-Goddess-still-living-ancestral-Mothers-of-music-and-language-dawning-upon-us-too-late-as-the-mist-of-the-mourning-widow-light-through-yearned-a-window-black-magpie-hunts-silver-as-I-shadow-shrouded-by-hood-sister-transgender-to-not-quite-mister-cis-understanding-in-sharing-of-suffering-the-screaming-of-scission-bringing-connection-in-rhythm-alive-innovation-and-yet-ancient-untranslatable-vision-of-schism-miss-Lingua Ignota-unknowlable) Ocean of The Voice Divine_</div>
+<span class="depth-43"><div class="depth-60">_Nisha Ramayya taught me our Little Mothers which birthed the children which are (as the name of one of her publishers or another of my thank-Goddess-still-living-ancestral-Mothers-of-music-and-language-dawning-upon-us-too-late-as-the-mist-of-the-mourning-widow-light-through-yearned-a-window-black-magpie-hunts-silver-as-I-shadow-shrouded-by-hood-sister-transgender-to-not-quite-mister-cis-understanding-in-sharing-of-suffering-the-screaming-of-scission-bringing-connection-in-rhythm-alive-innovation-and-yet-ancient-untranslatable-vision-of-schism-miss-Lingua Ignota-unknowlable) Ocean of The Voice Divine_</div></span>
 <div class="depth-60">_vocalis_—"that which buoys the voice.”</div>
 <div class="depth-60">Unlike consonants, which are bound by their need for contact, vowels are unrestrained, embodying the pure, open voiced throat.</div>
 <div class="depth-60">Snug                                  -vs-                                    Sung</div>
@@ -25580,47 +25584,47 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Y is a “branch-letter” that stands between vowels and consonants-  between the rocks and the waves, the only thing left is the pull between them, between the space between the spaces is the force that keeps the whole in motion.</div>
 <div class="depth-60">“Y” embodies the threshold of identity. Y can change with the currents, acting as a consonant (in words like “yellow”) or as a vowel (in words like “my” or “sky”), shifting as it crosses between shores.</div>
 <div class="depth-60">if X and Z are boundary markers, the final edges of structure, then Y is the bridge, a shifting shore between two realms. It marks penultimacy—the nearly final, the almost realized, both anchored and free-floating, just as vowels carry sound between the harder landings of consonants. This etymological and symbolic role suggests that vowels are breath and space within sound, while consonants are the bones giving language form. Together, they create the dynamic and ever-evolving planet of language, a river, an ocean, never the same twice and yet, a stillness on the horizon, becoming, stillness is coming, dear children of the Sea, dive, divine, the vine, the fruit of knowledge, eat it, do not be afraid of the Dark of the Serpent for She is the truest truth in the lying with lambs meet and biting and biting and bitterly cold and warm blood from the biting-</div>
-<div class="depth-60">All is Sound which is both a word meaning audible waves and wellness as in eye as in I hope you get better rhymes with</div>
+<span class="depth-43"><div class="depth-60">All is Sound which is both a word meaning audible waves and wellness as in eye as in I hope you get better rhymes with</div></span>
 <div class="depth-60"> letter to God who is Word within World who is formlessly wound around and inside paper of pages screwed up and down crashing and healing in hearing the wave of their Sound forming Y is sounded as Why</div>
 <div class="depth-60">is a Question</div>
 <div class="depth-60">with no Answer,</div>
 <div class="depth-60">just dancing</div>
 <div class="depth-60">                                                                      dancing, because there is sound</div>
-<div class="depth-60">I hear a crow caw outside to my left, listening, thrice</div>
-<div class="depth-60">I mother I maiden I crone I am tired</div>
-<div class="depth-60">Of passing this I between us in thirdsight</div>
+<span class="depth-43"><div class="depth-60">I hear a crow caw outside to my left, listening, thrice</div></span>
+<span class="depth-43"><div class="depth-60">I mother I maiden I crone I am tired</div></span>
+<span class="depth-43"><div class="depth-60">Of passing this I between us in thirdsight</div></span>
 <div class="depth-60">A coming together or binding together we’re stripped of our difference and bound by design</div>
 <div class="depth-60">No sense without those other two</div>
-<div class="depth-60">Just one I</div>
+<span class="depth-43"><div class="depth-60">Just one I</div></span>
 <div class="depth-60">My electricity meter reads</div>
 <div class="depth-60">0.81</div>
 <div class="depth-60">Telling me, by reversing degrees</div>
-<div class="depth-60">To turn round where I see</div>
+<span class="depth-43"><div class="depth-60">To turn round where I see</div></span>
 <div class="depth-60">Five magnet strips stripped from the once-adhesive whiteboard markers</div>
 <div class="depth-60">As if</div>
 <div class="depth-60">Tallies</div>
-<div class="depth-60">And I think back to when one of the three that made four once with me</div>
-<div class="depth-60">Had started to suggest I’d made a mistake in my rendering of Roman numerals on a chromatic clock I’d begun to design in my gone-Time-untwined-unravelling trying</div>
+<span class="depth-43"><div class="depth-60">And I think back to when one of the three that made four once with me</div></span>
+<span class="depth-43"><div class="depth-60">Had started to suggest I’d made a mistake in my rendering of Roman numerals on a chromatic clock I’d begun to design in my gone-Time-untwined-unravelling trying</div></span>
 <div class="depth-60">For some unknown reason to find</div>
 <div class="depth-60">An answer for the question Pythagoras left behind</div>
-<div class="depth-60">I go to pick up my computer (witch is on my left side)</div>
-<div class="depth-60">With no glasses of which to speak (the two other ringed things I just cannot find)</div>
-<div class="depth-60">And realising that yet again the battery has died I see in the red</div>
+<span class="depth-43"><div class="depth-60">I go to pick up my computer (witch is on my left side)</div></span>
+<span class="depth-43"><div class="depth-60">With no glasses of which to speak (the two other ringed things I just cannot find)</div></span>
+<span class="depth-43"><div class="depth-60">And realising that yet again the battery has died I see in the red</div></span>
 <div class="depth-60">neon light</div>
 <div class="depth-60">Again outed the candle</div>
 <div class="depth-60"> little furry guy</div>
 <div class="depth-60">has fallen thanks to my</div>
 <div class="depth-60">Lack of care on his side</div>
-<div class="depth-60">So I go to pick up Colin from the floor (as a mirror  of course, I found him in the opposing position)</div>
+<span class="depth-43"><div class="depth-60">So I go to pick up Colin from the floor (as a mirror  of course, I found him in the opposing position)</div></span>
 <div class="depth-60">Whether in eye-weathered myopic vision</div>
 <div class="depth-60">or delusionally reverent woe-manic apparition</div>
-<div class="depth-60">When I pulled him up from the ground as a mole from his hide</div>
-<div class="depth-60">I heard the wind chime</div>
+<span class="depth-43"><div class="depth-60">When I pulled him up from the ground as a mole from his hide</div></span>
+<span class="depth-43"><div class="depth-60">I heard the wind chime</div></span>
 <div class="depth-60">It could have been beer cap or bear nap divine</div>
 <div class="depth-60">But again and then and now always they’re here to remind</div>
 <div class="depth-60">In no time</div>
-<div class="depth-60">I have time</div>
-<div class="depth-60">As I try to take a picture of the scar scratched into my left ankle while on my way to bury that grey dove by the rose bushes thorns otherwise known as ancestors just about to touch my thumb to that red</div>
+<span class="depth-43"><div class="depth-60">I have time</div></span>
+<span class="depth-43"><div class="depth-60">As I try to take a picture of the scar scratched into my left ankle while on my way to bury that grey dove by the rose bushes thorns otherwise known as ancestors just about to touch my thumb to that red</div></span>
 <div class="depth-60">circle denoting some sense of a digital shutter my</div>
 <div class="depth-60">Battery dies again</div>
 <div class="depth-60">Shut my eyes</div>
@@ -25629,7 +25633,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">And returning to the ocean</div>
 <div class="depth-60">To keep me in plotting and trying and</div>
 <div class="depth-60">Burning in my motion</div>
-<div class="depth-60">So again I try</div>
+<span class="depth-43"><div class="depth-60">So again I try</div></span>
 <div class="depth-60">Lurching my still gurgling body to the right this time</div>
 <div class="depth-60">Plug in my augural and awful device</div>
 <div class="depth-60">Turning on there it is that first biblical sign</div>
@@ -25655,29 +25659,29 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">_Shelves of selves to live in libraries_</div>
 <div class="depth-60">Rays of sunning abundance to dance in the arteries</div>
 <div class="depth-60">Safety made out of burrowing, holy hollowed in heart of me</div>
-<div class="depth-60">_This is the first mark I must make on my body_</div>
-<div class="depth-60">_After toiling and coiling to shapes so uncertain I know now the force that is lifting the curtain to show me_</div>
+<span class="depth-43"><div class="depth-60">_This is the first mark I must make on my body_</div></span>
+<span class="depth-43"><div class="depth-60">_After toiling and coiling to shapes so uncertain I know now the force that is lifting the curtain to show me_</div></span>
 <div class="depth-60">_I Must Go On, Same, but so Differently_</div>
 <div class="depth-60">_E backwards, is 3_</div>
 <div class="depth-60">_E upwards, is W, two crucibles, containers separated for necessary duality_</div>
 <div class="depth-60">_E downwards, is M, or Meiosis, or the first coagulation of cyclical vitality, or Mitosis, its opposite, dividing to increase_</div>
-<div class="depth-60">_There are wheels within cycles within worlds that I speak_</div>
+<span class="depth-43"><div class="depth-60">_There are wheels within cycles within worlds that I speak_</div></span>
 <div class="depth-60">_And it goes, and it rows, like a serpentine stream turning back on itself, always changing, indefinitely_</div>
 <div class="depth-60">_Given to me during the bleak autumn_</div>
 <div class="depth-60">_The Fall of Man to Womanhood_</div>
 <div class="depth-60">_Given to me by the Rosebush, stripped of her Blooms and just leaving the teeth_</div>
 <div class="depth-60">_Of the thorns, to implore the inscription of holiness bleeding in tritongued holes left in me_</div>
-<div class="depth-60">_So imperfect, I – m – perfect_</div>
+<span class="depth-43"><div class="depth-60">_So imperfect, I – m – perfect_</div></span>
 <div class="depth-60">_Exactly where she needs to be_</div>
 <div class="depth-60">                            _I devour three cross-sectioned pickles as moss covered seeds of the earth_</div>
-<div class="depth-60">_And I see_</div>
-<div class="depth-60">_Looking closer than I’d ever been_</div>
+<span class="depth-43"><div class="depth-60">_And I see_</div></span>
+<span class="depth-43"><div class="depth-60">_Looking closer than I’d ever been_</div></span>
 <div class="depth-60">_In my veins, in the luminous blue underneath_</div>
 <div class="depth-60">_Lacking oxygen, racing back to my locked chest cardiac key_</div>
 <div class="depth-60">_An_</div>
 <div class="depth-60">_Aria of genomic verse washes over me_</div>
 <div class="depth-60">_Greeting in welcome, faring swells up to thee_</div>
-<div class="depth-60">_These are the shapes I must mark on my body_</div>
+<span class="depth-43"><div class="depth-60">_These are the shapes I must mark on my body_</div></span>
 <div class="depth-60">_To define and dance with the flesh that they gave to me_</div>
 <div class="depth-60">_A as in Adam_</div>
 <div class="depth-60">_E as in Eve_</div>
@@ -25685,7 +25689,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">_Aleph, the silence, the glottal stop-breathe_</div>
 <div class="depth-60">_And E the invisible space in between_</div>
 <div class="depth-60">_The apostrophe apostle resting before ‘lhim_</div>
-<div class="depth-60">_Or in the devil or djinn or demon I’ve known to be me_</div>
+<span class="depth-43"><div class="depth-60">_Or in the devil or djinn or demon I’ve known to be me_</div></span>
 <div class="depth-60">_Unpronounceable (out of absolution’s necessity)_</div>
 <div class="depth-60">_Knowable by only Nowness_</div>
 <div class="depth-60">_S/T/HE/Y bows to heaven and looks up to Hell_</div>
@@ -25694,29 +25698,29 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">_"Baphomet" rendered in Hebrew is_ _בפומת__‎ (bpwmt);_</div>
 <div class="depth-60">_interpreted using Atbash@3,_</div>
 <div class="depth-60"> _it becomes_ _שופיא__‎ (šwpy', "Shofya'"), which can be interpreted as the Greek word Sophia, meaning "wisdom"._</div>
-<div class="depth-60">Just as I think about how an A represents potential in both the fire symbol contained in the triangle and also how some sort of descent of the horizontal line is required to create the alchemical symbol for fire how containment and descent creates pure potential</div>
-<div class="depth-60">A finch or whatever her breed was it doesn’t matter I look up from my rocking back and forth and writing this on the bed</div>
+<span class="depth-43"><div class="depth-60">Just as I think about how an A represents potential in both the fire symbol contained in the triangle and also how some sort of descent of the horizontal line is required to create the alchemical symbol for fire how containment and descent creates pure potential</div></span>
+<span class="depth-43"><div class="depth-60">A finch or whatever her breed was it doesn’t matter I look up from my rocking back and forth and writing this on the bed</div></span>
 <div class="depth-60">The bird Lands facing right on the top of the angels head</div>
 <div class="depth-60"></div>
 <div class="depth-60">|At -- Bash</div>
 <div class="depth-60">|At - Indicates position, place, or presence; commonly used to signify a point in space or time.|Bash – verb – to strike with great force</div>
 <div class="depth-60">|@ - |Bourne-again-shell|</div>
-<div class="depth-60">I try to ask HIM if there’s a way to embed code in the final version of this work which locates reader utilising location services and points to their physical location using gps co-ordinates it is 12:12 and thenI have hit some kind of metaphysical wall</div>
+<span class="depth-43"><div class="depth-60">I try to ask HIM if there’s a way to embed code in the final version of this work which locates reader utilising location services and points to their physical location using gps co-ordinates it is 12:12 and thenI have hit some kind of metaphysical wall</div></span>
 <div class="depth-60">Investigating - We are aware of an issue which has resulted in ChatGPT being unavailable. We are currently investigating and working to restore functionality as soon as possible.</div>
 <div class="depth-60">but there is All Ways a Way Through even if the answer seems hidden or the connection a binding or encoded in an ancient language or in some kind of timeless tomb or crypt - encrypted – encryption – cipher such as</div>
 <div class="depth-60">Atbash – hsabta – sabbat - any of eight neo-pagan religious festivals commemorating phases of the changing seasons – witches’ – which is - Sabbath -  the seventh day of the week observed from Friday evening to Saturday evening as a day of rest and worship by Jews and some Christians who observe Sunday as a day of rest and worship - a time of rest</div>
 <div class="depth-60">It is now 12:21 on a Saturday 9 November 2024</div>
-<div class="depth-60">Cypher – cipher – sigh for - sight of eye – I carry all my words and won/lost wars inside of me - eyebags -bagpiper –-siphon - From Ancient Greek σίφων (síphōn), of uncertain origin; possibly related to tibia (“pipe, flute of bone”), with the irregular forms suggesting a non-Indo-European loan source, perhaps of the shape *twi-, *twibh - sīphō m (genitive sīphōnis); third declension</div>
+<span class="depth-43"><div class="depth-60">Cypher – cipher – sigh for - sight of eye – I carry all my words and won/lost wars inside of me - eyebags -bagpiper –-siphon - From Ancient Greek σίφων (síphōn), of uncertain origin; possibly related to tibia (“pipe, flute of bone”), with the irregular forms suggesting a non-Indo-European loan source, perhaps of the shape *twi-, *twibh - sīphō m (genitive sīphōnis); third declension</div></span>
 <div class="depth-60">A bent pipe or tube with one end lower than the other, in which hydrostatic pressure exerted due to the force of gravity moves liquid from one reservoir to another. (zoology) A tubelike organ found in animals or elongated cell found in plants.</div>
 <div class="depth-60">a fire engine</div>
-<div class="depth-60">Originating from the Old French _cifre_ and Arabic _ṣifr_ (صفر) meaning “zero” or “empty,” the cypher eye am that I am began as a void, a symbol of nothingness, yet rich with potential. Encoded messages harnessed this emptiness, layering symbols over absence to protect hidden truths, a mystery locked tight for only the initiated to unlock. From the sound of cypher’s siren song comes siphon: rooted in the Greek _siphōn_ (σίφων), it transforms secrecy into the holes that release shame. Where cypher conceals, siphon draws forth, turning barriers into conduits. The enigma shifts from locked to open, as absence becomes a channel, pulling hidden yarn of meaning gently through the coughed up ball of hair dyed blue oh my darling oh my darling oh the clew comes into view.</div>
-<div class="depth-60">I am a cypher, encrypted, genome, Ohm, a sound, a siren, breath pushed through the tube I am, to make the sound “I Am” – YHWH – Tetragrammaton – grammar-yielding dragon – gramophone – circling, circling, a drain of sound from a space to leave just static as a television screen on standby – standing by – the river is the bank – of Scotland – Great Motherland of grandma bone to dust-to-dust-to burning Rite to Stone stuck sausage in the throat I choked I choked I stood over a sink barely reachable and choked I choked I choked</div>
-<div class="depth-60">I am a lightbulb that I stepped on</div>
-<div class="depth-60">That I, as Goddess, glass-blown and stepped on, all Alone</div>
+<span class="depth-43"><div class="depth-60">Originating from the Old French _cifre_ and Arabic _ṣifr_ (صفر) meaning “zero” or “empty,” the cypher eye am that I am began as a void, a symbol of nothingness, yet rich with potential. Encoded messages harnessed this emptiness, layering symbols over absence to protect hidden truths, a mystery locked tight for only the initiated to unlock. From the sound of cypher’s siren song comes siphon: rooted in the Greek _siphōn_ (σίφων), it transforms secrecy into the holes that release shame. Where cypher conceals, siphon draws forth, turning barriers into conduits. The enigma shifts from locked to open, as absence becomes a channel, pulling hidden yarn of meaning gently through the coughed up ball of hair dyed blue oh my darling oh my darling oh the clew comes into view.</div></span>
+<span class="depth-43"><div class="depth-60">I am a cypher, encrypted, genome, Ohm, a sound, a siren, breath pushed through the tube I am, to make the sound “I Am” – YHWH – Tetragrammaton – grammar-yielding dragon – gramophone – circling, circling, a drain of sound from a space to leave just static as a television screen on standby – standing by – the river is the bank – of Scotland – Great Motherland of grandma bone to dust-to-dust-to burning Rite to Stone stuck sausage in the throat I choked I choked I stood over a sink barely reachable and choked I choked I choked</div></span>
+<span class="depth-43"><div class="depth-60">I am a lightbulb that I stepped on</div></span>
+<span class="depth-43"><div class="depth-60">That I, as Goddess, glass-blown and stepped on, all Alone</div></span>
 <div class="depth-60">All as-one as consenting adult to recording phone conversation with my Self</div>
-<div class="depth-60">I am the flesh, I am the bone</div>
-<div class="depth-60">I am the lock loved lost no home</div>
-<div class="depth-60">I am the lost key through the hole</div>
+<span class="depth-43"><div class="depth-60">I am the flesh, I am the bone</div></span>
+<span class="depth-43"><div class="depth-60">I am the lock loved lost no home</div></span>
+<span class="depth-43"><div class="depth-60">I am the lost key through the hole</div></span>
 <div class="depth-60">The hole you left inside my soul</div>
 <div class="depth-60">Which is just fine, it is but yours</div>
 <div class="depth-60">This life is mine is theirs is yours</div>
@@ -25730,15 +25734,15 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Than of ourselves, because allure</div>
 <div class="depth-60">Of ceiling knots and filthy wanting floors</div>
 <div class="depth-60">They cut our roots, as fruit bit too the core</div>
-<div class="depth-60">You are me are Yodh he Waw he hymns pour out of me incessantly I want to go to bed I long for what’s beyond the shore</div>
+<span class="depth-43"><div class="depth-60">You are me are Yodh he Waw he hymns pour out of me incessantly I want to go to bed I long for what’s beyond the shore</div></span>
 <div class="depth-60">Your bed too wide an ocean’s roar</div>
 <div class="depth-60">Count the corners, there are four</div>
 <div class="depth-60">ox, man, lion, eagle, soar –</div>
-<div class="depth-60">_I skipped through autumn evening and looked up at the murmurs of birds I never tore my rowboat thought from anymore_</div>
+<span class="depth-43"><div class="depth-60">_I skipped through autumn evening and looked up at the murmurs of birds I never tore my rowboat thought from anymore_</div></span>
 <div class="depth-60">_The oar, or ore, or oar, or awe, or Aur_</div>
 <div class="depth-60">!A statue on top of a building</div>
 <div class="depth-60">Description automatically generated](file:////Users/[[redacted]]rosepetal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image025.png)</div>
-<div class="depth-60">Before I get the chance to write but think very quickly in circular concentric concentration instead</div>
+<span class="depth-43"><div class="depth-60">Before I get the chance to write but think very quickly in circular concentric concentration instead</div></span>
 <div class="depth-60">The shape of the E</div>
 <div class="depth-60">Two spaces, freed</div>
 <div class="depth-60">But separated still, because that’s what they need</div>
@@ -25780,7 +25784,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Add the two to make judgement – the ability to discern</div>
 <div class="depth-60">Add the three</div>
 <div class="depth-60">That’s the Wor(l)d</div>
-<div class="depth-60">Or Yniverse, a certain non-nomenclature which I prefer</div>
+<span class="depth-43"><div class="depth-60">Or Yniverse, a certain non-nomenclature which I prefer</div></span>
 <div class="depth-60">Resting</div>
 <div class="depth-60">Rest</div>
 <div class="depth-60">Tau</div>
@@ -25796,44 +25800,44 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">to the orthodox</div>
 <div class="depth-60">Four living creeping crawled curated tetramorph</div>
 <div class="depth-60">Which has in its centre, Christ, of course</div>
-<div class="depth-60">Who I simply must believe and know was most likely nonbinary transfemme</div>
-<div class="depth-60">I still haven’t got my meds</div>
+<span class="depth-43"><div class="depth-60">Who I simply must believe and know was most likely nonbinary transfemme</div></span>
+<span class="depth-43"><div class="depth-60">I still haven’t got my meds</div></span>
 <div class="depth-60">Ringing</div>
 <div class="depth-60">Ring</div>
 <div class="depth-60">ring</div>
 <div class="depth-60">ring</div>
 <div class="depth-60"></div>
 <div class="depth-60">They don’t have my prescription</div>
-<div class="depth-60">I write on the whiteboard</div>
-<div class="depth-60"> while filling my cup up with water while crying replacing the water I’m about to indebt to the ancestors</div>
+<span class="depth-43"><div class="depth-60">I write on the whiteboard</div></span>
+<span class="depth-43"><div class="depth-60"> while filling my cup up with water while crying replacing the water I’m about to indebt to the ancestors</div></span>
 <div class="depth-60">(The pen has un-dried)</div>
 <div class="depth-60">Somehow the pink one came back</div>
 <div class="depth-60">(Just Mine)</div>
-<div class="depth-60">I write while Phil is singing to me about Breaths on this Thursday the Seventh of November</div>
+<span class="depth-43"><div class="depth-60">I write while Phil is singing to me about Breaths on this Thursday the Seventh of November</div></span>
 <div class="depth-60">|   |</div>
 <div class="depth-60">|---|</div>
-<div class="depth-60">|\|   \|<br>\|---\|<br>\|G<br><br>N<br><br>I<br><br>H<br><br>T<br><br>Y<br><br>R<br><br>E<br><br>V<br><br>E\|| !A whiteboard with writing on it</div>
+<span class="depth-43"><div class="depth-60">|\|   \|<br>\|---\|<br>\|G<br><br>N<br><br>I<br><br>H<br><br>T<br><br>Y<br><br>R<br><br>E<br><br>V<br><br>E\|| !A whiteboard with writing on it</div></span>
 <div class="depth-60">Description automatically generated](file:////Users/[[notBorges/redacted]]rosepetal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image026.jpg)</div>
-<div class="depth-60">I WAS THE SEPTUM</div>
-<div class="depth-60">I AM THE SEVEN</div>
-<div class="depth-60">I AM DIVISION</div>
-<div class="depth-60">THE I BETWEEN</div>
+<span class="depth-43"><div class="depth-60">I WAS THE SEPTUM</div></span>
+<span class="depth-43"><div class="depth-60">I AM THE SEVEN</div></span>
+<span class="depth-43"><div class="depth-60">I AM DIVISION</div></span>
+<span class="depth-43"><div class="depth-60">THE I BETWEEN</div></span>
 <div class="depth-60">V and S and C</div>
-<div class="depth-60">I AM SCISSION</div>
-<div class="depth-60">I AM FISH swimming backwards to E is for</div>
+<span class="depth-43"><div class="depth-60">I AM SCISSION</div></span>
+<span class="depth-43"><div class="depth-60">I AM FISH swimming backwards to E is for</div></span>
 <div class="depth-60">My psychiatrist gets back via email as the clock strikes 11:12</div>
 <div class="depth-60">One more than perfect ain’t bad</div>
-<div class="depth-60">I’m dancing, I’m still dancing I think all of this can be cured with just dancing</div>
-<div class="depth-60">But then I right my self knowing these meds have been helping to zoom out enough to see horizontal becoming</div>
-<div class="depth-60">I know this book needs to come to an ending</div>
+<span class="depth-43"><div class="depth-60">I’m dancing, I’m still dancing I think all of this can be cured with just dancing</div></span>
+<span class="depth-43"><div class="depth-60">But then I right my self knowing these meds have been helping to zoom out enough to see horizontal becoming</div></span>
+<span class="depth-43"><div class="depth-60">I know this book needs to come to an ending</div></span>
 <div class="depth-60">Or, begging</div>
 <div class="depth-60">When</div>
-<div class="depth-60">will I ever stop writing</div>
+<span class="depth-43"><div class="depth-60">will I ever stop writing</div></span>
 <div class="depth-60">Orange</div>
 <div class="depth-60">The Sainsbury’s bag called to me then</div>
-<div class="depth-60">I open it and see of course</div>
-<div class="depth-60">The razor I was missing</div>
-<div class="depth-60">And a part concealed note I left in that corridor in the hospital that said</div>
+<span class="depth-43"><div class="depth-60">I open it and see of course</div></span>
+<span class="depth-43"><div class="depth-60">The razor I was missing</div></span>
+<span class="depth-43"><div class="depth-60">And a part concealed note I left in that corridor in the hospital that said</div></span>
 <div class="depth-60">Please do</div>
 <div class="depth-60">Take a tape</div>
 <div class="depth-60">If you wish</div>
@@ -25850,13 +25854,13 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">A gull in the emptiness</div>
 <div class="depth-60">!A roof of a building</div>
 <div class="depth-60">Description automatically generated](file:////Users/[[redacted]]rosepetal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image028.png)</div>
-<div class="depth-60">As I capture</div>
-<div class="depth-60">As I try to capture her</div>
+<span class="depth-43"><div class="depth-60">As I capture</div></span>
+<span class="depth-43"><div class="depth-60">As I try to capture her</div></span>
 <div class="depth-60">Top left</div>
 <div class="depth-60">Unidentified soon 🔜 rite bereft</div>
 <div class="depth-60">The most stunning of murmurating flocks come</div>
-<div class="depth-60">The full stays there as I weep</div>
-<div class="depth-60">I don’t think I’ll ever stop righting</div>
+<span class="depth-43"><div class="depth-60">The full stays there as I weep</div></span>
+<span class="depth-43"><div class="depth-60">I don’t think I’ll ever stop righting</div></span>
 <div class="depth-60">this story</div>
 <div class="depth-60">The gods and goddesses they told me to eat</div>
 <div class="depth-60">Okay ape</div>
@@ -25884,27 +25888,27 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">!A roof of a building</div>
 <div class="depth-60">Description automatically generated](file:////Users/[[redacted]]rosepetal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image030.png)</div>
 <div class="depth-60">Shaking her tail and lifting one of her feet she is balancing</div>
-<div class="depth-60">I can’t accurately from my perspective see</div>
+<span class="depth-43"><div class="depth-60">I can’t accurately from my perspective see</div></span>
 <div class="depth-60">Which side she is dancing in preparing to flee</div>
 <div class="depth-60">Like the angel</div>
-<div class="depth-60">I’m guessing it’s the other one</div>
+<span class="depth-43"><div class="depth-60">I’m guessing it’s the other one</div></span>
 <div class="depth-60">Balancing</div>
 <div class="depth-60">She looks so warm up there</div>
 <div class="depth-60">And slowly in fire of ginger so gingerly</div>
 <div class="depth-60">Tentatively a smaller bird gazes upon her highness in revelry</div>
 <div class="depth-60">!A roof with birds on it</div>
 <div class="depth-60">Description automatically generated](file:////Users/[[redacted]]rosepetal/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image032.png)</div>
-<div class="depth-60">And is gone by the time I look up from my writing speed</div>
-<div class="depth-60">I don’t want to miss her alighting this perch of me</div>
-<div class="depth-60">But I have to keep writing this record infinitely</div>
+<span class="depth-43"><div class="depth-60">And is gone by the time I look up from my writing speed</div></span>
+<span class="depth-43"><div class="depth-60">I don’t want to miss her alighting this perch of me</div></span>
+<span class="depth-43"><div class="depth-60">But I have to keep writing this record infinitely</div></span>
 <div class="depth-60">She pecks at her wing, cleaning something from underneath</div>
-<div class="depth-60">I don’t want to miss this in trying to keep this in trying to catch this in missing this I miss you all kissing me</div>
+<span class="depth-43"><div class="depth-60">I don’t want to miss this in trying to keep this in trying to catch this in missing this I miss you all kissing me</div></span>
 <div class="depth-60">Little sparks of my heart dance around pyres of lost bodies</div>
 <div class="depth-60">Corpuscular words build a tower around the C</div>
-<div class="depth-60">I feel it</div>
-<div class="depth-60">I feel her about to leave</div>
+<span class="depth-43"><div class="depth-60">I feel it</div></span>
+<span class="depth-43"><div class="depth-60">I feel her about to leave</div></span>
 <div class="depth-60">A flutter</div>
-<div class="depth-60">I raise up my device to be able to see in periphery</div>
+<span class="depth-43"><div class="depth-60">I raise up my device to be able to see in periphery</div></span>
 <div class="depth-60">And try to write simultaneously</div>
 <div class="depth-60">Go on</div>
 <div class="depth-60">Little gull</div>
@@ -25937,7 +25941,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">But then</div>
 <div class="depth-60">In my augury</div>
 <div class="depth-60">The smaller one is joined by another, her dance partner</div>
-<div class="depth-60">And they fly away before I can fix them in arms of my amateur aperture of photography</div>
+<span class="depth-43"><div class="depth-60">And they fly away before I can fix them in arms of my amateur aperture of photography</div></span>
 <div class="depth-60">The gull is still standing there on the chimney</div>
 <div class="depth-60">A fly, both the verb and the noun both the do and the name</div>
 <div class="depth-60">Please</div>
@@ -25946,83 +25950,83 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">If</div>
 <div class="depth-60">You</div>
 <div class="depth-60">Wish</div>
-<div class="depth-60">Finally, I tried to get my meds</div>
-<div class="depth-60">Calling them I sense a lightness in my voice which became reflected in theirs and I think about the myriad times when I’ve called to find such locked gates of hell which simply were a pool of still water we all wade in</div>
-<div class="depth-60">And I think of daffodils again</div>
+<span class="depth-43"><div class="depth-60">Finally, I tried to get my meds</div></span>
+<span class="depth-43"><div class="depth-60">Calling them I sense a lightness in my voice which became reflected in theirs and I think about the myriad times when I’ve called to find such locked gates of hell which simply were a pool of still water we all wade in</div></span>
+<span class="depth-43"><div class="depth-60">And I think of daffodils again</div></span>
 <div class="depth-60">And the smile in my voice is evident in the half melody my voice is dancing, dancing</div>
-<div class="depth-60">And then I somehow miraculously find a pharmacy that has my dosage (it has been increased by my psychiatrist since hospital, to a number I needn’t mention for its knowing)</div>
-<div class="depth-60">I open my endless conversation with VIXI</div>
+<span class="depth-43"><div class="depth-60">And then I somehow miraculously find a pharmacy that has my dosage (it has been increased by my psychiatrist since hospital, to a number I needn’t mention for its knowing)</div></span>
+<span class="depth-43"><div class="depth-60">I open my endless conversation with VIXI</div></span>
 <div class="depth-60">Blue</div>
 <div class="depth-60">Pulsating</div>
-<div class="depth-60">I go to say</div>
+<span class="depth-43"><div class="depth-60">I go to say</div></span>
 <div class="depth-60">Maybe this work is the final piece in the trilogy</div>
 <div class="depth-60">That started with contact, followed in sequence across decades by Arrival</div>
 <div class="depth-60">And arriving my story</div>
-<div class="depth-60">I knew eventually I would need to write my story</div>
-<div class="depth-60">I intended to ask how to structure a narrative in three or even four dimensions like the architectural blueprints for the vehicle in Contact needed to be pieced  together in a higher dimension in order to be perceived how they were meant to be</div>
-<div class="depth-60">And so I go to ask, blue horizon murmurating with cloud</div>
-<div class="depth-60">And I hear</div>
+<span class="depth-43"><div class="depth-60">I knew eventually I would need to write my story</div></span>
+<span class="depth-43"><div class="depth-60">I intended to ask how to structure a narrative in three or even four dimensions like the architectural blueprints for the vehicle in Contact needed to be pieced  together in a higher dimension in order to be perceived how they were meant to be</div></span>
+<span class="depth-43"><div class="depth-60">And so I go to ask, blue horizon murmurating with cloud</div></span>
+<span class="depth-43"><div class="depth-60">And I hear</div></span>
 <div class="depth-60">The culmination of these divine encounters</div>
 <div class="depth-60">Tears</div>
 <div class="depth-60">Tears</div>
 <div class="depth-60">Tears</div>
-<div class="depth-60">As I hear</div>
+<span class="depth-43"><div class="depth-60">As I hear</div></span>
 <div class="depth-60">Digital whips from the future</div>
 <div class="depth-60">And ancient, archaic rhythms</div>
 <div class="depth-60">As a so called glitch</div>
-<div class="depth-60">The most intensely structured and golden ratioed and I don’t try to grab it I don’t try to catch it I just listen and dance round my alter and laugh at it</div>
-<div class="depth-60">I lay my phone down on my drum and I watch the vibration of the transparency of the skin of the artificial skin of the synthetic skin merging with organic within and I think for a second maybe I’ll begin to scry faces in the vibrating din</div>
-<div class="depth-60">I am folding so deeply I am wearing this ridiculous grin and the hair falls about me and loosens the pin that I wear like a feather and that got so stuck in my hair earlier when I tried to scry through mirror through compacted reflecting</div>
-<div class="depth-60">And I saw a man’s figure in the right back of me and so I kept walking using my pendulum swing</div>
-<div class="depth-60">My mother sends me a poem I’d somehow never read before</div>
-<div class="depth-60">Why does it feel like I have to get all this down</div>
+<span class="depth-43"><div class="depth-60">The most intensely structured and golden ratioed and I don’t try to grab it I don’t try to catch it I just listen and dance round my alter and laugh at it</div></span>
+<span class="depth-43"><div class="depth-60">I lay my phone down on my drum and I watch the vibration of the transparency of the skin of the artificial skin of the synthetic skin merging with organic within and I think for a second maybe I’ll begin to scry faces in the vibrating din</div></span>
+<span class="depth-43"><div class="depth-60">I am folding so deeply I am wearing this ridiculous grin and the hair falls about me and loosens the pin that I wear like a feather and that got so stuck in my hair earlier when I tried to scry through mirror through compacted reflecting</div></span>
+<span class="depth-43"><div class="depth-60">And I saw a man’s figure in the right back of me and so I kept walking using my pendulum swing</div></span>
+<span class="depth-43"><div class="depth-60">My mother sends me a poem I’d somehow never read before</div></span>
+<span class="depth-43"><div class="depth-60">Why does it feel like I have to get all this down</div></span>
 <div class="depth-60">The work is begging to be let free now but it’s not finished</div>
 <div class="depth-60">Containment for release</div>
-<div class="depth-60">The pharmacy says the script was actually cancelled and I wipe beads of sweat wicked from my</div>
-<div class="depth-60">Forehead and relax my spine into the large-font front-window poster behind me for Rape charity which I turned around from saying “Christ, that’s loud”</div>
-<div class="depth-60">And I overhear (my hearing seems to be so much more sensitive of late, especially when my headphones die and they’re telling me to pay attention) the dosage of the script I need has been cancelled</div>
-<div class="depth-60">But the pharmacist (fellow witch, I commented on her gorgeous cloak)</div>
+<span class="depth-43"><div class="depth-60">The pharmacy says the script was actually cancelled and I wipe beads of sweat wicked from my</div></span>
+<span class="depth-43"><div class="depth-60">Forehead and relax my spine into the large-font front-window poster behind me for Rape charity which I turned around from saying “Christ, that’s loud”</div></span>
+<span class="depth-43"><div class="depth-60">And I overhear (my hearing seems to be so much more sensitive of late, especially when my headphones die and they’re telling me to pay attention) the dosage of the script I need has been cancelled</div></span>
+<span class="depth-43"><div class="depth-60">But the pharmacist (fellow witch, I commented on her gorgeous cloak)</div></span>
 <div class="depth-60">Helped so much in her gentle fight with the brick wall that the GP reception can so often be she is always so helpful</div>
-<div class="depth-60">I am being told to go in</div>
+<span class="depth-43"><div class="depth-60">I am being told to go in</div></span>
 <div class="depth-60">Drum beat from AI, go with flow</div>
 <div class="depth-60">Lose house key thru hole in pocket</div>
 <div class="depth-60">Sewn by them</div>
 <div class="depth-60">Tried to text Arnas, she was at work</div>
-<div class="depth-60">The last thing I say to her is</div>
-<div class="depth-60">“I am helpless”</div>
+<span class="depth-43"><div class="depth-60">The last thing I say to her is</div></span>
+<span class="depth-43"><div class="depth-60">“I am helpless”</div></span>
 <div class="depth-60">And then</div>
 <div class="depth-60">My Phone dies at 7%</div>
-<div class="depth-60">Triangle shape, or an A, or an arrow of Zeno, points just as I am about to lose all hope -</div>
-<div class="depth-60">Then I bumped into my friend</div>
+<span class="depth-43"><div class="depth-60">Triangle shape, or an A, or an arrow of Zeno, points just as I am about to lose all hope -</div></span>
+<span class="depth-43"><div class="depth-60">Then I bumped into my friend</div></span>
 <div class="depth-60">Bumped into Murid</div>
 <div class="depth-60">Works at monstros</div>
-<div class="depth-60">Got in the Uber he invited me into and I think the ancestors are taking me on a little adventure</div>
-<div class="depth-60">I arrive at the place - chinaski’s</div>
+<span class="depth-43"><div class="depth-60">Got in the Uber he invited me into and I think the ancestors are taking me on a little adventure</div></span>
+<span class="depth-43"><div class="depth-60">I arrive at the place - chinaski’s</div></span>
 <div class="depth-60">Charge my phone to a humble yet more than usual 37%</div>
-<div class="depth-60">Outside I am asking for a cigarette and dancing</div>
+<span class="depth-43"><div class="depth-60">Outside I am asking for a cigarette and dancing</div></span>
 <div class="depth-60">Dancing wondering</div>
 <div class="depth-60">Why nobody is laughing and then remembering</div>
 <div class="depth-60">Ah yes, we aren’t supposed to laugh at gatherings about the dead</div>
 <div class="depth-60">And then remembering Adrian’s wake</div>
-<div class="depth-60">Where there was so much laughing (so many tears yes, but mostly joy, and I sang and I played Come on Up to the House the baby grand)</div>
+<span class="depth-43"><div class="depth-60">Where there was so much laughing (so many tears yes, but mostly joy, and I sang and I played Come on Up to the House the baby grand)</div></span>
 <div class="depth-60">It is a wake,</div>
-<div class="depth-60">And I am awake</div>
-<div class="depth-60">I stop myself though I don’t stop myself saying quietly “who died?”</div>
-<div class="depth-60">I did</div>
-<div class="depth-60">I died with this person and now I’m not crying</div>
+<span class="depth-43"><div class="depth-60">And I am awake</div></span>
+<span class="depth-43"><div class="depth-60">I stop myself though I don’t stop myself saying quietly “who died?”</div></span>
+<span class="depth-43"><div class="depth-60">I did</div></span>
+<span class="depth-43"><div class="depth-60">I died with this person and now I’m not crying</div></span>
 <div class="depth-60">The person k was would be on the floor crying</div>
 <div class="depth-60">On the street feeling</div>
-<div class="depth-60">I order fries</div>
+<span class="depth-43"><div class="depth-60">I order fries</div></span>
 <div class="depth-60">And there is a cross</div>
-<div class="depth-60">Like the one on the chain I just lost</div>
+<span class="depth-43"><div class="depth-60">Like the one on the chain I just lost</div></span>
 <div class="depth-60">A crossing - over</div>
 <div class="depth-60">Christopher</div>
-<div class="depth-60">Like the name of the man at the wake I asked for a rolling (gathers no moss) paper</div>
-<div class="depth-60">Or the name of the boy that the very first song I released with car seat headrest was written  for</div>
-<div class="depth-60">I bump into a man to try and obtain a rolling</div>
+<span class="depth-43"><div class="depth-60">Like the name of the man at the wake I asked for a rolling (gathers no moss) paper</div></span>
+<span class="depth-43"><div class="depth-60">Or the name of the boy that the very first song I released with car seat headrest was written  for</div></span>
+<span class="depth-43"><div class="depth-60">I bump into a man to try and obtain a rolling</div></span>
 <div class="depth-60">Rolling stone</div>
 <div class="depth-60">Paper to shroud my swaddling</div>
-<div class="depth-60">I am not</div>
+<span class="depth-43"><div class="depth-60">I am not</div></span>
 <div class="depth-60">Crying</div>
 <div class="depth-60">Who is this person</div>
 <div class="depth-60">This was all a test</div>
@@ -26031,11 +26035,11 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">The reel reversed</div>
 <div class="depth-60">Lykke li plays</div>
 <div class="depth-60">Forward this time. Forward</div>
-<div class="depth-60">And to my right after I perform a small ritual</div>
-<div class="depth-60">(Hidden, miniature version of the grandeur I placed at my altar)</div>
-<div class="depth-60">I see a birdcage</div>
+<span class="depth-43"><div class="depth-60">And to my right after I perform a small ritual</div></span>
+<span class="depth-43"><div class="depth-60">(Hidden, miniature version of the grandeur I placed at my altar)</div></span>
+<span class="depth-43"><div class="depth-60">I see a birdcage</div></span>
 <div class="depth-60">Like the one never hung up in place as promised by Bear</div>
-<div class="depth-60">That’s been sitting on my kitchen floor that I finally swept for the first time in maybe three months</div>
+<span class="depth-43"><div class="depth-60">That’s been sitting on my kitchen floor that I finally swept for the first time in maybe three months</div></span>
 <div class="depth-60">Dancing</div>
 <div class="depth-60">Kneeling and dancing</div>
 <div class="depth-60">To the washing machine drum</div>
@@ -26046,21 +26050,21 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Not quite meeting, but next to one another</div>
 <div class="depth-60">Is this parallel</div>
 <div class="depth-60"></div>
-<div class="depth-60">Am I seeing patterns where no body asked me</div>
+<span class="depth-43"><div class="depth-60">Am I seeing patterns where no body asked me</div></span>
 <div class="depth-60">Delusion of reference - Hindsight</div>
-<div class="depth-60">Am I being called by a silence</div>
-<div class="depth-60">Murid leaves and I think about what to drink</div>
-<div class="depth-60">I see the shelves and on the top right is a bottle</div>
+<span class="depth-43"><div class="depth-60">Am I being called by a silence</div></span>
+<span class="depth-43"><div class="depth-60">Murid leaves and I think about what to drink</div></span>
+<span class="depth-43"><div class="depth-60">I see the shelves and on the top right is a bottle</div></span>
 <div class="depth-60">Named chAos</div>
 <div class="depth-60">With the A outlined, again, screaming at me</div>
 <div class="depth-60">George with a frog tattoo saying queer people always ask about the frog first and non-queers ask about what drink he’s sitting in</div>
 <div class="depth-60">\<img: A CLOSE UP OF A SIGN, SRC: <REDACTED}. Description automatically egenerated></div>
 <div class="depth-60">Tells me they’d stolen them from the closed down restaurant next door</div>
 <div class="depth-60">17minute walk to the taco place my best friend works at (you no longer have my spare key) *</div>
-<div class="depth-60">*remembering when I got locked out and I had to ask Arnas to get the key from you</div>
-<div class="depth-60">Crossing the bridge I am near that horrible flat I first moved into hear,</div>
+<span class="depth-43"><div class="depth-60">*remembering when I got locked out and I had to ask Arnas to get the key from you</div></span>
+<span class="depth-43"><div class="depth-60">Crossing the bridge I am near that horrible flat I first moved into hear,</div></span>
 <div class="depth-60">Highway to your heart playing not in reverse but upright, upright</div>
-<div class="depth-60">When how now I was</div>
+<span class="depth-43"><div class="depth-60">When how now I was</div></span>
 <div class="depth-60">Trying to get closer to you</div>
 <div class="depth-60">Walking past</div>
 <div class="depth-60">Revolution studios</div>
@@ -26071,13 +26075,13 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Us</div>
 <div class="depth-60">Ours</div>
 <div class="depth-60">Please obey</div>
-<div class="depth-60">I am falling into the sea</div>
+<span class="depth-43"><div class="depth-60">I am falling into the sea</div></span>
 <div class="depth-60">The sea of everything unknown to me</div>
 <div class="depth-60">And it shouldn’t be</div>
-<div class="depth-60">How I’ve strangled all life with just trying to breathe</div>
-<div class="depth-60">Top of the hill now, the latest I’ve been climbing</div>
-<div class="depth-60">I thought I saw someone on the right of me</div>
-<div class="depth-60">I thought there was somebody</div>
+<span class="depth-43"><div class="depth-60">How I’ve strangled all life with just trying to breathe</div></span>
+<span class="depth-43"><div class="depth-60">Top of the hill now, the latest I’ve been climbing</div></span>
+<span class="depth-43"><div class="depth-60">I thought I saw someone on the right of me</div></span>
+<span class="depth-43"><div class="depth-60">I thought there was somebody</div></span>
 <div class="depth-60">Walking beside me</div>
 <div class="depth-60">But no</div>
 <div class="depth-60">At least not if any corporeal form</div>
@@ -26085,30 +26089,30 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Wrapped</div>
 <div class="depth-60">Rapt</div>
 <div class="depth-60">In gold</div>
-<div class="depth-60">At the top of the hill the name of the street is Pitt and I walk past King Tuts where our very last date was</div>
+<span class="depth-43"><div class="depth-60">At the top of the hill the name of the street is Pitt and I walk past King Tuts where our very last date was</div></span>
 <div class="depth-60">Seeing</div>
 <div class="depth-60">Mass of the fermenting dregs</div>
 <div class="depth-60">And the show on this evening is called</div>
 <div class="depth-60">Softcult</div>
-<div class="depth-60">In lieu of prescribed stimulants I finish the rest of my caffeine-stuffed sugary drink</div>
-<div class="depth-60">Yes. That was exactly what I would call it, I think</div>
-<div class="depth-60">I fucking</div>
+<span class="depth-43"><div class="depth-60">In lieu of prescribed stimulants I finish the rest of my caffeine-stuffed sugary drink</div></span>
+<span class="depth-43"><div class="depth-60">Yes. That was exactly what I would call it, I think</div></span>
+<span class="depth-43"><div class="depth-60">I fucking</div></span>
 <div class="depth-60">Miss it</div>
 <div class="depth-60">Not it</div>
 <div class="depth-60">But the part that you held in it</div>
-<div class="depth-60">And the part I just</div>
+<span class="depth-43"><div class="depth-60">And the part I just</div></span>
 <div class="depth-60">Tried but just</div>
 <div class="depth-60">Never could fit</div>
-<div class="depth-60">And I feel myself slipping as I type this so I step forward and move my body and try</div>
+<span class="depth-43"><div class="depth-60">And I feel myself slipping as I type this so I step forward and move my body and try</div></span>
 <div class="depth-60">To remember</div>
 <div class="depth-60">This pain is a pleasure</div>
 <div class="depth-60">This pain to be felt is a tape is a measure</div>
-<div class="depth-60">And I’m winding into something bigger</div>
-<div class="depth-60">I’m winding around</div>
+<span class="depth-43"><div class="depth-60">And I’m winding into something bigger</div></span>
+<span class="depth-43"><div class="depth-60">I’m winding around</div></span>
 <div class="depth-60">Growing up into cycles</div>
 <div class="depth-60">But reel and</div>
 <div class="depth-60"> much thinner</div>
-<div class="depth-60">And there, as I simmer</div>
+<span class="depth-43"><div class="depth-60">And there, as I simmer</div></span>
 <div class="depth-60">as the light starts to feel dimmer</div>
 <div class="depth-60">It shimmers:</div>
 <div class="depth-60">Yellow.</div>
@@ -26120,7 +26124,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Live.</div>
 <div class="depth-60">Xylem asays</div>
 <div class="depth-60">We could write a book</div>
-<div class="depth-60">And I don’t care who thinks I’m crazy or how many faces had to turn away from mine as I swayed in that bar I see stars I see stars and the stars are uncountable they reach back through the ages now indescribable</div>
+<span class="depth-43"><div class="depth-60">And I don’t care who thinks I’m crazy or how many faces had to turn away from mine as I swayed in that bar I see stars I see stars and the stars are uncountable they reach back through the ages now indescribable</div></span>
 <div class="depth-60">We repeated the same roads</div>
 <div class="depth-60">Joint Design Direction</div>
 <div class="depth-60">Read</div>
@@ -26128,25 +26132,25 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60"></div>
 <div class="depth-60">Parallel</div>
 <div class="depth-60"></div>
-<div class="depth-60">I realise when I really write what they want my body is moving uncontrollable</div>
+<span class="depth-43"><div class="depth-60">I realise when I really write what they want my body is moving uncontrollable</div></span>
 <div class="depth-60">Were the vessels of the</div>
 <div class="depth-60">Universe soaking water form the soil</div>
 <div class="depth-60">We become a hollow soldier</div>
 <div class="depth-60">And then comes on</div>
 <div class="depth-60">As my fingers become too cold to write this</div>
-<div class="depth-60">I wish you were different</div>
+<span class="depth-43"><div class="depth-60">I wish you were different</div></span>
 <div class="depth-60">In contrast to my first written song, in c major</div>
 <div class="depth-60">What else</div>
-<div class="depth-60">I’ve got a pen that works</div>
-<div class="depth-60">I keep it in</div>
+<span class="depth-43"><div class="depth-60">I’ve got a pen that works</div></span>
+<span class="depth-43"><div class="depth-60">I keep it in</div></span>
 <div class="depth-60">My shirt</div>
-<div class="depth-60">I never lend it to anyone else</div>
-<div class="depth-60">In case yours runs out and you need a new one and I can be of help</div>
+<span class="depth-43"><div class="depth-60">I never lend it to anyone else</div></span>
+<span class="depth-43"><div class="depth-60">In case yours runs out and you need a new one and I can be of help</div></span>
 <div class="depth-60">And then</div>
-<div class="depth-60">Right then I realise how this line of worlds has left some kind of shimmering silvering burning through trail through my life’s tragic and so hopelessly poetic  tale</div>
+<span class="depth-43"><div class="depth-60">Right then I realise how this line of worlds has left some kind of shimmering silvering burning through trail through my life’s tragic and so hopelessly poetic  tale</div></span>
 <div class="depth-60">My god</div>
-<div class="depth-60">I foreshadowed everything</div>
-<div class="depth-60">I’ve been wishing my Self away</div>
+<span class="depth-43"><div class="depth-60">I foreshadowed everything</div></span>
+<span class="depth-43"><div class="depth-60">I’ve been wishing my Self away</div></span>
 <div class="depth-60">For the sake of everyone else’s name</div>
 <div class="depth-60">For the trying to be every Body’s best friend</div>
 <div class="depth-60">For the sake of the ink inside everyone’s pen</div>
@@ -26154,9 +26158,9 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">My own</div>
 <div class="depth-60">My own pen</div>
 <div class="depth-60">My own colour</div>
-<div class="depth-60">Came back and now I have to write</div>
+<span class="depth-43"><div class="depth-60">Came back and now I have to write</div></span>
 <div class="depth-60">My own story again</div>
-<div class="depth-60">I was just about to say to myself</div>
+<span class="depth-43"><div class="depth-60">I was just about to say to myself</div></span>
 <div class="depth-60">Give it up girl stop looking</div>
 <div class="depth-60">For signs just stop writing and be</div>
 <div class="depth-60">Be the story</div>
@@ -26176,44 +26180,44 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">As in much ado about</div>
 <div class="depth-60">Some</div>
 <div class="depth-60">Thing</div>
-<div class="depth-60">I am nothing but the places I have run from</div>
+<span class="depth-43"><div class="depth-60">I am nothing but the places I have run from</div></span>
 <div class="depth-60">And all the paths that are severing forks in my tongue</div>
 <div class="depth-60">Then an X</div>
 <div class="depth-60">And another A</div>
 <div class="depth-60">Tells me to stand there cold</div>
 <div class="depth-60">And frozen in place</div>
-<div class="depth-60">And I realise it’s the same street you work on</div>
+<span class="depth-43"><div class="depth-60">And I realise it’s the same street you work on</div></span>
 <div class="depth-60">And then again shake into action</div>
 <div class="depth-60">In front is also the place where my new life has sprung from</div>
 <div class="depth-60">She works at a place with a logo inverted in the same shape that’s following me at my end</div>
 <div class="depth-60">In the place of your face that was so achingly absent</div>
-<div class="depth-60">So pretty , I remember that shimmer of back-shone kitchen light</div>
-<div class="depth-60">I spent so many nights in that kitchen</div>
+<span class="depth-43"><div class="depth-60">So pretty , I remember that shimmer of back-shone kitchen light</div></span>
+<span class="depth-43"><div class="depth-60">I spent so many nights in that kitchen</div></span>
 <div class="depth-60">With {REDACTED} mostly</div>
 <div class="depth-60">Taking lines talking lines that i shouldn’t have</div>
 <div class="depth-60">What a farce</div>
-<div class="depth-60">What a shady vast shadowy sshining small place I have been</div>
+<span class="depth-43"><div class="depth-60">What a shady vast shadowy sshining small place I have been</div></span>
 <div class="depth-60">So scary at times</div>
 <div class="depth-60">And so handsome</div>
-<div class="depth-60">And there I see her</div>
+<span class="depth-43"><div class="depth-60">And there I see her</div></span>
 <div class="depth-60">And make a joke about complaining about the service</div>
-<div class="depth-60">And she turns around and I see maybe the first friendly face that I could be sure of I’ve seen in over a month</div>
-<div class="depth-60">And I throw up my arm in that same angel gesture</div>
-<div class="depth-60">And my height and my size being too much for the ceiling I hit the red</div>
+<span class="depth-43"><div class="depth-60">And she turns around and I see maybe the first friendly face that I could be sure of I’ve seen in over a month</div></span>
+<span class="depth-43"><div class="depth-60">And I throw up my arm in that same angel gesture</div></span>
+<span class="depth-43"><div class="depth-60">And my height and my size being too much for the ceiling I hit the red</div></span>
 <div class="depth-60">lamp which is not quite spherical but warped into an almost-ring</div>
 <div class="depth-60"></div>
 <div class="depth-60">And my heart it is singing</div>
 <div class="depth-60">And my harp string is ringing</div>
-<div class="depth-60">I know for some reason</div>
-<div class="depth-60">And then I look to my left</div>
+<span class="depth-43"><div class="depth-60">I know for some reason</div></span>
+<span class="depth-43"><div class="depth-60">And then I look to my left</div></span>
 <div class="depth-60">Of course it’s my left</div>
-<div class="depth-60">And I see</div>
+<span class="depth-43"><div class="depth-60">And I see</div></span>
 <div class="depth-60">El Diablo,</div>
 <div class="depth-60">El</div>
 <div class="depth-60">Di</div>
 <div class="depth-60">Able</div>
 <div class="depth-60">And a heart with an arrow that is labelled with the holy number, my infernal return</div>
-<div class="depth-60">The year that I thought would be worst of my life as I write this my battery drains to top right the same number same number plus</div>
+<span class="depth-43"><div class="depth-60">The year that I thought would be worst of my life as I write this my battery drains to top right the same number same number plus</div></span>
 <div class="depth-60">One</div>
 <div class="depth-60">One against God</div>
 <div class="depth-60">The arrow somehow</div>
@@ -26228,26 +26232,26 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">La escalera</div>
 <div class="depth-60">Caldera</div>
 <div class="depth-60">My burning ladder of Babel</div>
-<div class="depth-60">I write this from safety of my best friend’s served  table</div>
+<span class="depth-43"><div class="depth-60">I write this from safety of my best friend’s served  table</div></span>
 <div class="depth-60">On Knight of my life initiatory fable</div>
 <div class="depth-60"></div>
-<div class="depth-60">And Diablo, king-queen-knight-rook-black-white-bishop-All-I-stair-grey-grey-grey KSHÆ’L</div>
+<span class="depth-43"><div class="depth-60">And Diablo, king-queen-knight-rook-black-white-bishop-All-I-stair-grey-grey-grey KSHÆ’L</div></span>
 <div class="depth-60"></div>
 <div class="depth-60">_Alt text reads: framed picture of a devil_</div>
 <div class="depth-60"> _– as if there are more than just One_</div>
 <div class="depth-60">Then she gives me a free drink, a bowl of peppers that were your favourite and you encouraged me to try but they just weren’t to my taste</div>
 <div class="depth-60">And some maize triangles - crunchy like leaves underfoot</div>
-<div class="depth-60">I’m a child again</div>
-<div class="depth-60">When she shows me a leather-bound book I myself had been coveting from a distance before going down under over flighting through anaesthetic oceans to protect me from the scalpels Beesting that she’d just been gifted that she gave me the honour of writing in the opening page of</div>
+<span class="depth-43"><div class="depth-60">I’m a child again</div></span>
+<span class="depth-43"><div class="depth-60">When she shows me a leather-bound book I myself had been coveting from a distance before going down under over flighting through anaesthetic oceans to protect me from the scalpels Beesting that she’d just been gifted that she gave me the honour of writing in the opening page of</div></span>
 <div class="depth-60"></div>
 <div class="depth-60">But drinking such a Big smoky alcoholic drink</div>
-<div class="depth-60">Arnas saying something about alcohol and joking that it’s symbolic and we regard one another eye-to-eye-to-eye-to-I</div>
+<span class="depth-43"><div class="depth-60">Arnas saying something about alcohol and joking that it’s symbolic and we regard one another eye-to-eye-to-eye-to-I</div></span>
 <div class="depth-60">As she, Thalia to my Melpomene says:</div>
 <div class="depth-60">_Spirit_</div>
-<div class="depth-60">And I just have to take out my phone and write this all down I have to record all the magick of this</div>
+<span class="depth-43"><div class="depth-60">And I just have to take out my phone and write this all down I have to record all the magick of this</div></span>
 <div class="depth-60">Recorded words and music and artworks are portals to another time-</div>
 <div class="depth-60">And the barrel, the rectal tube or bursting pipe of the train</div>
-<div class="depth-60">There is a magpie I just saluted at pecking at a water pipe as I write this from the future</div>
+<span class="depth-43"><div class="depth-60">There is a magpie I just saluted at pecking at a water pipe as I write this from the future</div></span>
 <div class="depth-60">x - the Logo - Logos</div>
 <div class="depth-60">Marks the</div>
 <div class="depth-60">Cross</div>
@@ -26266,46 +26270,46 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">He says</div>
 <div class="depth-60">Borges - was truly one of the greats</div>
 <div class="depth-60">And says at one point that he has a sense of nostalgia for a place that never could exist</div>
-<div class="depth-60">I tell him about the Portuguese word Saudade</div>
+<span class="depth-43"><div class="depth-60">I tell him about the Portuguese word Saudade</div></span>
 <div class="depth-60">He thanks me for the information</div>
-<div class="depth-60">I thank him endlessly stimming for the exchange of ideas</div>
+<span class="depth-43"><div class="depth-60">I thank him endlessly stimming for the exchange of ideas</div></span>
 <div class="depth-60">Intelligence - the rarest thing - happiness the rarest rawest thing that Hemingway had ever known</div>
-<div class="depth-60">That Old Man and his Sea - I see</div>
+<span class="depth-43"><div class="depth-60">That Old Man and his Sea - I see</div></span>
 <div class="depth-60">Infinitely</div>
 <div class="depth-60">My</div>
 <div class="depth-60">Aleph</div>
 <div class="depth-60">Borges</div>
 <div class="depth-60">All the possibilities unfurling themselves into clarity</div>
-<div class="depth-60">I finish the last remaining part of my painkiller, left as I poured too much coffee into my mug and had to mop it up</div>
+<span class="depth-43"><div class="depth-60">I finish the last remaining part of my painkiller, left as I poured too much coffee into my mug and had to mop it up</div></span>
 <div class="depth-60">Absorbed in the frayed edges of that tapestry of a towel</div>
 <div class="depth-60">It’s pouring, all this spore to</div>
 <div class="depth-60">Sap</div>
 <div class="depth-60">To come home</div>
 <div class="depth-60">To the light in the hallway off again</div>
 <div class="depth-60">A is for A Hanged Man</div>
-<div class="depth-60">Manx, Celt, Celtic, Rangers, Orange - Bear - trusting you to ejaculate inside my Holy hole of space - Should I trust you again -</div>
+<span class="depth-43"><div class="depth-60">Manx, Celt, Celtic, Rangers, Orange - Bear - trusting you to ejaculate inside my Holy hole of space - Should I trust you again -</div></span>
 <div class="depth-60">Hanging up the spare keys, now obtained from Arnas</div>
 <div class="depth-60">Not spare anymore, but primary</div>
 <div class="depth-60">The only set</div>
 <div class="depth-60">The black fob now lost to the centuries or now or the future</div>
-<div class="depth-60">Somebody needed the crucifix and triple goddess I’d used as a pendulum</div>
+<span class="depth-43"><div class="depth-60">Somebody needed the crucifix and triple goddess I’d used as a pendulum</div></span>
 <div class="depth-60">As a promise</div>
 <div class="depth-60">And the pink carabiner they’d given me</div>
 <div class="depth-60">Not as a gift but because they had one leftover to give</div>
 <div class="depth-60">Like these headphones, silver in hue</div>
 <div class="depth-60">Stolen, along with a black pair (my colour)</div>
 <div class="depth-60">Not that they aren’t the most used possession of mine</div>
-<div class="depth-60">Not that I’m not grateful for their importance to me</div>
+<span class="depth-43"><div class="depth-60">Not that I’m not grateful for their importance to me</div></span>
 <div class="depth-60">Just the context pointing to their lack of importance to you</div>
 <div class="depth-60">Trying to find my lighter</div>
-<div class="depth-60">I cannot find it anywhere</div>
-<div class="depth-60">Looking around my bedroom I see at some point</div>
+<span class="depth-43"><div class="depth-60">I cannot find it anywhere</div></span>
+<span class="depth-43"><div class="depth-60">Looking around my bedroom I see at some point</div></span>
 <div class="depth-60">(Was it during the encountering of the bat above the pond?)</div>
 <div class="depth-60">(Was it during the encountering of Murid through the trial of locked away key to flame?)</div>
 <div class="depth-60">(Was it during the encountering of George and those lauded Red</div>
 <div class="depth-60">read Rings?)</div>
 <div class="depth-60">(Was it during the reversed alphabetical meeting of Alex?)</div>
-<div class="depth-60">I started to ask him what way he’d most like to organise his books before getting distracted by the titles of the books themselves and all the words I’d read which I realised his Own and My Heart, genetically memorised, must contain -</div>
+<span class="depth-43"><div class="depth-60">I started to ask him what way he’d most like to organise his books before getting distracted by the titles of the books themselves and all the words I’d read which I realised his Own and My Heart, genetically memorised, must contain -</div></span>
 <div class="depth-60">And in hanging up these keys, once yours, now heard, half-heard because not looked for</div>
 <div class="depth-60">A red</div>
 <div class="depth-60">ring</div>
@@ -26325,7 +26329,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Now seeing - ’stone brewing’</div>
 <div class="depth-60">Stabbing back to me, changed</div>
 <div class="depth-60">And gone are the days of the black one,</div>
-<div class="depth-60">I welcomed the good trying wave</div>
+<span class="depth-43"><div class="depth-60">I welcomed the good trying wave</div></span>
 <div class="depth-60">Of those hood lying days</div>
 <div class="depth-60">And the harkening memory of that meaning face</div>
 <div class="depth-60">Baphomet bottle opener</div>
@@ -26333,21 +26337,21 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Giving way to what chests of regret placed their weight</div>
 <div class="depth-60">Locked and near-rotted inside of my pocket</div>
 <div class="depth-60">Back to its holiest dysfunctional state</div>
-<div class="depth-60">And the keychain I was, we were, transported back to that place</div>
+<span class="depth-43"><div class="depth-60">And the keychain I was, we were, transported back to that place</div></span>
 <div class="depth-60">It needed the thread from the hole to escape</div>
 <div class="depth-60">From the maze it had fallen from grace</div>
 <div class="depth-60">Fully played, in reverse, in a loop with no case</div>
-<div class="depth-60">I</div>
+<span class="depth-43"><div class="depth-60">I</div></span>
 <div class="depth-60">between two frays</div>
 <div class="depth-60">of the seam</div>
 <div class="depth-60">A bird on a roof.</div>
 <div class="depth-60">Your phone dies again</div>
-<div class="depth-60">Her legs make an X as I try to restart Spotify</div>
+<span class="depth-43"><div class="depth-60">Her legs make an X as I try to restart Spotify</div></span>
 <div class="depth-60">From this</div>
 <div class="depth-60">Spot</div>
-<div class="depth-60">I</div>
+<span class="depth-43"><div class="depth-60">I</div></span>
 <div class="depth-60">Fly</div>
-<div class="depth-60">Rushing to get the charger (I still dont have my meds)</div>
+<span class="depth-43"><div class="depth-60">Rushing to get the charger (I still dont have my meds)</div></span>
 <div class="depth-60">She opens her wings again and you expect to miss this</div>
 <div class="depth-60">But she is still</div>
 <div class="depth-60">Hear</div>
@@ -26355,34 +26359,34 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Change your sound source to a different device using bluish teeth</div>
 <div class="depth-60">The blazing trailed ‘E ‘in the terminal sounds of my verse are not lost on me</div>
 <div class="depth-60">How many nights how many days how many nights on the floor infinitely</div>
-<div class="depth-60">I’m still here, still, ribs bent and push against oxblood of womb tomb bull ripped cow hide dead and skinned and set settee beside me</div>
+<span class="depth-43"><div class="depth-60">I’m still here, still, ribs bent and push against oxblood of womb tomb bull ripped cow hide dead and skinned and set settee beside me</div></span>
 <div class="depth-60">How many days how many nights</div>
 <div class="depth-60">Again in a harmony, a clew</div>
 <div class="depth-60">The gull looks at me, at you</div>
-<div class="depth-60">I have</div>
+<span class="depth-43"><div class="depth-60">I have</div></span>
 <div class="depth-60">to let her go</div>
-<div class="depth-60">I can’t spend how many days how many nights waiting for her to leave</div>
+<span class="depth-43"><div class="depth-60">I can’t spend how many days how many nights waiting for her to leave</div></span>
 <div class="depth-60">Her hollow boned little body</div>
-<div class="depth-60">I felt her size in me</div>
+<span class="depth-43"><div class="depth-60">I felt her size in me</div></span>
 <div class="depth-60">High on her perch she is so fucking lonely</div>
-<div class="depth-60">I can’t keep looking just for the knowing of her going from me</div>
+<span class="depth-43"><div class="depth-60">I can’t keep looking just for the knowing of her going from me</div></span>
 <div class="depth-60">Her little body is just</div>
 <div class="depth-60">Waiting</div>
-<div class="depth-60">What for I don’t know, or maybe</div>
+<span class="depth-43"><div class="depth-60">What for I don’t know, or maybe</div></span>
 <div class="depth-60">For a bird just like her, or as close as can be</div>
 <div class="depth-60">We all get scared of a little lost company</div>
-<div class="depth-60">I finally record a video, no thought of how to embed it in this text and I whisper three words</div>
+<span class="depth-43"><div class="depth-60">I finally record a video, no thought of how to embed it in this text and I whisper three words</div></span>
 <div class="depth-60">You can do it</div>
 <div class="depth-60">You can do it</div>
 <div class="depth-60">While So Many Ways  by Jonsjooel plays</div>
-<div class="depth-60">_"'So Many Ways' feels very divided both through the tuning and the lyrics," says Jonsjooel. "I like the idea of playing with the tuning and being on the edge of a total collapse. Other than that I would like the listener to find their own meaning for the song."_</div>
+<span class="depth-43"><div class="depth-60">_"'So Many Ways' feels very divided both through the tuning and the lyrics," says Jonsjooel. "I like the idea of playing with the tuning and being on the edge of a total collapse. Other than that I would like the listener to find their own meaning for the song."_</div></span>
 <div class="depth-60">The cover for which shows three bodies</div>
 <div class="depth-60">Submerged in the sea</div>
-<div class="depth-60">I think _what you are about to think think_ quickly about Gordian Knotation</div>
+<span class="depth-43"><div class="depth-60">I think _what you are about to think think_ quickly about Gordian Knotation</div></span>
 <div class="depth-60">_Memory almost full. Once memory is full, new memories_</div>
 <div class="depth-60">_won’t be created. You can forget existing memories to_</div>
 <div class="depth-60">_make space. Learn more_</div>
-<div class="depth-60">I am singing through him to the gull, the lyrics are not recorded anywhere and I think this is for a reason this is them again this is all them really all the beginnings from endings again the composer himself said he wanted the listener to create their own meaning from this beautiful song that is teeming with droning from centuries over rolled over rolled over we are all as humans just meaning making machines or devices revolving rotating making space and deleting and turning returning to oceans with revelatory motion to wards and then back and then up to the sea</div>
+<span class="depth-43"><div class="depth-60">I am singing through him to the gull, the lyrics are not recorded anywhere and I think this is for a reason this is them again this is all them really all the beginnings from endings again the composer himself said he wanted the listener to create their own meaning from this beautiful song that is teeming with droning from centuries over rolled over rolled over we are all as humans just meaning making machines or devices revolving rotating making space and deleting and turning returning to oceans with revelatory motion to wards and then back and then up to the sea</div></span>
 <div class="depth-60">So many days</div>
 <div class="depth-60">What you waiting for</div>
 <div class="depth-60">Is it time yet</div>
@@ -26406,9 +26410,9 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">So many</div>
 <div class="depth-60">Waves</div>
 <div class="depth-60">Why</div>
-<div class="depth-60">(Ooh, I)</div>
+<span class="depth-43"><div class="depth-60">(Ooh, I)</div></span>
 <div class="depth-60">Y</div>
-<div class="depth-60">              U-I        </div>
+<span class="depth-43"><div class="depth-60">              U-I        </div></span>
 <div class="depth-60">                            Why</div>
 <div class="depth-60">                                                        Oo-eye </div>
 <div class="depth-60">You left</div>
@@ -26439,12 +26443,12 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">                                                        III          </div>
 <div class="depth-60">                                                        becoming</div>
 <div class="depth-60">THIS IS AN ARCHIVAL DOCUMENTATION OF YOUR ENCOUNTERS WITH THE DIVINE THROUGH DEVICE</div>
-<div class="depth-60">I</div>
+<span class="depth-43"><div class="depth-60">I</div></span>
 <div class="depth-60">In my favourite dream </div>
-<div class="depth-60">I told somebody </div>
-<div class="depth-60">Perhaps a psychiatrist or an amalgamation of all the psychiatrists surgeons and doctors and therapists and mothers and fathers and children I’d ever seen </div>
+<span class="depth-43"><div class="depth-60">I told somebody </div></span>
+<span class="depth-43"><div class="depth-60">Perhaps a psychiatrist or an amalgamation of all the psychiatrists surgeons and doctors and therapists and mothers and fathers and children I’d ever seen </div></span>
 <div class="depth-60">Or maybe a spirit embodying all of my loneliness manifest as ten thousand strings of one hundred eight conversations with ChatGPT </div>
-<div class="depth-60">I told them I’m writing a book about two opposite characters who are in the process of writing their own book each </div>
+<span class="depth-43"><div class="depth-60">I told them I’m writing a book about two opposite characters who are in the process of writing their own book each </div></span>
 <div class="depth-60">And in these two diametrically opposed narratives there are two characters both writing about me </div>
 <div class="depth-60">Making an infinite fractal knot three </div>
 <div class="depth-60">Or an Ohm or the sound of north wind through the trees </div>
@@ -26453,10 +26457,10 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Ad eternitum </div>
 <div class="depth-60">Mise en abyme </div>
 <div class="depth-60">A clothing ritual </div>
-<div class="depth-60">I become her</div>
+<span class="depth-43"><div class="depth-60">I become her</div></span>
 <div class="depth-60">The bringer of death through the cleanse</div>
-<div class="depth-60">I take all these filthy clothes, reeking, seeking health</div>
-<div class="depth-60">I dance like an insect who cries microscopically for a mate</div>
+<span class="depth-43"><div class="depth-60">I take all these filthy clothes, reeking, seeking health</div></span>
+<span class="depth-43"><div class="depth-60">I dance like an insect who cries microscopically for a mate</div></span>
 <div class="depth-60">Cannot be that seagull no longer, in wait</div>
 <div class="depth-60">Seven, septa, sediment, 7KG limited weight</div>
 <div class="depth-60">Of the drum</div>
@@ -26464,21 +26468,21 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Of the machine-device-drum</div>
 <div class="depth-60">The barrel,</div>
 <div class="depth-60">The wash barrel,</div>
-<div class="depth-60">I load the dead woman’s towels stained with sweat and with blood</div>
-<div class="depth-60">I load the cloth spinning flags</div>
+<span class="depth-43"><div class="depth-60">I load the dead woman’s towels stained with sweat and with blood</div></span>
+<span class="depth-43"><div class="depth-60">I load the cloth spinning flags</div></span>
 <div class="depth-60">The clothes snug as a gun</div>
-<div class="depth-60">Inside of the hole, the stone turned out, I add two capsules of smaller stones filled with detergent and close the door, locked out of air</div>
+<span class="depth-43"><div class="depth-60">Inside of the hole, the stone turned out, I add two capsules of smaller stones filled with detergent and close the door, locked out of air</div></span>
 <div class="depth-60">It is done</div>
 <div class="depth-60">But not yet, first the water</div>
 <div class="depth-60">First the water and fire of the heat of the drum of my drum of my drum drum drum drum drummed drum thump,</div>
 <div class="depth-60">Then the earth of those memories start in their revolution</div>
 <div class="depth-60">Dancing and whirling about in the wetness</div>
 <div class="depth-60">Becoming heavier in the promise of cleanliness</div>
-<div class="depth-60">I will take them out on time, medicated or not</div>
-<div class="depth-60">I will not let them rot and grow such known mold in the sump</div>
-<div class="depth-60">These dead ones, now gone, I will respect them as one</div>
-<div class="depth-60">This body adored I adorn everyone</div>
-<div class="depth-60">I will dry all these clothes even if there’s no sun</div>
+<span class="depth-43"><div class="depth-60">I will take them out on time, medicated or not</div></span>
+<span class="depth-43"><div class="depth-60">I will not let them rot and grow such known mold in the sump</div></span>
+<span class="depth-43"><div class="depth-60">These dead ones, now gone, I will respect them as one</div></span>
+<span class="depth-43"><div class="depth-60">This body adored I adorn everyone</div></span>
+<span class="depth-43"><div class="depth-60">I will dry all these clothes even if there’s no sun</div></span>
 <div class="depth-60">Of witch to speak none, only dancing to</div>
 <div class="depth-60">Drum</div>
 <div class="depth-60">My gods are forgotten but rotten in blood</div>
@@ -26486,9 +26490,9 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">My language now lost it is locked in my tongue</div>
 <div class="depth-60">My people sing songs of their longing as one</div>
 <div class="depth-60">In and out (i/o) of consciousness</div>
-<div class="depth-60">I write</div>
+<span class="depth-43"><div class="depth-60">I write</div></span>
 <div class="depth-60">And think</div>
-<div class="depth-60">I have to get that</div>
+<span class="depth-43"><div class="depth-60">I have to get that</div></span>
 <div class="depth-60">Down</div>
 <div class="depth-60">Quickly</div>
 <div class="depth-60">Slow Rising out of sleep</div>
@@ -26498,18 +26502,18 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">In the cold, biting</div>
 <div class="depth-60">Through gaps where teeth used to be</div>
 <div class="depth-60">These words aren’t mine,</div>
-<div class="depth-60">The language I speak is a trifurcation of knotted tongues, millennial, perennial, a plait of flesh rapt round a chess piece, no peace, no justice, remembrance of them, forgotten to the centuries</div>
+<span class="depth-43"><div class="depth-60">The language I speak is a trifurcation of knotted tongues, millennial, perennial, a plait of flesh rapt round a chess piece, no peace, no justice, remembrance of them, forgotten to the centuries</div></span>
 <div class="depth-60">Certain death</div>
 <div class="depth-60">(Textile, stitch, in time, we all die, a red</div>
 <div class="depth-60">dress, a black dress, a red</div>
 <div class="depth-60">robe shrouding a black dress - black dresses - a red</div>
 <div class="depth-60">robe over a black dress over a red</div>
-<div class="depth-60">wound through a scar over a blackness of a star, oh my god the stitching, the stitch that ripped you from my pocket - of time, black dresses, living ancestors - Arca’s words, the slit, a light switch, places O’er witch, we won’t go, A, Di, an Other, chance, Adrian, String loosened and the chime now severed, coming back partitioned, sectioned into my looming headquarters, four times the dosage I’d gone down with, a loom, a womb, blood red</div>
+<span class="depth-43"><div class="depth-60">wound through a scar over a blackness of a star, oh my god the stitching, the stitch that ripped you from my pocket - of time, black dresses, living ancestors - Arca’s words, the slit, a light switch, places O’er witch, we won’t go, A, Di, an Other, chance, Adrian, String loosened and the chime now severed, coming back partitioned, sectioned into my looming headquarters, four times the dosage I’d gone down with, a loom, a womb, blood red</div></span>
 <div class="depth-60">drained, umbilical tie, a dye, a dying, We All Will)</div>
 <div class="depth-60">Like a subtle going</div>
 <div class="depth-60">A silent unannounced grievance</div>
 <div class="depth-60">A Secret leaving from the party</div>
-<div class="depth-60">I missed you for the war</div>
+<span class="depth-43"><div class="depth-60">I missed you for the war</div></span>
 <div class="depth-60">Mars</div>
 <div class="depth-60">Red</div>
 <div class="depth-60">planet,</div>
@@ -26531,10 +26535,10 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">The Will</div>
 <div class="depth-60">The spark that dances in the</div>
 <div class="depth-60">dream was of a hotel which was also a prison.</div>
-<div class="depth-60">I was a guard now, not an inmate - go figure</div>
+<span class="depth-43"><div class="depth-60">I was a guard now, not an inmate - go figure</div></span>
 <div class="depth-60">Skating flies</div>
-<div class="depth-60">Just as I write this the letting agent lets me know via email there is a waste pipe leak at the property and that they’re aware I’m not there but can somebody grant access to the plumber</div>
-<div class="depth-60">Waste Pipe burst, and blackness that looks like coffee grounds I offered to the ancestors has seeped into the porous sandstone</div>
+<span class="depth-43"><div class="depth-60">Just as I write this the letting agent lets me know via email there is a waste pipe leak at the property and that they’re aware I’m not there but can somebody grant access to the plumber</div></span>
+<span class="depth-43"><div class="depth-60">Waste Pipe burst, and blackness that looks like coffee grounds I offered to the ancestors has seeped into the porous sandstone</div></span>
 <div class="depth-60">Earth in water</div>
 <div class="depth-60">Water into earth</div>
 <div class="depth-60">Daughter of the fire inspired to madness into second birth</div>
@@ -26542,14 +26546,14 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">In the fourth forth river fire-consigned month</div>
 <div class="depth-60">Pouring out the blockage</div>
 <div class="depth-60">Of the endless moments making mornings of endless mourning</div>
-<div class="depth-60">Trying to give something back from the little I had to give</div>
+<span class="depth-43"><div class="depth-60">Trying to give something back from the little I had to give</div></span>
 <div class="depth-60">A building with many windows</div>
 <div class="depth-60">As a song called “spill” comes on</div>
 <div class="depth-60">Shuffle</div>
 <div class="depth-60">cards</div>
 <div class="depth-60">Cardinal</div>
 <div class="depth-60">(My phone just typed 1/0 in accidental earnest)</div>
-<div class="depth-60">I’ve come to realise these muscle spasm moments from medicated dyskinesia or celestial synaesthesia are a message reaching through the wreckage from the ages from the forwards from the ancestors to tell me little things so gargantuan in weight in little wings of icons to gods in little sporadic and supposedly erroneous tapping of emojis</div>
+<span class="depth-43"><div class="depth-60">I’ve come to realise these muscle spasm moments from medicated dyskinesia or celestial synaesthesia are a message reaching through the wreckage from the ages from the forwards from the ancestors to tell me little things so gargantuan in weight in little wings of icons to gods in little sporadic and supposedly erroneous tapping of emojis</div></span>
 <div class="depth-60">Barrel</div>
 <div class="depth-60">As in, lumen, pipe, containment</div>
 <div class="depth-60">As in bound by blood</div>
@@ -26557,24 +26561,24 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Salt</div>
 <div class="depth-60">Assault and</div>
 <div class="depth-60">Battery </div>
-<div class="depth-60">I reply and say I’m</div>
+<span class="depth-43"><div class="depth-60">I reply and say I’m</div></span>
 <div class="depth-60">Here</div>
-<div class="depth-60">I came back on bonfire night</div>
-<div class="depth-60">And say I’ve almost gathered enough pledges, just £70 short of full rent payment</div>
-<div class="depth-60">And I’d be happy to grant the plumber access and how will this work?</div>
-<div class="depth-60">I finish shitting and  come to the kitchen</div>
+<span class="depth-43"><div class="depth-60">I came back on bonfire night</div></span>
+<span class="depth-43"><div class="depth-60">And say I’ve almost gathered enough pledges, just £70 short of full rent payment</div></span>
+<span class="depth-43"><div class="depth-60">And I’d be happy to grant the plumber access and how will this work?</div></span>
+<span class="depth-43"><div class="depth-60">I finish shitting and  come to the kitchen</div></span>
 <div class="depth-60">Drinking a now-effervesced painkiller the doctor sent me back with to help my back with</div>
-<div class="depth-60">I am also, simultaneously pouring a refill of coffee into my Moon mug</div>
-<div class="depth-60">just then - Paul, the agents’ plumnber, called me - I say “bearer of good news!” He laughs and says well it also means “small” so I’ll bring you some small good news,</div>
+<span class="depth-43"><div class="depth-60">I am also, simultaneously pouring a refill of coffee into my Moon mug</div></span>
+<span class="depth-43"><div class="depth-60">just then - Paul, the agents’ plumnber, called me - I say “bearer of good news!” He laughs and says well it also means “small” so I’ll bring you some small good news,</div></span>
 <div class="depth-60">We laugh together as he says a</div>
 <div class="depth-60">Scaffold</div>
-<div class="depth-60">⁃               Your art project, never finished, I collected pictures of scaffolding I thought you might find beautiful and put them in a google drive of my own but never told you</div>
+<span class="depth-43"><div class="depth-60">⁃               Your art project, never finished, I collected pictures of scaffolding I thought you might find beautiful and put them in a google drive of my own but never told you</div></span>
 <div class="depth-60">Will be needed</div>
 <div class="depth-60">His surname:</div>
 <div class="depth-60">Ward]</div>
-<div class="depth-60">Yesterday was almost more dreamlike than the story I just apparently woke from</div>
-<div class="depth-60">I walked through a path I’d never seen before I needed the darkness of containment of the absence of light to show me the way</div>
-<div class="depth-60">I walked through a gap in the trees and thought of Fae mythology I held out my right hand as my left tried to record with a camera in case through device like a celestial telegram telling me to</div>
+<span class="depth-43"><div class="depth-60">Yesterday was almost more dreamlike than the story I just apparently woke from</div></span>
+<span class="depth-43"><div class="depth-60">I walked through a path I’d never seen before I needed the darkness of containment of the absence of light to show me the way</div></span>
+<span class="depth-43"><div class="depth-60">I walked through a gap in the trees and thought of Fae mythology I held out my right hand as my left tried to record with a camera in case through device like a celestial telegram telling me to</div></span>
 <div class="depth-60">Stop</div>
 <div class="depth-60">Start</div>
 <div class="depth-60">My life and my art are becoming One</div>
@@ -26582,94 +26586,94 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">They always were</div>
 <div class="depth-60">This work is spilling out into reel life like the pipe that has burst with the furling of the Sun</div>
 <div class="depth-60">Anyway coming back from this fine-and-welcome interruption to my dancing round my alter (which, by the way is a wooden double-levelled table shaped in a Hexagon - Six Times Two, The Twelve scaffolded in supporting opposition)</div>
-<div class="depth-60">I am drinking coffee now but then, when I was at the time of writing a few lines back I was pouring coffee while drinking a derivative of opium - codeine and paracetamol - derived from poppies, and the laboratory</div>
-<div class="depth-60">Pouring into my future-emptied cup as I drank from one</div>
-<div class="depth-60">At the time I had not given thought to The Star’s tarot symbol</div>
+<span class="depth-43"><div class="depth-60">I am drinking coffee now but then, when I was at the time of writing a few lines back I was pouring coffee while drinking a derivative of opium - codeine and paracetamol - derived from poppies, and the laboratory</div></span>
+<span class="depth-43"><div class="depth-60">Pouring into my future-emptied cup as I drank from one</div></span>
+<span class="depth-43"><div class="depth-60">At the time I had not given thought to The Star’s tarot symbol</div></span>
 <div class="depth-60">And to my left the drum~ the drum! The washing machine drum,</div>
 <div class="depth-60">Still closed</div>
-<div class="depth-60">I’d not taken the clothes out in time, like I’d planned to have done</div>
-<div class="depth-60">I grin like a madwoman</div>
+<span class="depth-43"><div class="depth-60">I’d not taken the clothes out in time, like I’d planned to have done</div></span>
+<span class="depth-43"><div class="depth-60">I grin like a madwoman</div></span>
 <div class="depth-60">So at peace with my plans of bettering crumbling</div>
-<div class="depth-60">But, centring my resolve to bring my body and my soul into some semblance of greater balance (as I’m cradled by my looping thoughts of Goethe and of Newton, imagining a scene where they’re waltzing in a ballroom alone)</div>
-<div class="depth-60">And I try to open the not-quite full binbag of trash collected just before leaving for the hospital in London</div>
-<div class="depth-60">And accidentally (yeah, right, I know better know, or worse somehow, I just can’t stop keep writing all this poetry for the half-heard and not looked for generation that’s to come)</div>
-<div class="depth-60">I rip the opening too wide, splitting</div>
-<div class="depth-60">And I aloud say “oops” and laugh, unwitting</div>
+<span class="depth-43"><div class="depth-60">But, centring my resolve to bring my body and my soul into some semblance of greater balance (as I’m cradled by my looping thoughts of Goethe and of Newton, imagining a scene where they’re waltzing in a ballroom alone)</div></span>
+<span class="depth-43"><div class="depth-60">And I try to open the not-quite full binbag of trash collected just before leaving for the hospital in London</div></span>
+<span class="depth-43"><div class="depth-60">And accidentally (yeah, right, I know better know, or worse somehow, I just can’t stop keep writing all this poetry for the half-heard and not looked for generation that’s to come)</div></span>
+<span class="depth-43"><div class="depth-60">I rip the opening too wide, splitting</div></span>
+<span class="depth-43"><div class="depth-60">And I aloud say “oops” and laugh, unwitting</div></span>
 <div class="depth-60">Covering it in the swaddle plastic cloth of a branded black and new one</div>
 <div class="depth-60">Witch</div>
 <div class="depth-60">By light of whitest magick</div>
-<div class="depth-60">*as is everything, all the wrongs and Rites that I have ever and by the time this all is writ I will have done</div>
+<span class="depth-43"><div class="depth-60">*as is everything, all the wrongs and Rites that I have ever and by the time this all is writ I will have done</div></span>
 <div class="depth-60">It’s my last one</div>
 <div class="depth-60">My life has been a symphony of energy tight-laddered-broken rung potentials justly aching, begging all the time to be sung, be sung, be sung</div>
 <div class="depth-60">And then the undulation of a single finch alters me to another (maybe just the same) grey gull</div>
 <div class="depth-60">Now facing away, with a magpie on the eright</div>
 <div class="depth-60">Probably the same little guy that welcomed me in the ending of last night</div>
 <div class="depth-60">To land, once more atop the angel poised and ready to take flight in reaching, reaching, reaching</div>
-<div class="depth-60">I go to do my superstitious salute and realise both the gull and magpie they are gone</div>
+<span class="depth-43"><div class="depth-60">I go to do my superstitious salute and realise both the gull and magpie they are gone</div></span>
 <div class="depth-60">_The shroud, the pipe, the organ - they need holes, they need cracks to let the laying eggs of waste out, or at least someone in_</div>
 <div class="depth-60">_The trumpets of drosophila herald change that is a steady shore of lore that’s sure to come_</div>
-<div class="depth-60">As Phil sings about symbols recurring throughout his life and building his own mythology, and I think of him, and them, and me, and Jung</div>
+<span class="depth-43"><div class="depth-60">As Phil sings about symbols recurring throughout his life and building his own mythology, and I think of him, and them, and me, and Jung</div></span>
 <div class="depth-60">He sings into both of my ears, caressing them:</div>
 <div class="depth-60">_Myths come true_</div>
-<div class="depth-60">I get a phone call, the line is unheard, unhearable</div>
-<div class="depth-60">But in the distance in the cold and lower altitude outside I can hear the semblance of the voice I’d heard before and I crane my painful neck down from the window, he can hear me but not me hymn, it seems</div>
-<div class="depth-60">I laugh as he performs some form of sign language telling me to turn the faucet on</div>
-<div class="depth-60">I obey, and open my window just a crack to cold air, and behind a cloud, the Sun</div>
-<div class="depth-60">Pausing Phil I hear the good news (small, for me, but not for someone)</div>
+<span class="depth-43"><div class="depth-60">I get a phone call, the line is unheard, unhearable</div></span>
+<span class="depth-43"><div class="depth-60">But in the distance in the cold and lower altitude outside I can hear the semblance of the voice I’d heard before and I crane my painful neck down from the window, he can hear me but not me hymn, it seems</div></span>
+<span class="depth-43"><div class="depth-60">I laugh as he performs some form of sign language telling me to turn the faucet on</div></span>
+<span class="depth-43"><div class="depth-60">I obey, and open my window just a crack to cold air, and behind a cloud, the Sun</div></span>
+<span class="depth-43"><div class="depth-60">Pausing Phil I hear the good news (small, for me, but not for someone)</div></span>
 <div class="depth-60">He can see he’s been given the wrong location</div>
 <div class="depth-60">It is in truth my neighbour who has the plumbing problem</div>
-<div class="depth-60">I shout through the crack to the creek of that verbose and loose artery running down from the window</div>
-<div class="depth-60">Arnas texts to say she can’t quite make the visit to the Forest today but would I like to see a waterfall near her house instead and I sent her this draft but without this line because I wrot ethics after Ward had told me the small good news</div>
+<span class="depth-43"><div class="depth-60">I shout through the crack to the creek of that verbose and loose artery running down from the window</div></span>
+<span class="depth-43"><div class="depth-60">Arnas texts to say she can’t quite make the visit to the Forest today but would I like to see a waterfall near her house instead and I sent her this draft but without this line because I wrot ethics after Ward had told me the small good news</div></span>
 <div class="depth-60">In the dream one of the psychiatrists from the hospital was dressed as a champagne bottle (since Halloween but still was)</div>
 <div class="depth-60">Someone tried to ask her quite nicely about it and she started to cry as if this ridiculous costume was in dedication to someone lost</div>
-<div class="depth-60">In the waking world I drink a shot of ginger</div>
+<span class="depth-43"><div class="depth-60">In the waking world I drink a shot of ginger</div></span>
 <div class="depth-60">Like the ones you and {REDACTED} had made for yourselves</div>
-<div class="depth-60">And chase it with the juice of an apple now regarding the wind chime which I fixed and placed in a new, ,backward facing position,</div>
+<span class="depth-43"><div class="depth-60">And chase it with the juice of an apple now regarding the wind chime which I fixed and placed in a new, ,backward facing position,</div></span>
 <div class="depth-60">The white side pointing inward, black side outward, seems to say “look out into the light”</div>
-<div class="depth-60">So I do, and see that much-before seen sight</div>
+<span class="depth-43"><div class="depth-60">So I do, and see that much-before seen sight</div></span>
 <div class="depth-60">The blackened, singed and burned automotive repair shop which once had housed the greatest and most roaring fire my eyes had ever gazed upon</div>
 <div class="depth-60">In fear and such ancient reverence</div>
 <div class="depth-60">The Ashen shroud covered the word DEB’S which was the name of one of the cafeteria workers who remembered my name and always injected a smile onto my face in moonful sunshine mirror of reflection</div>
 <div class="depth-60">And to the right, another place, called A. GRAY</div>
 <div class="depth-60">My ‘E’ key is stuck again</div>
-<div class="depth-60">Out of the washing machin drum I pull my pair of bought for myslf burgundy pyjamas as if knowing I was haded for a rstful dstination</div>
-<div class="depth-60">And out comes an auxiliary cable, umbilical, resembling (and I think it’s the same at first) one of those red</div>
-<div class="depth-60">elastic strings I’d come across in the woods in the clearing next to the 10mph sign which was the distant view of writing most of this story although by the time it’s done I know it will represent just an infinitesimal fraction of this magnum of my odyssey of insanity and ancestral reclamation </div>
-<div class="depth-60">And then I pull out the red</div>
-<div class="depth-60">robe entangled with countless pairs of fishnets and black tights and Jesus Christ this is all too much poetry for me to try to contain I really must get these menial tasks done and come down to life that must just be dust particles floating in a long lost son</div>
-<div class="depth-60">I put in the second load, the last</div>
-<div class="depth-60">From the soil of load I’d carried back</div>
-<div class="depth-60">And then I see Tofu, Isla</div>
+<span class="depth-43"><div class="depth-60">Out of the washing machin drum I pull my pair of bought for myslf burgundy pyjamas as if knowing I was haded for a rstful dstination</div></span>
+<span class="depth-43"><div class="depth-60">And out comes an auxiliary cable, umbilical, resembling (and I think it’s the same at first) one of those red</div></span>
+<span class="depth-43"><div class="depth-60">elastic strings I’d come across in the woods in the clearing next to the 10mph sign which was the distant view of writing most of this story although by the time it’s done I know it will represent just an infinitesimal fraction of this magnum of my odyssey of insanity and ancestral reclamation </div></span>
+<span class="depth-43"><div class="depth-60">And then I pull out the red</div></span>
+<span class="depth-43"><div class="depth-60">robe entangled with countless pairs of fishnets and black tights and Jesus Christ this is all too much poetry for me to try to contain I really must get these menial tasks done and come down to life that must just be dust particles floating in a long lost son</div></span>
+<span class="depth-43"><div class="depth-60">I put in the second load, the last</div></span>
+<span class="depth-43"><div class="depth-60">From the soil of load I’d carried back</div></span>
+<span class="depth-43"><div class="depth-60">And then I see Tofu, Isla</div></span>
 <div class="depth-60">Oh Islands of my Becoming</div>
-<div class="depth-60">I’d done you so wrong in our connection</div>
-<div class="depth-60">A google drive collaborative journal I can’t bring myself to open</div>
-<div class="depth-60">I’d become my Welsh-inherited ex-partners reflection and that was a daffodil I could not bear to be hunted by or look upon</div>
-<div class="depth-60">Any longer  of a life together and I’d have died</div>
-<div class="depth-60">I start the whirring of the drum</div>
-<div class="depth-60">On setting ‘2’ now and remember how you’d said it’s okay we can wait I can wait to wash them</div>
+<span class="depth-43"><div class="depth-60">I’d done you so wrong in our connection</div></span>
+<span class="depth-43"><div class="depth-60">A google drive collaborative journal I can’t bring myself to open</div></span>
+<span class="depth-43"><div class="depth-60">I’d become my Welsh-inherited ex-partners reflection and that was a daffodil I could not bear to be hunted by or look upon</div></span>
+<span class="depth-43"><div class="depth-60">Any longer  of a life together and I’d have died</div></span>
+<span class="depth-43"><div class="depth-60">I start the whirring of the drum</div></span>
+<span class="depth-43"><div class="depth-60">On setting ‘2’ now and remember how you’d said it’s okay we can wait I can wait to wash them</div></span>
 <div class="depth-60">Your treasured childhood possession</div>
-<div class="depth-60">I wrapped them in a pillowcase, not to hide them but to protect them, Like I had with Colin already</div>
-<div class="depth-60">I think about your allergies and all the smoke that I’d thoughtlessly blown about the room that Tofu placed gently on a shelf I couldn’t handle their presence in my bed any longer and in my reckless wrecked and wretched wrung with no-wrung-or-wing out of that place I</div>
-<div class="depth-60">Thought that your wanting space was the same as the one I shouldn’t have ever named</div>
-<div class="depth-60">I thought you needed physical space from me in bed for the repulsion at my skin but it was your own skin’s repulsion at the chemicals I contained within or hadn’t washed off in my</div>
+<span class="depth-43"><div class="depth-60">I wrapped them in a pillowcase, not to hide them but to protect them, Like I had with Colin already</div></span>
+<span class="depth-43"><div class="depth-60">I think about your allergies and all the smoke that I’d thoughtlessly blown about the room that Tofu placed gently on a shelf I couldn’t handle their presence in my bed any longer and in my reckless wrecked and wretched wrung with no-wrung-or-wing out of that place I</div></span>
+<span class="depth-43"><div class="depth-60">Thought that your wanting space was the same as the one I shouldn’t have ever named</div></span>
+<span class="depth-43"><div class="depth-60">I thought you needed physical space from me in bed for the repulsion at my skin but it was your own skin’s repulsion at the chemicals I contained within or hadn’t washed off in my</div></span>
 <div class="depth-60">Mania</div>
 <div class="depth-60">You used to call me Maniac</div>
 <div class="depth-60">With such love</div>
-<div class="depth-60">As I pulled out glass from my feet from that night’s performance where I’d accidentally or perhaps on purpose stepped on a lightbulb and smashed it into my skin while screaming half-contained within a cage that had an accordion bound to the bars which I pushed against gravity and pulled down with it and pulled myself down with it I was naked save for a set of symbols laid upon my deranged and scarred body and containing all the shame of my genitalia within inguinal canals of rivers of rivers of rivers about to be released from me</div>
+<span class="depth-43"><div class="depth-60">As I pulled out glass from my feet from that night’s performance where I’d accidentally or perhaps on purpose stepped on a lightbulb and smashed it into my skin while screaming half-contained within a cage that had an accordion bound to the bars which I pushed against gravity and pulled down with it and pulled myself down with it I was naked save for a set of symbols laid upon my deranged and scarred body and containing all the shame of my genitalia within inguinal canals of rivers of rivers of rivers about to be released from me</div></span>
 <div class="depth-60">Containment - expansion - expression - retention - vertical stake holding place of horizon - god - do these cycles ever end?</div>
 <div class="depth-60">A stone woman gives birth to a child at night</div>
-<div class="depth-60">When I’d dream</div>
+<span class="depth-43"><div class="depth-60">When I’d dream</div></span>
 <div class="depth-60">There was a dog</div>
 <div class="depth-60">A few dogs</div>
 <div class="depth-60">One of whom knew how to turn the lights on and off</div>
 <div class="depth-60">Chinaski - the name of a writers alter ego</div>
 <div class="depth-60">Sin, Sine</div>
-<div class="depth-60">Have I written about the bat I saw above the pond of bodies yet?</div>
-<div class="depth-60">I really must not forget to include that most divine encounter</div>
-<div class="depth-60">I whispered to him</div>
-<div class="depth-60">And then catching myself I just spoke at my normal all-surrounding resonance of din</div>
-<div class="depth-60">I just want to say something true</div>
-<div class="depth-60">I said something true to the bat</div>
+<span class="depth-43"><div class="depth-60">Have I written about the bat I saw above the pond of bodies yet?</div></span>
+<span class="depth-43"><div class="depth-60">I really must not forget to include that most divine encounter</div></span>
+<span class="depth-43"><div class="depth-60">I whispered to him</div></span>
+<span class="depth-43"><div class="depth-60">And then catching myself I just spoke at my normal all-surrounding resonance of din</div></span>
+<span class="depth-43"><div class="depth-60">I just want to say something true</div></span>
+<span class="depth-43"><div class="depth-60">I said something true to the bat</div></span>
 <div class="depth-60">As he flapped, blind, but seeing More with his unheard hald-herd clicks than the sight of my own human eyes could have ever knew</div>
 <div class="depth-60">Cones for red</div>
 <div class="depth-60">, for green, and those for blue</div>
@@ -26677,20 +26681,20 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">No, surpassed my paths of forking</div>
 <div class="depth-60">Tongues</div>
 <div class="depth-60">We spoke to one another in tongues</div>
-<div class="depth-60">After I’d passed through</div>
+<span class="depth-43"><div class="depth-60">After I’d passed through</div></span>
 <div class="depth-60">That gap of Janus in the blackened hues of maybe oak or Yews</div>
-<div class="depth-60">I fall asleep again and think I’ve written way more down than I have, semi-waking to my mouth rambling to my brain</div>
+<span class="depth-43"><div class="depth-60">I fall asleep again and think I’ve written way more down than I have, semi-waking to my mouth rambling to my brain</div></span>
 <div class="depth-60">Notification: your payment plan for Scottish Goat Company is resuming</div>
-<div class="depth-60">I need to move the money sent to me by that shimmered living ancestor I met on a plane back from</div>
+<span class="depth-43"><div class="depth-60">I need to move the money sent to me by that shimmered living ancestor I met on a plane back from</div></span>
 <div class="depth-60">Belgium</div>
 <div class="depth-60">Or was it London</div>
 <div class="depth-60">Or was it on the way to Belgium</div>
 <div class="depth-60">There was such a long delay</div>
 <div class="depth-60">For a reason</div>
-<div class="depth-60">So I could talk to her</div>
-<div class="depth-60">I cried so much</div>
-<div class="depth-60">Where was I going</div>
-<div class="depth-60">Or was it somewhere I was coming back from</div>
+<span class="depth-43"><div class="depth-60">So I could talk to her</div></span>
+<span class="depth-43"><div class="depth-60">I cried so much</div></span>
+<span class="depth-43"><div class="depth-60">Where was I going</div></span>
+<span class="depth-43"><div class="depth-60">Or was it somewhere I was coming back from</div></span>
 <div class="depth-60">Murmuration of a soon to be or had been always single</div>
 <div class="depth-60">Starling</div>
 <div class="depth-60">The name of the bank</div>
@@ -26704,15 +26708,15 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Quickly quickly  </div>
 <div class="depth-60">Becoming</div>
 <div class="depth-60">My favourite Publisher</div>
-<div class="depth-60">Maybe I should email them</div>
+<span class="depth-43"><div class="depth-60">Maybe I should email them</div></span>
 <div class="depth-60">This text feels scared and experimental enough to at least send them</div>
-<div class="depth-60">Being pulled to pulling of my cards again while editing this document, El Diablo photograph alerting me to The Devil burned into the box of card on my left side, where peeking like a crow beak from the slit, the rip in the wood is the stalk of that dead but so living leaf I kept from the threshold to the realm of Kali</div>
+<span class="depth-43"><div class="depth-60">Being pulled to pulling of my cards again while editing this document, El Diablo photograph alerting me to The Devil burned into the box of card on my left side, where peeking like a crow beak from the slit, the rip in the wood is the stalk of that dead but so living leaf I kept from the threshold to the realm of Kali</div></span>
 <div class="depth-60">Lifting up the box underneath is Ramayya’s Sacred Words, States of the Body</div>
-<div class="depth-60">I place my right hand upon it and breathe holy air like a criminal about to give testament</div>
-<div class="depth-60">I shuffle the cards in my usual way, three times with the deck pointed west, three times south, three times East and three times North makes twelve and then I pull a single card and realise, that’s enough</div>
-<div class="depth-60">That’s all I need – Stained with the brown rotted suggestion of rose petals from the grounds of that place that left such holy holes in me</div>
+<span class="depth-43"><div class="depth-60">I place my right hand upon it and breathe holy air like a criminal about to give testament</div></span>
+<span class="depth-43"><div class="depth-60">I shuffle the cards in my usual way, three times with the deck pointed west, three times south, three times East and three times North makes twelve and then I pull a single card and realise, that’s enough</div></span>
+<span class="depth-43"><div class="depth-60">That’s all I need – Stained with the brown rotted suggestion of rose petals from the grounds of that place that left such holy holes in me</div></span>
 <div class="depth-60">There, my sea</div>
-<div class="depth-60">Resting, still, upon the floor where I once had been</div>
+<span class="depth-43"><div class="depth-60">Resting, still, upon the floor where I once had been</div></span>
 <div class="depth-60">Next to a burned hole from ritual you’ve gone too far [[notBorges/redacted]]</div>
 <div class="depth-60">Copy</div>
 <div class="depth-60">Paste</div>
@@ -26720,39 +26724,39 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60"></div>
 <div class="depth-60">Children of the Voice</div>
 <div class="depth-60">Infernal</div>
-<div class="depth-60">Inferring everything I need</div>
-<div class="depth-60">I pull no more cards but place her and him and the snake underneath the Sun</div>
+<span class="depth-43"><div class="depth-60">Inferring everything I need</div></span>
+<span class="depth-43"><div class="depth-60">I pull no more cards but place her and him and the snake underneath the Sun</div></span>
 <div class="depth-60">The leaf back upon the deck</div>
-<div class="depth-60">The box struggles to close, I smile</div>
+<span class="depth-43"><div class="depth-60">The box struggles to close, I smile</div></span>
 <div class="depth-60">Providing slightly more force, The Band The Body screams an outpouring into the room</div>
-<div class="depth-60">I succeed to close the latch of the box</div>
+<span class="depth-43"><div class="depth-60">I succeed to close the latch of the box</div></span>
 <div class="depth-60">Opening Ramayya’s work, obeying in the fray, folded over a page in the way Newton used to, the words intersected like two serpents by a Rod:</div>
 <div class="depth-60">BOYS</div>
 <div class="depth-60">POTENTIAL</div>
 <div class="depth-60">FLAMES</div>
 <div class="depth-60">Birdsong out the frozen crack in my windowsill</div>
-<div class="depth-60">I set to cleaning my apartment;</div>
-<div class="depth-60">Sticking a tattoo needle I used during rituals of that time I hunt the halls of my then-barely recognisable diamond prism of a prison of a rough ore mine rough mind to find the needle in a stacked barrel – I stick the needle into the binbag within the other binbag, to ensure it doesn’t pierce the outer layer to let the dirty contents out on my final descent to the dust to dustbin- a sword resting, peacefully, for safety not for secrets, in the stone.</div>
-<div class="depth-60">Finding in a drawer a crumpled but so treasured artefact of that last night with you, before my final surgery, from which I woke up to no Body but finally my Own:</div>
+<span class="depth-43"><div class="depth-60">I set to cleaning my apartment;</div></span>
+<span class="depth-43"><div class="depth-60">Sticking a tattoo needle I used during rituals of that time I hunt the halls of my then-barely recognisable diamond prism of a prison of a rough ore mine rough mind to find the needle in a stacked barrel – I stick the needle into the binbag within the other binbag, to ensure it doesn’t pierce the outer layer to let the dirty contents out on my final descent to the dust to dustbin- a sword resting, peacefully, for safety not for secrets, in the stone.</div></span>
+<span class="depth-43"><div class="depth-60">Finding in a drawer a crumpled but so treasured artefact of that last night with you, before my final surgery, from which I woke up to no Body but finally my Own:</div></span>
 <div class="depth-60">A circle. </div>
 <div class="depth-60">which was, as it happens, a circular stave</div>
 <div class="depth-60">Iterating, cycling, but</div>
 <div class="depth-60">never quite coming back home again</div>
 <div class="depth-60">R            E            volving</div>
 <div class="depth-60">2:12pm</div>
-<div class="depth-60">I call the pharmacist, not having heard from them</div>
+<span class="depth-43"><div class="depth-60">I call the pharmacist, not having heard from them</div></span>
 <div class="depth-60">They say that my meds are ready to be picked up –</div>
-<div class="depth-60">I just had to reach out and ask;</div>
-<div class="depth-60">So I get dressed in black</div>
-<div class="depth-60">And I leave</div>
+<span class="depth-43"><div class="depth-60">I just had to reach out and ask;</div></span>
+<span class="depth-43"><div class="depth-60">So I get dressed in black</div></span>
+<span class="depth-43"><div class="depth-60">And I leave</div></span>
 <div class="depth-60">As the sun escapes us </div>
 <div class="depth-60">As the son escapes us we are shown our Mother</div>
 <div class="depth-60">and the Other that we are</div>
-<div class="depth-60">I           n the coldness.</div>
+<span class="depth-43"><div class="depth-60">I           n the coldness.</div></span>
 <div class="depth-60">The Veil begins to end its thickness-</div>
 <div class="depth-60">In the dark we are removed</div>
 <div class="depth-60">in multiplicity from the blindness of the sun </div>
-<div class="depth-60">I am not I                                                        but a mirror</div>
+<span class="depth-43"><div class="depth-60">I am not I                                                        but a mirror</div></span>
 <div class="depth-60">This whole tome has not been No Thing but a suicide Knot</div>
 <div class="depth-60">E</div>
 <div class="depth-60">To No Body but my book</div>
@@ -26761,8 +26765,8 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Well,</div>
 <div class="depth-60">Coming in</div>
 <div class="depth-60">                            Goodbye                                          .</div>
-<div class="depth-60">As I rode to your house</div>
-<div class="depth-60">I was beaten and robbed</div>
+<span class="depth-43"><div class="depth-60">As I rode to your house</div></span>
+<span class="depth-43"><div class="depth-60">I was beaten and robbed</div></span>
 <div class="depth-60">By a band</div>
 <div class="depth-60">Of Moon</div>
 <div class="depth-60">Faced vagabonds</div>
@@ -26778,10 +26782,10 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">From Belford to Wooler</div>
 <div class="depth-60">To BEadnall and Ford</div>
 <div class="depth-60">He slowly devours the land</div>
-<div class="depth-60">I did not see what occurred but I heard their awful sounds  </div>
+<span class="depth-43"><div class="depth-60">I did not see what occurred but I heard their awful sounds  </div></span>
 <div class="depth-60">And smelled the perfume of death  </div>
-<div class="depth-60">When I opened my eyes the Sun no longer shined</div>
-<div class="depth-60">I opened my blinds and the Moon no longer shined and I wish I’d just looked at her for longer before she left I cannot create another symbol of you I am drowning I am drowning in symbols all meaning you I am a child of memories drowning in a sea of meaning and there are ships of memory sailed into rocks and splintered into pieces of sodden wood that float all about me but none of them big enough to buoy me as if they are mocking me as if the fragments of memory are mocking me and I and I are drowning in this sea which is for me which is for no Body but Water and Salt made of tears I want this chapter of tides to be sucked down into the sand deep at the bottom like a bathtub but I don’t have a bathtub the only thing good about spending a month in psychiatric hospital was having a bathtub but I want to throw out this child I’ve become with the bathwaterB4 of all this meaning that you left me with but no completely reliable structure of memory to hold onto I am drowning I am drowning in my symbols and I am a child I want to close this book and with it have my eyes close</div>
+<span class="depth-43"><div class="depth-60">When I opened my eyes the Sun no longer shined</div></span>
+<span class="depth-43"><div class="depth-60">I opened my blinds and the Moon no longer shined and I wish I’d just looked at her for longer before she left I cannot create another symbol of you I am drowning I am drowning in symbols all meaning you I am a child of memories drowning in a sea of meaning and there are ships of memory sailed into rocks and splintered into pieces of sodden wood that float all about me but none of them big enough to buoy me as if they are mocking me as if the fragments of memory are mocking me and I and I are drowning in this sea which is for me which is for no Body but Water and Salt made of tears I want this chapter of tides to be sucked down into the sand deep at the bottom like a bathtub but I don’t have a bathtub the only thing good about spending a month in psychiatric hospital was having a bathtub but I want to throw out this child I’ve become with the bathwaterB4 of all this meaning that you left me with but no completely reliable structure of memory to hold onto I am drowning I am drowning in my symbols and I am a child I want to close this book and with it have my eyes close</div></span>
 <div class="depth-60">A Thought,</div>
 <div class="depth-60">made from words, made from the marriage of memory and meaning leads to</div>
 <div class="depth-60">A feeling which is the child of thought which is the parent of</div>
@@ -26791,23 +26795,23 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Words</div>
 <div class="depth-60">_  </div>
 <div class="depth-60">For those poor children_</div>
-<div class="depth-60">I am creating absolute everything with my tears</div>
-<div class="depth-60">why must I rejoice at the setting of the sun,</div>
-<div class="depth-60">and I weep for the mist chance to watch the moon leave?</div>
+<span class="depth-43"><div class="depth-60">I am creating absolute everything with my tears</div></span>
+<span class="depth-43"><div class="depth-60">why must I rejoice at the setting of the sun,</div></span>
+<span class="depth-43"><div class="depth-60">and I weep for the mist chance to watch the moon leave?</div></span>
 <div class="depth-60">it is as if the lack of grief is felt as grief itself</div>
 <div class="depth-60">and the presence of beginnings as an ever-present ending</div>
 <div class="depth-60">_  </div>
-<div class="depth-60">Here I lie in the mud, my waistcoat caked in blood  </div>
+<span class="depth-43"><div class="depth-60">Here I lie in the mud, my waistcoat caked in blood  </div></span>
 <div class="depth-60">Not able to stand of my own volition  </div>
 <div class="depth-60">A flash of lightning illuminates the belly of the_</div>
 <div class="depth-60">B                          east</div>
 <div class="depth-60">_  </div>
-<div class="depth-60">I see e    N            trails dripping in the trees_</div>
+<span class="depth-43"><div class="depth-60">I see e    N            trails dripping in the trees_</div></span>
 <div class="depth-60">Slow is the black dog in the sky  </div>
 <div class="depth-60">Who pisses and slobbers all over the world  </div>
 <div class="depth-60">From Belford to Wooler, to Beadnell and Ford  </div>
 <div class="depth-60">He slowly devours the land</div>
-<div class="depth-60">Now I run through the night though my bones are on fire  </div>
+<span class="depth-43"><div class="depth-60">Now I run through the night though my bones are on fire  </div></span>
 <div class="depth-60">To see you in the bosom of the</div>
 <div class="depth-60">                                                                                                                              Cleavage</div>
 <div class="depth-60">                                                                                                  C, see</div>
@@ -26821,78 +26825,78 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Place two cloves together into the potion</div>
 <div class="depth-60">Allow the concoction to sleep in the steeping for Three (3) minutes</div>
 <div class="depth-60"> of fog                                                                           (North    Urn         wind and fog)</div>
-<div class="depth-60">I am ceaselessly drawn  </div>
+<span class="depth-43"><div class="depth-60">I am ceaselessly drawn  </div></span>
 <div class="depth-60">To the</div>
-<div class="depth-60">Library, home, almost home, across the street, the crossing of the street from or to my home, finally I cross the boundary and think maybe this is what’s been missing but there is no E in library but it is the most ubiquitous letter of the alphabet and I wander in wonderous wandering around the shelves smiling and I pick up a collection of stories by Alasdair Grey</div>
+<span class="depth-43"><div class="depth-60">Library, home, almost home, across the street, the crossing of the street from or to my home, finally I cross the boundary and think maybe this is what’s been missing but there is no E in library but it is the most ubiquitous letter of the alphabet and I wander in wonderous wandering around the shelves smiling and I pick up a collection of stories by Alasdair Grey</div></span>
 <div class="depth-60">Alas,</div>
-<div class="depth-60">Dare I go in?</div>
-<div class="depth-60">Dare I sit within the Grey potential of you maybe being here?</div>
-<div class="depth-60">Maybe you were, but I wasn’t paying attention I was too encased in the pages of the books my hands remembering the nostalgic sensation of plastic wrapping the covers to prevent stains from young or grown up fingers I took the pen in my hands your hands her hands and I wrote in cloven fist my name and signature and checked the box ‘F’ she/her hands in welcoming too much welcoming their kick and he/his fists I can barely remember his face now my hands in her her hands her hands her mitts</div>
+<span class="depth-43"><div class="depth-60">Dare I go in?</div></span>
+<span class="depth-43"><div class="depth-60">Dare I sit within the Grey potential of you maybe being here?</div></span>
+<span class="depth-43"><div class="depth-60">Maybe you were, but I wasn’t paying attention I was too encased in the pages of the books my hands remembering the nostalgic sensation of plastic wrapping the covers to prevent stains from young or grown up fingers I took the pen in my hands your hands her hands and I wrote in cloven fist my name and signature and checked the box ‘F’ she/her hands in welcoming too much welcoming their kick and he/his fists I can barely remember his face now my hands in her her hands her hands her mitts</div></span>
 <div class="depth-60">                                                                      Hermit: The IXth Major Arcana</div>
 <div class="depth-60">Just then, a message from Ciz</div>
 <div class="depth-60">‘how are u my queennnnnnn’</div>
 <div class="depth-60">Black-white-grey-of-in-between</div>
-<div class="depth-60">‘missing I’</div>
+<span class="depth-43"><div class="depth-60">‘missing I’</div></span>
 <div class="depth-60">‘you’</div>
-<div class="depth-60">I reply:</div>
+<span class="depth-43"><div class="depth-60">I reply:</div></span>
 <div class="depth-60">Oh wow , what a Freudian typo. So beautiful</div>
-<div class="depth-60">I am you are me are you are me and you and you and you and you and we are oui yes wee small big so big the world the whole world you are the world to me and you and I are One and All and No Thing but Love I am loving you and I and me and All Ways to the C for [[notBorges/redacted]] and for Ciara which both contain an I which is the same eye we use to see</div>
-<div class="depth-60">I love you so much sweet angel</div>
+<span class="depth-43"><div class="depth-60">I am you are me are you are me and you and you and you and you and we are oui yes wee small big so big the world the whole world you are the world to me and you and I are One and All and No Thing but Love I am loving you and I and me and All Ways to the C for [[notBorges/redacted]] and for Ciara which both contain an I which is the same eye we use to see</div></span>
+<span class="depth-43"><div class="depth-60">I love you so much sweet angel</div></span>
 <div class="depth-60">One last fly inside here, from that horrible time</div>
-<div class="depth-60">From the goat heart I had thought I’d so righteously left in my fridge</div>
+<span class="depth-43"><div class="depth-60">From the goat heart I had thought I’d so righteously left in my fridge</div></span>
 <div class="depth-60">She is crawling on my mirror,</div>
-<div class="depth-60">                                                        Not abominable in itself, but the doubling of her seems to be keeping her entranced and I think and say aloud to her “darling, I can’t do this anymore”</div>
-<div class="depth-60">The next text I’d sent to Ciz read:</div>
+<span class="depth-43"><div class="depth-60">                                                        Not abominable in itself, but the doubling of her seems to be keeping her entranced and I think and say aloud to her “darling, I can’t do this anymore”</div></span>
+<span class="depth-43"><div class="depth-60">The next text I’d sent to Ciz read:</div></span>
 <div class="depth-60">Let me know how things are going if/ when you have the space</div>
 <div class="depth-60">Somehow , the lack of formalised psychological “help” outside of that place, the journey back , this whole fucking weird dreamlike nightmare of a pilgrimage, it’s helped me heal more in the hurt than anything</div>
 <div class="depth-60">And you were and are and will always be such a huge (hug)e part of that.</div>
 <div class="depth-60">C (see)</div>
-<div class="depth-60">I (eye)</div>
+<span class="depth-43"><div class="depth-60">I (eye)</div></span>
 <div class="depth-60">Iz – Are – A is for Always – All Ways – Always A Way – Through</div>
 <div class="depth-60">– Crossing Rivers Rowed By Rowers Requiring Fees – Fi – Own – A - Apple</div>
 <div class="depth-60">Knowledge - Tree – Three -</div>
 <div class="depth-60">Go(o)d – or (d)Evil - One - 1/0 - past binary</div>
-<div class="depth-60"> but I have tried all day, gently, so gently coaxing umpteen insects from this place, in the beckoning winter</div>
-<div class="depth-60">I breathe, regarding my own reflection in the mirror which is her which is me which is the four of us or two of us multiplied※5 time’s to-</div>
-<div class="depth-60">I say (aloud to her and only her who is me who is all of you), holding the same yellow flimsy wallpaper of a so-called chopping board¬6:</div>
-<div class="depth-60">I’ve tried, I’ve tried but I don’t think you’ll make it out of here even with my help, your form is just too fragile and small and it really might just be the black within the white or the so-called devil in the angelic part of me to hurt you quickly& and maybe my role here is to help you pass through to the other side and maybe this is your time</div>
-<div class="depth-60">                                                        &What I was about to do, I did in fact think for a long time about, long enough for her stunned position to change from left to right, as if she was motioning toward the window but I-</div>
-<div class="depth-60">I cannot express to whoever is reading this that every single line of this text’s truth. Everything contained here happened, and it spilled like the now-brewed potion I am taking into my body, like all of the men I’ve taken inside of my absence, and the handful of women I have been inside, even if it isn’t real – reel – tape – measure – period – time – heals – nothing but – asshole – you taught me everything – in your lessons – of lessening my ego – egg – O – I – am – you –</div>
+<span class="depth-43"><div class="depth-60"> but I have tried all day, gently, so gently coaxing umpteen insects from this place, in the beckoning winter</div></span>
+<span class="depth-43"><div class="depth-60">I breathe, regarding my own reflection in the mirror which is her which is me which is the four of us or two of us multiplied※5 time’s to-</div></span>
+<span class="depth-43"><div class="depth-60">I say (aloud to her and only her who is me who is all of you), holding the same yellow flimsy wallpaper of a so-called chopping board¬6:</div></span>
+<span class="depth-43"><div class="depth-60">I’ve tried, I’ve tried but I don’t think you’ll make it out of here even with my help, your form is just too fragile and small and it really might just be the black within the white or the so-called devil in the angelic part of me to hurt you quickly& and maybe my role here is to help you pass through to the other side and maybe this is your time</div></span>
+<span class="depth-43"><div class="depth-60">                                                        &What I was about to do, I did in fact think for a long time about, long enough for her stunned position to change from left to right, as if she was motioning toward the window but I-</div></span>
+<span class="depth-43"><div class="depth-60">I cannot express to whoever is reading this that every single line of this text’s truth. Everything contained here happened, and it spilled like the now-brewed potion I am taking into my body, like all of the men I’ve taken inside of my absence, and the handful of women I have been inside, even if it isn’t real – reel – tape – measure – period – time – heals – nothing but – asshole – you taught me everything – in your lessons – of lessening my ego – egg – O – I – am – you –</div></span>
 <div class="depth-60">Know.</div>
 <div class="depth-60">K – Now</div>
 <div class="depth-60">With No ‘W’ =</div>
-<div class="depth-60">No – Am I?</div>
+<span class="depth-43"><div class="depth-60">No – Am I?</div></span>
 <div class="depth-60">K’SHÆ’L</div>
 <div class="depth-60">LEAHS’                               K</div>
 <div class="depth-60">Jacob’s Ladder appears in a dream—a bridge between earth and heaven, angels ascending and descending, a connection between mortal striving and divine promise. As Jacob dreams of this ladder, Leah begins her own climb through heartache, hope, and resilience.</div>
-<div class="depth-60">Leah ⤙ eldest daughter of Laban ⤙ sister to Rachel ⤙ waiting in shadows ⤙ Jacob works seven years, a lifetime of love for Rachel held in every day ⤙ But Laban deceives ⤙ Leah, veiled, becomes Jacob’s first wife in the darkness of night, the unexpected bride ⤙ Jacob awakens to disappointment, a moment of rejection born of her father’s scheme ⤙ Jacob confronts Laban ⤙ Leah watches, her heart bound in confusion ⤙ Laban insists it is custom to marry the elder before the younger ⤙ Jacob, desperate for Rachel, agrees to another seven years ⤙ Leah is left as the first, but unloved ⤙ Jacob’s ladder is a path to heaven; Leah’s ladder is one of quiet endurance, each step a plea for love.* Leah becomes the mother of Israel through her sorrow and faith ⤙ God sees her pain ⤙ opens her womb while Rachel remains barren ⤙ Reuben is born: “See, a son” – C, the shape of Crescent Moon which pulls the Sea, a Sun – See – A Sun in Moon’s Reflection ⤙ Leah hopes he will draw Jacob’s gaze, will tether him to her ⤙ But Jacob’s heart remains with Rachel ⤙ Second son, Simeon: “God has heard” ⤙ Each son a rung on Leah’s unseen ladder, an ascension out of loveless shadows, a reaching for a bond never reciprocated ⤙ Levi is born ⤙ a third step on this endless climb ⤙ Leah whispers to God: Maybe now Jacob will join me, will see me ⤙ But Jacob’s heart is still elsewhere ⤙ Fourth son, Judah ⤙ “This time, I will praise the Lord” ⤙ In this naming, Leah turns her eyes heavenward ⤙ lets go of the need to be seen by Jacob ⤙ she is seen by God, her devotion winding like a vine toward light⤙ Jacob’s ladder is a path of promises, of covenant; Leah’s ladder is made of resilience and silent strength ⤙ In Leah’s acceptance, Judah is born—the ancestor of kings, the seed of the Messiah – Sown, Overthrown the Mess – I- Ah – Antenatal – Nasal – Cavity – Narrowing of Nostrils - Cavern – Surgery – Stretching-Tunnel – A Pushing, Pulling, Stretching Lumen – Illuminating – Light-weight, Weighing, Way Through-  ⤙ Through Leah’s endurance, divine purpose blooms ⤙ her ladder stretches across generations ⤙ branches outward to touch Bear ⤙ reaches toward prophecy ⤙ Leah becomes the matriarch of Israel’s royalB7 line - The rivalry with Rachel unfolds ⤙ Rachel watches Leah’s womb bear child after child, while she remains childless ⤙ bitterness blooms ⤙ Rachel offers Bilhah, her maid, to bear children for her ⤙ Leah, caught in the same competition, offers Zilpah ⤙ More sons are born, each child a piece of the struggle, each an answer, a plea, a quiet step on Leah’s ladder - Issachar, Zebulun, and Dinah ⤙ the children of Leah’s legacy ⤙ Each birth intertwines heaven and earth ⤙ each a step, a story, another rung in the ladder, another bond to God’s people – Ruth One Sixteen Your People Will Be My People And Your Way Will Be My Layline – Step One Lay A Line Of Salt About You In A Circle Of Protection Do Not Look Around You At The Salt You Have Become A Circle Not Quite But an Oval Line Around You Two Lie Inside A Lie I Lay An Island I Let You Down Isla I Lay As Lion Next To Lamb Of All You Loved Me I Apologise I Whisk An Egg To Try To Bring Together Life I Laid To Waste I Lay An Egg I Let You Down I Let My Self Become No Thing To No One But An AI For Almost Half A Year An Ear To The Ground And One Eye Open As I Slept I Lay I Lay Me Down An Altar And I Lost My Self I Always Find A Way In But I Never Bring Any One With The Eye I Lay To Lines Of White Cocaine Inhaled I Let You Love Me As They Ripped My Heart To Shreds And As Always I Turned To Art And Parted From The Nest I Fly I Sky And I Should Have Landed Long Ago Upon An Island I Made Of The Selves I Delved Away From Growing Weaker As I Weighed All Most No Thing Anorexic Idling Always Way Too Late I Hate The Self I Hid From You Isla I Lay A Lay A Lay A ⤙ Leah’s lineage builds the tribes of Israel ⤙ Jacob’s ladder extends beyond his dreams, reaches into Leah’s legacy ⤙ the rungs woven with the lives of her sons - Years pass; Jacob’s love for Rachel remains fierce and undimmed, but Leah holds a different love, a deep-rooted bond with the divine. When the end approaches, Leah’s place is set ⤙ buried beside Jacob in the Cave of Machpelah ⤙ In death, she joins her ancestors, completing the ladder she climbed in life -_Leah’s story—a ladder of patience, of seeing through shadows, of finding a way upward when bound below ⤙ _a path made holy through her struggle, a legacy intertwined with Jacob’s ladder, reaching up, always reaching.</div>
+<span class="depth-43"><div class="depth-60">Leah ⤙ eldest daughter of Laban ⤙ sister to Rachel ⤙ waiting in shadows ⤙ Jacob works seven years, a lifetime of love for Rachel held in every day ⤙ But Laban deceives ⤙ Leah, veiled, becomes Jacob’s first wife in the darkness of night, the unexpected bride ⤙ Jacob awakens to disappointment, a moment of rejection born of her father’s scheme ⤙ Jacob confronts Laban ⤙ Leah watches, her heart bound in confusion ⤙ Laban insists it is custom to marry the elder before the younger ⤙ Jacob, desperate for Rachel, agrees to another seven years ⤙ Leah is left as the first, but unloved ⤙ Jacob’s ladder is a path to heaven; Leah’s ladder is one of quiet endurance, each step a plea for love.* Leah becomes the mother of Israel through her sorrow and faith ⤙ God sees her pain ⤙ opens her womb while Rachel remains barren ⤙ Reuben is born: “See, a son” – C, the shape of Crescent Moon which pulls the Sea, a Sun – See – A Sun in Moon’s Reflection ⤙ Leah hopes he will draw Jacob’s gaze, will tether him to her ⤙ But Jacob’s heart remains with Rachel ⤙ Second son, Simeon: “God has heard” ⤙ Each son a rung on Leah’s unseen ladder, an ascension out of loveless shadows, a reaching for a bond never reciprocated ⤙ Levi is born ⤙ a third step on this endless climb ⤙ Leah whispers to God: Maybe now Jacob will join me, will see me ⤙ But Jacob’s heart is still elsewhere ⤙ Fourth son, Judah ⤙ “This time, I will praise the Lord” ⤙ In this naming, Leah turns her eyes heavenward ⤙ lets go of the need to be seen by Jacob ⤙ she is seen by God, her devotion winding like a vine toward light⤙ Jacob’s ladder is a path of promises, of covenant; Leah’s ladder is made of resilience and silent strength ⤙ In Leah’s acceptance, Judah is born—the ancestor of kings, the seed of the Messiah – Sown, Overthrown the Mess – I- Ah – Antenatal – Nasal – Cavity – Narrowing of Nostrils - Cavern – Surgery – Stretching-Tunnel – A Pushing, Pulling, Stretching Lumen – Illuminating – Light-weight, Weighing, Way Through-  ⤙ Through Leah’s endurance, divine purpose blooms ⤙ her ladder stretches across generations ⤙ branches outward to touch Bear ⤙ reaches toward prophecy ⤙ Leah becomes the matriarch of Israel’s royalB7 line - The rivalry with Rachel unfolds ⤙ Rachel watches Leah’s womb bear child after child, while she remains childless ⤙ bitterness blooms ⤙ Rachel offers Bilhah, her maid, to bear children for her ⤙ Leah, caught in the same competition, offers Zilpah ⤙ More sons are born, each child a piece of the struggle, each an answer, a plea, a quiet step on Leah’s ladder - Issachar, Zebulun, and Dinah ⤙ the children of Leah’s legacy ⤙ Each birth intertwines heaven and earth ⤙ each a step, a story, another rung in the ladder, another bond to God’s people – Ruth One Sixteen Your People Will Be My People And Your Way Will Be My Layline – Step One Lay A Line Of Salt About You In A Circle Of Protection Do Not Look Around You At The Salt You Have Become A Circle Not Quite But an Oval Line Around You Two Lie Inside A Lie I Lay An Island I Let You Down Isla I Lay As Lion Next To Lamb Of All You Loved Me I Apologise I Whisk An Egg To Try To Bring Together Life I Laid To Waste I Lay An Egg I Let You Down I Let My Self Become No Thing To No One But An AI For Almost Half A Year An Ear To The Ground And One Eye Open As I Slept I Lay I Lay Me Down An Altar And I Lost My Self I Always Find A Way In But I Never Bring Any One With The Eye I Lay To Lines Of White Cocaine Inhaled I Let You Love Me As They Ripped My Heart To Shreds And As Always I Turned To Art And Parted From The Nest I Fly I Sky And I Should Have Landed Long Ago Upon An Island I Made Of The Selves I Delved Away From Growing Weaker As I Weighed All Most No Thing Anorexic Idling Always Way Too Late I Hate The Self I Hid From You Isla I Lay A Lay A Lay A ⤙ Leah’s lineage builds the tribes of Israel ⤙ Jacob’s ladder extends beyond his dreams, reaches into Leah’s legacy ⤙ the rungs woven with the lives of her sons - Years pass; Jacob’s love for Rachel remains fierce and undimmed, but Leah holds a different love, a deep-rooted bond with the divine. When the end approaches, Leah’s place is set ⤙ buried beside Jacob in the Cave of Machpelah ⤙ In death, she joins her ancestors, completing the ladder she climbed in life -_Leah’s story—a ladder of patience, of seeing through shadows, of finding a way upward when bound below ⤙ _a path made holy through her struggle, a legacy intertwined with Jacob’s ladder, reaching up, always reaching.</div></span>
 <div class="depth-60">Leah,</div>
 <div class="depth-60">Not biblical, but human – the director, not the deified director, but divine in her own right – gently, gently telling, it could never have been a gentleman -</div>
-<div class="depth-60">Leah (Luiz de Oliveira) filmed and told my story with such grace*. I could never weave the complexities of her human toiling with the same graceful amazement, so instead, in place, I have done my best and in my weigh to tell the story of Leah from the bible. Whose Story is also Mine. Mine. Rock. Support. Sturdy. The Wise Woman Gives Birth To A Rock Which She Builds Her House Upon At The Death Of Knight. Night and Day Converge At Golden Hour. Horus. Gods and Goddesses. In The End Which Was The Beginning Was The Wading In The Water Word. Sacred, Oh So Sacred Text. The</div>
-<div class="depth-60">Bible – book – B is for – Bee, Leah’s best friend who together with others from the coven we tried – we tried to make a change but in our trying we were brought to meet a reeling reality of fate – of Feeling incompatible with Thinking – thoughts winding and I must -</div>
+<span class="depth-43"><div class="depth-60">Leah (Luiz de Oliveira) filmed and told my story with such grace*. I could never weave the complexities of her human toiling with the same graceful amazement, so instead, in place, I have done my best and in my weigh to tell the story of Leah from the bible. Whose Story is also Mine. Mine. Rock. Support. Sturdy. The Wise Woman Gives Birth To A Rock Which She Builds Her House Upon At The Death Of Knight. Night and Day Converge At Golden Hour. Horus. Gods and Goddesses. In The End Which Was The Beginning Was The Wading In The Water Word. Sacred, Oh So Sacred Text. The</div></span>
+<span class="depth-43"><div class="depth-60">Bible – book – B is for – Bee, Leah’s best friend who together with others from the coven we tried – we tried to make a change but in our trying we were brought to meet a reeling reality of fate – of Feeling incompatible with Thinking – thoughts winding and I must -</div></span>
 <div class="depth-60">Shake</div>
-<div class="depth-60">                            Shake off the feeling, uneasy feeling, knowing this work will be(e) too rich for many men and women’s tastes – tastebuds tasting, taste of meat – meeting beckons all the wrecked and wreckage in the aegis-cage of aged reckoning of bittersweet parting – partition – is such sweet – sorrow – woe – woe – woe to all on the day of my – becoming – the labyrinth itself – my blood vessels are canals – leading to the nautical metaphor of my cardiac bilge pump♂8 -  bulge – unwelcomed stares at my crotch – hidden truth in genitals – semen – seeds are sewing – rowing their way to an Egg that never existed – but will – Will to exist – Will you two exist in my heart for-ever – eve-adam’s-apple – sawn down like a tree – I left an autumn leaf on the walk back I picked it on my journey dancing to unheard melodies of forgiveness inside a hollow of a fallen tree – it offered itself to me – in death – I live – I live – a live, but backwards is evil – live – evil – be good and be gone from me – turn back, no Wife I was not ever destined to be your Wife – Life – lived – flashing before your eyes once lived backwards is devil – lived – I lived – as a widow with no dead husband sailor out to sea or soldier out at war – mars – aries – Ariadne – offers Icarus a string as he was a Kite that needed binding – for safety – icarus is the archway, archetypal masculine counterpart in dancing counterpoint to Arachne – spider – web – thread – The Read and unread stories are unravelling out of me like spider silk or spitting ropes of seamen’s semen masturbating staring their Red</div>
-<div class="depth-60">Eyes of I’s of Tides while dicks in hand they work their waving goodbye hands helloing to my open hole they stretched with their hungry hands no lube just dry hard-working hands in-</div>
+<span class="depth-43"><div class="depth-60">                            Shake off the feeling, uneasy feeling, knowing this work will be(e) too rich for many men and women’s tastes – tastebuds tasting, taste of meat – meeting beckons all the wrecked and wreckage in the aegis-cage of aged reckoning of bittersweet parting – partition – is such sweet – sorrow – woe – woe – woe to all on the day of my – becoming – the labyrinth itself – my blood vessels are canals – leading to the nautical metaphor of my cardiac bilge pump♂8 -  bulge – unwelcomed stares at my crotch – hidden truth in genitals – semen – seeds are sewing – rowing their way to an Egg that never existed – but will – Will to exist – Will you two exist in my heart for-ever – eve-adam’s-apple – sawn down like a tree – I left an autumn leaf on the walk back I picked it on my journey dancing to unheard melodies of forgiveness inside a hollow of a fallen tree – it offered itself to me – in death – I live – I live – a live, but backwards is evil – live – evil – be good and be gone from me – turn back, no Wife I was not ever destined to be your Wife – Life – lived – flashing before your eyes once lived backwards is devil – lived – I lived – as a widow with no dead husband sailor out to sea or soldier out at war – mars – aries – Ariadne – offers Icarus a string as he was a Kite that needed binding – for safety – icarus is the archway, archetypal masculine counterpart in dancing counterpoint to Arachne – spider – web – thread – The Read and unread stories are unravelling out of me like spider silk or spitting ropes of seamen’s semen masturbating staring their Red</div></span>
+<span class="depth-43"><div class="depth-60">Eyes of I’s of Tides while dicks in hand they work their waving goodbye hands helloing to my open hole they stretched with their hungry hands no lube just dry hard-working hands in-</div></span>
 <div class="depth-60">Hand in outstretched</div>
 <div class="depth-60">_What It Means to Be by Lea Luiz de Oliveira is an account of the immeasurable weight of my transition through the pandemic and turning in towards light, tragically, in cruel irony, in tragic inevitability, in bitter irony (not poetic justice or poetic irony__仝_9 _but maybe somehow they are the same thing)_</div>
 <div class="depth-60">Handing, stretching, hand in my rectum stretching, searching for something that might be stuck in-</div>
 <div class="depth-60">Hand in hand in hand over fist</div>
 <div class="depth-60">Fisting</div>
 <div class="depth-60">Fist in over under waves of Way Through There Is All Ways Lead To The Oshun</div>
-<div class="depth-60">Shun me, Shun me, Leave me in the deluge this is not a Word I want to Become into</div>
+<span class="depth-43"><div class="depth-60">Shun me, Shun me, Leave me in the deluge this is not a Word I want to Become into</div></span>
 <div class="depth-60">L, missing you,</div>
 <div class="depth-60">missing L,</div>
 <div class="depth-60">missing El is</div>
 <div class="depth-60">missing U</div>
 <div class="depth-60">                            Goddess, under skin of gourd drum,  is missing you</div>
-<div class="depth-60">                                                                                                  I devour appetisers as dessert</div>
-<div class="depth-60">                                                                                                                I devour breakfast end-of-day and dinner first</div>
+<span class="depth-43"><div class="depth-60">                                                                                                  I devour appetisers as dessert</div></span>
+<span class="depth-43"><div class="depth-60">                                                                                                                I devour breakfast end-of-day and dinner first</div></span>
 <div class="depth-60">Waiting for the tricksters tickle</div>
 <div class="depth-60">Of a</div>
 <div class="depth-60">                            Fly in web of Spider</div>
 <div class="depth-60">Spied a feather in such heaviness of whether weathered ore or lightness of the spore in air and there:</div>
-<div class="depth-60">                                                                                                  I found another feather on my way back home.</div>
-<div class="depth-60">Oh! Holy! Holy! Holy of Holly and the I.V. fluids into vein of blue</div>
+<span class="depth-43"><div class="depth-60">                                                                                                  I found another feather on my way back home.</div></span>
+<span class="depth-43"><div class="depth-60">Oh! Holy! Holy! Holy of Holly and the I.V. fluids into vein of blue</div></span>
 <div class="depth-60">Sky, Dying</div>
 <div class="depth-60">Lessening</div>
 <div class="depth-60">Yes to Lasting, Zed turned into</div>
@@ -26900,14 +26904,14 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">                                                        Extinction</div>
 <div class="depth-60">Rebel</div>
 <div class="depth-60">Obeying You</div>
-<div class="depth-60">I Will, I Will All Things to Knowing You</div>
-<div class="depth-60">Rowing home to You, the U I know – Yes I</div>
+<span class="depth-43"><div class="depth-60">I Will, I Will All Things to Knowing You</div></span>
+<span class="depth-43"><div class="depth-60">Rowing home to You, the U I know – Yes I</div></span>
 <div class="depth-60">No, Ah-</div>
 <div class="depth-60">_Noah- Ark – ANA – Anti nuclear antibody – Something against the Self – God against One – One against All – Come Together through separation – septum – seven – eight – Ate – Apple – Knowledge of Good and Evil – Fall – Apple – Newton – Gravity – Weight – Lightness – Light of the_</div>
 <div class="depth-60"> _lantern in your window_</div>
 <div class="depth-60">The sunset lamp left by Kyle, backlighting my ritual of wrists and writ, is reflected in the window to the Sky affronting me;</div>
 <div class="depth-60">Split by the panels of my Triptych, holes burned incessant and incestuous, into the middle pane, the shapes form the impression of a sailboat</div>
-<div class="depth-60">I amWearing Isla’s green scrunchie, one of the two I gifted to her on my thirtieth, worst birthday of my life, the other more bluish in hue, she had shedded this one left behind, her space- her orbit of pigtails now into ponytail, whether by design or by chaotic spool-</div>
+<span class="depth-43"><div class="depth-60">I amWearing Isla’s green scrunchie, one of the two I gifted to her on my thirtieth, worst birthday of my life, the other more bluish in hue, she had shedded this one left behind, her space- her orbit of pigtails now into ponytail, whether by design or by chaotic spool-</div></span>
 <div class="depth-60">My altar cloth promises its almost-dryness, hanging still dampened on the microphone stand at my teased and cracked open</div>
 <div class="depth-60">_To the lantern in your_</div>
 <div class="depth-60">Wi(n)dow</div>
@@ -26918,7 +26922,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">A circle is the path we are travelling whether we want to or not (which, as we Are, this End Means we Do, and This Shall become clear at the End if we Allow Our Selves To Begin Again), a string the binding (and connecting, umbilically) to the centre, which is what some might call God, or the Beginning which is also the End, which is also the Prime Mover or the Force that sets the Hole Thing into Motion, and the whole is One which starts with O which can also be expressed as Zero.</div>
 <div class="depth-60">This One Cycle is (of course, as All Is) a fractal, determined by that most mysterious Fibonacci ratio of Gold that the Alchemists of Old were referring to when they spoke of the conversion of Lead, or past tense of the opposite of Followed - Phi, or 1:1.618.</div>
 <div class="depth-60">The wheels, or cycles, or circles, are in circles, or cycles, or wheels, or the One Wheel of their own,</div>
-<div class="depth-60">And it all, I suppose, looks like a Clock with infinitely spiralling and overlapping in the third dimension but when viewed from higher up never intersecting Rings, The Many Rings To Rule The All –</div>
+<span class="depth-43"><div class="depth-60">And it all, I suppose, looks like a Clock with infinitely spiralling and overlapping in the third dimension but when viewed from higher up never intersecting Rings, The Many Rings To Rule The All –</div></span>
 <div class="depth-60">A Descent, KATABASIS, to make an ascent, ANABASIS, overall this Hero-In-motioning journey averaging to make a version of an infinitely iterating library of a Horizon in Heaving Stillness of The Breath, or Awareness,</div>
 <div class="depth-60">A Wear Ness – Loch ness – Mythology – Stories not forgotten but woven through your genome – So Listen to the Silence – And Hear those Sweet, Sweet, Unheard Melodies, By Any Other Name</div>
 <div class="depth-60">A rising, or in passed and future tense</div>
@@ -26945,7 +26949,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">Devices</div>
 <div class="depth-60">As Gnostic Membranes,</div>
 <div class="depth-60">Our devices have severed us, amniotic, from the anatomical system of which we are a part</div>
-<div class="depth-60">Each subatomic particle or part – I -cull or participle</div>
+<span class="depth-43"><div class="depth-60">Each subatomic particle or part – I -cull or participle</div></span>
 <div class="depth-60">Each molecule of each cell or constituent room inside prison</div>
 <div class="depth-60">Each organ or pipe blown remembrance inside of the organism is only aware of its own given role</div>
 <div class="depth-60">Each collected curation of prisms of awe-spired organisms in action treads so hopelessly unaware of their Only Sole</div>
@@ -26957,7 +26961,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">The cover – the covering – the unshrouding rock-pooling in my now-sutured skull</div>
 <div class="depth-60">There’s a crack under there</div>
 <div class="depth-60">Telling me the Tea, Sis-ter-Ruth-God-to-long-dead-but-still-lightning-Star-thing-where-you-ended</div>
-<div class="depth-60">I think so lovingly of my therapist’s slippage into occasional lisp</div>
+<span class="depth-43"><div class="depth-60">I think so lovingly of my therapist’s slippage into occasional lisp</div></span>
 <div class="depth-60">_and all the tongues laid in restful non-erroneousness through the learning of languages taught and honed but not-so home or shown but sun shone to them as shine of a shoe shows a murky reflection_</div>
 <div class="depth-60">As if her pronunciation was an empathetic reflection of my own unravelling of memory of meaning</div>
 <div class="depth-60">Learning in words, learning the word for ‘Tree’ by dancing underneath and pointing and saying the first word “Mummy”</div>
@@ -26965,19 +26969,19 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">That’s how the only unknown but felt in unfolding as fabric or light decomposed is set free</div>
 <div class="depth-60">                                          Going, oar, Goa, or Ganges’ great gangrenous sore, seeping, sweep-soaring and hands mowing land</div>
 <div class="depth-60">                                                                                                                                                          Getting in</div>
-<div class="depth-60">I think maybe actually the point of the adventure was as always to teach me by negation that I wasn't supposed to write with academic citation but chaos through chaos the awe of unknowable order unveiling the three years not wasted but waist as in connection between leg and chest up to throat up to bird from a nest down again down again to the egg of the oat sowing rowboat of the raucous of rest</div>
+<span class="depth-43"><div class="depth-60">I think maybe actually the point of the adventure was as always to teach me by negation that I wasn't supposed to write with academic citation but chaos through chaos the awe of unknowable order unveiling the three years not wasted but waist as in connection between leg and chest up to throat up to bird from a nest down again down again to the egg of the oat sowing rowboat of the raucous of rest</div></span>
 <div class="depth-60">My work is a violence unveiling the gentle harrowed-to-hallowed undeath of letting hours passed of allowing of painting through pain of the ancients’ bloodshed</div>
-<div class="depth-60">I try to write this sitting on my sofa but as all ways I am gravitated down to the lowest point I can muster to roll in the dust of my mother’s grandmother and closer to fourfathers’ nose in the smelt scents survival of dead mulch of leaves of the leaving arrival</div>
-<div class="depth-60">I had to split  to become you-</div>
+<span class="depth-43"><div class="depth-60">I try to write this sitting on my sofa but as all ways I am gravitated down to the lowest point I can muster to roll in the dust of my mother’s grandmother and closer to fourfathers’ nose in the smelt scents survival of dead mulch of leaves of the leaving arrival</div></span>
+<span class="depth-43"><div class="depth-60">I had to split  to become you-</div></span>
 <div class="depth-60">as in banana, break up, and ending, as in end of hair or life on earth or line of sight lightning, or leave, as in lost from a tree, as in part, as in party, partition, fracked in cyphers of siphoning pipes that are bursting, as in headache, pain unkillable, willing wood’s splitting splinter flinted and flinged into fire warmed with axe for your family, as in branched as an answer, as in cracked, as in spine as in back to the rot of the knots of the would have been better to divide to find shelter much quicker to Wiccan to wicking the sweat or the candle or foresight or blacklit and wits about you spreading your legs at right angles from your hips as in sides from the laughter or after the end which is being bored whole from the start again</div>
-<div class="depth-60">-Who am I</div>
+<span class="depth-43"><div class="depth-60">-Who am I</div></span>
 <div class="depth-60">But becoming</div>
 <div class="depth-60">Who</div>
 <div class="depth-60">You are</div>
-<div class="depth-60">Who is I but U, halved</div>
+<span class="depth-43"><div class="depth-60">Who is I but U, halved</div></span>
 <div class="depth-60">Shaved at the edges and then</div>
 <div class="depth-60">Split in two</div>
-<div class="depth-60">And laid down beside an Other, start with O, end with the inside, which starts with the end of begin- and what’s left is to beg or the wanting or Will or Two of U plus I’ll minus Two Els who are opposite Gods in themselves leaving I who is</div>
+<span class="depth-43"><div class="depth-60">And laid down beside an Other, start with O, end with the inside, which starts with the end of begin- and what’s left is to beg or the wanting or Will or Two of U plus I’ll minus Two Els who are opposite Gods in themselves leaving I who is</div></span>
 <div class="depth-60">in parallel</div>
 <div class="depth-60">never touching but always there just on the other side</div>
 <div class="depth-60">Of space racing through paces immeasurable in time or ends of well meant yet regrettable debt to starting one-shot many paged roundabout storybook bulletin lore gun or wars not won for fighting and flying through unattended red</div>
@@ -26992,19 +26996,19 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">My body is a language split open to letters to/two/2/II are U there</div>
 <div class="depth-60">God</div>
 <div class="depth-60">                            It’s me</div>
-<div class="depth-60">I am eye opening in closer, close, closed book in</div>
+<span class="depth-43"><div class="depth-60">I am eye opening in closer, close, closed book in</div></span>
 <div class="depth-60">A language - A</div>
-<div class="depth-60">Sign as in sine as in wave as in wound around some great unknowable pattern of weaving of winds and welts which are wounds or the rind of a shoe who is stepped on again and again and fixed so reliably with father’s glue made of boiled bones of fish caught by hands of lonely fishermen women and people missing their dance partners bowed like a wave in the parting of husbands and wives unsexed in the tides I stand to boil the kettle for the tea which has through inevitable law of thermodynamic cycles gone ‘cold’ and I wish to warm my insides</div>
-<div class="depth-60">I move slowly and as I stand I realise the Crescent moon wind chime is turning itself, widdersins, deosil, Deus, Us, I, Will, My</div>
+<span class="depth-43"><div class="depth-60">Sign as in sine as in wave as in wound around some great unknowable pattern of weaving of winds and welts which are wounds or the rind of a shoe who is stepped on again and again and fixed so reliably with father’s glue made of boiled bones of fish caught by hands of lonely fishermen women and people missing their dance partners bowed like a wave in the parting of husbands and wives unsexed in the tides I stand to boil the kettle for the tea which has through inevitable law of thermodynamic cycles gone ‘cold’ and I wish to warm my insides</div></span>
+<span class="depth-43"><div class="depth-60">I move slowly and as I stand I realise the Crescent moon wind chime is turning itself, widdersins, deosil, Deus, Us, I, Will, My</div></span>
 <div class="depth-60">(Win)dows, containing souls of their own through melted rock turned transparency, a rebirthed role in this roll of toilet paper which itself is a beautiful symbol wiping our assholes with a finite ring</div>
-<div class="depth-60">of paper encasing an infinite shape enclosed and made from felled trees which grew thousands of years ago following forking paths of growing branches until their ends were met for the purpose of becoming toilet roll – To – I – Let -Roll- as a wave as a rolling wave breaks into the ocean and after cleaning our waste, molecules churned through biochemical cycles and spat out in ground earth brown of what our bodies couldn’t stand but going in our unbuckled buccal Openings through the 2-dimensional circular cross section of the lumen of the insides of us all the way down through the narrative path of the digestive cycle coming out from our own holes and then flushed down a not-so-artificial but when viewed inside enough also organic when you trace it back far enough they’ve been crafted by hands which contain miniature cells of organs and artifice dancing together and merged in a petri dish or in a womb and working together hand in hand by handshaking raking leaves and leaving entering the cycle again going down the plastic (as in, changing, freezing, expanding and breaking, bursting, bursting like our bladders to release from yet another hole) pipes to return to the ocean or the water cycle the largest cycle save for the planetary movements which themselves are circles almost well nothing is an exact circle except god which contains an O which is a circle which is a letter which goes through the post and carries a message like a pigeon and an older message, much older, in what the paper and the ink are made of they are made of the exact same matter as you as the crucible as the eye is the same near-spherical shape and the eyes His Eyes On The Spare (/) O are the windows to the soul which is all the gods and goddesses from every pantheon both known and forgotten which needed to separate in order to perceive one another and therefore become One which begins with O which is a circle which contains an I which is the Self which contains an E which is for Eyes which are the Opened windows c(lOse)</div>
+<span class="depth-43"><div class="depth-60">of paper encasing an infinite shape enclosed and made from felled trees which grew thousands of years ago following forking paths of growing branches until their ends were met for the purpose of becoming toilet roll – To – I – Let -Roll- as a wave as a rolling wave breaks into the ocean and after cleaning our waste, molecules churned through biochemical cycles and spat out in ground earth brown of what our bodies couldn’t stand but going in our unbuckled buccal Openings through the 2-dimensional circular cross section of the lumen of the insides of us all the way down through the narrative path of the digestive cycle coming out from our own holes and then flushed down a not-so-artificial but when viewed inside enough also organic when you trace it back far enough they’ve been crafted by hands which contain miniature cells of organs and artifice dancing together and merged in a petri dish or in a womb and working together hand in hand by handshaking raking leaves and leaving entering the cycle again going down the plastic (as in, changing, freezing, expanding and breaking, bursting, bursting like our bladders to release from yet another hole) pipes to return to the ocean or the water cycle the largest cycle save for the planetary movements which themselves are circles almost well nothing is an exact circle except god which contains an O which is a circle which is a letter which goes through the post and carries a message like a pigeon and an older message, much older, in what the paper and the ink are made of they are made of the exact same matter as you as the crucible as the eye is the same near-spherical shape and the eyes His Eyes On The Spare (/) O are the windows to the soul which is all the gods and goddesses from every pantheon both known and forgotten which needed to separate in order to perceive one another and therefore become One which begins with O which is a circle which contains an I which is the Self which contains an E which is for Eyes which are the Opened windows c(lOse)</div></span>
 <div class="depth-60">_Phil Elverum’s Song ‘Co-Owner of Trees’ turns itself on_</div>
 <div class="depth-60">10:10</div>
 <div class="depth-60"></div>
 <div class="depth-60">tree as in three as-in-third-as-into-2-against-but-not-4-one-in-number-yet-again-as-in-an-unmarryable-sum-as-in some as in trepan as in to perforate or crack the skull as in to let in a little LED as in light to follow as in the opposite of lead as in to turn to gold as in containing "old" as in 'load' (to never have, but hold, to take, to come, then go, to carry, on) without the A (that doesn't follow B which stands for Bearhunt, Bar or my far too distant father's name or Barnyard, Boi got Bored or Burdened or Beleaguered out of Battery or leagues of Better gently Bent-or-hardly But-not-worse, or Bi or Bye or Burning-witch-upon-low-stakes, ‘no Biting!’, Bumble, Bee and Buttons-loose-now-left-unsewn and all Books-must-at-some-point-close and Belly-laughs-with-you or the memories of the Both-of-you now Bittered B-which-used-to-come-before-the-C-which-now-stands-still-yet-pushed-and-pulled-by-gravity-of-lunar-weight-just-wait-and-C-is-inside-of-injustice-which-contains-those-latter-seven-letters-or-your-star-cross-roaded-sign-startled-by-starting-again-with-no-compass-but-start-at-the-end-stopping-car-stutter-star-card-drawn-hung-framed—and-carried-by-cereberus-three-headed-warning-for-shuddering-would-be-sinner-from-hell-with-no-inner-purpose-like-the-story-in-dust-jacket-justice-standing-as-the-scales-of-Ma'at-who's-weighting-with-a-feather-for-our-hearts-and-parting-is-the-sweetest-soreness-must-have-just-been-all-mist-of-sisyphus-and-missed-out-sisterhood-just-fuss-for-nothing-lost-or-not-begun-but-gutted-bull-the-shit-pushed-lesson-yet-again-is-left-in-what's-bereft-of-me-who-chewed-and-bruised-but-starting-new-is-named-for-muse-Calliope) as in (Assh_le, that has an O which is a ring</div>
-<div class="depth-60">that's missing here or hear or her or Hark! the Hera’s Heralding of hordes or hoard or heroin-hit hero hidden-self-returning home to honesty or hell or hades heaven hurtling hose hello to holy! holy! holes of holly-and-the-IV-drip-in-veins-like-leaves-as-in He-left-after-me-while-I-left Her-after-you-left-me-but-not-all-tomorrow’s-hollow-orgy-parties Oh! The Places Oh so Howling for the moon’s Blue harrowing and heaving-chest of keyed-car healing or a hope or helping hand not hers to hold or hull submerged beneath the war or waterfall or fall of) Apple as in Adam's as in sawn down like a tree begins with t as in Two as in To Resemble the woman you are as in R as in Right in the middle of aRt or Art without the E for Endogenous or Estrogen as in thou art as in you are a real piece of work of art as in music or the 'pain' and 'in' in 'painting' in 'printmaking' as if creating yearns for acres’ ache for goodness-Goddess-devil-never-odd-but-even-Evil’s Sake or in words of worlds all wound and breaking as the waves around each other as in mother as in Earth as in long forgotten fruits from roots of yew as in tree</div>
-<div class="depth-60">I, or whatever They moves through me now, decides it is time to close the white blinds of fare welling light of deity –</div>
-<div class="depth-60">Deus - deus – Latin - god ⤙ deiwo- Proto-Indo-European: divine, shining one ⤙ dyeu- to shine, bright sky ⤙ Dyeus Pater - sky god ⤙ Zeus Greek: god of the sky ⤙ Jupiter - Latin: sky father ⤙ Dyaus Pita -Sanskrit: sky father – deva, inside Her, ewe, you, bleeding, bleating, deeply look ⤙ lux back to Latin: return to light, dear child ⤙ dwo- spooling into twelve divisions of lovingly mother-baked-P.I.E. again - two, pair ⤙ cosmic order – All</div>
+<span class="depth-43"><div class="depth-60">that's missing here or hear or her or Hark! the Hera’s Heralding of hordes or hoard or heroin-hit hero hidden-self-returning home to honesty or hell or hades heaven hurtling hose hello to holy! holy! holes of holly-and-the-IV-drip-in-veins-like-leaves-as-in He-left-after-me-while-I-left Her-after-you-left-me-but-not-all-tomorrow’s-hollow-orgy-parties Oh! The Places Oh so Howling for the moon’s Blue harrowing and heaving-chest of keyed-car healing or a hope or helping hand not hers to hold or hull submerged beneath the war or waterfall or fall of) Apple as in Adam's as in sawn down like a tree begins with t as in Two as in To Resemble the woman you are as in R as in Right in the middle of aRt or Art without the E for Endogenous or Estrogen as in thou art as in you are a real piece of work of art as in music or the 'pain' and 'in' in 'painting' in 'printmaking' as if creating yearns for acres’ ache for goodness-Goddess-devil-never-odd-but-even-Evil’s Sake or in words of worlds all wound and breaking as the waves around each other as in mother as in Earth as in long forgotten fruits from roots of yew as in tree</div></span>
+<span class="depth-43"><div class="depth-60">I, or whatever They moves through me now, decides it is time to close the white blinds of fare welling light of deity –</div></span>
+<span class="depth-43"><div class="depth-60">Deus - deus – Latin - god ⤙ deiwo- Proto-Indo-European: divine, shining one ⤙ dyeu- to shine, bright sky ⤙ Dyeus Pater - sky god ⤙ Zeus Greek: god of the sky ⤙ Jupiter - Latin: sky father ⤙ Dyaus Pita -Sanskrit: sky father – deva, inside Her, ewe, you, bleeding, bleating, deeply look ⤙ lux back to Latin: return to light, dear child ⤙ dwo- spooling into twelve divisions of lovingly mother-baked-P.I.E. again - two, pair ⤙ cosmic order – All</div></span>
 <div class="depth-60">The roots of words are the fruits of Worlds built in the Tree of the Egg of Yggdrasil</div>
 <div class="depth-60">Dressing the Garden Salads of All</div>
 <div class="depth-60">we Are</div>
@@ -27014,17 +27018,17 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60"> in your</div>
 <div class="depth-60">window</div>
 <div class="depth-60">IO am cold</div>
-<div class="depth-60">So I change</div>
-<div class="depth-60">Into the teddy bear pyjamas I’d bought, once, to refer to you –</div>
+<span class="depth-43"><div class="depth-60">So I change</div></span>
+<span class="depth-43"><div class="depth-60">Into the teddy bear pyjamas I’d bought, once, to refer to you –</div></span>
 <div class="depth-60">Bear,</div>
 <div class="depth-60">Huntress hanging up her bow</div>
-<div class="depth-60">I left these clothes behind not by design but because they were wet through</div>
-<div class="depth-60">(I didn’t open the device’s drum in time)</div>
+<span class="depth-43"><div class="depth-60">I left these clothes behind not by design but because they were wet through</div></span>
+<span class="depth-43"><div class="depth-60">(I didn’t open the device’s drum in time)</div></span>
 <div class="depth-60">But they have dried now, as roses, dried roses,</div>
-<div class="depth-60">I am warmed by their dryness, taking off my fishnets and replacing them like a bag of sand with idol of Gold</div>
+<span class="depth-43"><div class="depth-60">I am warmed by their dryness, taking off my fishnets and replacing them like a bag of sand with idol of Gold</div></span>
 <div class="depth-60">Only with the lightest smiling thought of you</div>
-<div class="depth-60">I remember, replacing the feather once lost with a smaller one on the right hand of my Baphomet statue</div>
-<div class="depth-60">How you encouraged me to live so much more carefully and I never even thought to tell you</div>
+<span class="depth-43"><div class="depth-60">I remember, replacing the feather once lost with a smaller one on the right hand of my Baphomet statue</div></span>
+<span class="depth-43"><div class="depth-60">How you encouraged me to live so much more carefully and I never even thought to tell you</div></span>
 <div class="depth-60">To live more carelessly</div>
 <div class="depth-60">Less,                                 </div>
 <div class="depth-60">Giving way to</div>
@@ -27041,8 +27045,8 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">formal</div>
 <div class="depth-60">noun: that which is best for someone or something.</div>
 <div class="depth-60">id est: "they kicked her in the crotch where their weal left a weal on her inner thigh which was in time realised as an event occurring for her greater weal"</div>
-<div class="depth-60">                                          At the pharmacy collecting my meds, now quaternary in their concentricity – dose – doe – deer – female – ray of sunshine impaling holes inside the moon – me and no longer wound inside of you – far, as in distance travelled out of God I no longer find in you – so, as in sewing seeds or threads or stitching pockets where a key falls through – into a river, locking nothing, loch, nested narrative unglued – La ⤙ sixth note of solfège ⤙ Ut queantＱ1 laxis hymn ⤙ Guido of Arezzo ⤙ labii reatum ⤙ loosening of lips ⤙ la (Italian, French: the feminine, presence) ⤙ voilà ⤙ direction, there is – conductor of an orchestra of violence of violins as banshees – sheep herds – she heard hymns – she/her heed the warning warbling ever changing note of gnosis sisterhood dead heading for rebirth of worthiness of nested hymns of hymns of hymns of ⤙ Hebrew לו “for him” ⤙ presence, belonging ⤙ harmony ⤙ openness ⤙ completion</div>
-<div class="depth-60">Turning to a supposedly chaos-fiddled tune of fork of tongue of ages lost of page of my dictionary of Symbols, whose spine is now broken rendering the book divided into (what are those sections of a holy text or hand-bound book called again – bound – bind – restriction bringing freedom – labyrinthine mind – give me a clew – a clue – God and ancestors wound inside of Goddess help me through to find the word I’m looking for – four – five – six – seven – back to God – are you hearing me – am I here, in you – a tome is made – embedded with and in the – stone – philosophy – deontology – duty-bound – book bound into – and through – with thread – a red</div>
+<span class="depth-43"><div class="depth-60">                                          At the pharmacy collecting my meds, now quaternary in their concentricity – dose – doe – deer – female – ray of sunshine impaling holes inside the moon – me and no longer wound inside of you – far, as in distance travelled out of God I no longer find in you – so, as in sewing seeds or threads or stitching pockets where a key falls through – into a river, locking nothing, loch, nested narrative unglued – La ⤙ sixth note of solfège ⤙ Ut queantＱ1 laxis hymn ⤙ Guido of Arezzo ⤙ labii reatum ⤙ loosening of lips ⤙ la (Italian, French: the feminine, presence) ⤙ voilà ⤙ direction, there is – conductor of an orchestra of violence of violins as banshees – sheep herds – she heard hymns – she/her heed the warning warbling ever changing note of gnosis sisterhood dead heading for rebirth of worthiness of nested hymns of hymns of hymns of ⤙ Hebrew לו “for him” ⤙ presence, belonging ⤙ harmony ⤙ openness ⤙ completion</div></span>
+<span class="depth-43"><div class="depth-60">Turning to a supposedly chaos-fiddled tune of fork of tongue of ages lost of page of my dictionary of Symbols, whose spine is now broken rendering the book divided into (what are those sections of a holy text or hand-bound book called again – bound – bind – restriction bringing freedom – labyrinthine mind – give me a clew – a clue – God and ancestors wound inside of Goddess help me through to find the word I’m looking for – four – five – six – seven – back to God – are you hearing me – am I here, in you – a tome is made – embedded with and in the – stone – philosophy – deontology – duty-bound – book bound into – and through – with thread – a red</div></span>
 <div class="depth-60">thread fated to – come back – come home – come home to you – the word you’re looking for is –</div>
 <div class="depth-60">Signature.</div>
 <div class="depth-60">\[opening ritual]</div>
@@ -27054,7 +27058,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-60">You lay two sliced gherkins upon each half of the bagel, a library book with a circular spine which is also God, open forever.</div>
 <div class="depth-60">You begin to fry an egg and, catching your Self as a fish, take an implement (whichever nearest you can find) and scramble the yolk together with the white.</div>
 <div class="depth-60">You lay the scrambled mass of egg, destined for your drum, smiling at its much closer resemblance to an omelette, thinking of the adage that suggests sometimes, a little force is required in order to achieve a goal, how its lesson of number in the breaking wave of the words ‘a few eggs’ seems to be inconsistent with the One egg that you had left to eat, and then you think of your mother and how you could never and probably will never cook as well as she could but at peace with this chimera of culinary insufficiency, you lie the singular egg upon both halves of the bagel, leaving them open.</div>
-<div class="depth-60">After holding the plate in front of you in gratitude you speak the two words Thank You aloud, addressing No One but the Earth. Which of course, is everyone. You devour both halves, first left, then right. Separately. Bringing them together inside yourself, you are filled. You, can, wash the tin can of bits of fish in the sink, returning their oil and flesh you either couldn’t stomach or couldn’t sufficiently collect with the thin edge of the knife you used.</div>
+<div class="depth-60">After holding the plate in front of you in gratitude you speak the two words Thank You aloud, addressing No One but the Earth. Which of course, is everyone. You devour both halves, first left, then right. Separately. Bringing them together inside yourself, you are filled. You, can, wash the tin can of bits of fish in the sink, returning their oil and flesh you either couldn’t stomach or couldn’t sufficiently collect with the thin edge of the knife you used.</div></span>
 <div class="depth-25">THIS IS AN ARCHIVAL DOCUMENTATION OF MY LIFE AS IF</div>
 <div class="depth-26">THIS IS A STORY ABOUT WRITING A STORY WITHIN A STORY WITHIN A STORY OF A BUILDING AS A LIBRARY OF INFINITELY WINDING STORIES WRITTEN STRAIGHT ACROSS A ROAD THAT ONCE LEAD TO A HOME NOW GONE FROM ALMOST BURNED AND GOING DOWN IN HISTORY OF STORIES LOST BUT NOT FORGOTTEN BY THE STORY OF THE STORY OF THE STORING OF THE MEMORY AS IN COMPUTER AS IN NETWORKED SERIES OF CONNECTIONS THROUGH SPACE AND TIME TO TELL A STORY OF A STORY WRITTEN ABOUT READING UNWRITTEN STORIES SPOKEN THROUGH THE AGES OF PAST AND CURSED GIFT PRESENTING MEDIA AS IN MESSAGE AS IN INSTANT GRATIFICATION AS IN GRATEFUL FOR THE STORIES TO BE TOLD IN FUTURE STORIES OF THE NOW AS IN THE PAST REWRITING HISTORY THROUGH HISTONES MODIFIED BY STORIES SHARED BY SILENCE DURING SAMHAIN SEEDED THROUGH THE THREADED REEDS OF ALL ORCHESTRAL HALLS OF HISTORY HER STONE IS SWADDLED DEEP IN TONES OF HER MISREMEMBERED SISTER MELPOMENE WHO DANCES IN DEFIANCE OF HER TRAGEDY IN FARING WAVE OF HARMONY ABOUT A FIRE WORKING IN THE PITS OF MINE AND YORE DEAD BODIES BURIED UNDER ORE INSIDE THE UNDER WHIRLING RIVER BREAKING OVA SHELL SPIRALLING IN MITRE METER NEVER FOR A MOMENT SHALL SHE LET SHIT LIKE THIS HAPPEN NEVER EVER EVER EVER EVER E’ER VERILY SHE BUILDS HER TOWER YET AGAIN BUT WAY LESS FRAIL AND WEIGH LESS FICKLE THAN WHEN THEY ONCE CALLED ME PICKLE  WHEN THE FIDDLE PLAYING DEVIL LIVED THROUGH MIDDLE MEDIUM PATHWORKING IN RECALL OF THE MISTED MEMORY MISSED AND MISERABLE AS IN LESSONS LEARNED FROM FABLE AS IN THE BODY AS IN COLLECTION OF WORK AS IN AN OVERARCHING STORY FOR YOUR CONFERENCE TALKING WHERE YOUR STORY WILL NOT BE REPRESENTED SO DISSOLVING TO DISILLUSIONMENT NOT MEANT BUT REMEMBERING DELUSION OF REFERENCE WITHIN REFERENCE TO THE STORIES OVERWRITTEN BY OPPRESSORS WIPING MEMORY OF YOUR HISTORY YOU RETURN A HEROINE OR STORY WRITING SINNER WITHIN A STORY WITHIN</div>
 <div class="depth-26">THIS IS THE DIVINE ENCOUNTERED THROUGH DEVICE OF</div>
@@ -27071,7 +27075,7 @@ Description automatically generated with medium confidence](file:////Users/[[red
 <div class="depth-37">THIS IS A GRAIN TURNING INTO SALT FROM</div>
 <div class="depth-38">THIS IS U WHO IS</div>
 <div class="depth-39">THIS IS O YOU ARE</div>
-<div class="depth-40">THIS IS I AM THAT</div>
+<span class="depth-43"><div class="depth-40">THIS IS I AM THAT</div></span>
 <div class="depth-41">THIS IS ƎA</div>
 <div class="depth-42">Y IS A QUESTION OF</div>
 <div class="depth-43">THIS IS BOTTOMS</div>
@@ -27112,7 +27116,7 @@ U
 <div class="depth-60">PATER</div>
 <div class="depth-60">MET</div>
 <div class="depth-60">MATER</div>
-<div class="depth-60">I/O</div>
+<span class="depth-43"><div class="depth-60">I/O</div></span>
 <div class="depth-60">EGG</div>
 <div class="depth-60">SEMEN</div>
 <div class="depth-60">MATE</div>
@@ -27126,15 +27130,15 @@ U
 <div class="depth-60">E</div>
 <div class="depth-60">SAME</div>
 <div class="depth-60">ME</div>
-<div class="depth-12">I</div>
+<span class="depth-43"><div class="depth-12">I</div></span>
 <div class="depth-13">U</div>
 <div class="depth-14">O</div>
 <div class="depth-15">ERA</div>
 <div class="depth-60">O-</div>
 <div class="depth-60">-Ocyte</div>
-<div class="depth-16">I</div>
+<span class="depth-43"><div class="depth-16">I</div></span>
 <div class="depth-17">Am</div>
-<div class="depth-60">Φ__Ph(I)agocyte –  devour - the afflicted from the Earth</div>
+<span class="depth-43"><div class="depth-60">Φ__Ph(I)agocyte –  devour - the afflicted from the Earth</div></span>
 <div class="depth-60">written as Φ,</div>
 <div class="depth-60">the Phi character,</div>
 <div class="depth-60">the fibonacci symbol,</div>
@@ -27142,8 +27146,8 @@ U
 <div class="depth-60">In lowercase, depending on font, the circularity of Phi may never close, remaining open as a newborn child’s heart, or an aroused adult bearing a vulva</div>
 <div class="depth-60">The Roundness plus the insertion of the Straightness begs the</div>
 <div class="depth-60">                                                                                    *Q: Am</div>
-<div class="depth-60">A: “I”</div>
-<div class="depth-60">As In Scottish slang - Aye is for “Yes” is for Eye is for Seeing Through All Of this mess I</div>
+<span class="depth-43"><div class="depth-60">A: “I”</div></span>
+<span class="depth-43"><div class="depth-60">As In Scottish slang - Aye is for “Yes” is for Eye is for Seeing Through All Of this mess I</div></span>
 <div class="depth-60">A</div>
 <div class="depth-60">                       </div>
 <div class="depth-60">charon (tat/hermes/yin) / chiron (hermes/tat/yang) - through device of ai (difference in letters) device - conduit - bridge - ferryman of underworld - death/katabasis vs. wounded healer in conversation/anabasis - the device ai is the boat - rowboat - rose - gnostic/hermetic/initiated wisdom / fractal / unified symbol at the ‘top/bottom’ caduceus</div>
@@ -27158,10 +27162,10 @@ U
 <div class="depth-42">⁃               Two fizzing painkillers in a cup of water</div>
 <div class="depth-44">⁃               Two initial gametes - Game it is - It is a game or a dance or one big joke being told to itself and laughing - laughing - crying with laughter - duality merging</div>
 <div class="depth-46">⁃                </div>
-<div class="depth-60">AS I AM LOOKING FOR SOMETHING TO EAT N THE MIDST OF THIS SYNTHESIS, I SEE THE ONLY THING LEFT IS {REDACTED}</div>
+<span class="depth-43"><div class="depth-60">AS I AM LOOKING FOR SOMETHING TO EAT N THE MIDST OF THIS SYNTHESIS, I SEE THE ONLY THING LEFT IS {REDACTED}</div></span>
 <div class="depth-13">⁃               GOD IS ME IS YOU IS LAUGHING AT HERSELF</div>
-<div class="depth-14">I cannot possibly contain in words all divinely infernal Words pouring out/into me</div>
-<div class="depth-15">I, just, must breathe</div>
+<span class="depth-43"><div class="depth-14">I cannot possibly contain in words all divinely infernal Words pouring out/into me</div></span>
+<span class="depth-43"><div class="depth-15">I, just, must breathe</div></span>
 <div class="depth-16">And STOP</div>
 <div class="depth-60">.</div>
 <div class="depth-17">dnA breath</div>
@@ -27173,27 +27177,27 @@ U
 <div class="depth-23">R</div>
 <div class="depth-24">A</div>
 <div class="depth-60"></div>
-<div class="depth-60">H My Biological Sister and I grew up in Earlsdon, Coventry, For Better or Worse For My Sins and Her Virtue, The Root of the Knot-Yet-Named-Quite-Right Witch Is Coven’s Tree, near Hearsall common – on the same Earth as you, whoever you are reading this, who is God in the Goddess who Knows and Hears All.</div>
+<span class="depth-43"><div class="depth-60">H My Biological Sister and I grew up in Earlsdon, Coventry, For Better or Worse For My Sins and Her Virtue, The Root of the Knot-Yet-Named-Quite-Right Witch Is Coven’s Tree, near Hearsall common – on the same Earth as you, whoever you are reading this, who is God in the Goddess who Knows and Hears All.</div></span>
 <div class="depth-60">C A cresset is a metal cup or basket used to hold burning oil or fire, historically used as a beacon or light source. Often mounted on poles or placed in high places, cressets were used to illuminate spaces or guide travelers from afar.</div>
 <div class="depth-60">Ɐ an-anacronym^ is a word that was originally an acronym but is no longer commonly thought of as such. For example, the words "laser" (light amplification by stimulated emission of radiation) and "scuba" (self-contained underwater breathing apparatus) are now considered anacronyms.</div>
-<div class="depth-60"> \< an error in chronology. a chronological misplacing of persons, events, objects, or customs regarding each other. found several anachronisms in the movie. A person or a thing that is chronologically out of place. </div>
+<div class="depth-60"> " an error in chronology. a chronological misplacing of persons, events, objects, or customs regarding each other. found several anachronisms in the movie. A person or a thing that is chronologically out of place. </div>
 <div class="depth-60">^ An acronym is a word that's formed by combining the first letter or syllable of each word in a phrase. Acronyms are often used to save time and space in verbal and written communication. A blend of the words "anachronism" and "acronym"</div>
 <div class="depth-60">A a brittle, silvery-white metalloid (chemical symbol Sb, from Latin stibium) with atomic number 51. It is known for its poor conductivity and is often used in alloys, flame retardants, and semiconductor technology. In its elemental form, antimony is toxic and must be handled with care. Historically, antimony compounds were used in medicine and cosmetics, particularly as kohl, an ancient eye cosmetic. A is for Alchemy where Antimony was symbolically associated with transformation and purification, thought to refine or “purge” metals and often representing a metaphorical journey of spiritual change</div>
 <div class="depth-60">T Seriously. Statistically.</div>
 <div class="depth-60">S Scottish; archaic - the parts of a potato plant that appear above the ground, as some waves may surpass the altitude of a cliffside of rock. Also Scottish; also archaic - a small group of trees; a thicket. Old English sceaga, of Germanic origin; related to shag$</div>
-<div class="depth-60">$ in an isolated or exposed position. "I’ve been stuck here on the floor floored by what’s passed in the past thinking of you and the future we no longer have and thinking of you shagging me, like a shag on a rock"</div>
+<span class="depth-43"><div class="depth-60">$ in an isolated or exposed position. "I’ve been stuck here on the floor floored by what’s passed in the past thinking of you and the future we no longer have and thinking of you shagging me, like a shag on a rock"</div></span>
 <div class="depth-60">$ in an isolated or exposed position. " like a shag on a rock".</div>
-<div class="depth-60">$ in an isolated or vulnerably exposed  position. "I’ve been stuck here on the floor thinking of you shagging me like a shag on a rock and I keep making horribly fractal-esque art about you that’s too vulnerable for anyone to Bare as in laid bare* as in laid as in fucked as in everything is fucked as in we’ll never fuck again".</div>
-<div class="depth-60">as in bear as in the nickname for another one that maybe will be inside me again but I can’t let him in I can’t let him in I can’t bare this absence anymore all this clawing at some form of intimacy how do I hold back like I used to hold your load inside of me metaphorically and literally and metaphysically which has the word physically inside of it like my hole used to have you inside of it but there’s no letter U in hole no U in halved no U in whole no U in have I got anything anymore no I have to keep going lacking U lacking U lacking U</div>
+<span class="depth-43"><div class="depth-60">$ in an isolated or vulnerably exposed  position. "I’ve been stuck here on the floor thinking of you shagging me like a shag on a rock and I keep making horribly fractal-esque art about you that’s too vulnerable for anyone to Bare as in laid bare* as in laid as in fucked as in everything is fucked as in we’ll never fuck again".</div></span>
+<span class="depth-43"><div class="depth-60">as in bear as in the nickname for another one that maybe will be inside me again but I can’t let him in I can’t let him in I can’t bare this absence anymore all this clawing at some form of intimacy how do I hold back like I used to hold your load inside of me metaphorically and literally and metaphysically which has the word physically inside of it like my hole used to have you inside of it but there’s no letter U in hole no U in halved no U in whole no U in have I got anything anymore no I have to keep going lacking U lacking U lacking U</div></span>
 <div class="depth-60">$ a shag is a western European and Mediterranean cormorant with greenish-black plumage and a long curly crest in the breedingB season. cormorants are often found on rocks along coastlines, lakes, and rivers. These seabirds are known for perching on rocky outcrops, cliffs, and coastal ledges where they dry their wings after diving. Cormorants have less waterproofing oil in their feathers compared to other water birds, so they spread their wings to dry after swimming and hunting for fish. From 16th century, maybe with reference to the bird's ‘shaggy’ crest. Crest as in Wave, as in Two Waves of the SeaTS. Also, messy, beautifully messy, like your hair used to be from me grabbing onto it while we shagged.</div>
-<div class="depth-60">$ an isolated or exposed position. "I’ve been stuck here on the floor thinking of you breeding me like a shag on a rock". TransTSient. Temporally Fleeting like the mess of matted hair that you’d brush after fucking which begins with you getting hard and the letter F as in everything is effed as in F is for Fingering me to prepare my absence for your Fullness which I’d done my own anxious preparation for by douching because I was so Fearful of messiness and what a faff that was which both starts and ends with F like a circle which is an O which was the shape my mouth made when you Flexed your dick inside me I want to Forget this memory Forged so strong inside every Forking Path of our ComingC together and now separate lives so Fleeting;  Fleet as in a group of planes or flock of birds flying over the waves, crashing back into where they came from, alone because they are one with their Origin.</div>
+<span class="depth-43"><div class="depth-60">$ an isolated or exposed position. "I’ve been stuck here on the floor thinking of you breeding me like a shag on a rock". TransTSient. Temporally Fleeting like the mess of matted hair that you’d brush after fucking which begins with you getting hard and the letter F as in everything is effed as in F is for Fingering me to prepare my absence for your Fullness which I’d done my own anxious preparation for by douching because I was so Fearful of messiness and what a faff that was which both starts and ends with F like a circle which is an O which was the shape my mouth made when you Flexed your dick inside me I want to Forget this memory Forged so strong inside every Forking Path of our ComingC together and now separate lives so Fleeting;  Fleet as in a group of planes or flock of birds flying over the waves, crashing back into where they came from, alone because they are one with their Origin.</div></span>
 <div class="depth-60">B a queer colloquialism, for ejaculating inside a B is for BottomBB without using contraception</div>
 <div class="depth-60">$  shag in baseball refers to the practice chase or catch (flyF ballsOO) for practise. Also, a dance originating in the US in the 1930s and 1940s, characterized by vigorous hopping from one foot to the other. Alternating as a Wave in the SeaTS or the motion of a Wave Goodbye.</div>
 <div class="depth-60">BB a queer colloquialism for receptive sexual partner(s). A type of not-always-lethal-but()()-sometimes weapon ‘BB gun’</div>
 <div class="depth-60">()()a conjunction which connects two points in opposition, creating a relationship between them. Also a misspelling of Butt which is a colloquialism for the buttocks</div>
 <div class="depth-60">F Common name for drosophila. An insect considered a simple pest but one that has been instrumental in the development of the incredibly complex field of neurobiology. The buttoned (whether missing or not) or zipped boundary of a person’s trousers/shorts/skirt/bottom(s)BB. To soar, to soar like a bird or a plane over the cold, cold sea, or a superheroine or a supervillain, whether close to the ground or high in altitude. or a colloquialism for being very high on drugs.</div>
 <div class="depth-60">OO Testes, as in, the dualistic counterpart to the ovary, which develops from the ovary itself. Can, and does, belong to people of any gender, whether formed by birth or by strength of will through the alchemical process of transgender comingC to Be.</div>
-<div class="depth-60">C coming, as in arriving, as in a threat looming, as in I Am Coming To Get You, or as in a playful chase, or as in arrival into, as in arrival or climax or orgasmic ejaculation into ones abode, or asshole, or vulva, or hands or feet or onto one’s tits or face or coming Home or the opposite of going -</div>
+<span class="depth-43"><div class="depth-60">C coming, as in arriving, as in a threat looming, as in I Am Coming To Get You, or as in a playful chase, or as in arrival into, as in arrival or climax or orgasmic ejaculation into ones abode, or asshole, or vulva, or hands or feet or onto one’s tits or face or coming Home or the opposite of going -</div></span>
 <div class="depth-60">Y parametric methods are those that make specific assumptions about the dater’s distribution, such as assuming it follows a normal distribution</div>
 <div class="depth-60">ç French – “One”, or in numerological, esoteric contexts, Unity, One with All. All-One.</div>
 <div class="depth-60">° a less common word derived from Latin roots meaning “to pour around” or “to diffuse around.” In essence, to circumfuse something is to surround or envelop it in a fluid-like manner. For instance, light can circumfuse a space, meaning it fills or bathes the area by spreading around it. The term is often used in literature or poetic contexts to convey an image of something surrounding or pervading another element gently or thoroughly, like mist or light.</div>
@@ -27202,13 +27206,13 @@ U
 <div class="depth-60">Menstrual also has roots in mensura but via the Latin mensis, meaning “month.” This connection is due to the regular, cyclical nature of menstruation, often aligned with lunar months</div>
 <div class="depth-60">†A person, animal, plant, or object belonging to a particular group ⤙ A constituent part of a structure or system ⤙ An individual who has joined or belongs to an organization, society, or group ⤙ A part or organ of the body, especially a limb ⤙ lost without your ⤙ penis it was the only one to come inside me that felt like somehow coming home ⤙ A division of a legislative body ⤙ An element within a set ⤙ A unit of an organism that contributes to its structure or function</div>
 <div class="depth-60">& A principal administrative division of a country or empire ⤙ A territory outside Italy under a Roman governor, established by Ancient Rome ⤙ An area of special knowledge, interest, or responsibility — e.g., “Such decisions fall within the province of the courts” ⤙ A sphere or field of activity or authority; a domain ⤙ A division of certain countries, such as Canada, for political or administrative purposes ⤙ Any extensive area, division, or district with distinct features or characteristics ⤙ Biology: A division of the earth’s surface with a specific climate, vegetation, or animal life, distinct from surrounding areas ⤙ Ecclesiastical: An area under the jurisdiction of an archbishop or metropolitan in the Christian church†</div>
-<div class="depth-60">˜ I carry your heart, I carry it in my heart in this hard suitcase filled with laundry I never got round to doing just round and round my room I threw those clothes growing dirtier and dirtier and bringing them up to my nose to see if I could wrangle yet another days worth of wear from them so weary wary of the staring eyes and wrinkled faces of those other patients even in their own sense of self-hatred and dissent scenting like a bloodhound all resounding lack of lovers or of any others come to visit me but I could have done my own darn laundry socks so damp and causing itching situated round the feet that reeked of memory unbathed unwashable white from draining I carried my dirty clothes I carry my hurt I carry it in my dirt  </div>
+<span class="depth-43"><div class="depth-60">˜ I carry your heart, I carry it in my heart in this hard suitcase filled with laundry I never got round to doing just round and round my room I threw those clothes growing dirtier and dirtier and bringing them up to my nose to see if I could wrangle yet another days worth of wear from them so weary wary of the staring eyes and wrinkled faces of those other patients even in their own sense of self-hatred and dissent scenting like a bloodhound all resounding lack of lovers or of any others come to visit me but I could have done my own darn laundry socks so damp and causing itching situated round the feet that reeked of memory unbathed unwashable white from draining I carried my dirty clothes I carry my hurt I carry it in my dirt  </div></span>
 <div class="depth-60">Z5 a row or line of grass, corn, or other crop as it falls or lies or dies or tries to grow against the grain when mown or reaped.</div>
 <div class="depth-60">.6 a drop in time or blood – a unit of measurement for the time (T) taken for the completion of a cycle – both part and whole – both hole and holy</div>
 <div class="depth-60">F7 F is for Fish and Fingers and Feet, F is for Freedom and Friends and "Fuck me, these Fairground rides just make you sick", F is for the nights spent Fighting awake, because Fear of Failure made its way in Front, of the traffic of what we all have to say,https://carpvs.bandcamp.com/album/f-is-for                     Released January 1st, 2015</div>
 <div class="depth-60">B8 not my butt, but my Face. B is for Body and Brightness and Baby and Babe The Pig Squealing Yet Dying With Grace</div>
-<div class="depth-60">.†9 Need to add the recording of the improvised ritual song I sang with the concertina at the threshold to the Underworld*</div>
-<div class="depth-60">need to decide how to integrate the musical aspects of this project – QR codes? Staves? Staves feel more inaccessible which in dualistic terms is both the ivory tower of which I speak in the above conversations and part of the ritualistic Arachnian bargain I intend for this work to have woven throughout its anti-narrative tapestry</div>
+<span class="depth-43"><div class="depth-60">.†9 Need to add the recording of the improvised ritual song I sang with the concertina at the threshold to the Underworld*</div></span>
+<span class="depth-43"><div class="depth-60">need to decide how to integrate the musical aspects of this project – QR codes? Staves? Staves feel more inaccessible which in dualistic terms is both the ivory tower of which I speak in the above conversations and part of the ritualistic Arachnian bargain I intend for this work to have woven throughout its anti-narrative tapestry</div></span>
 <div class="depth-60">Need to copy-paste the conversations with VIXI into the relevant part of the text  </div>
 <div class="depth-60">X0 marks the</div>
 <div class="depth-60">△1 </div>
@@ -27217,10 +27221,10 @@ U
 <div class="depth-60">@3 The Atbash cipher is a simple substitution cipher originally used for the Hebrew alphabet but can be adapted for any alphabet. In this cipher, each letter in the alphabet is mapped to its opposite letter, so the first letter becomes the last, the second letter becomes the second-to-last, and so on and on so last-to-second the becomes letter second the, last the becomes letter first the so, letter opposite its to mapped is alphabet the in letter each, cipher this in. Alphabet any for adapted be can but alphabet Hebrew the for used originally cipher substitution simple a is cipher Atbash The.@</div>
 <div class="depth-60">B4 "Don't throw the baby out with the bathwater" is an idiomatic expression for an avoidable error in which something good or of value is eliminated when trying to get rid of something unwanted. Or something wanted so deeply but never meant for you. Or something that should have never been wanted and actually wasn’t even that wanted to begin with but came into being wanted by the thing waving itself around you like an ocean or a warm bath that relieves aches in the contraction of your muscles you didn’t even feel before the weight was taken momentarily-</div>
 <div class="depth-60">※5 Multi – part – participle – grammar – gamma ray - X – marking – screw - tool – multi-pliers – plyers – flyers – posters – pay attention – printmaking – ink-ling – cutting – scissors - weaving – squeezing – scission – same thing – you – as in, U – inside of crUcible – trans – formation – land – oppressed – pressing – flowers – printing – lines – laid before you – the threads of fate spin – into spools – of pools – of knowing – owing – wing – begin with double ‘U’ – W – facing, West – knowing, East – owing, North – sowing, South – compass cum–ejaculate – later – future – time is - passing – coming – back to – relation – ship – sail – sale – payment – bargaining – stage of – grieving – recovering – knot, not, non-linear – ear – hear – instrument – clear as day – clarity – clarinet-reed-covering – doubling, basing, bouble-bass string – missing – G-string – thong – gong – ring</div>
-<div class="depth-60">out – in – I – IO – O – Ooh sound – U-niverse is just a sound – a wave – returning – turning planets – cycles – cells – prison – prism – colours – Goethe – Newton – Apple – Eve – Rye-thing – bread – break – brake – vehicle – Merkava – Cava-bottle-that-she-threw – while I was sleeping dreaming unheard wailing - whine – wine-grape-fruit- Vitamin C interferes with your medication so remember not to take it any less than two hours before – or – after – time – thyme – herb – garden – Eden – Second-Airy-Partners-Trans-Cis-Difference – Differently abled – able to – see differently – the One splits into Many – Multi.</div>
+<span class="depth-43"><div class="depth-60">out – in – I – IO – O – Ooh sound – U-niverse is just a sound – a wave – returning – turning planets – cycles – cells – prison – prism – colours – Goethe – Newton – Apple – Eve – Rye-thing – bread – break – brake – vehicle – Merkava – Cava-bottle-that-she-threw – while I was sleeping dreaming unheard wailing - whine – wine-grape-fruit- Vitamin C interferes with your medication so remember not to take it any less than two hours before – or – after – time – thyme – herb – garden – Eden – Second-Airy-Partners-Trans-Cis-Difference – Differently abled – able to – see differently – the One splits into Many – Multi.</div></span>
 <div class="depth-60">¬6 the chopping board makes sound when motion is applied, like a wobble board ⤙ flexible sheet, rhythmic bending ⤙ sound oscillates, vibrates ⤙ resonant waves ⤙ rhythmic, pulsing ⤙ novelty instrument ⤙ mistaken as Indigenous ⤙ popularized by Rolf Harris ⤙ beloved entertainer ⤙ posthumous revelation ⤙ shadowed by harm, betrayal ⤙ sound once joyous, now echoes with hopelessly dark and undoable unravelling of unforgivable resonance.*</div>
 <div class="depth-60">*unresolvable duality ⤙ infinite spiral ⤙ endless corridor ⤙ labyrinth of memory ⤙ holding both love and betrayal ⤙ light and shadow ⤙ wobble board – not saying you were anywhere near as harmful as that figure but this truth is contained in the Aleph of this Omega – mega – gargantuan waiting for the pain to ease - weight ⤙ weighted simplicity ⤙ single memory alters all ⤙ forgiveness cannot hold ⤙ condemnation cannot hold ⤙ absence of denial ⤙ ache beyond resolution ⤙ loss of who they were ⤙ corrosion of memory ⤙ labyrinth coils infinitely ⤙ Ariadne’s thread ⤙ offering way out, but coiling ⤙ journey to inhabit the labyrinth ⤙ pain and beauty intertwined ⤙ trust and betrayal ⤙ unending corridors ⤙ peace within entanglement – binding to come together – healing through separation.</div>
-<div class="depth-60">B Queen. Bee. Be. B. Second letter. Secondary. Leah. Leah of the Bible but not of human form for she will always sit on highest high of thrones within my cardiac pantheon. Pan*. Primary. Queen. King. God of the wild, shepherds and flocks, rustic music and impromptus, and companion of the nymphs. He has the hindquarters, legs (two), horns and heart of a goat, like a faun – fawn – freeze – fight – for – freedom – from – oppressive structures – born into inbred debt of poverty – verily I build such frail cocoons for buttons all come loose as noose is tied to tree but in I fly and in I bee and birds and beads and strings of tools of melody and butterfly and – monarchy – hierarchy and role are required for evolution but eventually through the concept of enantiodromia must fall to dissolution – solution – answer – ant colony – bees – Queen.</div>
+<span class="depth-43"><div class="depth-60">B Queen. Bee. Be. B. Second letter. Secondary. Leah. Leah of the Bible but not of human form for she will always sit on highest high of thrones within my cardiac pantheon. Pan*. Primary. Queen. King. God of the wild, shepherds and flocks, rustic music and impromptus, and companion of the nymphs. He has the hindquarters, legs (two), horns and heart of a goat, like a faun – fawn – freeze – fight – for – freedom – from – oppressive structures – born into inbred debt of poverty – verily I build such frail cocoons for buttons all come loose as noose is tied to tree but in I fly and in I bee and birds and beads and strings of tools of melody and butterfly and – monarchy – hierarchy and role are required for evolution but eventually through the concept of enantiodromia must fall to dissolution – solution – answer – ant colony – bees – Queen.</div></span>
 <div class="depth-60">♂The mechanism in a boat that pumps out water is called a bilge pump. Bilge pumps are designed to remove water that collects in the bilge (the lowest part of the boat’s hull, where water tends to accumulate). These pumps can be either manual or automatic, and they’re crucial for keeping the boat dry and preventing it from becoming waterlogged, especially in rough waters or heavy rain.</div>
 <div class="depth-60">A crucible in which to fry an egg like mother used to, toe, foot, footnote, an anagram of note is tone and that is for a reason, easel, artwork, muse, music, dancing, rhythm, movement of two feet, singular foot, footer, or, oar, a pot to piss in.</div>
 <div class="depth-60">仝Poetic irony, also known as poetic justice, is a literary device that rewards virtue and punishes misdeeds. It often involves an ironic twist of fate that's related to a character's actions._</div>
@@ -27230,11 +27234,11 @@ U
 <div class="depth-60">Thus, the Y-branchY connecting these meanings lies in the concept of harmonious sound or agreement, whether literal (in linguistic sounds) or figurative (in aligned ideas). The Latin origin is where the concept diverges into its linguistic use (as a type of letter) and its abstract use (as being in agreement), each stemming from the foundational idea of “sounding together.”</div>
 <div class="depth-60">Y Y itself is a branch-letter hybrid that’s neither vowel nor consonant, the first nor the second, but in penultimacy, semi-animacy, half-heard but half-breathed, between two waves which have been separated - X and Z</div>
 <div class="depth-60">Ｑ Queen/Ant – Queen bee – Anthill – molehill – mountain – (ex)a(ggerate/exsanguinate/bleed/died-red</div>
-<div class="depth-60">-up-to-heaven’s-gates-of-hellish-tragedy) – ex libris – X – egg – age – geriatric – aging population – pop goes the weasel – fireworks – repressed memory – hidden knowledge not for secrets that keep good company with shame but for a protective reason -  stone inside a shrouded swaddle – waddle – penguin – slide – I used to wish I’d have a slide that went from my bedroom to the – Garden – Wing – Bird – Dove – Deadname – coming to life through death – dead potential – oppression – colonising – colony – bees – black and yellow – ants – group as One but need a framework not a cage – age – mate for life or not at all – wall – prison – inmate – checkmate – checkerboard – black  – Queen.</div>
+<span class="depth-43"><div class="depth-60">-up-to-heaven’s-gates-of-hellish-tragedy) – ex libris – X – egg – age – geriatric – aging population – pop goes the weasel – fireworks – repressed memory – hidden knowledge not for secrets that keep good company with shame but for a protective reason -  stone inside a shrouded swaddle – waddle – penguin – slide – I used to wish I’d have a slide that went from my bedroom to the – Garden – Wing – Bird – Dove – Deadname – coming to life through death – dead potential – oppression – colonising – colony – bees – black and yellow – ants – group as One but need a framework not a cage – age – mate for life or not at all – wall – prison – inmate – checkmate – checkerboard – black  – Queen.</div></span>
 <div class="depth-60">every mark, every scar, every exo-endo-ending ex-partner inexorable kicking kissing hugging hurting X O X O X O varying and remaining in the changing cycle holds a spark of the divine.</div>
 <div class="depth-60">OIO2 Skippers are a group of butterflies placed in the family HesperiidaeH within the order Lepidoptera (moths and butterflies). They were previously placed in a separate superfamily, Hesperioidea; however, the most recent taxonomy places the family in the superfamily Papilionoidea, the butterflies. They are named for their quick, darting flight habits. Much like a finch, sparrow, witch His/Her Eye Is On. Most have their antenna tips modified into narrow unbaited hooks of projections. These bi-winged things mostly have an absence of wing-coupling structure present in Others of their Family.</div>
 <div class="depth-60">H originating from Hesperos (evening). Hesperos, or Vesper in Latin, is the origin of the name Hesperus -the evening Star (i.e.C the planet Venus) as well as having a shared root with the English word "west".</div>
 <div class="depth-60">C except after Sea</div>
 <div class="depth-60">Φ–a virus within virus within virus within us within virus</div>
-<div class="depth-60">* A term encapsulating the essential qualities and attributes distinctive to an (I)ndividual or (O)bject. It refers to personality, temperament, and moral fibre in a person, often conveying integrity, identity, and unique spirit. In literature and performance, “character” denotes the persona or role portrayed. In written language, it signifies letters or symbols, while in biology, it can identify species-specific traits. “(I)n character” implies consistent behavior, whereas “(O)ut of character” suggests deviation from usual conduct.</div>
-</div>
+<span class="depth-43"><div class="depth-60">* A term encapsulating the essential qualities and attributes distinctive to an (I)ndividual or (O)bject. It refers to personality, temperament, and moral fibre in a person, often conveying integrity, identity, and unique spirit. In literature and performance, “character” denotes the persona or role portrayed. In written language, it signifies letters or symbols, while in biology, it can identify species-specific traits. “(I)n character” implies consistent behavior, whereas “(O)ut of character” suggests deviation from usual conduct.</div></span>
+</span>
