@@ -4,8 +4,8 @@
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
 ****
-**Isn't N for** 
-![[Barnabie]]
+**Isn't N the hunting for the Origin of** 
+Bear?
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 ****
@@ -14,12 +14,12 @@
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 ****
-**Scratch that. N is for**
+**Or for the loss of N in**
 ![[Beauty]]
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 ****
-**Or actually, yes N is for**
+**So I say, N: you must be for**
 ![[Bellows]]
 
 **🜃 / ♜  | OBS: 18:00 | N=10³⁶**
@@ -41,7 +41,7 @@
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
 ****
-**Though, Isn't N for** 
+**A message: N. A**
 
 ![[Bottle]]
 
@@ -53,7 +53,7 @@
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 ****
-**Scratch that. N is for**
+**All: be N for**
 ![[Borges]]
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
@@ -62,7 +62,7 @@
 ![[Branch]]
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 ****
-**Wait, wait, it's for**
+
 ![[Breath]]
 
 
@@ -73,7 +73,7 @@
 
 **🜄 / ♝ | OBS: 21:00 | D=3**
 ****
-**whtifNfor**
+**Then Nmust
 ![[Burn]]
 
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**

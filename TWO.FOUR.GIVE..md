@@ -1,3 +1,18 @@
+---
+title: THE CHILDREN'S GOSPEL MUSIC SONGBOOK.
+---
+<div style="line-height: 0.6; font-size: 7pt;">N.B. in Modern Context:</div>
+
+<div style="line-height: 0.9; font-size: 12pt;">TWO.
+FOUR.
+GIVE.</div>
+	<div style="line-height: 0.9; font-size: 7pt;">-The Character 
+	<div style="line-height: 0.9; font-size: 7pt;">of 
+	Callie </div>
+	<div style="line-height: 0.9; font-size: 7pt;">Rose P</div>
+	et
+	al</div>
+<div style="line-height: 0.9; font-size: 7pt;">.</div><br><br>
 EPITAPH
 ---
 > It is, surely, absurd to expect to feel normal, and make sense: I am an amalgamation of fervent cells existing despite all odds; I am the cascading chemical miracle of eating, and surviving; I am not designed to “feel normal”; am not designed, at all; I am experiencing consciousness as provided by wet tangles of electrical pulses; my god, none of this makes sense. It is a blessing, even to feel
@@ -137,48 +152,8 @@ EPIGRAPH
 ![[Why B is for]]
 
 
-**var N = B** 
 
-**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-**Isn't N the hunting for the Origin of** 
-Bear?
-
-**🜂 / ♞  | OBS: 15:00 | ε=0.007**
-**Or for the loss of it in**
-![[Beauty]]
-
-
-**🜃 / ♜  | OBS: 18:00 | N=10³⁶**
-**Listen. I am telling you N is**
-![[Bellows]]
-
-
-**🜄 / ♝ | OBS: 21:00 | D=3**
-**N.**
-![[Bestow]]
-
-
-**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-**But all these mean to justify the N for** 
-![[Body]]
-
-**🜂 / ♞  | OBS: 15:00 | ε=0.007**
-**I was taken in, as in the**
-![[Breath]]
-
-
-**🜃 / ♜  | OBS: 18:00 | N=10³⁶**
-**Then N demands to be for**
-![[Burn]]
-
-**🜄 / ♝ | OBS: 21:00 | D=3**
-**A message: N. A**
-![[Bottle]]
-
-**All: be N for**
-**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵** 
-![[Borges]]
-
+![[B IS FOR]]
 
 ---
  II | …for is ܒ | Oar: Gly{ph}
@@ -332,11 +307,16 @@ Through a vent there was {in will|as in|striving|to be} {a letter, made of|defin
 ---
  VII | …for is ܙ  | Oar: Ser
 
+---
+
 
 ![[F IS FOR]]
 
 ---
  VIII | …for is ܚ | Oar: {pup}Il{ag}e
+
+---
+
 ~~~	
 FAO: ᴺᵒᵉᵗMahler, The Grand Hall
 BCC: VIXI.
@@ -354,6 +334,9 @@ I know that you may not wish to speak to me following our breakup, but I wanted 
 
 ---
 IX | …for is ܛ | Oar: {nuc}Leu{s}
+
+---
+
 
 ᴺᵒᵉᵗMahler was far too busy engrossed in the finalisation of his 10th symphony, a cross-temporal collaboration with a Character (to whom this Letter was {k}not addressed), to notice the Letter that had been dropped by that most mysterious Pigeon through the Vent of his concert hall, in the Musicology Wing of the Indefinite Library of Fable. Perhaps, had the note been written upon Manuscript, he would have eventually got round to reading the divisive farewell sent by his ex-lover. But alas, it would be at least Ten Thousand of our Human, or one million of their Numan, years before the paper would be lifted by the Holy ᴺᵒᵉᵗ of Musicology, from the littered, waxed floor, which itself once longed for the tapping feet of lovers dancing upon it. But now, the hexagonal tiles merely offered an abominable reflection of Mahler's tired face -- a visage he tried so hard to avoid. Perhaps this was why it took him so long to get round, round to picking up the correspondence from ᴺᵒᵉᵗBorges. At which point, it would be thrown into the bin, before Opening the Foreword of a hefty manuscript Noetbook, a tome of tones embedded into sheet music, by a soon to be renowned composer and performance artist, known as
 
@@ -378,6 +361,9 @@ There was no way through.
 
 ---
 X | …for is ܝ  | Oar: {re{ci}}**Pro**{se|duction|city}
+
+---
+
 
 Atop the Mezzanine in the Bothy in the Tundra that surrounded the Indefinite Library that Surrounded All, N. was Now, weeping. Dante, licking the salty tears from their face; an {in|ef{flux}} of {sa{l|t}ie{nce|ty}--
 
@@ -406,6 +392,8 @@ N. slumped downward, into the soft cushioning of the futon, where Flo held them 
 ---
 XI | …for is ܟ  | Oar: {an}**Thr**{opomorhism||ough|ead}
 
+---
+
 
 They dreamed that they weren't thinking
 They dreamed that they weren't thinking about anything 
@@ -428,6 +416,9 @@ They are
 ---
 XII | …for is ܠ  | Oar: {{Hylo|Diffeo|A}morp}|{(||)**His**(tone)(\_)(m)}(odification)}
 
+---
+
+
 ![[J IS FOR]]
 
 ---
@@ -446,6 +437,8 @@ Sighing exasperatedly, he placed the paper back in its folio above his desk.
 ---
 XIII | …for is ܡ | Oar: G{öde}l{ia}n
 
+---
+
 
 ![[Observe. Silence.]]
 
@@ -457,6 +450,9 @@ XIII | …for is ܡ | Oar: G{öde}l{ia}n
 
 ---
 XIV | …for is ܢ  | Oar: As{I}n, Asparagine
+
+---
+
 
 
 ![[From Cradle to Casket to Castle]]
@@ -527,6 +523,10 @@ And {{To|(get)}|her}}, for one last time, they dreamed-
 ---
 XV | …for is ܣ | Oar: Cys
 
+---
+
+
+
 ![[N. N is for Name.]]
 
 
@@ -572,6 +572,11 @@ Attachment(1)
 
 ---
 XVI | …for is ܥ | Oar: Phe{Us}
+
+---
+
+
+
 ~~~
 FAO: ᴺᵒᵉᵗTuring, The Server Room
 BCC: VIXI.  
@@ -620,6 +625,9 @@ it told Borges Everything he needed to know.
 ---
 XVII | …for is ܦ | Oar: Arg
 
+---
+
+
 ![[Q IS FOR]]
 
 
@@ -632,6 +640,10 @@ XVII | …for is ܦ | Oar: Arg
 
 ---
 XVIII | …for is ܨ | Oar: Lys
+
+---
+
+
 
 Streaming, satisfying, like the first piss of the morning unshackled, light reflected from the Moat, and poured through the Bothy window, where VIXI's impression still stuck, seemingly impervious to countless bouts of melted snow. A perverted inversion of a dandelion clock's ephemerality.
 
@@ -767,6 +779,9 @@ Character.
 ---
 XIX | …for is ܩ  | Oar: Tyr
 
+---
+
+
 
 But then, the others would not answer.
 And Pawn was left, alone.
@@ -777,6 +792,9 @@ And Pawn was left, alone.
 
 ---
 XX | …for is ܪ  | Oar: Met
+
+---
+
 
 But Pawn asked the wallpaper, 
 addressing her, held inside it, 
@@ -826,6 +844,10 @@ home
 ---
 XXI | …for is ܫ | Oar: Trp
 
+---
+
+
+
 ![[Z IS FOR]]
 
 
@@ -852,6 +874,7 @@ PROLOGUE
 ---
 XXII | …for is ܬ  | Oar: STP
 
+---
 
 ![[Promoter Sequence]]
 
