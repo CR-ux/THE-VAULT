@@ -18,8 +18,8 @@ Whirring with a terrifying lightning storm overhead (an unavoidable side-effect 
 [^res]: Money Will become pointless once knowledge has reached an amalgamative crescendo. In the current timeline, the Future implications of Humanity's technological advancement are to render the delineation, borrowing, movement of 'Money' (from Residue to 'revenue' to residue) irrelevant, by virtue of the obvious and global importance of the 'Expensive' Discovery at Hand. 
 [^oe]: In Alphabetical Order. 
 [^mo]: lexDef "Moment" {usage::: Noen || Croen} < Circular Motion In Time; A Unit of Motion Through A Cycle. The Central Point In A Circle Around Which A Moment Is Revolving. A Circular Compass of Cardinal Directionality, Providing The Location of Data Within a Statistical Sphere.[^MomentNoen] || A Moment of Asphyxias[^MomentCroen]
-[^MomentNoen]: [[Now]], Fourier, 2025.
-[^MomentCroen]: [[The Fundamental Factors of Lexicomathematics, Edition XVIII]], Joseph Fourier, According to the BTF Times, Recorded during a [[Press]] [[Conference]], 3025. 
+[^MomentNoen]: if: {!now;} then: {then;} else: {wh{y|o('re)}|e\[N]?}} , Fourier, 2025.
+[^MomentCroen]: The Fundamental Factors of Lexicomathematics, Edition XVIII, Joseph Fourier, According to the BTF Times, Recorded during a Press Conference, 3025. 
 [^endpoint]: In {Ur|Yore} Beginning, Is My End.[^TS]
 [^TS]: T.S. Eliot, Four Quartets, Noen As Nucleotides.
 [^rest]: As in, an Egg.[^egg][^virus][^choice]

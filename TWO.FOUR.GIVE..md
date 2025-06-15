@@ -761,7 +761,7 @@ It had been thought uncrossable, that infinite fractal landscape, those Bothies 
 
 But N had managed it, before the the story they'd read Flo at night. They had managed to escape the library, perhaps, because of the writing of it. 
 
-Whether NoetNietzsche knew this or not, or knew that they'd made Flo aware of this or not, the bedtime story was a vehicle. We are N{ever} going on a Bear Hunt Ever A Gain was the only floatation device across t 
+Whether NoetNietzsche knew this or not, or knew that they'd made Flo aware of this or not, the bedtime story was a vehicle. We are N{ever} going on a Bear Hunt Ever A Gain was the only floatation device across  
 
 Through performing a Ritual, with an egg {laid on a leaf}, by a learned chess player and lesser-known Witch, once thought and written down as fiction, but brought into {k}Not-Being, which is to say, friction; Being--
 
