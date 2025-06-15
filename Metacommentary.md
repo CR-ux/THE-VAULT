@@ -6,6 +6,7 @@ At some unknowable Future, now passed[^pass], The Device {Fig. I} of the Wor{l}d
 To Remember, 
 One Must First Forget. 
 Whirring with a terrifying lightning storm overhead (an unavoidable side-effect of The Device, according to {REDACTED}) The Device was Building a Universe. 
+<br><br>
 # Garden of Footnote Paths
 
 [^pass]: {Future|Now|Past} || First[^1st]-pass refers to the first time You, the Reader, may read|move through a {text|process|location} such as this one || First-Pass Genomics: the initial analysis of genomic data, typically after whole genome sequencing (WGS)[^WGS] or exome sequencing, to identify potential disease-causing variants.[^var]

@@ -119,7 +119,7 @@ YOUR SOURCE,
 IS.
 
 
-**\<QR>**
+
 
 
 

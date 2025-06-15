@@ -43,7 +43,7 @@
 
 ![[notBorges/AEIOU/ARIADNE/CHARACTER DEVELOPMENT/THE NINE (10) NODES OF THE WEB.md]]
 
-![[The Journals of THESEUS/No file]]
+![[Seussian Cartomancy]]
 
 ![[notBorges/AEIOU/ARIADNE/A IS NOT FOR ALEPH/B IS FOR BAPHOMET.md]]
 

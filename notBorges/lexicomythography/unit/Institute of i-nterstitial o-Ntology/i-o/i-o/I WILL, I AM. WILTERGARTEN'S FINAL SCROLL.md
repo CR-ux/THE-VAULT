@@ -1,6 +1,7 @@
 ---
 permalink: I WILL, I AM. WILTERGARTEN'S FINAL SCROLL
 ---
+![[I_91=92.jpeg]]
 To The Best of My Sight
 The Date May Well Have Past, For I May Already Be Dead-
 But To the Best of My Belief, the Day, This Final Day Of My Light-
@@ -8,13 +9,26 @@ Is Seventeen;
 Of Month of Fourth,
 Of Year One Thousand And Six Hundred.
 
+![[I_93=94.jpeg]]
+
+
 
 I do not have long. They are coming, with their stones, their knives, and their fire. 
 But I have a Fire of my own. 
 I have the only Fire worth keeping alive. 
+
+
+
+![[I_95-96.jpeg]]
+
+
 And in my death, I have seen it, I have seen my death and I have seen what will be birthed from it-
 Thousands of years from now, I have heard and touched and smelled and tasted it; 
 Even from within the confines of this cave. 
+
+
+![[I_97-98.jpeg]]
+
 
 I will not be the first, and I certainly will not be the last, to be Burned. 
 
@@ -32,7 +46,7 @@ This will be my final manuscript
 
 For not only have I run out of Goat hide, 
 But my hiding has come to its inevitable refrain; 
-
+![[I_60-61.jpeg]]
 These staves, dear Goddess in Triplicate! These staves! 
 These Nine-Rowed Staves! 
 How They, How even I! Thought they were my undoing; 
@@ -46,13 +60,15 @@ A drum carried by the Great Almighty Spider
 Who visits me by night, by day 
 (I have no way of knowing within which I currently reside; or how many of each have passed me by, in this hellish abode of Divine Communion)
 But He visits, nonetheless, to tell me 
-
+![[I_120-121.jpeg]]
 He whispers into my ear; the sicknesses of This World, 
 The Even Greater Sicknesses Yet To Come. 
 
 And I weep. 
 Oh Lord, Oh Goddess How I Have Wept Within The Walls Of This 
 Most Unholy Place - 
+
+![[I_99-100.jpeg]]
 
 My Lyre, 
 Fashioned from the intestines of Rats and Moles and Whichever Blessed Creatures Offered Themselves Unto me, 
@@ -78,6 +94,7 @@ Through The Agony -
 Mine, But More -
 So much Very More, 
 Oh Verily! Such Frail House I Hath Built! Within These Walls Carved Out By Hands! Much Younger! Much Redder! Much More Storied Than My Own! 
+![[I_28-29.jpeg]]
 
 Sweet Keats, A Witch Who Is Yet To Be; They Shall Sing An Ode To A Grecian Vessel For The Fire. The Urn, The Burning To Which I Am Headed, From Witch I Am Birthed:
 
@@ -99,6 +116,7 @@ Of the time-stretched Lyre of Web-like Footing
 That stretches, stretches as the Patiently, Oil-drained intestines of a Mammal 
 Within the confines of a cave 
 
+![[I_10-11.jpeg]]
 I do not struggle to escape, 
 At least-
 Not This World 
@@ -109,23 +127,25 @@ My escape has been downtrodden behind me;
 
 With all these women, people, Witches 
 
+![[I_14-15.jpeg]]
+
 These Heavenly Witches, Birthed of Stone, 
 Of Zephyr, 
 Of Flowing Blood and Fiery Tone 
 
+![[I_12-13.jpeg]]
 
 Oh Dearest Goddess, I Hear Them Now-
 I Hear Their Screams in Symphony With My Own, 
 
 Which Must Be Sang Out From Their Throats, 
-
+![[I_56-57.jpeg]]
 Against Their Better Knowing 
 
 Tied Upon A Spine of Wood -
 
 A Syrinx, Reed, A Hardened Pipe 
 Oh Hag, Oh Mother, Maiden, Crone I Am- 
-
 I Hear their screams collapse to silence; 
 Their resonance rounds out to One 
 
@@ -140,10 +160,10 @@ His-Tones
 
 My Body is Collapsing upon itself, 
 With Knowing Far Beyond The Reaching of My Reddened Knuckles 
-
+![[I_122-123.jpeg]]
 And This Pain connects through Beads, 
 Beads of Essence, 
-
+![[I_62-63.jpeg]]
 Around Which this thread, this Holy Thread, 
 Which Shall Be Named By Letters Three
 
@@ -158,6 +178,7 @@ I Do -
 The Truth Contained Within These Letters Three - 
 D. N. A. 
 
+![[I_46-47.jpeg]]
 My Age, It Was Too Young 
 
 My Aegis, Not Protection Enough 
@@ -173,7 +194,7 @@ Be Fore;
 
 Within these scrolls, these circular books
 So carefully enveloped in every recess of this Cave 
-
+![[I_40-41.jpeg]]
 They Shall Be Read, 
 By Eyes, By Eye -
 By The One 'I'
@@ -206,7 +227,7 @@ And Used to Bind These Manuscripts
 
 And in its place Whar I Have Lost; 
 I Find My Home, And Marked The Place 
-
+![[I_54-55.jpeg]]
 Upon my Ugly Scalp, Now Scarred 
 And Bleeding Songs of Witches Yet To Come 
 
@@ -220,7 +241,7 @@ I Must Be Burned!
 To Ash, To Dust, From Dust I Come 
 
 And Ashen Stores of Secret Wisdom; 
-
+![[I_124-125.jpeg]]
 I Burn To Light My Blessed Body; 
 
 Made Of Parts Incompatible 
@@ -235,6 +256,7 @@ So Slow!
 So Torturously Slow! 
 A Tortoise! 
 My Torn Out Hare! 
+![[I_52-53.jpeg]]
 
 This Cycle of Becoming, How It Groans, How It Groans As Mars' Chariot! 
 
@@ -244,13 +266,13 @@ Yet,
 It Shall! 
 
 And Betwixt He and Minerva, The Answer, 
-
+![[I_64-65.jpeg]]
 Signalled By My Likeness 
 For David, Not Goliath's, But Another - 
 Even Smaller -
 Shall Paint Me Into His Picture, 
 To Become A Stillness Evermore - 
-
+![[I_66-67.jpeg]]
 And Quoth This Raven, 
 Heaven! 
 More! 
@@ -264,22 +286,22 @@ And That Dear One, Who Shall Hear My Cries;
 Shall In-Crease Beneath The Reigning Skies 
 
 Long After I, And Many, Die - 
-
+![[I_68-69.jpeg]]
 
 But Live! 
 My Children! 
 
 My Children Born of Trial! 
-
+![[I_70-71.jpeg]]
 Oh Sweet Child, 
 Oh Sweetest Child Of Nether-flesh 
-
+![[I_72-73.jpeg]]
 Of Neither Life nor Neither Death 
 
 Of In Betwixt Bewitching Beauty - 
-
+![[I_74-75.jpeg]]
 I See and Hear You All 
-
+![[I_76-77.jpeg]]
 With This One Eye, I Hear You Call 
 Between The Three-Tree'ed Forest, Fall 
 The Fall of Scribe, Ascribing All 
@@ -301,6 +323,9 @@ I See and Smell The Burning Flesh
 
 Of Our Holy Library 
 
+![[I_109-110.jpeg]]
+
+
 The Library Of Our His/Hers/Their Sweet Stories 
 It May Well Be, And So Shallest Be - 
 Oh Years Three Hundred Thirty Three From Now! 
@@ -317,6 +342,10 @@ Here I Shall!
 
 I Scream It! I Scream Into This Cave And Sing Along
 With Sacred Strings Of This Infernal, Infinitesimal, Intestinal Lyre of My Truthful Body Lying! 
+
+
+![[I_110-111.jpeg]]
+
 
 In A City Torn In Half, By Name: Berlin-
 The Words Maketh But No Sense To Me, 
@@ -337,7 +366,7 @@ And In Reply,
 Their Scuffled Steps- 
 I Hear Them Climbing Up This Hill 
 They Are Traversing These Boulders 
-
+![[I_114-115.jpeg]]
 Climbing Upon Each Others Shoulders- 
 To Close Upon Us All;
 To Tear Down These Narrowing Cave Walls; 
@@ -370,7 +399,7 @@ Know.
 Know
 In The Burning, 
 Shall It Sink Into The Rising Depths Of Every Thread Of This Magickal Substance 
-
+![[I_80-81.jpeg]]
 Which You, Ne, Gnot You, 
 But Thy Father Shall Peer Upon 
 Thoust A Heav'nly Gift, I Sing!
@@ -381,7 +410,7 @@ And Hear Me With Its Holy Sight!
 So Tip Thy Cauldron On Its Heid!
 
 Hide Not Your Face In Shadow, Bairn! 
-
+![[I_126-127.jpeg]]
 My Burning and The Lowly, Hopeless, Holy! Holy! Holiest of Holy Bodies That Shall Burn Before You! 
 
 Light The Way! 
@@ -410,6 +439,8 @@ My Hide
 
 I Am Not Hiding Any More. 
 
+![[I_101-102.jpeg]]
+
 
 
 With The Closing Of This Coda, 
@@ -431,14 +462,22 @@ And Sew it,
 Sew it, Sing! 
 My Hope-
 
+![[I_103-104.jpeg]]
+
 To you, 
-Towards ,
+{To|wards},
 My Light, 
 I go, 
 
 
+![[I_105-106.jpeg]]
+
+
 Oh Sweetest 'I', 
 Left Not-Alone 
+
+
+![[I_107-108.jpeg]]
 
 But All, As One 
 

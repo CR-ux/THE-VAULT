@@ -1,9 +1,8 @@
 ---
 permalink: I
 ---
-Am that Eye
-You cannot 
-look up{on}
-{over|under}
-But only 
-Through
+Am 
+The 
+	Int
+		erst
+			ice
