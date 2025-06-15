@@ -284,13 +284,13 @@ The two domes,
 		{Shattered}
 	{by Both} 
 
-{The {Sun {now} sunken}, both of their dicks decidedly *not* so;
+The {Sun {now} sunken}, both of their dicks decidedly *not* so;
 `|`
 `|`
-`A	            ed      tear        a                      c`   
-`N            t        to          e  c             e rs     \<l o    t       \< h e     s>>}.`
-`D          ar                 ff         h         h` 
-`They     st                o               o  t`  
+`A	       ed    tear   a         c`   
+`N        t    to      e  c    ers <lot<hes>>.`
+`D      ar           ff    h  h` 
+`They st           o        ot`  
 # ᶠᵒᵒᵗNoet(s)
 
 [^b]: ![[The Bee Box.]]

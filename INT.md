@@ -117,7 +117,7 @@ Interstice
 DO: KNOT SITE
 YOUR SOURCE,
 IS.
-
+![[Pasted image 20250615183154.png]]
 
 
 

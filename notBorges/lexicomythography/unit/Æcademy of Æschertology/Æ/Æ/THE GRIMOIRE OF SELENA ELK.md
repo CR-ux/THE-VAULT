@@ -29,7 +29,9 @@ I came here to find a way in-
 I have only my body, and the body of what I've gathered from Hildr's works with me.
 
 ![[I_112-113.jpeg]]
-**Art{i.e.}fact CXII:** I believe this section of the Wiltergarten manuscript, which opens by itself to this page every evening on moonrise, holds the key to understanding the Stones' {gravitation|mystic}al weight. And the long, long stretches of memories I am being {funnel|{pul|{led}}} {back|through|down}, by the Stones.  
+
+> **Art{i.e.}fact CXII:** I believe this section of the Wiltergarten manuscript, which opens by itself to this page every evening on moonrise, holds the key to understanding the Stones' {gravitation|mystic}al weight. And the long, long stretches of memories I am being {funnel|{pul|{led}}} {back|through|down}, by the Stones.  
+
 
 I found both. Her reflection, screaming as an answer. Her G{listening}.
 Misery-- Abysmal. 
