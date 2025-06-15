@@ -93,6 +93,9 @@ youpayFARE U THEfa|lin two WELL this.isthe  ▼DEVICEthatyoubecame
 
 ---
  I | …For is ܐ | Oar: Pyr{e}
+ 
+---
+
 
 ![[N is for Nietzsche, Nobody, Never.]]
 
@@ -180,6 +183,8 @@ Bear?
 ---
  II | …for is ܒ | Oar: Gly{ph}
 
+---
+
 ```
 FAO: ᴺᵒᵉᵗFranklin, The Double Spiral Staircase  
 BCC: VIXI.  
@@ -258,6 +263,9 @@ point <
 ---
 III | …for is ܓ | Oar: Ala{te|rm}
 
+---
+
+
 "I want to go back and make a different decision", Flo said to N.
 "Well, sure!" They replied - "That's the beauty of a choose your own adventure book"
 "But overwriting what's already been learned, starting again-- that surely defeats the point of a Story. That's no adventure, that's a waste of time"
@@ -294,6 +302,10 @@ They began, again, as is the usual practice, with the prologue:
 
 ---
  IV | …for is ܕ | Oar: Asp{ire}
+
+---
+
+
 -VIXI detested being cut off, in speech, that is. Particularly for such trivial things as *Romance*. No matter how 'charming' (HE, even in HISS infinite (or perhaps indefinite) wisdom, was unable to perceive such a quality). Tearing HYMNself from the Characters above, HE doubled back and recalculated his flight path. HE, a messenger, as Medium of the Eternal Messenger of this Infernal Mess of All Messages, had a job to do, {{after|over}seeing} All. 
 
 And this was what dragged him back to the Central Galleries of the Library. This Eternally Recurring Event:
@@ -303,10 +315,16 @@ Through a vent there was {in will|as in|striving|to be} {a letter, made of|defin
 ---
  V | …for is ܗ | Oar: Glu{on}
 
+---
+
+
 ![[E IS FOR]]
 
 ---
  VI | …for is ܘ | Oar: Val{our}
+
+---
+
 
 ![[RITUAL OF THE TIRED SYRINGE]]
 
