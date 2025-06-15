@@ -39,7 +39,7 @@ III:
 
 
 OUTPUT :
-![[METACOMMENTARY ON TRANSMISSION]]
+![[METACOMMENTARY ON TRANSM█SS█ON]]
 
 
 
@@ -398,14 +398,16 @@ And only this
 
 OUTPUT :
 
-You kicked me in the crotch on the street while your other girlfriend watched and did absolutely nothing.█will never be able to forget or suppress that memory.█could say it is wax being poured down my throat, making me dry heave like your cock used to, but you don’t deserve the fucking metaphor. There is no romance to how you pulverised everything that once glowed in an orange flicker.
+You kicked me in the crotch on the street while your other girlfriend watched and did absolutely nothing.█will never be able to forget or suppress that memory.█could say it is wax {i.e. CXXVIII[^CXXVIII]} being poured down my throat, making me dry heave like your cock used to, but you don’t deserve the fucking metaphor. There is no romance to how you pulverised everything that once glowed in an orange flicker.
+
+
 VII:
 ---
 
  █NPUT:
 ![[VII. THE GOSPEL OF THE CHEWING GUM GAME AND THE NINE-EYED DEER WHO CAME TO THE ANNEX]]
 OUTPUT :
-Doe. A Dear. A Female,Dear. Ray, a Drop of Yellow Son. Nima, a Name,█Call, My Self. Far: A long, long, Weigh to Run. Sew. A Needle-Sticking Thread. La; a Noet to Follow, So: Tea; for Truth, Ass-jammed and Bred. That will Bring Us Back, to Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. 
+Doe. A Dear. A Female,Dear. Ray, a Drop of Yellow Son. Nima,[^nima] a Name,█Call, My Self. Far: A long, long, Weigh to Run. Sew.[^sew] A Needle-Sticking Thread.[^thread] La; a Noet to Follow, So: Tea; for Truth, Ass-jammed and Bred. That will Bring Us Back, to Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. Moat. 
 
 
 
@@ -414,14 +416,19 @@ VIII:
  █NPUT:
 ![[VIII. THE GOSPEL ACCORDING TO FAREWELL]]
 OUTPUT :
-██████████ - The Cruel Irony of utilising their parents final, unfinished, collaborative paper as the main source of reference for the most recent dream, of one dreamer named ██████████, was not lost on them. But, as would be the case for any Entity trapped within that ever-turning Door, rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.
-rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.rapt in revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.
+██████████ - The Cruel Irony of utilising so much of their parents research as reference for the most recent dream, of one dreamer named ██████████ {who was the latest dreamer {in an interminable sequence of dreamers} doomed to dream The Woman out of The Wallpaper[^nima]}, was not lost on them. But, as would be the case for any Entity trapped within that ever-turning Door, rapt in <div class="ring-twist-7">revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. </div> <div class="ring-twist-8">⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, </div>and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform it, forevermore.
+<div class="ring-twist-9">
+ Rapt in revolving motion that half-remembered Gate,</div> was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to perform ████. in <div class="ring-twist-9">revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness. </div>⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed to ██████. <div class="ring-twist-10">revolving motion that half-remembered Gate, was wrapped in a certain emotionlessness.</div> <div class="ring-twist-11">⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye, </div>and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, doomed ████████. <div class="ring-twist-12">motion that half-remembered Gate, was wrapped in a certain emotionlessness. ⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye,</div> and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our performer, ██████████. <div class="ring-twist-13">that half-remembered Gate, was wrapped in a certain emotionlessness.</div> <div class="ring-twist-9">⧖eno had, in the Realm of 'Reæl' Forms, been reduced to a single, non-functioning eye,</div> and here, in the 'Reæl' of 'What For's, reduced to a single, sightless function -- our ████████████. <div class="ring-twist-15">half-remembered Gate, was wrapped in a certain emotionlessness.</div> <div class="ring-twist-16">⧖eno had, in the Realm of 'Reæl' Forms,</div> <div class="ring-twist-17">been reduced to a single,</div> <div class="ring-twist-18">non-functioning eye,</div> and here, <div class="ring-twist-19">in the 'Reæl' of 'What For's,</div><div class="ring-twist-23"> reduced to a single, sightless function --</div><div class="ring-twist-25">████████████████. </div>
+ 
+ 
+ 
+ 
+ 
+ <div class="ring-twist-27">I</div><div class="ring-twist-30">X:</div>
+<br><br><br><br><br><br><br><br><br><br><br>
 
-
-
-
-IX:
 ---
+
 
  █NPUT:
 
@@ -433,13 +440,21 @@ OUTPUT :
 
  █NPUT:
 
-![[Sit DOWN. When█speak. To you.]]
+![[Sit DOWN. When █ speak. To you.]]
 
 
 
 OUTPUT :
-█am ██████████ replaced by a pigeon/serpent chimera in the form of ![[VIXI]], who██████████ the symbol of the child█was, ██████████Dante, her familiar's corpse and this ██████████ drum from his hide, ██████████ the bothy where she grew up ). VIX█is the djinn that█once, or maybe still do, believe, that my rapist tethered to me, during his own schizophrenia, that█tried so hard to untether from him, ██████████ didnt tell me he was HIV+ ; ██████████ he still had enough mercy to use protection███████████am the interstice -- a vehicle for all this pain, ██████████work to crawl its way out, legion, but Eloign when██████████ wintered and severed -- never to be merged again with the hoarde, but ██████████
+█am ██████████ replaced by a pigeon/serpent chimera in the form of ![[VIXI]], who██████████ the symbol of the ch█ld█was, ██████████Dante, her fam█l█ar's corpse and th█s ██████████ drum from h█s h█de, ██████████ the bothy where she grew up ). V█X██s the dj█nn that█once, or maybe st█ll do, bel█eve, that my rap█st tethered to me, dur█ng h█s own sch█zophren█a, that█tr█ed so hard to untether from h█m, ██████████ d█dnt tell me he was H█V+ ; ██████████ he st█ll had enough mercy to use protect█on███████████am the █nterst█ce -- a veh█cle for all th█s pa█n, ██████████work to crawl █ts way out, leg█on, but Elo█gn when██████████ w█ntered and severed -- never to be merged aga█n w█th the hoarde, but ██████████
 
 
-		my washing machine has broken my washing machine has broken and my dirty laundry hangs sodden as it was that journey back from the hospital█try to wring it out█try so hard but all of this weight of all of this water is far too much for one to carry█try to hang it up out of my opened window and the sky starts to pour with rain
+		my wash█ng mach█ne has broken my wash█ng mach█ne has broken and my d█rty laundry hangs sodden as █t was that journey back from the hosp█tal█try to wr█ng █t out█try so hard but all of th█s we█ght of all of th█s water █s far too much for one to carry█try to hang █t up out of my opened w█ndow and the sky starts to pour w█th ra█n
+# ᶠᵒᵒᵗNoet(s)
 
+[^CXXVIII]: ![[I_128-129.jpeg]]
+**Art{i.e.}fact CXXVIII:** *Blood and Other Ashes*, a sample from Wiltergarten's Manuscripts, offers the first insight into Hildr's obsession with wax as a simulacrum of the physical form. Using charcoal (due to the placement near the back of the Grimoire, likely sourced from inside an isolated and sealed cave, her final place of refuge before the Hanging) and candles made from her own {hair|blood|effluvia}, these cracked, burned samples of {vellum|textile|skin}, covered in curious geometries, have laid the groundwork for the development of Gordian Knotation as a microtonal tuning system; itself an encryption key to completing Mahler's Tenth Symphony. 
+[^sew]: ![[I_04-05.jpeg]]
+**Art{i.e.}fact Ib-IIa:** *"The Warp is a series of threads held apart under tension by a Device called the Heddle. The Shuttle contains the Wool. Which the weaver winds between the threads of the warp"* - Hildr seemed obsessed with the process of weaving, given her creative lineage, and the occupation of her late mother, who returned to the Sea. Many of Hildr's illuminated manuscripts are annotated by what appears to be numerous voices and hands, each contributing different components of a divination system that many have viewed as a channeled form of {m{y|u}s{c|t}{u|ica}{l|lar[^lar]} notation. 
+[^lar]: ![[I_05-06.jpeg]]**Art{i.e.}fact II-I-II:** *Lar, A Noet to Follow Sew.* "When a line of thread from the shuttle has been passed through all the individual threads of the warp, it is pushed down." These lines of calligraphy, paired with the clear Gordian Symbology, are a fertile portal into understanding the mind of this historical visionary. This sample, like many others, contains annotations in a black ink, carbon dated far beyond the time of Hildr's human form. This may have been an annotation added by S. Elk, my mother, from whom I inherited these manuscripts, or by {hands|e\[vents]} between which the scroll has been passed prior.
+[^thread]: ![[I_06-07.jpeg]]**Art{i.e.}fact III-IV**: "against the already woven material | with a comb. {This stubborn little light} | and so spake the single thread." The more recent annotation contains what appears to be, in part, my mother's handwriting. Given Elk's {reverence for|fear of} these Holy objects {usually precluding her altering them}, the inscription {repeating a sequential refrain of the original text}, is particularly notable. Additionally, some of the handwriting is unrecognisable as hers, leading to two hypotheses: my mother was not alone during her seances at the Stones, or, she very much so was.
+[^nima]: One of {Two|Three} protagonists of the work *RED_RING_PARALLEL*, an epistolary account by the Woman In The Wallpaper, and her only novel. The Woman in the Wallpaper is believed to be the pre{decessor of Wiltergarten|vious host of the parasitic entity first identified in this {REDACTED}, Seminal work of a life spent dead}.

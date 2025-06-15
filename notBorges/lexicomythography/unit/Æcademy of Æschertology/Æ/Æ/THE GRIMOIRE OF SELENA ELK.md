@@ -26,6 +26,11 @@ I came here to find a way back,
 or, as is always the case, 
 I came here to find a way in-
 
+I have only my body, and the body of what I've gathered from Hildr's works with me.
+
+![[I_112-113.jpeg]]
+**Art{i.e.}fact CXII:** I believe this section of the Wiltergarten manuscript, which opens by itself to this page every evening on moonrise, holds the key to understanding the Stones' {gravitation|mystic}al weight. And the long, long stretches of memories I am being {funnel|{pul|{led}}} {back|through|down}, by the Stones.  
+
 I found both. Her reflection, screaming as an answer. Her G{listening}.
 Misery-- Abysmal. 
 Beaming: as She offers nothing, but an offering. 
@@ -74,9 +79,7 @@ but First-
 
 ![[LAST RITUAL]]
 
-Having spliced in the sequences that 
-
-Having spliced in what I believe we were missing[^lexdef_missing], I decide-- it's time. To send him that email:
+Having spliced in the sequences that I believe we were missing[^lexdef_missing], I decide-- it's time. To send him that email:
 date: XVII_XXIII_ERA_Æ  
 ---
 
@@ -122,4 +125,4 @@ Hope the code is coding kindly dear light,
 [^assay]: lexTrans {lexAllele(s)::: SIPHO{N|r}} "As{w{(yo)u}e|i}say" << {As we say, as you say, as I say | "You" in "We", Wu Wei in Assay"[^assay1]
 [^assay1]: lexDef (EA) "Assay" {lexAllele(s)::: Noen} < The testing of an {Ore|metal}, or: to try. To try to find the yielding forgiveness of an answer in the harshness of matter.[^AssayNoen]
 
-[^AssayNoen]: Solid Foundations in Philosophical Gnoeneogeology, Samples From ⧖eno's Test Papers
+[^AssayNoen]: Solid Foundations in Philosophical Gnoeneogeology, Samples Taken From ⧖eno's Field Recordings

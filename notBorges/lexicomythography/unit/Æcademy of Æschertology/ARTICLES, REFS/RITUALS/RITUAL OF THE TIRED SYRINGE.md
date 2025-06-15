@@ -16,11 +16,13 @@ RITUAL OF THE TIRED SYRINGE
 
 
 
-
-
 ---
 
 
 
-The End. 
+The End.[^end] 
+# Intronic Material
 
+[^end]: 
+![[I_116-117.jpeg]]
+**Art{i.e.}fact CXVI:** The {REDACTED} Truth of The Stones. Hildr Charon Wiltergarten, ERA_o|i

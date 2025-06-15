@@ -30,8 +30,3 @@
 ****
 **whtifNfor**
 ![[Hood]]
-
-**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
-****
-**Now I am I sure. That N, it must be for** 
-![[Hurricane]]

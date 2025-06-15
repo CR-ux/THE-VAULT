@@ -5,6 +5,6 @@
 **Is not N for** **the Second Person, which is**
 ![[Undeniable]]
 
-**And as such, all ways* 
+And as such, all ways
 ![[Unknown]]
 

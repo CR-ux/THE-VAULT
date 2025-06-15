@@ -22,7 +22,7 @@
 
 Fragment of a Dream from RED, RING, PARALLEL, Chapter "The Moon", by The Woman In The Wallpaper
 
-![[Step over now. Come round. Come over now, █miss you.]]
+![[Step over now. Come round. Come over now, █ miss you.]]
 
 
 

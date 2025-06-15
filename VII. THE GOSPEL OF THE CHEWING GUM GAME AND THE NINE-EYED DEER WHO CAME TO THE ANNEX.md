@@ -45,6 +45,6 @@ To which, instantly, coldly, starkly, A binary of Eyes, fixed upon the Ennead of
 
 # ᶠᵒᵒᵗNoet(s)
 
-[^s]: [[S is for Serpent]]
-[^h]: Here: A Gain.
-[^e]: E is for [[Eidolon]]
+[^s]: *S is for Serpent, Selena and the Start*, Myo Endive, ERA_Æ
+[^h]: *Here. A Gain: NoetN's Return to The Bothy*, ⧖eno, ERA_i|o
+[^e]: *E is for Eidolon, Endymion, and the End,* Selena Elk, ERA_EA

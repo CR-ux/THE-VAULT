@@ -18,7 +18,7 @@ permal███nk: V. THE GOSPEL ACCORD███NG TO THE NEWBORN BL███STE
 \> `\<broken███ntoBlem███shes\>`
 \> `\<broken███ns███deYou\>`
 
-![[Get over ███t now, ███t's beneath you.]]
+![[Get over █t now, █t's beneath you.]]
 
 
 

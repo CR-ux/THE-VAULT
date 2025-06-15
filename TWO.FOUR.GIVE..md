@@ -316,8 +316,6 @@ I know that you may not wish to speak to me following our breakup, but I wanted 
 
 ![[G IS FOR]]
 
-
-
 ---
 IX | …for is ܛ | Oar: {nuc}Leu{s}
 
