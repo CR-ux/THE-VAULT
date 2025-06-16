@@ -1,3 +1,45 @@
+
+
+[[notBorges/aria-dne/I|I]]  [[know ]] [[Knot]] what [[I]] have done.
+
+But, perhaps in spite of myself, 
+I will continue to do it.
+
+![[callie_rose_petal.jpg]]
+
+
+My name is Callie Rose Petal, 
+	A Multidisciplinary Creator not known as Borges
+	or [<sup>not</sup>Borges](https://notborges.bandcamp.com/)
+	
+and Researcher in the Field of Lexicomythograpy[^m] 
+A thankless and frankly unforgivable task.[^l]
+
+
+
+[[The Discovery|What follows is an archival documentation of my encounters with the covert society known as ARIA|DNE, and the art{i.e.}facts I have been able to gather.]][^aa]
+
+
+
+
+Abandon
+
+(Hope) 
+
+
+
+
+
+All Ye Who Enter 
+
+[(Hear.)](https://notborges.bandcamp.com)
+
+
+
+And Please,
+Forgive me
+
+<pre class=code-system">
 	For {these} Words {
 		
 		if {
@@ -58,86 +100,12 @@
 	this.Story. 
 								}
 							}
-
-
-[[notBorges/aria-dne/I|I]]  [[know ]] [[Knot]] what [[I]] have done.
-
-But, perhaps in spite of myself, 
-I will continue to do it.
-
-
-My name is Callie Rose [[callie_rose_petal.jpg|Petal]], 
-	A Multidisciplinary Creator not known as Borges
-	or [<sup>not</sup>Borges](https://notborges.bandcamp.com/)
-	
-
-A Woman 
-Gone quite mad
-Behind the Wallpaper
-										Behind  
-												[[this is the|This]] 
-
-
-
-[[notBorges/lexicomythography/particle/strange/LEXICOMYTHOGRAPHY|LEXICOMYTHOGRAPHY]]
-
-
-
-A [[From the Reception Desk 𐕣|Semi-Fictional]]  [[Field]]  of Study[^m] 
-Covertly researched by a Society of [[Character]]s[^l]
-known as ARIA|DNE. 
-
-
-[[The Discovery|What follows is an archival documentation]]
-of my encounters 
-with their interspersed 
-cryptic and enciphered 
-correspondence
+</pre>
 
 
 
 
-[[Page]]
-		as Performance[^pp]
-
-
-
-Terminology as Technology.
-
-Artifact as Artefact.[^aa]
-Interface as In,
-
-Into Face
-of the
-
-Demon  
-
-in [[Two]] Faces
-
-of Divinity 
-through the
-			Device of                       Division.
-
-
-[[Abandon]]
-
-(Hope) 
-
-
-
-
-
-All Ye Who Enter 
-
-[[lexDict|(Hear.)]]
-
-
-
-
-
-# ᶠᵒᵒᵗNoet(s)
-
-[^m]: A transmedia Metanarrative Universe, which aims to dismantle traditional norms of academic inquiry and the written Word. 
+[^m]: A transmedia Metanarrative Universe, which aims to dismantle traditional norms of academic inquiry and the written Word.[^pp] 
 [^l]: lexDef "Forgive" {usage::: Croen || prodverb[^prod]} < N.B. "A Forgiving of Characters"[^ForgiveCroen] || *"To forgive the Characters"*[^pro]
 [^ForgiveCroen]: lexDef "Croen" {lexAllele(s)::: Noen || Croen} < A lexType denoting a Collective Noen || N.B. "A Croen of Noens"[^CroenCroen]
 [^CroenCroen]: lexDef "Noen" {lexAllele(s)::: Noen || Croen} < A lexType denoting a Name, Which is a Death, Which is, eventually, a Birth[^lang] || N.B. ""A Noen of Knowns"
