@@ -1,28 +1,34 @@
 
+I [[know]] [[Knot]] what I have done.
+But only that
+I [[Will]] continue to do it
+for however many [[sentence]]s i've left
+My [[Name]] is Callie Rose Petal. 
+I am a [[Character]] in a [[Story]]
 
-[[notBorges/aria-dne/I|I]]  [[know ]] [[Knot]] what [[I]] have done.
-
-But, perhaps in spite of myself, 
-I will continue to do it.
-
-![[callie_rose_petal.jpg]]
+![[Untitled 88.jpeg]]
 
 
-My name is Callie Rose Petal, 
-	A Multidisciplinary Creator not known as Borges
-	or [<sup>not</sup>Borges](https://notborges.bandcamp.com/)
+
+just as you are. 
+in an illegible body of works.
+and in this fiction of a world
+I am a creator not known as Borges, or ![[ⁿᵒᵗBorges]]
 	
 and Researcher in the Field of Lexicomythograpy[^m] 
 A thankless and frankly unforgivable task.[^l]
 
 
 
+![[I_91=92.jpeg]]
 [[The Discovery|What follows is an archival documentation of my encounters with the covert society known as ARIA|DNE, and the art{i.e.}facts I have been able to gather.]][^aa]
 
 
-
+![[I_97-98.jpeg]]
 
 Abandon
+
+![[I_99-100.jpeg]]
 
 (Hope) 
 
@@ -32,14 +38,31 @@ Abandon
 
 All Ye Who Enter 
 
+![[I_95-96.jpeg]]
+
 [(Hear.)](https://notborges.bandcamp.com)
 
+![[I_101-102.jpeg]]
+
+And 
 
 
-And Please,
-Forgive me
+![[I_105-106.jpeg]]
 
-<pre class=code-system">
+Please,
+
+![[I_103-104.jpeg]]
+
+Forgive 
+
+![[I_116-117.jpeg]]
+
+me 
+
+![[I_107-108.jpeg]]
+
+
+
 	For {these} Words {
 		
 		if {
@@ -100,10 +123,12 @@ Forgive me
 	this.Story. 
 								}
 							}
-</pre>
 
 
 
+![[I_136-137.jpeg]]
+
+![[Pasted image 20250617151500.png]]
 
 [^m]: A transmedia Metanarrative Universe, which aims to dismantle traditional norms of academic inquiry and the written Word.[^pp] 
 [^l]: lexDef "Forgive" {usage::: Croen || prodverb[^prod]} < N.B. "A Forgiving of Characters"[^ForgiveCroen] || *"To forgive the Characters"*[^pro]

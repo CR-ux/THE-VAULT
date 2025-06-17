@@ -12,19 +12,25 @@ GIVE.</div>
 	<div style="line-height: 0.9; font-size: 7pt;">Rose P</div>
 	et
 	al</div>
-<div style="line-height: 0.9; font-size: 7pt;">.</div><br><br>
-EPITAPH
----
-> It is, surely, absurd to expect to feel normal, and make sense: I am an amalgamation of fervent cells existing despite all odds; I am the cascading chemical miracle of eating, and surviving; I am not designed to “feel normal”; am not designed, at all; I am experiencing consciousness as provided by wet tangles of electrical pulses; my god, none of this makes sense. It is a blessing, even to feel
-> – Adrian
+<div style="line-height: 0.9; font-size: 7pt;">.</div><br>
 
----
+
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
+
+
 **FOUR WORDS**
 ---
 Adrian. Rest in Poems.
 
 ---
 
+EPITAPH
+---
+> It is, surely, absurd to expect to feel normal, and make sense: I am an amalgamation of fervent cells existing despite all odds; I am the cascading chemical miracle of eating, and surviving; I am not designed to “feel normal”; am not designed, at all; I am experiencing consciousness as provided by wet tangles of electrical pulses; my god, none of this makes sense. It is a blessing, even to feel
+> – Adrian
+
+<br><br><br><br>
 
 ![[Metacommentary]]
 
