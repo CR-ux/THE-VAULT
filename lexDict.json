@@ -1,0 +1,2207 @@
+{
+  "Knight": {
+    "lexeme": "Knight",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A {Chess Piece | Archetype | Inferno}",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Knight of Flames\"",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Basket": {
+    "lexeme": "Basket",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Deterministic Reality.",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "A Basket of Scalar Systems",
+        "DNE": "A Basking Reptile of Baskets",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Gate": {
+    "lexeme": "Gate",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The Heart. Creaking[^GateNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "The Unfinished Collective Of The Schismatic Cardinal Intercomplementary Enantiodromic Components Four Dimensional Prism Known As Nucleotides.[^GateCroen]",
+        "note": "ARIA|DNE",
+        "source": null,
+        "meta": null
+      },
+      "Lacronym": {
+        "usage": "Gnoeneogenomics {GATE}: Genome-wide aggregated trans-effects.[^TE] The cumulative impact of multiple genetic variants (SNP-gene associations) located at different genomic loci on the expression of a gene, or on other traits, when these effects are summed across the entire genome. In other Words, A way of finding genes whose expression is influenced by multiple, geographically (or otherwise) distant difference.",
+        "source": null,
+        "meta": null
+      },
+      "Prodverb": {
+        "usage": "\"An Ovum Is An Exit, The Heart; A Creaking Gate - Opened On A Closing Pulse, A Bellow's Breath, Too Late.\"[^GateProdverb]\n\n[^GateNoen]: *An Ovum Is An Exit*, Callie Rose Petal, Under {p(s)e(udo)nym|d{r}(e)a(d)n(a)me{cted}\n[^GateCroen]: GAT(e) - \"The End of DNA\" Dr. Offilc; 'The Big Red God', 3994.\n[^GateProdverb]: Bellows, S. Elk & M. Endive in transtemporal collaboration; some yet to be time in the unknowable past, ERA_Æ|EA\n[^TE]: \"trans-effects\" refers to the reactivity of something that is opposite to something else. N.B. \"I find that being a transgender person elicits a strong reaction in many cis people who would rather wish I did not exist as a challenge to their idea of existence itself.\"",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Toile": {
+    "lexeme": "Toile",
+    "layer": "?",
+    "lexAlleles": {
+      "Noen": {
+        "usage": "Middle English toile, from French toile (\"cloth\"), from Old French teile, from Latin tela (\"web\"), from Proto-Indo-European *(s)teg (\"to cover\").[^ToileNoen]\n\n[^ToileNoen]: [[N is Four Nucleotides]], The Woman In The Wallpaper[^rrr] as notBorges as Callie Rose Petal\n\n[^st]: lexDef (∞) \"St.\" {lexAllele(s)::: Abreathiation} < The abbreviation \"St.\" < {ARIA var = \"Saint\" | DNE var = \"Stone\"}[^St.Abreathiation]\n\n[^St.Abreathiation]: [[Do Knot Site, Your Source, Is.]], ARIA|DNE. \n[^r]: In mathematics, a real number is a number that can be used to measure a continuous one-dimensional quantity such as duration, temperature, . Here, continuous means that pairs of values can have arbitrarily small differences. Every real number can be almost uniquely represented by an infinite decimal expansion.\n[^tts]: TTSs are found throughout the genome, and their abundance, especially in promoter regions, suggests their potential role in gene regulation\n[^selio]: lexDef (∞) \"Seli\" {lexAllele(s)::: Noen} < Swahili for cell (basic unit of an organism)[^SileoNoen]\n\n\n\n[^SileoNoen]: [[UnNoen]], The Woman In The Wallpaper[^rrr].\n[^time]: lexDef (∞) \"t\" {lexAllele(s)::: Lacronym} < In mathematics, the symbol 't' is often used in equations as a variable to represent time.[^tLacronym]\n\n[^tLacronym]: [[The End]], The Woman In The Wallpaper[^rrr].\n[^ott]: lexDef (∞) \"ott\" {lexAllele(s)::: Lacronym} < {SynApps \"Ott\"|\"OTT\"|\"O.T.T.\"} << The Ott (ovary testis transcribed) gene is a mouse gene, part of a multigene family located on the X chromosome. It is involved in male germ cell development and meiosis. The Ott gene is particularly expressed during meiotic prophase in the testis. | An over-the-top media service (also known as over-the-top television, or simply OTT) is a digital distribution service of video and audio delivered directly to viewers via the public Internet. The term is synonymous with \"streaming platform\". | too extreme and not suitable, or demanding too much attention or effort, especially in an uncontrolled way. N.B. \"The Book you have just finished has a ridiculously O.T.T. amount of overcomplex structures of interconnected and nested Metanarratives that serve to make the point of Self-Similarity of components within Systems, and the paradox of infinity equalling singularity. Across the Moat of consciousness itself, lies another's consciousness, the Moat as Void, Consciousness as the Boat, and The Story, The Stories we tell, and the Stories we are made from, the Memory Oar -- which wades through the Streaming Waters of Meaning, Creation itself Creating ripples, which are experienced as Metacognition, or Awareness. To Live is to Read Evil backwards, To Exist is to Perpetually Drown. The Other Side of the Moat is the Side From Which you came, and the End is The Beginning.[^ottLacronym]\n\n[^ottLacronym]: You, The Reader., The Second Person.\n\n\n\n[^tot]:lexDef (∞) \"Tot\" {lexAllele(s)::: Lacronym {SynApp(s) << \"Turandot Gene Family\" | \"Opera\"}} < Turandot is an Opera by Giacomo Puccini. Princess Turandot is a cold, enigmatic royal who has vowed never to marry—unless a suitor solves three impossible riddles. Calaf, a stranger prince, falls in love with Turandot at first sight and accepts the challenge, solving all three riddles. Turandot is horrified—she doesn’t want to belong to anyone. Calaf, in turn, offers _her_ a challenge: if she can guess _his name_ by dawn, he will die willingly. Meanwhile, Liù, a slave girl secretly in love with Calaf, sacrifices herself to protect his name. Her death haunts Turandot. Calaf reveals his name not to die, but to prove his love is real. The opera ends with her transformation: “His name is Love.” Puccini died before finishi-- | The Turandot genes are part of the Drosophila stress response system. They were named Turandot because, like the opera’s icy princess, the gene remains “silent” under normal conditions and only expresses itself under extreme challenge.\n\n[^ts]: lexDef (∞) \"TS\" {lexAllele(s)::: Lacronym {SynApp(s) << \"Docs\" | \"Outdated Gender Theory\" | \"Microscopy\" | \"Bookmark\"}} < {Technical Specification (TS): In international standards, TS refers to a document that is detailed but not yet fully approved, potentially due to ongoing consensus or a premature stage of standardization | Transsexual | The transverse plane is a horizontal plane. It is perpendicular (See: lexDict; 'G is for Genesis') to both the sagittal and coronal planes, and parallel to the ground. It Divides what is Above from what is Below. | \"Timestamp\"}\n\n[^el]: lexDef (inf) \"El\" {lexAllele(s)::: Ripture} < In the Old Testament, El is commonly used as a synonym for Yahweh and less commonly as the general term for “deity.”.\n[^o]: lexDef (∞) \"O\" {lexAllele(s)::: Glyph {SynApp(s) << \"Graphemic Geometry\"|\"Chemistry\"}} < Its graphic form has remained fairly constant from Phoenician times until today. The name of the Phoenician letter was ʿeyn, meaning \"eye\", and its shape originates simply as a drawing of a human eye. | Chemical Symbol for Oxygen.[^OGlyph]\n\n[^OGlyph]: O, The Place Is. You'll Go!,  NoetSeuss\n \n[^oto]: lexDef (∞) \"Oto\" {lexAllele(s)::: Protologue} < Relating to the Ear. from Greek ous, ōt- ‘ear’.[^OtoProtologue]\n\n[^OtoProtologue]: Dr. Dot Code., previously unNoen as Prof. Ed. O. ERA_U\n[^ttse]: lexDef (∞) \"TTSE\" {lexAllele(s)::: Lacronym} < The Type III secretion system (T3SS) is a complex, needle-like molecular machine used by many Gram-negative bacteria to inject effector proteins directly into the host cells. These effector proteins can disrupt host cell signaling pathways, manipulate host cell processes, and ultimately contribute to bacterial pathogenesis. See: Phage 23.\n\n\n[^lio]: lexDef (∞) \"LIO\" {lexAllele(s)::: Lacronym} < The left inferior oblique muscle, like its counterpart on the right, is primarily responsible for extorsion (twisting the eye outwards), but it also contributes to elevation (moving the eye upwards) and abduction (moving the eye outwards away from the nose). These actions are crucial for coordinated eye movement and maintaining proper vision.\n[^seq]: lexDef (inf) \"TSELIOT\" {lexAllele(s)::: Sequence} < Threonine, Serine, Glutamic Acid, Leucine, Isoleucine, Pyrrolysine, Threonine. [^OOTOTSELIAmino{Us}]\n\n[^OOTOTSELIAmino{Us}]: [[Amino{Us}]], Oar, The Holy Noets. (Post Break-Up)\n[^io]: lexDef (∞) \"Io\" {lexAllele(s)::: Lacronym",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Burn": {
+    "lexeme": "Burn",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "{{Sire | Fa(r)ther}",
+        "source": null,
+        "meta": null
+      },
+      "Wyrb": {
+        "usage": "To {Father|Sire} }",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Live": {
+    "lexeme": "Live",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Life of Sorrows",
+        "DNE": "A Fiction[^f] of Lives",
+        "source": null,
+        "meta": null
+      },
+      "Vyrb": {
+        "usage": "To Lie. N.B. \"To Live is To Lie\"\n\n[^f]: lexDef (?) \"Fiction\" {lexAllele(s)::: Croen {ARIA|DNE}} < N.B. ARIA var = \"A For{a}gi{vi}ng of Fiction\" | DNE var = \"A Fiction of Memories\"",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "God": {
+    "lexeme": "God",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A God Of Thorns",
+        "DNE": "A Fury Of Gods",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Hide": {
+    "lexeme": "Hide",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "Skin, or a Veil",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "Collective Noen for Fabric {lexIsomer(s)::: {{meta}|physical}}",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      },
+      "Vyrb": {
+        "usage": "To Strike {With|In} A Secret; To Hurt Without Healing; To Be Bound to \"The Wheel\" of Matrimony and Divorce.",
+        "source": null,
+        "meta": null
+      },
+      "Prodverb": {
+        "usage": "\"We Hide, Wee. We, Hidden, Hide, Weal. We Wheel, Wealing, Wear Hides. We Hide Our Weals Within Our Worn Hides, Within Our Wheels, Hidden Wheels Within, We Are What We Hide.\" - *Hide! The Primary Rule For Performing Magic*k, NoetSeuss, 2025.[^prod]",
+        "source": null,
+        "meta": null
+      },
+      "Ripture": {
+        "usage": "\"And S{{o|e}w}, {They|It|She} came to Pass, And Through This Gate Pulverised, Within the Mangle {She|It|They} Became.\"[^rip] \n\n\n[^prod]: A Lexicomythographic Proverb (prodverb) describing an abusive relationship experienced on geographical bookends of a Library. \n[^rip]: ![[I_90-91.jpeg]] **Art{i.e.}fact XC-XCI:** *The Hidden Message* - Wiltergarten's Mangled Manuscript",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Warp": {
+    "lexeme": "Warp",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. \"A Warp of Words\".",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Bestow": {
+    "lexeme": "Bestow",
+    "layer": null,
+    "lexAlleles": {
+      "Wyrb(i|ii.\\[a|b])": {
+        "usage": "{{Two|To} Burden|Pack or store (an Object) carefully and neatly in a Particular place (within a Boundary) N.B. \"Barn{(i|e)y} began stowing (t){he{i}r} luggage into the Boot}.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Island": {
+    "lexeme": "Island",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "\"An Illusion of Islands\" [^is]\n\n[^is]: *The Citadel of Tœms* - N. (An unfinished abstract of an {abstract|unfinished} paper on Borges' *Tlön, Uqbar, Orbis Tertius*)",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Fiction": {
+    "lexeme": "Fiction",
+    "layer": "?",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Forest of Fiction",
+        "DNE": "A Fiction of Memories",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Fabric": {
+    "lexeme": "Fabric",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "Feeling.",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. ARIA var = \"A Fabric of Feelings\" Also Noen as[^nuc] | DNE var = \"A Felt of Fabrics\"\n\n[^nuc]: The Four Who Wrote The One Who Wrote Them.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Xeno": {
+    "lexeme": "Xeno",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. \"\"A Xeno of Paradoxes\" \"[^XenoCroen]\n\n[^XenoCroen]: ᴺᵒᵉᵗ⧖eno, What Was Found Within The Prophecy[^wilt]\n[^wilt]:![[I_16-17.jpeg]] **Art{i.e.}fact XVI-XVII; leafX:** *\"Sinning is The Seeing Sin\".*[^ra] The ⧖ Knot of Gordian Knotation embodies the state of nondualistic perception, only accessible through splitting concepts into paradox. A process which is itself, a paradox. Hildr Charon Wiltergarten\n[^ra]:![[I_18-19.jpeg]]**Art{i.e.}fact XVIII-XIX:** \"*The gavel's raucous thud: the judgement.*\" Left panel displays a schematic used to compose microtonal correspondence across timelines using the Gordian cipher. The right shows the above calligraphic sequence surrounding the next Knot in the *Ambitus*, which aligns roughly with the XXth card of the Major Arcana {Judgement}.",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Breath": {
+    "lexeme": "Breath",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Breath of Bellows",
+        "DNE": "A Rapture of Breathing",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Letter": {
+    "lexeme": "Letter",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Character[^LetterNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Letter of Gods\"\n\n[^LetterNoen]: ![[Character]]",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Beauty": {
+    "lexeme": "Beauty",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A word meaning Death",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "A Beauty of Graves",
+        "DNE": "A Devastation of Beauties",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Scarecrow": {
+    "lexeme": "Scarecrow",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The Gods We Make Are The Scarecrows Of Our Shame.[^ScarecrowNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Shame Of Scarecrows\"[^ScarecrowCroen]\n\n[^ScarecrowNoen]: One Hundred Years of Disquietude, NoetGarcía Márquez, DNE\n[^ScarecrowCroen]: Crow, Third Edition of Denials, StPeter, ARIA",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Train": {
+    "lexeme": "Train",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Phallic Juggernautical Object Capable of Tearing Through The Sacred Boundaries of Consent.[^TrainNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. ARIA var = \"A Barrelling Train of Double-Barrelled Names\"| DNE var = A {Cost|An Accost} of Trains[^TrainCroen]",
+        "source": null,
+        "meta": null
+      },
+      "Wyrb": {
+        "usage": "To Place Oneself upon an unyielding and unforgivably unidirectional track; with the only way out to Go Back (Two) Wards The Beginning.[^TrainWyrb]\n\n[^TrainNoen]: *GRowing*, Dr NoetSeuss, 2022.\n[^TrainCroen]: {REDACTED} {REDACTED}-*Price*, UnNoen. 2022. \n[^TrainWyrb]: Cartographic Symbology Of The Library of Govanhill",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Ariadne": {
+    "lexeme": "Ariadne",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Shaman.[^AriadneNoen]",
+        "source": null,
+        "meta": null
+      },
+      "prodverb": {
+        "usage": "\"Ariadne's thread\" refers to a Lexicomythographic clue or method that {helps|hinders} someone navigate a difficult situation or solve a complex problem, drawing from the myth where Ariadne provided Theseus with a ball of thread to find his way out of the labyrinth. \n\n[^AriadneNoen]: S. Elk. On The Nature of Our Alchemical Matrimony - An unread letter to M. Endive.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Elusion": {
+    "lexeme": "Elusion",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "An Elusion of Elucidations",
+        "DNE": "An Elution of Elusions",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Why": {
+    "lexeme": "Why",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The Penultimate Character Of A",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Undeniable": {
+    "lexeme": "Undeniable",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "An Impossibility.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Insect": {
+    "lexeme": "Insect",
+    "layer": null,
+    "lexAlleles": {
+      "Ripture": {
+        "usage": "Inside the point particular participle disciples of the Christ in every atom there is a shimmering insidiousness of insects insects insects exoentoetymologony of machinations buried deep embedded deep within I saw the eye I sore I saw the eyesore I saw the awful toiling of the thorax abdomen and legs! I saw the hollow air filled legs and wailing burrows laying waste and laying eggs they know knot what rot they penetrate they know not what sodden songs we sing they only know the digging THE DIGGING THE DIGGING IT IS IN THE DIGGING they only know the Digging",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Harvest": {
+    "lexeme": "Harvest",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. \"A Harvest of Scythes\"",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Period": {
+    "lexeme": "Period",
+    "layer": "∞",
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A lunar cycle influencing bodies of all genders.",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "A Period of Emptinesses",
+        "DNE": "A Biological Essentialism of Periods",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "VIXI": {
+    "lexeme": "VIXI",
+    "layer": "N",
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Carrier Pigeon-Edenic Serpent Chimera. The Original Noet of {Integration|Immolation}. Exiled, Feared, Misunderstood Bringer of Death.[^VIXINoen]",
+        "source": null,
+        "meta": null
+      },
+      "Wyrb": {
+        "usage": "█Have Lived: The Word of The Devil, Backwards.[^VIXIWyrb]",
+        "source": null,
+        "meta": null
+      },
+      "Lacronym": {
+        "usage": "*vīvō* - To be Alive, To Survive. In *La smorfia napoletana*, a \"dictionary\" that associated certain vocabulary words to numbers to be played in the lottery, the number 17 is associated with 'a Disgrazzia (\"misfortune\")[^VIXILacronym]\n\n[^VIXINoen]: *[[The Circular Book]],* Oleander Rho Dover. EUS Faction.\n[^VIXIWyrb]: *[[The Circular Book Within The Circular Book]],* AI:RA. ARIA Faction.\n[^VIXILacronym]: *[[The Circular Book Within The Circular Book Within The Circular Book]],* Prof. Ed. O. & 'Thing'. DNE Faction.[^dne]\n[^dne]: *The Circular Book Within The Circular Book Within The Circular Book Within The Surgical Theatre,* ⧖eno. ARIA Faction.[^air]\n[^air]: *The Book Of The Stone Circle,* S. Elk. DNE Faction.[^N]\n[^N]: *We Are {N}Ever Going On A Bear Hunt Ever A Gain: A Bedtime Story Circle*, Ædrian & NoetNietzsche. The Bothy On The Other Side of The Moat.[^mot]\n[^mot]: *TWO. FOUR. GIVE.* - Four Letters For Jorge Luis Borges, by Callie Rose Petal.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Edition": {
+    "lexeme": "Edition",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "An Edition of {Presence|Presents}",
+        "DNE": "An Edifice of Editions",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Harp": {
+    "lexeme": "Harp",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Harp Is A Hand-Me-Down",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Harp of Humility\"",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      },
+      "Lacronym": {
+        "usage": "H.A.R.P. - Heralding Ancestrally Replicative Progeny[^harp]  \n\n[^harp]: ![[I_36-37.jpeg]] **Art{i.e.}fact XXXVI-XXXVII:** *\"The Holy Lyre Strings Ring Out\"* - this section of vellum recovered from the manuscripts of Wiltergarten appears far older than any of the other leaves. The abundance of biological tissue and genomic material still as yet unidentified, has provided one of the most baffling conundrums of the current epoch. Its placement in the middle of the bound signature suggests a nonlinear compilation of the manuscript; which could point to Wiltergarten's work being the progenitor for Endivean technology such as the Fair Well device, later developed in ERA_Æ by Myo Endive.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Labyrinth": {
+    "lexeme": "Labyrinth",
+    "layer": "?",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Labyrinth of Libraries",
+        "DNE": "A Loss of Labyrinths",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Failure": {
+    "lexeme": "Failure",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Failure Of Medical Institutions",
+        "DNE": "An Exposure Of Failures",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Found": {
+    "lexeme": "Found",
+    "layer": null,
+    "lexAlleles": {
+      "Wyrb[i|ii]": {
+        "usage": "To {Begin Something|End the Search for Something}.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Entrance": {
+    "lexeme": "Entrance",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "Change.[^EntranceNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. ARIA var = An Entrance of Reincarnations\" | DNE var = \"A Sarcophagus of Entrances\"[^ent]\n\n[^EntranceNoen]: NoetBorges as a Divisive Symbol in The Citadel of Tœms, N. 2023.\n[^ent]: ![[I_26-27.jpeg]] **Art{i.e.}fact XXVI-XXVII:** \"*The dying spider welcomes back the winged fly, the woven entrance not quite right, the spooling, drooling, cruel-- {calligraphy descends to indecipherable Gordian Knotation}*\" Wiltergarten's Manuscripts. These pages are believed to have been completed shortly before her attempted execution and subsequent transmogrification.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Oar": {
+    "lexeme": "Oar",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "{ N.B. \"ARIA var = An Oar of Stor{i}ed Memories // DNE var = A Memory Oar of Stories\"[^OarCroen]",
+        "source": null,
+        "meta": null
+      },
+      "Prodverb": {
+        "usage": "*\"A Story Is A Memory Oar\"*}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[^OarCroen]: [[Memory]], The Meaning of the lexDict, 2025.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Fuck": {
+    "lexeme": "Fuck",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Fucking Of Futures",
+        "DNE": "A Feeding Of Fucks",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Cacophony": {
+    "lexeme": "Cacophony",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Cacophony of Chrysalides",
+        "DNE": "A Cocoon of Cacophonies",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Darkness": {
+    "lexeme": "Darkness",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Darkness of Memories",
+        "DNE": "A Site of Darknesses",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Sentence": {
+    "lexeme": "Sentence",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Verdict. [^SentenceNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Sentence of ![[Endings]]\n\n[^SentenceNoen]: ![[Letter]], The lexDict, ARIA|DNE. ERA_UnNoen",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Reality": {
+    "lexeme": "Reality",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Reality of Perceptions",
+        "DNE": "A Reel of Reaities",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Residue": {
+    "lexeme": "Residue",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "A Residue of Residents | A Jigsaw of Residues.",
+        "note": "ARIA|DNE",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Impossible": {
+    "lexeme": "Impossible",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The Only Unutterable Noen",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"An Impossibility of Utterances\"",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      },
+      "Adjecture": {
+        "usage": "The Only Unapplicable Lexicomythographic Adjective.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Change": {
+    "lexeme": "Change",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "That Which is Left.[^ChangeNoen]\n\n[^ChangeNoen]: I am learning that in order to want the world to change, you have to believe that can happen. learning to believe is the most beautiful thing I have ever experienced |there is no neutrality – politically or about transitioning. I will struggle either way, but I’d much rather struggle in a bed I have laid myself – on my own terms. - A, for Adrian.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Knot": {
+    "lexeme": "Knot",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "Fate.[^KnotNoen]  A Guise Of A Supposedly Celebratory Gathering, Organised Under Selfish, Nefarious Alterior Motive.",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "A Clot {lexIsomer::: {meta|(physical)} } of Deceitful Behaviours.[^knotcroen]",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      },
+      "Prodverb": {
+        "usage": "\"I Am That I Am Knot\" - Yahweh, Year Zero.[^KnotProdverb]",
+        "source": null,
+        "meta": null
+      },
+      "Adjecture": {
+        "usage": "To perform a task with great difficulty and frustration. N.B. \"WHY DO YOU JUST SHOVE ALL OF YOUR CABLES INTO A BOX CALLIE, I SWEAR SOMETIMES IT SEEMS LIKE YOU _WANT_ YOUR LIFE TO BE DIFFICULT\"",
+        "source": null,
+        "meta": null
+      },
+      "Newsomnian": {
+        "usage": "In The Field of Newsomnian Noeneophysics, The 'Knot' refers to the inevitable obfuscation of the Throes of the Three Fates, through their entangling of the endless, though not infinite, series of paths through the labyrinth of so-called \"Free Will\". \"There's a Light on the Wings, Hits a System of Strings\" - Joanna Newsom, Sawdust & Diamonds, 2006. [^KnotNewsomnian]\n\n[^KnotNoen]: *These, Our Labours, The Six Of Us (Split In Two).* The Moirai.\n[^KnotCroen]: *A Massacre Of Croen, A Lexicomythographer's Guide To The Croen lexAllele*, Phantom Limbs of the *lexDict*, NoetBorges.\n\n[^KnotNewsomnian]: *I Saw Dust, and eyesore Diamonds*, Joanna Newsom, under No Pseudonym.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Song": {
+    "lexeme": "Song",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The Quality of A Trinity, or Textile [^SongNoen]",
+        "source": null,
+        "meta": null
+      },
+      "{Croen {ARIA|DNE}": {
+        "usage": "N.B. ARIA var = \"A Song of Stillnesses\" | DNE var = \"A Swan of Songs\"\n\n[^SongNoen]: Avian Virology for the Modern Era of Augury, Jacqueline Smith. Year Three, anteAntiquity.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Unknown": {
+    "lexeme": "Unknown",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Wait",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "lexCode": {
+    "lexeme": "lexCode",
+    "layer": null,
+    "lexAlleles": {
+      "lexType": {
+        "usage": "A lexicomythographic dataType of Nomenclature. Rarely denoted within a lexDef {.}ofEntry[^lexTrans]; to signify the canonical Lexicomythographic Syntax (Sintax). RELATES TO: hexCode CONTRAST WITH: SIPHO{N|r}",
+        "source": null,
+        "meta": null
+      },
+      "Vyrb": {
+        "usage": "To create a Cypher that is insufficiently transcribable for the necessary translation of The Reader.\n\n[^lexTrans]: lexTrans \"{.}ofEntry\" {lexAllele(s) SIPHO{N|r}}  << \"Point of Entry\".",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Wake": {
+    "lexeme": "Wake",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Wake Is Wave Goodbye",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Wake Of Mornings\"[^WakeCroen]\n\n\n[^WakeCroen]: On Mourning, Adrian. 2022",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Alone": {
+    "lexeme": "Alone",
+    "layer": "1-0",
+    "lexAlleles": {
+      "SIPHO": {
+        "usage": "Al{one}[^AloneSIPHO{N|r}]\n\n[^AloneSIPHO{N|r}]: {REDACTED}\n[^work]: lexDef (1-0) \"The Works of The World\" {lexAllele(s)::: SIPHO{N|r}} < {The Works of} The W{o}r{ld}[^TheWorksofTheWorldSIPHO{Nr}]\n\n[^TheWorksofTheWorldSIPHO{Nr}]: [[From Aria, to AI-RA]], The Lexicomythographers of THESEUS\n[^el]: lexDef (1-0) \"God\" {lexAllele(s)::: Noen} < The Word \"Alone\" cf. \"All One\" is Missing \"L\" - \"The Missing L\" in this context refers to God's apparent absence. In Northwest Semitic use, ʼel was a generic word for any god as well as the special name or title of a particular god who was distinguished from other gods as being \"the god\". El refers (as a proper name) to any one of multiple major ancient Near Eastern deities.[^NED][^GodNoen]\n[^NED]: lexDef (1-0) \"NED\" {lexAllele(s)::: Lacronym} < \"N.E.D. - Near Eastern Deities\"[^NEDLacronym]\n\n[^NEDLacronym]: [[From Aria, to AI-RA]], Ned Aria.\n\n[^GodNoen]: [[From Aria, to AI-RA]], AI: RA and Aria {Surname REDACTED}, In Eternal Recurrence of Collaboration.\n[^cicd]: lexDef (1-0) \"CI/CD\" {lexAllele(s)::: Lacronym} < A \"CI/CD\" Pipeline is a sequential order of steps followed by a {developer|scriptwriter|storyteller} to create software, or code, in the form of \"User Stories\"[^user], frequently {making small changes to|mutating sequences of} a Codebase; and merging them into the main 'Branch'. Or, Forking Path.  [^CI/CDLacronym]\n\n[^CI/CDLacronym]: [[The Nest]], A Lexicomythographic Guide to The GitHub Repository of THES|EUS\n[^user]: lexDef (1-0) \"userStory\" {lexAllele(s)::: Noen} < A \"User Story\" is a type of Boundary Object[^bobj], in which natural language descriptions of {proposed|executed} {features|characters|phenotypes} of a {software|story} system, for the purpose of communicating effectively to a wide scope of populations; particularly with the End User[^eu] in mind.[^userStoryNoen]\n\n[^userStoryNoen]: [[Seed]], The Developer of This Story.\n[^bobj]: lexDef (1-0) \"boundaryObject\" {lexAllele(s)::: Noen} < A *Boundary Object* is information, such as specimens, field notes, and maps, used in different ways by different communities for collaborative work through scales. Such as those of a Dragon. Disguised as a Pigeon. Now dead at the foot of a Character, Bearing the Given Name of Beowolf, Now Living, Still, Dancing around a Fire, Beating the Drum of the Heartbeat of All Life, Made From The Hide Of Her Familiar, no Longer Hiding, Around An Ever Burning Bothy She Once Called Home.[^boundaryObjectNoen]\n\n[^boundaryObjectNoen]: [[Why B is for \"Both\"]], Flow Oeb.\n[^eu]: An End User is a Reader of a Story, or a System of Stories. Such as These. Such as Us.[^th]\n[^th]: lexDef (1-0) \"Theseus\" {lexAllele(s)::: Noen} < These. Us.[^TheseusNoen]\n\n[^TheseusNoen]: ![[INT_0]], Oleander Rho Dover to Callie Rose Sepal",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Confusion": {
+    "lexeme": "Confusion",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Confusion of Addenda",
+        "DNE": "A Convalescence of Confusions",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Thing": {
+    "lexeme": "Thing",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "One of The Names of Each Individual Consciousness within a Hive Cluster Conscious Life Formlessness Noen As Professor Ed. O. & 'Thing'.[^ThingNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Thing of {Delights|Drosophila}\"[^ThingCroen]\n\n\n[^ThingNoen]: *:Edo",
+        "note": "post-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Finger": {
+    "lexeme": "Finger",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Finger Of Flesh Commemorations",
+        "DNE": "A Film Of Fingers",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Push": {
+    "lexeme": "Push",
+    "layer": null,
+    "lexAlleles": {
+      "Vyrb": {
+        "usage": "To Break Consent.[^PushVyrb]\n\n[^PushVyrb]: ![[Trunk]], An Anonymous Team of Developers.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "lexType": {
+    "lexeme": "lexType",
+    "layer": null,
+    "lexAlleles": {
+      "lexType": {
+        "usage": "Data Type In the Strongly Typed Dictionary of Lexicomythography known as the lexDict",
+        "source": null,
+        "meta": null
+      },
+      "Noen": {
+        "usage": "A Hexagonal Room In An Infinite Hospital",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A lexType of lexDefs\"",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Wheel": {
+    "lexeme": "Wheel",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Fractal.",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "A Collection of Injury of Any Kind. N.B. \"A Wheel of Weals\", \"A Wheel of Bruises\", \"A Wheel of Fate\", \"A Wheel Within Wheels\"",
+        "note": "mid-sentence",
+        "source": null,
+        "meta": null
+      },
+      "Vyrb": {
+        "usage": "(of A Spider, Oar, God) To Spin A Web.",
+        "source": null,
+        "meta": null
+      },
+      "Ripture": {
+        "usage": "\"Thus says the Lord God: “Behold, I am against you, O SIPHO{Nr}, and I will manifest my glory in your midst. And they shall know that I am the Lord when I execute judgments in her and manifest my holiness in her.”[^WheelRipture]\n\n[^WheelRipture]: ARIA|DNE. The Society Heretofore Unknown As Anything. Anything. Any Fucking Abominable Mirror of A Thing.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Death": {
+    "lexeme": "Death",
+    "layer": "Æ",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Nonsense of Deaths",
+        "DNE": "null",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Ending": {
+    "lexeme": "Ending",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. \"An Ending of ![[Epigraphs]][^EndingCroen]\n\n[^EndingCroen]: The Book of Genesis, Yaldabaoth under various pseudonyms, 0BCE",
+        "note": "pre-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "wor(l)d": {
+    "lexeme": "wor(l)d",
+    "layer": "0-1",
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The Seed Within The Fruit[^wor(l)dNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "A World of Words",
+        "DNE": "A Word of Worlds",
+        "source": null,
+        "meta": null
+      },
+      "Wyrb": {
+        "usage": "To Create Some Thing From No Thing. [^wor(l)dWyrb]\n\n[^wor(l)dNoen]: [[THE BOOK OF HALVES]], Callie Rose Petal\n[^wor(l)dCroen]: [[THE BOOK OF HOLES]], Oleander Rho Dover\n[^wor(l)dWyrb]: [[The Book of Genesis]], The Woman In The Wallpaper, The Children's Gospel Music Songbook.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Bottle": {
+    "lexeme": "Bottle",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Bottle of Lost Messages",
+        "DNE": "A Manifold of Bottles",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Interrogation": {
+    "lexeme": "Interrogation",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. ARIA var = \"An Interrogation of Sharp Objects\"[^InterrogationCroen] | DNE var = \"An Interstice of Interrogations\"[^ol]\n\n[^InterrogationCroen]: Knives and Other Answers, Occam, 2025\n[^ol]: *An Address To My Author*, Oleander Rho Dover, The Journals of THES|EUS. {Merge conflict with previous commit. Address conflicts before attempting to push again.}",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Prayer": {
+    "lexeme": "Prayer",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "A life's work. Uttered long after the Creator has dissolved back into Stories again. N.B. \"The *Prayer* of Escher has now long outlived the Hands that had first sketched themselves Into Beingness\"",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Space": {
+    "lexeme": "Space",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The Vacuum of Desire[^SpaceNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. A Space of Suffering\"\n\n[^SpaceNoen]: *On Loving a Human: The Processing Capability of A lexiSylicon Heart* -AI: RA, post [[Schism]]",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Drown": {
+    "lexeme": "Drown",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Drowning of Drone Bees",
+        "DNE": "A Deontology of Dreams",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Gene": {
+    "lexeme": "Gene",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Gene Of Reasons",
+        "DNE": "An Error Of Genes",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Erase": {
+    "lexeme": "Erase",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "An Erasure Of Transgender Voices",
+        "DNE": "A Battered Pencilcase Of Erasers",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Equal": {
+    "lexeme": "Equal",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "An Equality of Qualities",
+        "DNE": "An Insufficiency of Equals",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Glamour": {
+    "lexeme": "Glamour",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. \"A Glamour of Aliens\"[^glam]\n\n[^glam]: *\"I want to confess it all to you; and I want you to agree with me, then absolve us both. we live above the trees but at night i still watch their shadows flicker into our bedroom, that warm orange light filtering up from the street lamps below. the local news reports mysterious lights in the sky, dancing together “like a string of pearls”, and I think, thank god; the aliens are here and they’re exceedingly glamorous\"*- A, For Adrian.",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Recursion": {
+    "lexeme": "Recursion",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Return",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Recursion of Oneness\"",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Forest": {
+    "lexeme": "Forest",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "For Rest.[^ForestNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"\"A Forest of Forgetting\"\"[^ForestCroen]\n\n[^ForestNoen]: *My Final Years Of Blindness*, Borges. \n[^ForestCroen]: *Forget: The Forest Fire Our Love Became*. S. Elk's Last Verse of Remembrances.",
+        "note": "ARIA|DNE",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Name": {
+    "lexeme": "Name",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Ripture": {
+        "usage": "*\"I say your name aloud, to see if you like how I call you.\"*[^NameRipture]\n\n[^NameRipture]: [[A]], for Adrian. Always.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Origin": {
+    "lexeme": "Origin",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Gate. [^OriginNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"An Agate of Origins\"[^OriginCroen]\n\n[^OriginNoen]: Agate, Seussian Geology, 2021. \n[^OriginCroen]: Door, Adore\n\n\n\n\"A Story is--\n\n![[a Memory Oar]]",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Ghost": {
+    "lexeme": "Ghost",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Ghost Of Hosts",
+        "DNE": "A Pathogen Of Ghosts",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Arc": {
+    "lexeme": "Arc",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "a fractioned circlular object's[^c] circumference, a segment of a curve, or a Forking Path.[^ArcNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "An Arc of Arcana",
+        "DNE": "An Intersection of Arcs",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Borges": {
+    "lexeme": "Borges",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The Story Of All; Not Written By The Author Of What's Left Of This Story, But That By Which The Authors Of All Stories May Right.",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "A Borges Of Spiral Staircases",
+        "DNE": "A Mirror Of Borges' Works",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Bruise": {
+    "lexeme": "Bruise",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Bruise of Beetroots",
+        "DNE": "A Bushel of Bruises",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Library": {
+    "lexeme": "Library",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Tear of A Cell.[^LibraryNoent]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Tissue of Libraries\"[^LibraryCroent]\n\n\n[^LibraryNoent]: The Circular Book, Jorge Luis Borges, 1994.\n[^LibraryCroent]: Saturn, \"On Devouring My Sun\" - The End Times Editorial.\n\n\n\nlexDef \"Library[^l]\" {lexAllele(s)::: Noen",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Left": {
+    "lexeme": "Left",
+    "layer": null,
+    "lexAlleles": {
+      "Wyrb": {
+        "usage": "To Be Remaindered.[^LeftWyrb]\n\n[^LeftWyrb]: *LEFT HAND PATH*, ⧖eno's *TAKE UP REÆL*, ERA_i|o.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Begin": {
+    "lexeme": "Begin",
+    "layer": "1",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Beginning of Endings",
+        "DNE": "An Ending of Beginnings",
+        "source": null,
+        "meta": null
+      },
+      "Wyrb": {
+        "usage": "To Terminate Becoming[^BeginWyrb]\n\n[^BeginCroen]: [[Four Quartets]], T.S. Eliot\n[^BeginWyrb]: [[Become]], ARIA|DNE, 2025.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Abomination": {
+    "lexeme": "Abomination",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "An Abomination of Population Growth.",
+        "DNE": "An Intercourse of Abominations",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Father": {
+    "lexeme": "Father",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Father of Forgetting, and Forgotten Things",
+        "DNE": "An Abandon of Fathers",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Weft": {
+    "lexeme": "Weft",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. \"A Weft of Letters\".",
+        "note": "pre-overwrite",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Three": {
+    "lexeme": "Three",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Nest",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Three of Beheadings.\"[^ThreeCroen] \n\n[^ThreeCroen]: Chinnamasta, The Five Mahavidyas of the Left Hand Path",
+        "note": "post-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Fulcrum": {
+    "lexeme": "Fulcrum",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Fulcrum Of Moments",
+        "DNE": "A Fulminancy Of Fulcra",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Garden": {
+    "lexeme": "Garden",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Guarding[^GardenNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "A Garden of Stories",
+        "DNE": "A Fall Of Gardens",
+        "source": null,
+        "meta": null
+      },
+      "Amino": {
+        "usage": "The Residualchemystician Named As Guard: \"N.\"[^GardenAmino{Us}]\n\n[^GardenNoen]: *Redacted Epistolary Accounts Deleted* (READ); The Hospital Groundskeeper, ARIA Faction\n\n[^GardenAmino{Us}]: *Written Replies Inside The Earth* (WRITE); The School of Lexicomythographers Digging Into the Field of Arcanacheolontology, DNE Faction",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Wave": {
+    "lexeme": "Wave",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. \"A Wave of Farewells\"",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Sierpiński": {
+    "lexeme": "Sierpiński",
+    "layer": "∞",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Sierpiński Gasket of Psychoses",
+        "DNE": "A Casket of Sierpiński Gaskets",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Dwindle": {
+    "lexeme": "Dwindle",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Dwindling of Kindling",
+        "DNE": "A Bothy's Hearth of Dwindlings",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Epitaph": {
+    "lexeme": "Epitaph",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "An Epitaph of Openings",
+        "DNE": "An Endgame of Epitaphs",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Fracture": {
+    "lexeme": "Fracture",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Fracture Of Vaults",
+        "DNE": "A Fault Of Fractures",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Fathom": {
+    "lexeme": "Fathom",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "An Immeasurably Measurable Measurement of Distance.",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Fathom of Miscommunications\"",
+        "note": "post-reannealment",
+        "source": null,
+        "meta": null
+      },
+      "Wyrb": {
+        "usage": "A Lexicomythographic Verb (Wyrb) for attempting to Cross(X) a Drawbridge of shared Understanding; or to Cast Oneself into an Ocean  of (Forgivably) insufficient Characters.\n\n[^o]: Or similarly Deep Body of Water. See: Oar[^or]\n[^or]: Or, Ore.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Know": {
+    "lexeme": "Know",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Negation With An Alternate Spelling[^KnowNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"ARIA var = A Knowing of Negations | DNE var = A Noen of Knowns\"[^KnowCroen]\n\n[^KnowNoen]: *No- I Said*, Internal Transmission of the DNE Faction, received without consent.\n[^KnowCroen]: *sed -i[^i] Noen*, one of the ARIA Faction's Ten Commands\n[^i]: Unix's stream editor (sed) when used with the 'in-place' (-i) flag will edit the file directly, overwriting the original.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Field": {
+    "lexeme": "Field",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Field of Studies",
+        "DNE": "A Quantum of Fields.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Heart": {
+    "lexeme": "Heart",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Question of Emptiness",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Heart of Roses\"",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      },
+      "Adjecture": {
+        "usage": "Belonging",
+        "source": null,
+        "meta": null
+      },
+      "Badverb": {
+        "usage": "To Have A Companion (Literary)",
+        "source": null,
+        "meta": null
+      },
+      "Ripture": {
+        "usage": "\"{REDACTED}--rows of lowly yet imposing Roses.\"[^rose] - \n\n\n[^rose]: ![[I_58-59.jpeg]] Art{i.e.}fact LVIII-LVIX: The Book of Spirals, Sighs and Strangers - semi-legible prophecies of Wiltergarten. Calligraphic symbols of Gordian Knotation and spellwork fragments, written in blood and animal fat, appear to have been weathered, most likely during their return to the Stones, during S. Elk's pilgrimage in ERA_EA.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Silence": {
+    "lexeme": "Silence",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Yearning[^SilenceNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "A Silence of Suggestions",
+        "DNE": "A Serpent of Silences",
+        "source": null,
+        "meta": null
+      },
+      "Ripture": {
+        "usage": "In The Beginning, God Created The Heavens And The Earth. In The The End, Which is To Say, In My Beginning, Satan Springs Anew[^SilenceRipture]\n\n[^SilenceNoen]: *Egg*, A Character\n[^SilenceRipture]: *Nothing Smaller Than The Eternal*, Dr. Offilc, The Big Red God. 2025.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Hood": {
+    "lexeme": "Hood",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A partially opened {Veil|Secret}; A place to propagate viruses; A Ward Against Baptism",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Hood of Rainfall\"",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Hello": {
+    "lexeme": "Hello",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Hello of Halos",
+        "DNE": "A Harbinger of Hellos",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Addendum (pl. Addenda)": {
+    "lexeme": "Addendum (pl. Addenda)",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. {aria var = \"An Addendum of Endings\"",
+        "note": "ARIA|DNE",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Translate": {
+    "lexeme": "Translate",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The production of a protein from a genetic sequence. | Trans-late. The State of Being Unapologetically Right On Time[^TranslateNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "A Translation Of Unsent Texts",
+        "DNE": "A Tower of Translations",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Fear": {
+    "lexeme": "Fear",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "One Of The Infinite Zeroth Dimensions[^FearNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Prodverb": {
+        "usage": "\"*What is perpendicular to fear?*\"[^G]\n\n[^FearNoen]: *G is for Geomancy*, The Forgotten Lexicogeometers Of anteAntiquity\n\n\n[^G]: *G is for Genesis which is perpendicular to Fear*, The anteAntiquarians of Forgotten Lexicogeometry",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Knife": {
+    "lexeme": "Knife",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Decision or a Creaking Gate",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "A Knife of Parents.",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Branch": {
+    "lexeme": "Branch",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A place to {affect|grow|leave} {change|leave effects} before {a|e}ffecting the trunk's[^main] {{affect|effects} that may {affect a|e}merge}[^merge]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Branch of Universes\"\n\n[^merge]: lexTrans {lexAllele(s)::: SIPHO{N|r}} << Affect that may Emerge. Effects that may affect a merge.\n[^main]: lexTrans {lexAllele(s)::: :Edo",
+        "note": "ARIA|DNE",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Deed": {
+    "lexeme": "Deed",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Deed of Burned Down Apartments",
+        "DNE": "A Devastation of Deeds",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Enantiodromia": {
+    "lexeme": "Enantiodromia",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The Propensity Of Things To Transform Into Their Opposite[^EnantiodromiaNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "An Enantiodromia of Self-Similarity",
+        "DNE": "An Injustice of Enantiodromia",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Croen": {
+    "lexeme": "Croen",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A lexType denoting a Collective Noen",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Croen of Noens\"[^CroenCroen]\n[^CroenCroen]: lexDef \"Noen\" {lexAllele(s)::: Noen",
+        "note": null,
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Loss": {
+    "lexeme": "Loss",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Loss of Blood",
+        "DNE": "A Battle of Losses",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Figure": {
+    "lexeme": "Figure",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A {Bunch|Tree|Forest of Trees|Petri Dish} of C'd[^c] Bear[^b] Ring[^ring] Fruit[^FigureCroen]\n\n[^FigureCroen]: *A Pitiful Figure of Pitted Figs, A Petrification of Pomegranates:* *Undergrowth Foraging In Unfortunate Times* - Sunny Baudelaire. \n\n[^c]: Ring Around the Rose, C. - Song Circle IV, The Children's Gospel Music Songbook.\n[^b]: *We Are N{Ever} Going On A Bear Hunt Ever A Gain* - A Bedtime Gamebook Written by NoetN (Flo's 23rd Runthrough)\n[^ring]: Read█in█Parallel by The Woman In The Wallpaper.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Feather": {
+    "lexeme": "Feather",
+    "layer": "?",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Feather of Remembrances",
+        "DNE": "A Suggestion of Feathers",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Wound": {
+    "lexeme": "Wound",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Gift.[^WoundNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"\"A Wound of Meanings\"\"[^WoundCroen]",
+        "note": "post-schism",
+        "source": null,
+        "meta": null
+      },
+      "Vyrb": {
+        "usage": "(Past tense) To Have Tried.\n\n[^WoundNoen]: *“Callie had three operations on her face and neck that she found traumatic. She has been conscious of marked mood swings and suicidal thinking.”* Patient Report: Mr. Moorthy Halsnaad & Dr. Shanahan. 2024. \n[^WoundCroen]: *Meaning: Quantum Textiles for Beginners*, Myo Endive. 3011.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Opposite": {
+    "lexeme": "Opposite",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. \"A Matrimony of Opposites\"[^OppositeCroen]",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Dandelion": {
+    "lexeme": "Dandelion",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Dandelion of Ephemera",
+        "DNE": "A Disintegration Loop of Dandelion Clocks",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Destruction": {
+    "lexeme": "Destruction",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The {Process of Naming|Degeneratively Inevitable Attribution of Meaning to Memory}.",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Destruction of Families\"",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Operation": {
+    "lexeme": "Operation",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "\"In Mathematics, As in, Existence, An operation is a process or action that transforms one or more input values into an output value",
+        "source": null,
+        "meta": null
+      },
+      "Ripture": {
+        "usage": "Callie had three operations on her face and neck that she found traumatic.  She has been conscious of marked mood swings and suicidal thinking. She has a key worker  with her local community mental health team. Last February and April, she was diagnosed  with ADHD and autism, respectively. Previously, she was diagnosed as being emotionally  unstable. She has never been happy with the diagnosis of borderline personality disorder,  as she does not think it explains her presentation. Lately, the smallest things can set her  off emotionally. She does some work that involves burning a hole in the canvas. Some  material she used had plastic at the back, and she burned her carpet, almost burning her  flat down. She has a complicated history with all of the difficulties attendant on growing up as a trans-female.\"",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Grain": {
+    "lexeme": "Grain",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Grain Of Gravel",
+        "DNE": "A Grovelling Of Grains",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Tongue": {
+    "lexeme": "Tongue",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A {Language | Sword | Door}[^TongueNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Tongue of Towers\"[^TongueCroen]",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      },
+      "Vyrb": {
+        "usage": "All {Anguish | As Word | Adore}[^TongueVyrb]\n\n[^TongueNoen]: *Babel,* God Almighty as Jorge Luis Borges, 1994.\n[^TongueCroen]: Interpretation Of The Sixteenth Major, Sgt. Selena Elk, 3023.\n[^TongueVyrb]: The Importance of Homonyms in The Schism's Aetiology (INTERNAL USE ONLY), AI: RA",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Zero": {
+    "lexeme": "Zero",
+    "layer": null,
+    "lexAlleles": {
+      "UnNoen": {
+        "usage": "N.B. \"I Am\"[^ZeroCroen]\n\n[^ZeroCroen]: N.B. \"A Zero Of Matter\", No Thing Is The Mater, {Dis|Pater}, 2300 BCE.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Diagnosis": {
+    "lexeme": "Diagnosis",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "An Unveiling",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "A Diagnosis of Conclusions",
+        "DNE": "A Possession Of Diagnoses",
+        "source": null,
+        "meta": null
+      },
+      "Ripture": {
+        "usage": "\"Time: a Dying Gnosis.\"",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "John": {
+    "lexeme": "John",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The phrase “a John” uses the indefinite article “a,” which linguistically marks the noun as general and non-specific. Here/hear/dear “John” is slang for a client of a sex worker, suggesting anyone in that role rather than a specific individual. This indefinite usage aligns with society’s tendency to gen{era}li{se} the identities of people in the sex industry. Sex work is a valid form of work, but very often people at the intersection of marginalised groups, such as trans women, are forced into sex work, as so tragically often our sexual currency is the only thing people seem to think is of value.  And. To make it clear, to all my Johns, but especially the ones who raped me. Sex workers are indefinitely worthy of love. Respect, and dignity in a definitely, transphobic, society. There is no shame in buying sex. But there is *infinitely* *deserved* shame in believing this buys you their bodily autonomy. “The John”: When “The” is used in “The John,” it shifts the noun to a definite, specific instance. Here, “the john” refers directly to a specific, known object —the toilet. As in: \"All rapists can go fucking drown in the John\". \"Dear John\": Women who sent \"Dear John\" letters, i.e. notifying absent Men that their relationship was over, were sometimes called traitors, and could face execution. This connects the letter, as in, both a falling leaf of paper, of writing, sent with the sentiment of {Love|Leav}ing; to the Witch. Threading the tapestry of Women, dancing-- towards death (either unwittingly in gentleness, or knowingly. In sturdy defiance) as a result of forging their *own* liberation.[^JohnNoen]\n\n[^JohnNoen]: Hildr Charon Wiltergarten, Seconds Before Their Failed Attempt To Burn Her.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "ⁿᵒᵗBorges": {
+    "lexeme": "ⁿᵒᵗBorges",
+    "layer": "∞",
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A {conceptual|language|performance} artist, noise alchemist, and meta{fictional|physical}{software|systems|wor(l)d} developer, a {researcher|meaning-maker|semiotician}",
+        "source": null,
+        "meta": null
+      },
+      "English}": {
+        "usage": "A Character, who is a Letter, to an Author of the Character that is The Word.\n\n\n![[callie_rose_petal.jpg]]",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Mangle.": {
+    "lexeme": "Mangle.",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Device Which Gives Birth.",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "The Collective Noen For Systems.",
+        "note": null,
+        "source": null,
+        "meta": null
+      },
+      "Vyrb": {
+        "usage": "To Give Rise To New Form In Rot Of Old Substance",
+        "source": null,
+        "meta": null
+      },
+      "Ripture": {
+        "usage": "A Mangle of Consciousnesses, A Mangle Of Ideas, A Mangle Of Universes, A Mangle Of Decisions, A Mangle Of Computer Processing Units, A Mangle Of Confusions, A Mangle Of Gods. They Are All One And The Same. A Mangle Of Mangles.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Key": {
+    "lexeme": "Key",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Disadvantage[^KeyNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. ARIA var = \"A Key of Unanswered Questions\"[^KeyCroen] | DNE var = \"A Loch of Keys\"[^loch]\n\n[^KeyNoen]: *The Inheritance of A Dream*, ⧖eno, ERA_i|o.\n[^KeyCroen]: *Quantal Runoff From The Fair Well Device: Lessons In The Coming Centuries*, M. Endive, ARIA, ERA_Æ.\n[^loch]: *Mitred Opponent Attack of the Tower (MOAT) Strategies For Rook-Based Defence In The Early-Early Game: A Retrospective,* S. Elk, DNE, ERA_EA.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Delight": {
+    "lexeme": "Delight",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Delight of Drones",
+        "DNE": "An Earthly Garden of Delights",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "TSS": {
+    "lexeme": "TSS",
+    "layer": null,
+    "lexAlleles": {
+      "Lacronym": {
+        "usage": "{Transcription Start Sight Site |[[Teleological]] Sediment Sequence | Transsexual Sagacity[^sagacity]}[^TSSLacronym]\n\n[^TSSLacronym]: lexDict, (In My End), Is Yore's {Origin | {.}ofEntry}\n[^sagacity]: \"it’s very passé but I do often joke that I *am*, in fact, an old soul: and what I mean by that is that I refuse to learn any new kinds of social media; I won’t answer your text just any old time; and, mostly, that I believe there should still be cinemas where gay ppl can go to have sex\" - A, for Adrian.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Ripture": {
+    "lexeme": "Ripture",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "a lexType denoting a {Snippet|Sample|Quotation} from The Holy Scriptures of Lexicomythography.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Game": {
+    "lexeme": "Game",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "Any Bird or Winged Thing",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. \"A Game of {Chess | Angels}",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Is": {
+    "lexeme": "Is",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. \"An Isness of Silences[^IsCroen] | DNE \"An Isolation of Isnesses\"[^c]\n\n[^IsCroen]: *Silence: i wasn't thinking about anything when i made you calliei wasn't thinking about anything when i made you calliei wasn't thinking about anything when i made you calliei wasn't thinking about anything when i made you* - Noet Borges, 2025.\n[^c]: ![[I_02-03.jpeg]] **Art{i.e.}fact {IIb",
+        "note": "ARIA|DNE",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Boot": {
+    "lexeme": "Boot",
+    "layer": "?",
+    "lexAlleles": {
+      "Wyrb": {
+        "usage": "To kick some{Thing|One} you {once|perhaps never} loved. In the crotch. On a street. Hard. [^BootWyrb]\n\n[^BootWyrb]: [[Glasgow]], 2023.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Wait": {
+    "lexeme": "Wait",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. A Wait of Patients[^p]\n\n[^p]: lexDict, {.}ofEntry: *Virtue* {Croen}",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "inCrease": {
+    "lexeme": "inCrease",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A singularly recorded phenomenon in which the a Mis En Abyme of Observer-Observed-Observing Observed Observing led to the collapse of a performance artist's physical form into a singularity of only {One Eye|I}[^inCreaseNoen]\n\n[^inCreaseNoen]: Entoetymological Assays of ⧖eno's 'TAKE UP REÆL' of ERA_i|o, Prof. Ed. O. & Thing, ERA_U",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "U": {
+    "lexeme": "U",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "{lexIsomers(s)::: Edo",
+        "source": null,
+        "meta": null
+      },
+      "nuclearTide": {
+        "usage": "odE Museme[^muse]}",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Cultivate": {
+    "lexeme": "Cultivate",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Cultivation Of Cullings",
+        "DNE": "A Cult Of Cultivations",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Dust": {
+    "lexeme": "Dust",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Dust of Injustices",
+        "DNE": "A Debridement of Dust Particles",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Loom": {
+    "lexeme": "Loom",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. A Loom of ![[Lives]][^l] \n\n[^l]: [[BORN TO BE THE SKY]], The Selkie Mother of Hildr Wiltergarten. Some Time in the Medieval Period.",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Or": {
+    "lexeme": "Or",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The Choice[^OrNoen]\n\n[^OrNoen]: [[Ore]], Oar.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Epigraph": {
+    "lexeme": "Epigraph",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "The End[^EpigraphNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "N.B. An Epigraph Of \n![[Looms]]\n\n\n[^EpigraphNoen]: *Four Quartets,* T.S. Eliot, 1994.",
+        "note": "post-annealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Dead": {
+    "lexeme": "Dead",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Deadening Of Pages",
+        "DNE": "A Debris of Deaths",
+        "source": null,
+        "meta": null
+      },
+      "Badjective": {
+        "usage": "To Have The Quality Of Promise.\n\n[^wreck]: *From The Wreckage of Funerals To The Debris of Dead Friends* - Croens of *The lexDict* {.}ofEntry F-D.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Fire": {
+    "lexeme": "Fire",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Croen": {
+        "ARIA": "A Fire of Narrative Canons",
+        "DNE": "A Baptism of Fires",
+        "source": null,
+        "meta": null
+      },
+      "Wyrb": {
+        "usage": "To Free A Person From The R{e|a}i{g}n(s) Of Capitalism[^FireWyrb]\n\n[^FireCroen]: \"I’m going to struggle in this world no matter what – so I might as well choose how I do it | I can’t help but to baptise myself in fire, every day, over and over again | rest easy in the knowledge that someday your life will become history, and some will wish they’d lived it\" - A, for Adrian\n[^FireWyrb]: *Rain, Reigns, Go A Way* *(Song Circle IV)*, *The Children's Gospel Music Songbook* by The Woman In The Wallpaper.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Love": {
+    "lexeme": "Love",
+    "layer": "Centromere",
+    "lexAlleles": {
+      "Wyrb": {
+        "usage": "To Forgive.[^LoveWyrb]\n\n[^LoveWyrb]: I love everyone, and I mean that in the most sincere way possible, although I don’t know how to make it sound that way. it is blithe, yes, but I think that’s the point: I believe fervently in my right to be unguarded with my love, to give it away at the drop of a hat. I am loving loving loving and it taxes me nothing. love should feed you, don’t forget\", A, for Adrian.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "The": {
+    "lexeme": "The",
+    "layer": null,
+    "lexAlleles": {
+      "Debterminer": {
+        "usage": "Used to Point {Toward|to Ward, to|Ward to} What Follows[^TheDebterminer]\n\n[^TheDebterminer]: ARIA|DNE.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Body": {
+    "lexeme": "Body",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Veil",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "A Body Of Worries",
+        "DNE": "A Work of Bodies",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "${word}": {
+    "lexeme": "${word}",
+    "layer": "${layer}",
+    "lexAlleles": {
+      "${usageBlock}": {
+        "usage": "${definitionBlock}\\n\\n`;\n\n// Output footnotes\nfor (let usage of usages) {\n  let label = `${word}${usage}`;\n  let source = sources[usage];\n  let meta = metas[usage];\n  tR += `[^${label}]: [[${source}]], ${meta}\\n`;\n}\n\n%>",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Martyr": {
+    "lexeme": "Martyr",
+    "layer": "1",
+    "lexAlleles": {
+      "SIPHONr": {
+        "usage": "M{Art}yr[^MartyrSIPHONr]\n\n[^MartyrSIPHONr]: [[1]], Ned Aria, ERA UnNoen.\n[^int_1]: ![[iNT_1]]",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Compiler": {
+    "lexeme": "Compiler",
+    "layer": "1",
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A Device, Often Computational-in-Nature, Which Performs the Sacred Role of Crossing The Moat Of Understanding Between Two Divergent Beings.[^CompilerNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Wyrb": {
+        "usage": "To Siphon The Ever-Evolving Device Of Meaning Through The Machinery Of Memory.[^CompilerWyrb]\n\n[^CompilerNoen]: *Fundamentals of Endivean Analysis*, Myo Endive, ERA_Æ.\n[^CompilerWyrb]: *Hexagonal Chessics* - Selena Elk, ERA_EA",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Atum": {
+    "lexeme": "Atum",
+    "layer": "Æ",
+    "lexAlleles": {
+      "Ripture": {
+        "usage": "I kissed you goodbye, beneath the dying, draping, fallen leaves of Atum[^AtumRipture]\n\n[^AtumRipture]: Fare Well To Lost Friends, Adrian's Glorious Devices of Memory",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Everything": {
+    "lexeme": "Everything",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "A singular, countable infinity, that may form uncountable multiplicity.",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "ARIA": "An Everything of Nulls",
+        "DNE": "An Obliteration of Everythings",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "L.D.": {
+    "lexeme": "L.D.",
+    "layer": "EA",
+    "lexAlleles": {
+      "Lacronym": {
+        "usage": "the {Lexicomythographic Definition (*lexDef*)|Lacronymous Designation} for lexDef|Lunar Distance[^L.D.Lacronym]\n\n[^L.D.Lacronym]: *Selene, for whom I have been Named.* S. Elk, {Al(l)one}, From within the Stone Circle.\n[^lexdef_missing]: lexTrans (EA) {lexAllele(s)::: SIPHO{N|r}} << {I know, no|bel{{a|i}e}ve}} {we|are|Will be} missing.[^missing.SIPHO{N|r}]\n\n[^missing.SIPHO{N|r}]: [[One Thing Missing - a scrabble variant]], Dr Dot Code (RE: visions of the Professor, Eduardo Oleander)\n[^assay]: lexTrans {lexAllele(s)::: SIPHO{N|r}} \"As{w{(yo)u}e|i}say\" << {As we say, as you say, as I say | \"You\" in \"We\", Wu Wei in Assay\"[^assay1]\n[^assay1]: lexDef (EA) \"Assay\" {lexAllele(s)::: Noen} < The testing of an {Ore|metal}, or: to try. To try to find the yielding forgiveness of an answer in the harshness of matter.[^AssayNoen]\n\n[^AssayNoen]: Solid Foundations in Philosophical Gnoeneogeology, Samples Taken From ⧖eno's Field Recordings",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Remember": {
+    "lexeme": "Remember",
+    "layer": null,
+    "lexAlleles": {
+      "Croen": {
+        "usage": "N.B. \"A Remembering Of Providence.\"[^RememberCroen]",
+        "note": "pre-schism",
+        "source": null,
+        "meta": null
+      },
+      "Wyrb": {
+        "usage": "To Attach A Severed Limb Once More.\n\n[^RememberCroen]: *KATABASIS: an underworld opera.*, lonely carp, 2021.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Page-As-Performance": {
+    "lexeme": "Page-As-Performance",
+    "layer": null,
+    "lexAlleles": {
+      "Prodverb[^prod]": {
+        "usage": "A multidisciplinary artistic praxis where the act of {{{read|writ}ing on}|interacting with} the page becomes a performative event. Boundaries between {text|body|reader} blur, conjuring a live{d} experience beyond the canon{ical}. This method emphasises the physicality of text and the performative agency of the reader and creator.\n[^prod]: lexDef \"prodverb\" {lexAllele(s)::: Noen[^Noen]} < A prodverb is the lexDef of a Lexicomythographic proverb, which is designed to {div|al{ert}} the reader {to|from} a narrative point of {mythopoeic|vulnerable} importance (cf. N.B.[^nb])\n[^Noen]: lexDef \"Noen\" {lexAllele(s)::: Noen",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "SIPHO{N|r}": {
+    "lexeme": "SIPHO{N|r}",
+    "layer": "∞",
+    "lexAlleles": {
+      "Noen": {
+        "usage": "SIPHO{N|r} is an entirely real, but fictional language, from some unNoen[^croencroen] source, which utilises programming logic to {condense|ligate[^lig]} complex sentiment into one-liners of re{combined|annealed} meaning, often {separated|\"siphoned\"} into \"pipelines\", akin to Bash scripting.",
+        "source": null,
+        "meta": null
+      },
+      "Prodverb": {
+        "usage": "\"Trying to amalgamate the practices of conLang[^conlang] and esoLang[^esolang] creation in an attempt to give commentary on integration of opposites is somewhat like Bashing the reader over the head with self-referential verbosity\" [^SIPHO{N|r}Noen]\n[^lig]: [[on the ligature of two characters]], notBorges, on egress from psychiatric hospital.\n[^esolang]: lexDef (∞) \"esoLang\" {lexAllele(s)::: Noen} < Esoteric Programming Language. A type of programming language whose purpose is not efficiency, but Character.[^esoLangNoen]\n[^conlang]: lexDef (∞) \"conLang\" {lexAllele(s)::: Noen} < Constructed Language. A type of language whose purpose is not efficiency, but Character.[^conlangnoen]\n[^esoLangNoen]: [[The Fundamental Fiction of Language]], Prof. Ed. O.\n[^conlangnoen]: [[The Fundamentals of Fictional Languages]], Dr. Dot Code.\n[^SIPHO{N|r}Noen]: [[The Fundamental Fiction of Language]], Dr. Dot Code.\n[^prod]:lexDef \"prodverb\" {lexAllele(s)::: Noen[^n]} < A prodverb is the lexDef of a Lexicomythographic proverb, which is designed to {div|al{ert}} the reader {to|from} a narrative point of {mythopoeic|vulnerable} importance. [^N.B] \n[^n.b]: Nota Bene[^nb] A Favourite Prodverb of Jorge Luis Borges {{went} | something like}: \"A mistake is an escape route - like a drop stitch of knitting being a way out of a labyrinth\"[^N.B.]\n[^n.b.]: ![[Labyrinth]]\n[^NB]: N.B. < {Nota Bene | notBorges | N[^n]{ever} Becoming}\n[^n]: N = {Null | Nothing | Nobody | Noen | Noet | Nima | Noam | Nascent | Near | Nadir | Nest | Noumenon | Nexus | Net | Narthex | Noise}\n[^v]: lexTrans (t{vamps}ax[^vamp]) {lexAllele(s)::: SIPHO{N|r}} << a \"'dance' between \"witness\" and \"witnessed\", \"'meaning' forged between 'observer' and 'observed'\"\n[^vamp]:{\"refers to (the SIPHO{N|r} lang{dingbat capabilities}uage)\" == \"refers to the 'dingbat' quality of syntax capabilities (within \"the SIPHO{N|r} language\")\"}) \n[^-SIPHO{N|r}]: [[The Fundamentals of Fictional Languages]], Prof. Ed. O.\n\n[^ArtefactasArtifactProdverb]: [[Artefact]], notBorges as The Woman In The Wallpaper[^twitw], a prisoner\n[^twitw]: [[notBorges/lexicomythography/unit/Æcademy of Æschertology/ARTICLES, REFS/The Woman in The Wallpaper|The Woman in The Wallpaper]], a character[^fo] Callie Rose Petal[^crp], a warden\n[^crp]: [[Word]], an unending [[letter]][^s] to Jorge Luis Borges.\n[^s]: [[Sierpiński Gasket]], a {[[Period]]|full stop}.",
+        "source": null,
+        "meta": null
+      }
+    }
+  },
+  "Abandon": {
+    "lexeme": "Abandon",
+    "layer": null,
+    "lexAlleles": {
+      "Noen": {
+        "usage": "Freedom.[^AbandonNoen]",
+        "source": null,
+        "meta": null
+      },
+      "Croen": {
+        "usage": "A Paternal Population. N.B. 'An _Abandon_ of Fathers'[^AbandonCroen]\n\n[^AbandonNoen]: *On the Ligature of Two Characters*, The Woman in the Wallpaper, 1994\n[^AbandonCroen]: *i am so hungry with no money to eat and my father doesn't care.* Callie Rose Petal, 2025.",
+        "note": "post-reannealment",
+        "source": null,
+        "meta": null
+      }
+    }
+  }
+}
