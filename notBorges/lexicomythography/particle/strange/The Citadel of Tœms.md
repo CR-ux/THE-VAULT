@@ -1,5 +1,6 @@
 ---
 permalink: The Citadel of Tœms
+cssclasses: vanishing-footnotes
 ---
 
 	*"Mirrors and copulation are abominable, because they in-crease the numbers of men"*
@@ -124,7 +125,7 @@ so everyone is, all ways, late.
 [^N]:The chemical symbol for the most abundant component of the atmosphere, part of a cycle known as the Nitrogen cycle. Capitailsed (N): equals the size of the population. Lowercase *(n)*: how many of the subset sample[^sample] from said population were chosen as the sample size. a recursive symbol for a variable or an anonymous entity. As in "I have read this work N times and still can make heads nor tails of it"
 
 [^mis]: *Mis en abyme* is a term which means "*placed into the abyss*", in which an artist places a copy of an image or idea within itself, suggesting recursion *ad infinitim*[^adinf][^infinity]
-[^infinity]: ![[Islands within Islands]]
+[^infinity]: [[Islands within Islands]] - N. ERA_UnNoen.
 [^Fmd]:"foot and note disease" is a derogation coined by John Betjeman
 [^QS]: Quantum superposition refers to a concept in Quantum Physics in which probabilistic states are interpolated or interlaced upon each other such that a series of potential events (whether unfortunate or not) may occur together, not occur at all, differentially occur in a distribution[^K] ,  
 [^Fe]: Fe is the chemical symbol for Iron, a major component of the biomolecule 'Heme' which carries oxygen about the bloodstream through the lumen of veins (travelling *into, towards* the heart, or Centre of Love of Contractual Compassion) or arteries (travelling *away from* or out of the heart, or Cardiac Pump of autonomic and unfeeling contractile spasm) to ensure healthy distribution of oxygenated tissues via a relationship of exchange with the lung's semi-permeable membranes, which are septa or separations required for unification of the whole. To sever an artery is much more likely to be lethal than the severance of a vein; i.e. "the transgender woman pushed to suicidal ideation due to the lack of spiritual or supportive framework necessitating her understanding of Death as not just a physical process but more importantly (and multiple in its occurrence within a single individual's life) a spiritual and egotistical one, attempted to sever her brachial vein in vain" or "the anaesthesiologist who was also the canonical[^Can] Organist of the Glasgow Cathedral injected the general[^Gen] anaesthesia containing fentanyl, for the purposes of allowing her to withstand the incising and peeling forward of her scalp over her eyes like a shroud of flesh, in order for the surgeon to debride[^De] the organic inauthenticity encapsulated in the curvature of her cranial vault[^CV] in vein"

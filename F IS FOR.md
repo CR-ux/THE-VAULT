@@ -23,11 +23,15 @@
 ![[Field]]
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 **But I am that N is for**
-![[Finger]]
+![[Fingertip]]
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 **Scratch that. N is for**
 ![[Fire]]
-**of a** ![[Forest]]**Where I think I**
+**of a** ![[Forest]]
+**Where in that mulch from burned and planed tree paper I sat and I wrote this** 
+![[Forbear]]
+
+**There. I think I**
 ![[Found]]
 **The answer**
 

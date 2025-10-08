@@ -1,6 +1,4 @@
----
-permalink: The Right Way Forward, Oar - The Æn{i}d;
----
+
 
 
 Of course the pigeon, known as VIXI[^VIXI] (for the sake of your own, well, being, it's best you do not try to pronounce the name, it is unutterable by both flaw and design. But if you were to attempt it, I suppose it might sound something like *wei-xhei*[^N.B.]), did not die. The ending was of a much more significant, wild, type.[^type]
@@ -52,7 +50,7 @@ At the point of writing this furtive attempt to veil secrets, HE was just past t
 [^case]:It is believed (from incomplete records) that in anteAntiquity, before the integration of 'synthetic' and 'organic' bodies[^bod], words were 'printed'[^print] see: 'Chess, And All The Stitches Of The Cloth(es) - S. Elk.'
 [^bod]: print("this body is a story")[^story]
 [^story]: print("this story is a body")[^is]
-[^is]:print("my body has a story")
+[^is]:print("[[You Hold Your Breath|my body has a story]]")
 [^no]:print("my story has nobody")
 [^print]: this is also the origin of the 'print' comment of many programming languages, though, of course, not the most widely distributed and 'printed' language to date, 'EdO||OdE' (Prof. Ed. O & Thing) 
 [^Toroid]: lexDef {Noen} "Wryng" is a term denoting a cyclical process occurring in 4 Dimensional space (as all processes are) and also The Three Lochs surrounding the Library; which are themselves four dimensional, and rotating, much like archaic descriptions of 'electron shells' we have recently uncovered in the ancients' secondary school textbooks. 

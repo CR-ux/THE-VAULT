@@ -6,4 +6,4 @@ Upon a single sheet of this indefinite and perhaps infinite Hospital wallpaper, 
 perhaps on every sheet of wallpaper, the following may have been written, or about to be left,
 in the blood of {at least|no more than} Six individuals (at any one time):
 </div>
-<br>
+<br>**

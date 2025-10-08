@@ -1,0 +1,33 @@
+[gd_scene load_steps=3 format=3 uid="uid://blfjf83vkm1or"]
+
+[ext_resource type="Texture2D" uid="uid://c76my7epd4j6n" path="res://Assets/Aria_Texture.png" id="1_dqw6h"]
+[ext_resource type="PackedScene" uid="uid://dm8vltyx6tdot" path="res://Map/RoomTile.tscn" id="1_mq6b6"]
+
+[node name="Map" type="Node2D"]
+
+[node name="HexRooms" type="Node2D" parent="."]
+position = Vector2(96, 1.90735e-06)
+scale = Vector2(0.88, 0.88)
+
+[node name="RoomScene" parent="HexRooms" instance=ExtResource("1_mq6b6")]
+position = Vector2(787.5, 763.636)
+rotation = 3.09831
+
+[node name="RoomScene2" parent="HexRooms" instance=ExtResource("1_mq6b6")]
+position = Vector2(143.182, -60.2273)
+
+[node name="RoomScene4" parent="HexRooms" instance=ExtResource("1_mq6b6")]
+position = Vector2(564.773, 1136.36)
+rotation = 3.14159
+
+[node name="RoomScene5" parent="HexRooms" instance=ExtResource("1_mq6b6")]
+position = Vector2(-76.1364, 335.227)
+
+[node name="AriaTexture" type="Sprite2D" parent="."]
+z_index = -1
+position = Vector2(374, 538)
+scale = Vector2(0.666, 0.666)
+texture = ExtResource("1_dqw6h")
+
+[node name="SubViewport" type="SubViewport" parent="."]
+transparent_bg = true

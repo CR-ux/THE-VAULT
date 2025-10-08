@@ -12,6 +12,9 @@
 **No. N must be for**
 ![[Confusion]]
 
+EDITOR'S REVISION: [[C is for Crown, Closet, Close, Closing.pdf]]
+
+
 **🜄 / ♝ | OBS: 21:00 | D=3**
 **whtifNfor**
 ![[Cultivate]]

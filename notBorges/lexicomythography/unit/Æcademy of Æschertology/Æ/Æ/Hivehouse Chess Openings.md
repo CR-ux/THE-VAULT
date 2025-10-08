@@ -1,5 +1,5 @@
 ---
-permalink: Æ. HIVEHOUSE {OPENING}.
+permalink: Hivehouse
 ---
 The Endive Lab were {in some, hereto{un}fore{seen} future} on another of their 'socials'. The Doc himself absolutely *detested* them; not that he'd ever let his team know, at least, he tried not to. 
 
@@ -285,13 +285,26 @@ The two domes,
 	{by Both} 
 
 The {Sun {now} sunken}, both of their dicks decidedly *not* so;
-`|`
-`|`
-`A	       ed    tear   a         c`   
-`N        t    to      e  c    ers <lot<hes>>.`
-`D      ar           ff    h  h` 
-`They st           o        ot`  
+![[Pasted image 20250928205257.png]]
 # ᶠᵒᵒᵗNoet(s)
 
 [^b]: ![[The Bee Box.]]
-[^brace]: SIPHO{N|r} is an esoteric and constructed programming language that attempts to condense sentiment into compact one liners, in a process of self-reflexive reduction of symbol into its self-same components, to create dropstitches in the Fabric of Feelings, in order to reveal its underlying pattern in another way. It was created by NoetTuring, and {REDACTED} extensively in {*We Are The Device*|his unreleased study|the wallpaper of the hospital}.
+[^brace]: SIPHO{N|r} is an esoteric and constructed programming language that attempts to condense sentiment into compact one liners, in a process of self-reflexive reduction of symbol into its self-same components, to create dropstitches in the Fabric of Feelings, in order to reveal its underlying pattern [[#Out of order|in another way]]. It was created by NoetTuring, and {REDACTED} extensively in {*We Are The Device*|his unreleased study|the wallpaper of the hospital}.
+
+
+<style>
+    .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+</style>
+
+<div class="footer">
+
+### Out of order
+
+> [!meta]- the character thinks:
+>  [[close it|"a way through a pattern is revealed as the same"]]
+</div>

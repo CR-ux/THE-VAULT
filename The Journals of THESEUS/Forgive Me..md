@@ -130,14 +130,6 @@ me
 
 ![[Pasted image 20250617151500.png]]
 
-<a href="https://instagram.com/carpvs" target="_blank">Instagram</a>
-<a href="https://www.carpvs.com" target="_blank">Website</a>
-  <a href="https://www.patreon.com/notborges" target="_blank">Patreon</a>
-  <a href="https://www.notborges.bandcamp.com" target="_blank">Bandcamp</a>
-  <a href="https://open.spotify.com/artist/3tsWNeIo7giKlNy7pllSpU?si=OKMCGl5MT1KM_QKQ9lkVYg" target="_blank">Spotify</a>
-
-
-
 
 [^m]: A transmedia Metanarrative Universe, which aims to dismantle traditional norms of academic inquiry and the written Word.[^pp] 
 [^l]: lexDef "Forgive" {usage::: Croen || prodverb[^prod]} < N.B. "A Forgiving of Characters"[^ForgiveCroen] || *"To forgive the Characters"*[^pro]

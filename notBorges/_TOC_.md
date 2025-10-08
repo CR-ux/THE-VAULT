@@ -1018,7 +1018,7 @@ title: notBorges
 [[notBorges/layer.md]]
 [['to forgive the characters'. a lexicomythographic prodverb]]
 [[notBorges/lexicomythography/0 is for Oleander/And They Dreamed.md]]
-[[notBorges/lexicomythography/character/CHARACTER (Φ).md]]
+[[Character.]]
 [[notBorges/lexicomythography/character/N/**Integrated Framework** for the **Hexagnoedifictional Hermeneutical Compass** III..md]]
 [[notBorges/lexicomythography/character/N/Islands within Islands.md]]
 [[notBorges/lexicomythography/character/_d<evelop>m<eN>t/THE UNKNOWN ONE; {WROTE WRONG NON-} ANONYMOUS PSYCHIATRIC PATIENT.md]]

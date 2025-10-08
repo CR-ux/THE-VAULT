@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("TWO.FOUR.GIVE.")
+    sort:
+      - property: file.name
+        direction: DESC

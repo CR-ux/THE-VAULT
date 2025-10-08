@@ -8,6 +8,7 @@ But To the Best of My Belief, the Day, This Final Day Of My Light-
 Is Seventeen;
 Of Month of Fourth,
 Of Year One Thousand And Six Hundred.</div>
+
 ![[I_93=94.jpeg]]
 <div style="line-height: 0.9; font-size: 12pt;">I do not have long. They are coming, with their stones, their knives, and their fire. 
 But I have a Fire of my own. 
@@ -19,6 +20,7 @@ I have the only Fire worth keeping alive. </div>
 <div style="line-height: 0.8; font-size: 12pt;">And in my death, I have seen it, I have seen my death and I have seen what will be birthed from it-
 Thousands of years from now, I have heard and touched and smelled and tasted it; 
 Even from within the confines of this cave. </div>
+
 ![[I_97-98.jpeg]]
 <div style="line-height: 0.8; font-size: 12pt;">
 

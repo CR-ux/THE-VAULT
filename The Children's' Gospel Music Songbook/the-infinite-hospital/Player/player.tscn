@@ -1,0 +1,12 @@
+[gd_scene load_steps=3 format=3 uid="uid://byvnlmym23lmg"]
+
+[ext_resource type="PackedScene" uid="uid://blfjf83vkm1or" path="res://Map/MapScene.tscn" id="1_sweqy"]
+[ext_resource type="PackedScene" uid="uid://bnqapimtuxuox" path="res://Player/Aria.tscn" id="2_onrkg"]
+
+[node name="Universe" type="Node2D"]
+
+[node name="Map" parent="." instance=ExtResource("1_sweqy")]
+
+[node name="HexMap" type="Node2D" parent="."]
+
+[node name="Aria" parent="." instance=ExtResource("2_onrkg")]

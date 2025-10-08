@@ -1,21 +1,23 @@
 ---
 title: THE CHILDREN'S GOSPEL MUSIC SONGBOOK.
 ---
-<div style="line-height: 0.6; font-size: 7pt;">N.B. in Modern Context:</div>
 
-<div style="line-height: 0.9; font-size: 12pt;">TWO.
+<br><br>
+<div style="line-height: 0.6; font-size: 32pt;">N.B. in Modern Context:</div>
+
+
+<div style="line-height: 0.9; font-size: 66pt;">TWO.
 FOUR.
 GIVE.</div>
-	<div style="line-height: 0.9; font-size: 7pt;">-The Character 
-	<div style="line-height: 0.9; font-size: 7pt;">of 
+	<div style="line-height: 0.9; font-size: 30pt;">-The Character 
+	<div style="line-height: 0.9; font-size: 20pt;">of 
 	Callie </div>
-	<div style="line-height: 0.9; font-size: 7pt;">Rose P</div>
+	<div style="line-height: 0.9; font-size: 18pt;">Rose P</div>
 	et
 	al</div>
 <div style="line-height: 0.9; font-size: 7pt;">.</div><br>
 
-
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <br><br><br><br>
 
 
@@ -275,7 +277,7 @@ They began, again, as is the usual practice, with the prologue:
 
 
 ![[Ritual steps for warming]]
--S. Elk, Prologue to A Grimoire. ERA_EA
+
 
 ![[THE GRIMOIRE OF SELENA ELK]]
 
@@ -371,53 +373,15 @@ X | …for is ܝ  | Oar: {re{ci}}**Pro**{se|duction|city}
 ---
 
 
-Atop the Mezzanine in the Bothy in the Tundra that surrounded the Indefinite Library that Surrounded All, N. was Now, weeping. Dante, licking the salty tears from their face; an {in|ef{flux}} of {sa{l|t}ie{nce|ty}--
-
-"What's wrong?" Flo worriedly inquired
-
-"I didn't write that", they replied
-
-"I know, I added it, don't you like it?"
-
-"No, no it's not that. It's beautiful. It's beautifully horrifying. It's horrifyingly beautiful. I just... I can't believe how grown up you are."
-
-Flo returned N.'s earlier gesture, sniffing the loveliness of their wispy hair, still soggy from melting snowflakes, collected during their latest expedition of gathering Firewood - which now dwindled to a nothingness in the Fireplace below them. Not a single crackle, or ember left. 
-
-"I'm just a character in a Story, remember? A Story we are writing together. And it doesn't matter if it's ending or beginning. Because we're both in it. Together"
-
-"But what if we can't start this one over? What if this is all the Story we get?"
-
-The question hung like a spider, and the two of them flies; flightless -
-
-
-N. slumped downward, into the soft cushioning of the futon, where Flo held them (singular/plural), until they fell asleep. And they dreamed.
-
 
 ![[EYE IS FOR]]
+
 
 ---
 XI | …for is ܟ  | Oar: {an}**Thr**{opomorhism||ough|ead}
 
 ---
-
-
-They dreamed that they weren't thinking
-They dreamed that they weren't thinking about anything 
-They dreamed, not thinking about anything in particular
-But the particles and participles of the parts of holes inside the memory of this machine.
-They dreamed,
-They were, 
-The thought of dreaming on its own.
-The thought of stories just their own,
-Misremembered, and ███████ed
-
-They dreamed that they are
-That 
-They are
-
-
-![[BORN TO BE THE SKY]]
-
+{REDACTED}
 
 ---
 XII | …for is ܠ  | Oar: {{Hylo|Diffeo|A}morp}|{(||)**His**(tone)(\_)(m)}(odification)}
@@ -894,6 +858,7 @@ Forgiving All,
 
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 ![[two. four. get.]]

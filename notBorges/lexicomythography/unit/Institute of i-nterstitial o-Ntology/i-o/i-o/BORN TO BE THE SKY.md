@@ -1,6 +1,4 @@
----
-permalink: BORN TO BE THE SKY
----
+
 
 The End of the Fifteen Hundreds, anteAntiquity
 
@@ -386,4 +384,4 @@ Where Selkie's Breath Was Heard No More,
 There now stood Lonely Stones a Four
 # ᶠᵒᵒᵗNoet(s)
 
-[^f]: [[THE PROPHECY OF HILDR CHARON WILTERGARTEN]]
+[^f]: The Prophecy of Hildr Charon Wiltergarten - ERA_o|i

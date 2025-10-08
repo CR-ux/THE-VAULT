@@ -1,14 +1,9 @@
----
-permalink: RITUAL OF THE TIRED SYRINGE
----
 
 
 
 
 ![[Chess.]]
 
-
-![[Ritual steps for warming]]
 
 
 RITUAL OF THE TIRED SYRINGE
@@ -19,7 +14,7 @@ RITUAL OF THE TIRED SYRINGE
 ---
 
 
-
+[[E IS FOR|E is for]]
 The End.[^end] 
 # Intronic Material
 

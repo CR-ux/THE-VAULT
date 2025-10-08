@@ -116,15 +116,17 @@ Hope the code is coding kindly dear light,
 - S
 # ᶠᵒᵒᵗNoet(s)
 
-[^†]: I know you find him self-important and somewhat pretentious in his recursive fiction, but I was reading the latest Gnoeneoeng. translation of The Citadel of Tœms last night and I thought it was the perfect fit for today's *Prologuemania - hope you will forgive me for (finally!!!) taking up our little email opening ritual with the Noet. who is perhaps the one artist we disagree on the genius of (although, I look {back|forward} to un{covering} the smatterings of the matter of our Dis{agreement}. I look {{{back|for}ward} to} it all. Dear Goddess how I miss your smell, My Light)
+[^†]: I know you find him self-important and somewhat pretentious in his recursive fiction, but I was reading the latest Gnoeneoeng. translation of The Citadel of [[TŒMS]] last night and I thought it was the perfect fit for today's *Prologuemania - hope you will forgive me for (finally!!!) taking up our little email opening ritual with the Noet. who is perhaps the one artist we disagree on the genius of (although, I look {back|forward} to un{covering} the smatterings of the matter of our Dis{agreement}. I look {{{back|for}ward} to} it all. Dear Goddess how I miss your smell, My Light)
 
 [^LD]: lexDef (EA) "L.D." {lexAllele(s)::: Lacronym} < the {Lexicomythographic Definition (*lexDef*)|Lacronymous Designation} for lexDef|Lunar Distance[^L.D.Lacronym]
 
 [^L.D.Lacronym]: *Selene, for whom I have been Named.* S. Elk, {Al(l)one}, From within the Stone Circle.
 [^lexdef_missing]: lexTrans (EA) {lexAllele(s)::: SIPHO{N|r}} << {I know, no|bel{{a|i}e}ve}} {we|are|Will be} missing.[^missing.SIPHO{N|r}]
 
-[^missing.SIPHO{N|r}]: [[One Thing Missing - a scrabble variant]], Dr Dot Code (RE: visions of the Professor, Eduardo Oleander)
+[^missing.SIPHO{N|r}]: One Thing Missing - a scrabble variant,[^lnk] Dr Dot Code (RE: visions of the Professor, Eduardo Oleander)
+[^lnk]: \<src missing>
 [^assay]: lexTrans {lexAllele(s)::: SIPHO{N|r}} "As{w{(yo)u}e|i}say" << {As we say, as you say, as I say | "You" in "We", Wu Wei in Assay"[^assay1]
 [^assay1]: lexDef (EA) "Assay" {lexAllele(s)::: Noen} < The testing of an {Ore|metal}, or: to try. To try to find the yielding forgiveness of an answer in the harshness of matter.[^AssayNoen]
 
-[^AssayNoen]: Solid Foundations in Philosophical Gnoeneogeology, Samples Taken From ⧖eno's Field Recordings
+[^AssayNoen]: Solid Foundations in Philosophical Gnoeneogeology, Samples Taken From ⧖eno's Field Recordings, Now spinning ceaselessly in their ever-revolving Door.[^d]
+[^d]: [[Knock knock]]

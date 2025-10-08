@@ -1,5 +1,6 @@
 ---
 permalink: RED_RING_PARALLEL
+cssclasses: disappear
 ---
 
 <span class="right-align">Æi|oU</span>

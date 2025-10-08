@@ -1,0 +1,5 @@
+
+lexDef (Centromere) "Fingertip" {lexAllele(s)::: Croen {ARIA|DNE}} < N.B. ARIA var = "A Fingertip Of Farewells" | DNE var = "A Film Of Fingertips"[^p][^FingerCroen]
+
+[^FingerCroen]: "to film is such a loving act; I want to catch all that light as it falls off you, like how most off the poppy seeds come away on your fingertips before you even start to eat the bun. I want to commemorate you: not in imperial columns but in a flash, in the flash of time you exist in flesh. looking at what I want without touching it is the most basic form of yearning; and that’s hot, in a sort of catholic, torturous way. I think I can look at you without trying to own you – I hope I can, anyway. I think looking is hot, but mostly when people ask me to look at them, which is different to how straight guys look, right?" - A, for Adrian.
+[^p]: *"An Epistolary Account Of A Transgender Psychiatric Inpatient Disguised As A Confessional Autobiography Disguised As A Dictionary Disguised As A Metatextual Novel In The Guise of"* The debut album by *Poppy Seeds and The Fingertips They Fell Away From*

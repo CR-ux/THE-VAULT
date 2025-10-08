@@ -180,7 +180,7 @@ XENO's OTHER HAND appears to pick up the hair-and-scene-tying device. The hand p
 XENO
 (Tying up their dry hair and peering over to the image of PAN covering the PAN, )
 
-PAN to the DROSOPHILA perched upon the picture of PAN upon the PAN. SUPER ZOOM into one of its EYEs, through its nervous system, lit up with the RGB lighting of genetic markers; As it crawls nearer to the ledge of the book teetering above the PAN, TRACK a single occipital nerve impulse from the EGG to the EYE to the BRAIN, then ZOOM through the fly down through the pages of the Celtic Mythology Text, highlighting key passages on 'Stone Circles of the Hebrides', before piercing the veil of the book and resting, again, upon the congealed Egg inside the PAN - now half illuminated, half covered by the shadow cast by the book.
+PAN to the DROSOPHILA perched upon the picture of PAN upon the PAN. SUPER ZOOM into one of its EYEs, through its nervous system, lit up with the RGB lighting of genetic markers; As it crawls nearer to the ledge of the book teetering above the PAN, TRACK a single occipital nerve impulse from the EGG to the EYE to the BRAIN, then ZOOM through the fly down through the pages of the Celtic Mythology Text, highlighting key passages on 'Stone Circles of the Hebrides', before piercing the veil of the book and resting, again, upon the congealed Egg inside the PAN - now half illuminated by the contents of the aforementioned book, half covered by the shadow cast by another.[^book]
 
 XENO
 (O.S., speaking softly to the DROSOPHILA)
@@ -192,3 +192,4 @@ See? I couldn't make an omelette even if I wanted to
 
 [^W]: [[BORN TO BE THE SKY]] - The Correspondence of Hildr Wiltergarten Pre-Transmogrification 
 [^rho]: Rho is for Rhodopsin - Aria {Surname REDACTED}: {REDACTED} works
+[^book]: **[[The Symphony of Ten Thousand Things|This Book.]]** 

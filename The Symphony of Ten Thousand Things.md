@@ -130,9 +130,9 @@ And so, you are presented with the illusion of your own:
 
 You take the:
 
-| ![[LEFT HAND PATH]] | ![[RIGHT HAND PATH]] |
-|:------------------- | --------------------:|
 
+| ![[LEFT HAND PATH]] | ![[RIGHT HAND PATH]] |
+| :------------------ | -------------------: |
 
 
 ⧖eno, Now, One-Eyed, forever stuck in the Revolving door of the Indefinite Library of Fable, performed their function, as an insect carries ten times its body weight, headed to an endpoint unknown, only felt, by deeply embedded code, with no thought of Why; as Z terminates the Alphabet, with no thought of Y.

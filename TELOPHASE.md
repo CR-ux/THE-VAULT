@@ -590,5 +590,5 @@ that
 [^pyrotic]: lexDef (?) "Ekpyrotic" {lexAllele(s)::: Noen || Croen} < ekpyrotic universe is a cosmological model that proposes an alternative to the Big Bang theory for the origin of the universe. It suggests that the universe began with a slow contraction phase before undergoing a "Big Bounce" rather than a singular Big Bang. This model, also known as brane cosmology, involves the collision of branes (hypothetical multi-dimensional membranes)[^EkpyroticNoen] || N.B. ARIA var = "An Ekpyrosis Of Poems" | DNE var = "A Dream of Ekpyrosis"[^EkpyroticCroen]
 
 [^EkpyroticNoen]: *East Coker,* T. S. Eliot, On His Return To The Library. 
-[^EkpyroticCroen]: *In Your End Is My Beginning: A Metaphysical Inquiry Of Grief*, Callie Rose Petal.
+[^EkpyroticCroen]: *[[i am a dove and i am singing.|In Your End Is My Beginning: A Metaphysical Inquiry Of Grief]]*, Callie Rose Petal.
 [^forgive]: *TWO.FOUR.GIVE.* Me.

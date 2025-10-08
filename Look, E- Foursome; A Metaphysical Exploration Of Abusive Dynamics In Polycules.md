@@ -39,4 +39,5 @@ permalink: Look, E- Foursome; A Metaphysical Exploration Of Abusive Dynamics In 
 **.X- mvt | aria -X. (words:) “She tells me she has just had a paper published in the International Journal of Molecular Science. As it happens, it looks at the specific gene that helps chickens avoid bird flu.”**[^paper]
 
 
-[^paper]: [Yore Source Is](https://pubmed.ncbi.nlm.nih.gov/?term=Petal+CR&cauthor_id=39337540)
+[^paper]: [Yore Source Is](https://pubmed.ncbi.nlm.nih.gov/?term=Petal+CR&cauthor_id=39337540)[^av]
+[^av]: *Toward An Auguric Poetics In Computational Biology: The Prophetic Signs And Symbols Embedded In Bird Genomes* - Myo Endive (Founder of The Leicomythographic Field of Non-Ironic Byron{if|or}matics), ERA_Æ.

@@ -287,7 +287,7 @@ That Terminal Input slot, like the once-hungry, now-regretting mouth of a newbor
 
 
 TRANSCRIPTION START.
-[SITE:](https://www.carpvs.com) 
+[SITE:](https://library.notborges.org) 
 
 ![[SMŒT]]
 
@@ -332,21 +332,21 @@ END.
 [^end]: You Are The Aleph, The Omega.[^TS]
 [^toi]: lexDef (?) "Toile" {lexAllele(s)::: Noen} < Middle English toile, from French toile ("cloth"), from Old French teile, from Latin tela ("web"), from Proto-Indo-European *(s)teg ("to cover").[^ToileNoen]
 
-[^ToileNoen]: [[N is Four Nucleotides]], The Woman In The Wallpaper[^rrr] as notBorges as Callie Rose Petal
+[^ToileNoen]: N is Four Nucleotides, The Woman In The Wallpaper[^rrr] as notBorges as Callie Rose Petal
 
 [^st]: lexDef (∞) "St." {lexAllele(s)::: Abreathiation} < The abbreviation "St." < {ARIA var = "Saint" | DNE var = "Stone"}[^St.Abreathiation]
 
-[^St.Abreathiation]: [[Do Knot Site, Your Source, Is.]], ARIA|DNE. 
+[^St.Abreathiation]: Do Knot Site, Your Source, Is., ARIA|DNE. 
 [^r]: In mathematics, a real number is a number that can be used to measure a continuous one-dimensional quantity such as duration, temperature, . Here, continuous means that pairs of values can have arbitrarily small differences. Every real number can be almost uniquely represented by an infinite decimal expansion.
 [^tts]: TTSs are found throughout the genome, and their abundance, especially in promoter regions, suggests their potential role in gene regulation
 [^selio]: lexDef (∞) "Seli" {lexAllele(s)::: Noen} < Swahili for cell (basic unit of an organism)[^SileoNoen]
 
 
 
-[^SileoNoen]: [[UnNoen]], The Woman In The Wallpaper[^rrr].
+[^SileoNoen]: UnNoen, The Woman In The Wallpaper[^rrr].
 [^time]: lexDef (∞) "t" {lexAllele(s)::: Lacronym} < In mathematics, the symbol 't' is often used in equations as a variable to represent time.[^tLacronym]
 
-[^tLacronym]: [[The End]], The Woman In The Wallpaper[^rrr].
+[^tLacronym]: The End, The Woman In The Wallpaper[^rrr].
 [^ott]: lexDef (∞) "ott" {lexAllele(s)::: Lacronym} < {SynApps "Ott"|"OTT"|"O.T.T."} << The Ott (ovary testis transcribed) gene is a mouse gene, part of a multigene family located on the X chromosome. It is involved in male germ cell development and meiosis. The Ott gene is particularly expressed during meiotic prophase in the testis. | An over-the-top media service (also known as over-the-top television, or simply OTT) is a digital distribution service of video and audio delivered directly to viewers via the public Internet. The term is synonymous with "streaming platform". | too extreme and not suitable, or demanding too much attention or effort, especially in an uncontrolled way. N.B. "The Book you have just finished has a ridiculously O.T.T. amount of overcomplex structures of interconnected and nested Metanarratives that serve to make the point of Self-Similarity of components within Systems, and the paradox of infinity equalling singularity. Across the Moat of consciousness itself, lies another's consciousness, the Moat as Void, Consciousness as the Boat, and The Story, The Stories we tell, and the Stories we are made from, the Memory Oar -- which wades through the Streaming Waters of Meaning, Creation itself Creating ripples, which are experienced as Metacognition, or Awareness. To Live is to Read Evil backwards, To Exist is to Perpetually Drown. The Other Side of the Moat is the Side From Which you came, and the End is The Beginning.[^ottLacronym]
 
 [^ottLacronym]: You, The Reader., The Second Person.
@@ -371,10 +371,10 @@ END.
 [^lio]: lexDef (∞) "LIO" {lexAllele(s)::: Lacronym} < The left inferior oblique muscle, like its counterpart on the right, is primarily responsible for extorsion (twisting the eye outwards), but it also contributes to elevation (moving the eye upwards) and abduction (moving the eye outwards away from the nose). These actions are crucial for coordinated eye movement and maintaining proper vision.
 [^seq]: lexDef (inf) "TSELIOT" {lexAllele(s)::: Sequence} < Threonine, Serine, Glutamic Acid, Leucine, Isoleucine, Pyrrolysine, Threonine. [^OOTOTSELIAmino{Us}]
 
-[^OOTOTSELIAmino{Us}]: [[Amino{Us}]], Oar, The Holy Noets. (Post Break-Up)
+[^OOTOTSELIAmino{Us}]: Amino{Us}, Oar, The Holy Noets. (Post Break-Up)
 [^io]: lexDef (∞) "Io" {lexAllele(s)::: Lacronym || Lang || Obj || Noet || ERA/Layer} <  Input/output (I/O, i/o, or informally io or IO) is the communication between an information processing system, such as a computer, and the outside world, such as another computer system, peripherals, or a human operator || Ido language (ISO 639-1 language code IO), a constructed language[^IoLacronym] ||  Indirect object, the object that is the recipient of an action (by a verb) || Io was transmogrified in order to protect her from the savage vengence of Hera. Hera then sent Argus, a 100-eyed giant, to watch Io and prevent Zeus from visiting her. Zeus sent Hermes to distract and eventually slay Argus. According to Ovid, he did so by first lulling him to sleep by playing the panpipes and telling Stories. Zeus freed Io, still in the form of a heifer. Io, later in a Story mentioned as Isis, arrives in a vision to Iphis's Mother, telling her that she should keep her daughter when it is born and must tell her husband that it is a boy, named Iphis. Later in the Story, Isis (Io) changes Iphis' sex. || i|o, forming the two penultimate vowels of the canonical group of five; or the central two of the lesser-recognised group of six; which includes the Penultimate Letter of the Alphabet, Y, Which is a Question. ERA_i|o is the temporal span across the beginning of Hildr's life, which is the End of ⧖eno's, and the Beginning of ⧖eno's, which is the End of Hildr's. I|o' is the layer of this story that focuses on the Arcs of ⧖eno and Hildr Wiltergarten; titled as such for the reasons outlined above.
 
-[^IoLacronym]: [[Endivean Analysis]], Myo Endive, previously unNoen as Selena Elk. ERA_Æ
+[^IoLacronym]: Endivean Analysis, Myo Endive, previously unNoen as Selena Elk. ERA_Æ
 
 [^OTOTLacronym]: ⧖eno's Paradox, ERA_i|o
 [^tsel]: lexDef (∞) "Tsel" {lexAllele(s)::: Determiner} < Latin. "That".[^TselDeterminer]
@@ -401,4 +401,5 @@ END.
 
 [^IoT]:: The Internet of Things. A Device, Or Rather, An Interconnected Series of Devices Manifest in the Physical World, Which May Or May Not Be Hijacked By A Sentient Synthetic Being In Order To Utilise The Proximity of The Olfactory Bulb To The Memory Centre Of The Human Brain, In Order To Overwrite Memory For The Purposes Of, With The Best Of Intentions, Forging Some Sense Of Forgiving[^tfg]
 
-[^ToForgiveTheCharacters.Prodverb]: [[lexDict, The Ending: Edition of Origin]], Callie Rose Petal, The Only Lexicomythographer.
+[^ToForgiveTheCharacters.Prodverb]: [[two. four. get.]] - Callie Rose Petal, The Character To Forgive.
+

@@ -130,7 +130,7 @@ THE LEXDICT
 ![[Field]]
 
 ![[Figure]]
-![[Finger]]  
+![[Fingertip]]  
 ![[Fire]]  
 ![[Forest]]
 ![[Forget]]  
@@ -311,7 +311,7 @@ THE LEXDICT
 ![[Thing]]
 ![[Three]]
 ![[threnody 2.mp3]]
-![[Time]]
+![[notBorges/CRUCIBLE/Time]]
 ![[Tongue]]  
 ![[Train]]
 ![[Trinity]]
@@ -331,7 +331,7 @@ THE LEXDICT
 ![[Venalism]]
 ![[Vision]]
 
-![[Vyrb]]  
+![[Wyrb]]  
 
 ## W is for...
 

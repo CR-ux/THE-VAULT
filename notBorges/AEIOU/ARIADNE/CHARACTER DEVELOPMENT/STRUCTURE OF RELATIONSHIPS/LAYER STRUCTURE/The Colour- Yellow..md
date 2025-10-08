@@ -1,5 +1,5 @@
 ---
-permalink: <% tp.file.title %>
+permalink: The Colour- Yellow.
 ---
 
 ## {EDITORS|NOETS}

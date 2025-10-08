@@ -1,0 +1,51 @@
+[gd_scene load_steps=3 format=3 uid="uid://omaqyxi3t6qt"]
+
+[ext_resource type="Texture2D" uid="uid://b2vui2fqtsbub" path="res://Assets/hexTile.png" id="1_8ye1f"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_brty6"]
+size = Vector2(48, 36.5)
+
+[node name="RoomScene" type="Node2D"]
+
+[node name="TileSprite" type="Sprite2D" parent="."]
+position = Vector2(205, 220)
+texture = ExtResource("1_8ye1f")
+
+[node name="LeftDoor" type="Node2D" parent="."]
+
+[node name="LeftDoorStaticBody" type="StaticBody2D" parent="LeftDoor"]
+position = Vector2(88, 217)
+
+[node name="LeftDoor_Collider" type="CollisionShape2D" parent="LeftDoor/LeftDoorStaticBody"]
+shape = SubResource("RectangleShape2D_brty6")
+
+[node name="RightDoor" type="Node2D" parent="."]
+
+[node name="RightDoorStaticBody" type="StaticBody2D" parent="RightDoor"]
+position = Vector2(338, 211)
+
+[node name="RightDoor_Collider" type="CollisionShape2D" parent="RightDoor/RightDoorStaticBody"]
+shape = SubResource("RectangleShape2D_brty6")
+
+[node name="MurphyDoors" type="Node2D" parent="."]
+
+[node name="NE" type="Area2D" parent="MurphyDoors"]
+
+[node name="NE_Collider" type="CollisionPolygon2D" parent="MurphyDoors/NE"]
+polygon = PackedVector2Array(231, 39, 227, 95, 308, 151, 360, 124)
+
+[node name="SE" type="Area2D" parent="MurphyDoors"]
+
+[node name="SE_Collider" type="CollisionPolygon2D" parent="MurphyDoors/SE"]
+polygon = PackedVector2Array(317, 296, 223, 353, 220, 398, 349, 318)
+
+[node name="SW" type="Area2D" parent="MurphyDoors"]
+
+[node name="SW_Collider" type="CollisionPolygon2D" parent="MurphyDoors/SW"]
+polygon = PackedVector2Array(107, 295, 52, 314, 197, 402, 205, 355)
+
+[node name="NW" type="Area2D" parent="MurphyDoors"]
+
+[node name="NW_Collider" type="CollisionPolygon2D" parent="MurphyDoors/NW"]
+position = Vector2(132, 80)
+polygon = PackedVector2Array(15, -14, 81, -45, 78, 16, -1, 63, -76, 39)

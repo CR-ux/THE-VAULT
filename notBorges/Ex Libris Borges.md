@@ -53,7 +53,7 @@ He knew why he was cold.[^cc]
 Knowing this, there was a certain urgency, but decidedness to his movements. In the dark of his attic, our main character, the main character of every story, the writer, was finishing his final letter, of a sentence, of a final sentence, of a certain storied character. The letter, within a letter within a word within a letter, was the Twenty Fourth letter of the english alphabet. Which may also be used to denote a number, if one opts. This particular letter is also a symbol, perhaps one scrawled over labels of poison within pots, or for marking a location whose importance is of note, or, indeed, "The Spot".
 
 X, as in, the middle letter of the word 'Sixth'; Ex, as in, a denotation of the now long gone but unforgotten past; 
-X as in, [[The Letter]] of a certain [[CHARACTER (Φ)]][^C]
+X as in, [[The Letter]] of a certain [[Character.]][^C]
 
 
 As in, the cross, 

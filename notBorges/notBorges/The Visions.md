@@ -21,7 +21,7 @@ Be[^b]
 
 
 
-X is also a [[CHARACTER (Φ)]] used to denote a chromosome which is a code that Every Single One of us has at least One of, regardless of assigned or correct gender, also known as a meeting point, or a crossroads which is also what an X is.
+X is also a [[Character.]] used to denote a chromosome which is a code that Every Single One of us has at least One of, regardless of assigned or correct gender, also known as a meeting point, or a crossroads which is also what an X is.
 
 This same character takes on a different character which is the same which means multiplication or to increase something left by itself the number of times denoted by what is right 
 

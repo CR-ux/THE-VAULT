@@ -13,4 +13,4 @@ permalink: Book VI
 > 	1. [[this universe (which some call the hospital)]], is [[notBorges/redacted]].
 > 	2. [[V. THE GOSPEL ACCORDING TO THE NEWBORN]] comes to pass.
 > 	3. Then cometh [[THE END OF DAYS]]; At Her [[End]], Which Is ([[In My Beginning]])
-> 	4. Whence By Which [[Time]] [[“She has broken up with her ex-REDACTED and was attacked by REDACTED on the street.”]]
+> 	4. Whence By Which [[notBorges/CRUCIBLE/Time]] [[“She has broken up with her ex-REDACTED and was attacked by REDACTED on the street.”]]

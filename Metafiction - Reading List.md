@@ -1,0 +1,13 @@
+
+- Wittgenstein's Mistress
+- Pale Fire
+- Mezzanine
+- House of Leaves
+- Gerald's Party
+- Dictionary of the Khazars
+- If on a Winter’s Night a Traveller
+- Hopscotch
+- Tristram Shandy
+- The Unfortunates
+- House of Incest
+- At Swim Two Birds

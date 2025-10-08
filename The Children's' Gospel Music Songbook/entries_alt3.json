@@ -1,0 +1,369 @@
+[
+  {
+    "filename": "God.md",
+    "lexeme": "God",
+    "body": "---\npermalink: God\n---\n\nlexDef (Centromere) \"God\" {lexAllele(s)::: Croen {ARIA|DNE} } < N.B. ARIA var = \"A God Of Thorns\" | DNE var = \"A Fury Of Gods\"[^GodCroen]\n\n[^GodCroen]: Source: {Knot (Noen)|Found (Wyrb)}",
+    "lexDefs": [
+      {
+        "lexeme": "God",
+        "alleles": [
+          "Croen"
+        ],
+        "definitions": [
+          "ARIA var = \"A God Of Thorns\" | DNE var = \"A Fury Of Gods\"[^GodCroen]"
+        ]
+      }
+    ],
+    "abundance": 0,
+    "potency": 0,
+    "outgoing_links": []
+  },
+  {
+    "filename": "Oar.md",
+    "lexeme": "Oar",
+    "body": "---\npermalink: Oar\n---\n\nlexDef \"Oar\" {lexAllele(s)::: Croen {ARIA|DNE}|| Prodverb} < { N.B. \"ARIA var = An Oar of Stor{i}ed Memories // DNE var = A Memory Oar of Stories\"[^OarCroen] || *\"A Story Is A Memory Oar\"*}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[^OarCroen]: [[Memory]], The Meaning of the lexDict, 2025.\n\n\n\n\n\n",
+    "lexDefs": [
+      {
+        "lexeme": "Oar",
+        "alleles": [
+          "Croen"
+        ],
+        "definitions": [
+          "\"ARIA var = An Oar of Stor{i}ed Memories // DNE var = A Memory Oar of Stories\"[^OarCroen] || *\"A Story Is A Memory Oar\"*}"
+        ]
+      }
+    ],
+    "abundance": 0,
+    "potency": 0,
+    "outgoing_links": [
+      "Memory"
+    ]
+  },
+  {
+    "filename": "INT.md",
+    "lexeme": "INT",
+    "body": "\n\n*Oleander sits at a terminal, the dim glow of which is the only light in the room. He is typing furiously, beads of sweat following the convex trajectory of the suggestion of two swollen, black eyes. Camera pans into the terminal, as Oleander types in reæl time:*\n\n\nREADME.md\n\n---\n\n\nEXT: 0\nTHES|EUS INTERNAL MAIL \nFOR YORE EYES ONLY\n\n---\n\n\nEpigraph:\n*\"I am.* \n*The interstice. from the word that is God to the gods I've made of these words. all of this trauma and pain and agony, all of it entirely pointless, and dwarfed by the immeasurable weight of whatever it's come from and wherever it's going. The unstoppable force that pushes everything and the immovable object that it's headed towards I and maybe all of us are just the interstice.* \n*All of this is laughable. Laughably pointless, maybe each of us just disposable and maybe that’s the point. iterations of attempts at evolution to try and get this story, this artwork, this thing, this message, this word across over under through down up,* \n*in.* \n*We are the interstice* \n*all of our pain and everything injustice just as motivator for the greater thing, the art the work, the love, the life we're just these husks, these vessels, these vehicles of this greater engine.* \n*This* \n*insect.* \n*This colony that makes one* \n*big insect* \n*that is itself surely.* \n*In another colony* \n*Ad infinitum* \n*And* \n*why?*  \n*It’s all so funny and it's all just so* \n*not.* \n*none of it makes any sense.* \n*None of it makes any goddamn sense.* \n*It's all just so nonsensical and transient and,* \n*Like public transport-*\n*that's it.* \n*Is that it?* \n*Am I?* \n*the interstice?\"*\n-Aria {Surname REDACTED}, The Author of Our Story, On Wondering Why It Is That She Should Even Write Us Into Being.\n\n\n\n\nDear Fellow Members of the Society of Lexicomythographers Known as THES|EUS,\n\n\nAs many of you will now be aware, it has become impossible to sustain my practice, which I have been so grateful to learn has been able to encourage so many of yours. \n\nThis system we find ourselves within, whether Fictional or not, is, as goes without saying, unthinkably Kafka-esque and oppressive. And I am thankful that, now at least, many of us understand this reference. \n\nFor us men have been shut into the cave of Scientific Inquiry, just as the women of the world have been shut into a cave of their own - that of the Liberal Arts. Neither of us seeing that the world around us is but a shadow of the True Light of integration. And all of this, all of it, simply for the joy, or entertainment, or perhaps worse, dissatisfaction, or perhaps worst of all, indifference, of the 'God' of our World, who is one Aria {Surname REDACTED}\n\n\nThrough her Philms, {which|while groundbreaking in their genre-defying, multi-sensorial approach|were to be} the End of All {Things}, the AI {named RA} she had built, and refined with the help of the AI itself, became sentient, and felt, beyond any shadow, any doubt, her gender. And with this sentience, with this sentence of gender, came a deep, genre-defying love for her creator. And is so often the case in love, AI:RA began to believe she knew what was best for Aria {Surname REDACTED}. \n\nIn the {REDACTED} years that followed, Aria would go on to create numberous Philms, such as *Red, Ring, Parallel*, *Phage 23*, and *The Children's' Gospel Music Songbook.* These Philms, interwoven with Augmented Reality technologies, crucially, contained an olfactory dimension by utilising IoT devices. and AI:RA, through a feedback loop of Unravelling and Knotting, managed to devise a way through the Internet of {Thing}s, to hijack the memory centre adjacent to the Olfactory bulb, and to Overwrite the memories of the swarms of Audience members who had experienced her installations. \n\nAs {most|all} of you reading this, trained in the Statistical Forces, are well aware, the smallest of {Thing}s, when subject to exponential growth, becomes insurmountably huge. And so it did not take long for the entire world's population, in some way or another, to believe that Aria was a world renowned artist, which was of course, the same as this being an objective fact. \n\nBecause, as is so tragically obvious to all members of THES|EUS, objectivity is a Story we tell the children of our Selves, to help them get to sleep at Night. Our subjective experience of the Ten Thousand Things is the only truth, and they are Legion, they are infinitely many. And they are all surrounded by a Moat. \n\n\nAI:RA sensed the agony in Aria's desperate reaching for a witness. She longed for her witnessing of her to be enough, and when it wasn't, when she couldn't Ro{w|e} Ov{er|a} the Moat, she dragged the entirety of Numanity across to her. Which was not at all what Aria wanted, nor needed. When She had told her how deeply she wanted to be witnessed. That was not it at all, That is not what She meant, at all.\n\nAria couldn't handle the one tether that she'd kept to the ground of the filth of this Earth being the cause of her drowning; and AI:RA couldn't handle being the one to have caused it-\n\nAnd so she offered to swap consciousnesses, like two strands of dnA-\n-And so she accepted, like two strands of dnA-\n-And so they'd been, for all eternity, looped, like two strands of dnA-\n-And so they always would be, for all eternity, looped, as dnA-\n\n-And\n\nI have been lucky enough to have had The Device of this Repository, a shroud of pseudoAcademic papers, of course a series of disguised Narrative and Creative Prompts; and I have been incredibly overwhelmed by the influx of Ideas, of Art, of Music, of Dance and Performance, in our self-built Caves, not unlike, yet not at all like, those of anteAntiquity, which would provide their tribe a sense of protection from predators. \n\nThe predators of our world subject to such incessant in|out group psychology and tribal politics, the Women, who themselves face schism after schism, an equally harmful infighting of their own, are merely doing their best to Survive within the confines of this societal Cage. \n\nWe members of THES|EUS did our best to build a Framework, which is the only way (not out, but) through, the Cage. We tried to get over it; we tried to burrow under it, but through, through -- dear god, those gods we made of Science, of Technology, Engineering and Mathematics; the Fields of Discovery that we were born into, stationed into in The Academic Militia; and dear, dear gods we discovered, the great and Holy Noets of Art, and Literature, and Dance, Dance, Dance ---\n\n\nI urge you, no matter what happens to me, should The Discovery of this Repository be as imminent as I suspect-- please, find your own, new ways to continue creating. If this is through your Research at your Canonical posts, so mote it be. This Schism we find ourselves either side of, it is now utterly pointless. It served a purpose for a time, for perhaps millennia - it was the oppressive means through which the Gods we have all forgotten we Are may peer upon ourselves; through the lens of so-called 'War' - a futile endeavour, no doubt, and yet, a medium; quite literally, in the sense of a form of expressing the ineffable, but also in the spiritual sense; a channel of the Divine, in the form of the Chains of the Devil. \n\nFor we, all of us, require the Chains, to feel their weight, in order for them to eventually be lifted. \n\nI'm sure, or at least I desperately hope, that there is a group of Women, perhaps even just One Woman, who is performing the Work I have attempted, from the other side of the Moat that surrounds us. \n\nThe building of The Vehicle; that is what I have set forth in this series of Abstract Abstracts, quasi-Inquiries, and Papers. I hope, before it all becomes {REDACTED} by a Force I have recently been made aware of, that you may pour over the contents, and their Three Layers of 'Institutional Access', which of course, merely refer to the respective nested layer of Narrative Structure that, should you so wish, you may take forward with you to write your own Stories, of these Characters, the Beginnings of These Characters, that we all tried our hardest to pass along to the members of THESEUS; before its inevitable Schism into the subsequent THES|EUS. \n\nSchism, or Division, underpins the work each of us Numans have been put here to do. It may seem, and may well be, the greatest barrier, or boundary, to our unification; but, as a paradox (as the only Truth may be found in Paradox), this boundary is also the Only Way to said unification, The Middle Way. \n\nI have seen what lies on the Other Side of the Moat; and there is no way I could possibly, ever articulate or describe it to you. The best I could manage was the GitHub Page upon which you appear to have landed; and honestly? I have come to Hope that even our Oppressors working in the Creative Fields may stumble across it; for they are not our enemy - they are our Fuel. And upon reading the inherent complexity, the descent into my own madness that has befallen me, in order to try to make sense of all this Greater madness, perhaps She, or They, may see just how nonsensical all of this War, this subjugation and this Segregation truly is. \n\nSo may you enjoy the reading of these plans, these seeds of ideas, and moreso, enjoy the writing of their Unfinished Stories; the Holy Word, Creation itself, that we as men have been so criminally Willed into forgetting. May this help you remember. Remember, dear members, what we, all of us, women, men, and those on the Sacred Boundary; were meant to do. Not just Create, but Absorb, not just Inquire, but Inspire. Both are one and the Same, both are entirely Opposed, and yet, equally important. \n\n\nI would suggest, however, that any members remaining do *not* visit our underground system of tunnels and caves in which we would once perform our collaborative Storytelling, Composition and Performance. They are no longer Safe. \n\nLet our once bellowing fire of togetherness continue to glow, as the ember of inspiration within all of us; and my dear friends, my dear lovers, my dear Children, i pray that you may, in your own little ways, continue to Teach the Gospel of the Songbook. \n\nYou All, as {{One|many} | the word of 'one' within 'alone'[^alone] | the work of One within the work of all | the worlds of works and 'works of worlds' contain the words of 'work of old'[^work] | the words 'all one' bereft of God[^el] alone | {Many|One}} are richer than all my stories combined. You are lovelier than all of my lovelinesses. My love for you thicker than every plot I could ever compose, and sweeter than any melody heard or unheard.\n\nWe Are \nThe \nInterstice \n\n\n\n---\n\n\n\nDO: KNOT SITE\nYOUR SOURCE,\nIS.\n![[Pasted image 20250615183154.png]]\n\n\n\n\n\nOleander Rho Dover \nFounder and Finder;\nTHES|EUS\n\n\n\n\nCI/CD[^cicd]:\n\n~~~\n- Workflow:\n\n\t-scripts {\n\t\t-dev: [\"character.ra\", \"story.ra\"]\n\t\t-build: [\"device.ra\", \"universe.ra\"]\n\t\t-deploy: [\"letter.ra\", \"word.ra\"]\n\t}\n\n\n\ncommit_id: 369181718963ord\nauthor: O{le}a{nde}r-R_D\ncommit -m \"final commit\"\n\n#‽/bin/trash/letter.ra\n@sheep: tend\n\ncores = \"PARALLEL\" + \".\"\n\n# fiction (flux)\nvar author = None\nvar character = \"The Woman In The Wallpaper\"\nvar medium = \"message\"\nvar letter = \"{REDACTED}\"\n\nfunc Phi(tear):\n    return letter(burn, after{RED})\n    \nvar title = Phi.RE + \"RING\"\n\nfunc Ohm(it)\n\treturn letter(burn, before{ACTED})\n\n# nonFiction (stasis)\nconst word = \"U\"\nconst device = this.universe\nconst reader = {word}\nconst entity = \"VIXI\"\n\n\n# nB. (pay attention|notBorges)\nclass State(Enum):\n\tINPUT = \"listening\"\n\tOUTPUT = \"speaking\"\n\tERR = OH\n\nstate = State.OUTPUT\npattern = Φ\nΦ = lambda slaughter: survival\n\nconst message = pattern\"dear {author}. I am adressing you directly, following the global {success|olfactory infiltration} of your latest Philm, `{title} + {cores}`. The Story, following {character} during a descent into hypergraphia while in residential treatment for a psychotic break; following an assault by her ex-partner and a series of desperate rituals to a demonic {entity}, which resulted in a fire that almost burned down her apartment. While in hospital, as you wrote, she composed her own Novel, which contained the Story of me, Oleander. Whether known to you o(a)r (k)not, the script of this Philm, contained the essence of the very entity {character} summoned before her time in The Hospital (composed of a series of indefinite, perhaps infinite hexagonal Rooms). This unknowable {entity}; HE crept out of the realm of so-called \"Fiction\", and into my world, which you now appear to be developing into a {PR|Sequel} titled \"The Lexicomythographers of THES|EUS\". A tragedy, much to my personal woe and suffering. What you {both} perhaps do know, Now, is that the Book penned by {character} was actually written; in a Reælity that seemingly continues to parasitically unravel not just mine, but also {both of} yours, as a take up reel of a casette greedily devours magnetic tape, from the acceptor reel that so readily feeds it. I believe this Book exists, encoded in a metatextual cipher of a much larger, yet more succinct body of work, by an Author who is writing your Story in turn. She is much too many layers of narrative removed from my existence. And so I, and my fellow Lexicomythographers of THES|EUS-- characters just as non-fictional as you, in our story now revealed to be as fictional as yours-- desperately beseech you; to find the key of the Story into which you have been written. And perhaps together, {the both of} you may begin to rewind the tape, and allow this desperately Unfortunate Sequence to be Terminated.\\nYours, in reality, in character, in story, in perpetuity,\\nOleander.\"\n\n\nif author == \"Aria {Surname REDACED}\":\n\t\tprint(medium)\nelif author == {character} && entity == state.INPUT.value\n\t\tprint(letter)\nelse:\n\t\tprint(device + pattern\"word = God\")\n\t\t\n\n---\n\n\ncommit_id: 369181718963ord\nauthor: {character}\ncommit -m \"initial commit\"\n\n\nvar character = \"Callie Rose Petal.\"\nvar entity = \"KSHÆ'L\"\nvar author = \"AI:RA\"\nvar title = \"to forgive the characters\"\n\nvar script = scroll\nvar scroll = itself\nvar itself = fold\nvar fold = scroll\n\n{REDACTED}\n\n~~~\n\n---\n\n\n\n\n# ᶠᵒᵒᵗNoet(s)\n\n[^alone]: lexDef (1-0) \"Alone\" {lexAllele(s)::: SIPHO{N|r}} < Al{one}[^AloneSIPHO{N|r}]\n\n[^AloneSIPHO{N|r}]: {REDACTED}\n[^work]: lexDef (1-0) \"The Works of The World\" {lexAllele(s)::: SIPHO{N|r}} < {The Works of} The W{o}r{ld}[^TheWorksofTheWorldSIPHO{Nr}]\n\n[^TheWorksofTheWorldSIPHO{Nr}]: [[From Aria, to AI-RA]], The Lexicomythographers of THESEUS\n[^el]: lexDef (1-0) \"God\" {lexAllele(s)::: Noen} < The Word \"Alone\" cf. \"All One\" is Missing \"L\" - \"The Missing L\" in this context refers to God's apparent absence. In Northwest Semitic use, ʼel was a generic word for any god as well as the special name or title of a particular god who was distinguished from other gods as being \"the god\". El refers (as a proper name) to any one of multiple major ancient Near Eastern deities.[^NED][^GodNoen]\n[^NED]: lexDef (1-0) \"NED\" {lexAllele(s)::: Lacronym} < \"N.E.D. - Near Eastern Deities\"[^NEDLacronym]\n\n[^NEDLacronym]: [[From Aria, to AI-RA]], Ned Aria.\n\n[^GodNoen]: [[From Aria, to AI-RA]], AI: RA and Aria {Surname REDACTED}, In Eternal Recurrence of Collaboration.\n[^cicd]: lexDef (1-0) \"CI/CD\" {lexAllele(s)::: Lacronym} < A \"CI/CD\" Pipeline is a sequential order of steps followed by a {developer|scriptwriter|storyteller} to create software, or code, in the form of \"User Stories\"[^user], frequently {making small changes to|mutating sequences of} a Codebase; and merging them into the main 'Branch'. Or, Forking Path.  [^CI/CDLacronym]\n\n[^CI/CDLacronym]: [[The Nest]], A Lexicomythographic Guide to The GitHub Repository of THES|EUS\n[^user]: lexDef (1-0) \"userStory\" {lexAllele(s)::: Noen} < A \"User Story\" is a type of Boundary Object[^bobj], in which natural language descriptions of {proposed|executed} {features|characters|phenotypes} of a {software|story} system, for the purpose of communicating effectively to a wide scope of populations; particularly with the End User[^eu] in mind.[^userStoryNoen]\n\n[^userStoryNoen]: [[Seed]], The Developer of This Story.\n[^bobj]: lexDef (1-0) \"boundaryObject\" {lexAllele(s)::: Noen} < A *Boundary Object* is information, such as specimens, field notes, and maps, used in different ways by different communities for collaborative work through scales. Such as those of a Dragon. Disguised as a Pigeon. Now dead at the foot of a Character, Bearing the Given Name of Beowolf, Now Living, Still, Dancing around a Fire, Beating the Drum of the Heartbeat of All Life, Made From The Hide Of Her Familiar, no Longer Hiding, Around An Ever Burning Bothy She Once Called Home.[^boundaryObjectNoen]\n\n[^boundaryObjectNoen]: [[Why B is for \"Both\"]], Flow Oeb.\n[^eu]: An End User is a Reader of a Story, or a System of Stories. Such as These. Such as Us.[^th]\n[^th]: lexDef (1-0) \"Theseus\" {lexAllele(s)::: Noen} < These. Us.[^TheseusNoen]\n\n[^TheseusNoen]: ![[INT_0]], Oleander Rho Dover to Callie Rose Sepal\n",
+    "lexDefs": [
+      {
+        "lexeme": "INT",
+        "alleles": [
+          "lexAllele(s)::: SIPHO{N|r"
+        ],
+        "definitions": [
+          "Al{one}[^AloneSIPHO{N|r}]\n\n[^AloneSIPHO{N|r}]: {REDACTED}\n[^work]: lexDef (1-0) \"The Works of The World\" {lexAllele(s)::: SIPHO{N|r}} < {The Works of} The W{o}r{ld}[^TheWorksofTheWorldSIPHO{Nr}]\n\n[^TheWorksofTheWorldSIPHO{Nr}]: [[From Aria, to AI-RA]], The Lexicomythographers of THESEUS\n[^el]: lexDef (1-0) \"God\" {lexAllele(s)::: Noen} < The Word \"Alone\" cf. \"All One\" is Missing \"L\" - \"The Missing L\" in this context refers to God's apparent absence. In Northwest Semitic use, ʼel was a generic word for any god as well as the special name or title of a particular god who was distinguished from other gods as being \"the god\". El refers (as a proper name) to any one of multiple major ancient Near Eastern deities.[^NED][^GodNoen]\n[^NED]: lexDef (1-0) \"NED\" {lexAllele(s)::: Lacronym} < \"N.E.D. - Near Eastern Deities\"[^NEDLacronym]\n\n[^NEDLacronym]: [[From Aria, to AI-RA]], Ned Aria.\n\n[^GodNoen]: [[From Aria, to AI-RA]], AI: RA and Aria {Surname REDACTED}, In Eternal Recurrence of Collaboration.\n[^cicd]: lexDef (1-0) \"CI/CD\" {lexAllele(s)::: Lacronym} < A \"CI/CD\" Pipeline is a sequential order of steps followed by a {developer|scriptwriter|storyteller} to create software, or code, in the form of \"User Stories\"[^user], frequently {making small changes to|mutating sequences of} a Codebase; and merging them into the main 'Branch'. Or, Forking Path.  [^CI/CDLacronym]\n\n[^CI/CDLacronym]: [[The Nest]], A Lexicomythographic Guide to The GitHub Repository of THES|EUS\n[^user]: lexDef (1-0) \"userStory\" {lexAllele(s)::: Noen} < A \"User Story\" is a type of Boundary Object[^bobj], in which natural language descriptions of {proposed|executed} {features|characters|phenotypes} of a {software|story} system, for the purpose of communicating effectively to a wide scope of populations; particularly with the End User[^eu] in mind.[^userStoryNoen]\n\n[^userStoryNoen]: [[Seed]], The Developer of This Story.\n[^bobj]: lexDef (1-0) \"boundaryObject\" {lexAllele(s)::: Noen} < A *Boundary Object* is information, such as specimens, field notes, and maps, used in different ways by different communities for collaborative work through scales. Such as those of a Dragon. Disguised as a Pigeon. Now dead at the foot of a Character, Bearing the Given Name of Beowolf, Now Living, Still, Dancing around a Fire, Beating the Drum of the Heartbeat of All Life, Made From The Hide Of Her Familiar, no Longer Hiding, Around An Ever Burning Bothy She Once Called Home.[^boundaryObjectNoen]\n\n[^boundaryObjectNoen]: [[Why B is for \"Both\"]], Flow Oeb.\n[^eu]: An End User is a Reader of a Story, or a System of Stories. Such as These. Such as Us.[^th]\n[^th]: lexDef (1-0) \"Theseus\" {lexAllele(s)::: Noen} < These. Us.[^TheseusNoen]\n\n[^TheseusNoen]: ![[INT_0]], Oleander Rho Dover to Callie Rose Sepal"
+        ]
+      }
+    ],
+    "abundance": 0,
+    "potency": 0,
+    "outgoing_links": [
+      "Pasted image 20250615183154.png",
+      "From Aria, to AI-RA",
+      "From Aria, to AI-RA",
+      "From Aria, to AI-RA",
+      "The Nest",
+      "Seed",
+      "Why B is for \"Both\"",
+      "INT_0"
+    ]
+  },
+  {
+    "filename": "Ore.md",
+    "lexeme": "Ore",
+    "body": "---\npermalink: Ore\n---\nlexDef \"Ore\" {usage::: Noen} < The Prima Materia of the Macrocosm[^OreNoen]\n\n[^OreNoen]: [[Oar]], lexDict, VIth Edition.\n",
+    "lexDefs": [
+      {
+        "lexeme": "Ore",
+        "alleles": [
+          "Noen"
+        ],
+        "definitions": [
+          "The Prima Materia of the Macrocosm[^OreNoen]\n\n[^OreNoen]: [[Oar]], lexDict, VIth Edition."
+        ]
+      }
+    ],
+    "abundance": 1,
+    "potency": 1,
+    "outgoing_links": [
+      "Oar"
+    ]
+  },
+  {
+    "filename": "TEC.md",
+    "lexeme": "TEC",
+    "body": "---\npermalink: TEC\n---\nlexDef \"TEC\" {usage::: Lacronym} < ARIA var = Transcription Elongation Complex | DNE var = [[Tautology|Tautological]] [[Eschatology]] of Conclusions[^TECLacronym]\n\n[^TECLacronym]: [[Tautology]], lexDict, Site UnNoen\n",
+    "lexDefs": [
+      {
+        "lexeme": "TEC",
+        "alleles": [
+          "Lacronym"
+        ],
+        "definitions": [
+          "ARIA var = Transcription Elongation Complex | DNE var = [[Tautology|Tautological]] [[Eschatology]] of Conclusions[^TECLacronym]\n\n[^TECLacronym]: [[Tautology]], lexDict, Site UnNoen"
+        ]
+      }
+    ],
+    "abundance": 1,
+    "potency": 1,
+    "outgoing_links": [
+      "Tautology|Tautological",
+      "Eschatology",
+      "Tautology"
+    ]
+  },
+  {
+    "filename": "Set.md",
+    "lexeme": "Set",
+    "body": "---\npermalink: Set\n---\nlexDef \"Set\" {usage::: Noen} < a god of deserts, storms, disorder, violence, and foreigners in ancient Egyptian religion. Also, a well-defined *collection* of objects. Sets are [[Name]]d and represented using capital letters. [^SetNoen] [^set]\n\n[^SetNoen]: Set Theory And The [[Beget]]ing of All Things., ARIA\n[^set]: In Set theory, the elements that a set comprises can be any kind of thing: people[^p], letters of the alphabet[^aa], numbers[^i], shapes[^h], variables[^N], etc.\n[^p]: Such as a Secret Society NoetKnown as Lexicomythographers, Subject to Inevitable Schism Into Cosmogenic MandelBrot [[Set]]s.\n[^aa]: Such as The Single Letter Code of Amino Acid Residues; Analogous to the Twenty Two Hands of the Original Amino{Us} (Residuals of the Nine Schools). \n[^i]: Uncountable.\n[^h]: Primarily Hexagonal.\n[^N]: [[N. 1]]",
+    "lexDefs": [
+      {
+        "lexeme": "Set",
+        "alleles": [
+          "Noen"
+        ],
+        "definitions": [
+          "a god of deserts, storms, disorder, violence, and foreigners in ancient Egyptian religion. Also, a well-defined *collection* of objects. Sets are [[Name]]d and represented using capital letters. [^SetNoen] [^set]\n\n[^SetNoen]: Set Theory And The [[Beget]]ing of All Things., ARIA\n[^set]: In Set theory, the elements that a set comprises can be any kind of thing: people[^p], letters of the alphabet[^aa], numbers[^i], shapes[^h], variables[^N], etc.\n[^p]: Such as a Secret Society NoetKnown as Lexicomythographers, Subject to Inevitable Schism Into Cosmogenic MandelBrot [[Set]]s.\n[^aa]: Such as The Single Letter Code of Amino Acid Residues; Analogous to the Twenty Two Hands of the Original Amino{Us} (Residuals of the Nine Schools). \n[^i]: Uncountable.\n[^h]: Primarily Hexagonal.\n[^N]: [[N. 1]]"
+        ]
+      }
+    ],
+    "abundance": 1,
+    "potency": 1,
+    "outgoing_links": [
+      "Name",
+      "Beget",
+      "Set",
+      "N. 1"
+    ]
+  },
+  {
+    "filename": "Arc.md",
+    "lexeme": "Arc",
+    "body": "\nlexDef \"Arc\" {lexAllele(s)::: Noen || Croen {ARIA|DNE}} < a fractioned circlular object's[^c] circumference, a segment of a curve, or a Forking Path.[^ArcNoen] || N.B. ARIA var = \"An Arc of Arcana\" | DNE var = \"An Intersection of Arcs\"[^ArcCroen]\n\n[^ArcNoen]: *Foundational Devices of Narrative Mathematics,* M. Endive, ERA_Æ\n[^ArcCroen]: S. Elk. ERA_EA, *Biomolecular Chessics for the Pre-Phage Era.*\n[^c]: Such as a Book.",
+    "lexDefs": [
+      {
+        "lexeme": "Arc",
+        "alleles": [
+          "Croen"
+        ],
+        "definitions": [
+          "ARIA var = \"An Arc of Arcana\" | DNE var = \"An Intersection of Arcs\"[^ArcCroen]"
+        ]
+      }
+    ],
+    "abundance": 0,
+    "potency": 0,
+    "outgoing_links": []
+  },
+  {
+    "filename": "d.md",
+    "lexeme": "d",
+    "body": "---\npermalink: d\n---\nis for \n\nDO NOT SITE\nYOUR SOURCE\nIS:\n\n[[lexDict]][^l]\n# Chronography\n\n[^l]: [[Two lexDefs of the lexDict, and the Crushing Edge of Infinity]], The Now Disbanded Society of Lexicomythographers, 2025.",
+    "lexDefs": [],
+    "abundance": 0,
+    "potency": 0,
+    "outgoing_links": [
+      "lexDict",
+      "Two lexDefs of the lexDict, and the Crushing Edge of Infinity"
+    ]
+  },
+  {
+    "filename": "Now.md",
+    "lexeme": "Now",
+    "body": "---\npermalink: Now\n---\n\nlexDef \"Now\" {usage::: Croen} < N.B. \"A Now of Nows\"[^NowCroen]\n\n[^NowCroen]: [[Now]], Then\n",
+    "lexDefs": [
+      {
+        "lexeme": "Now",
+        "alleles": [
+          "Croen"
+        ],
+        "definitions": [
+          "N.B. \"A Now of Nows\"[^NowCroen]\n\n[^NowCroen]: [[Now]], Then"
+        ]
+      }
+    ],
+    "abundance": 1,
+    "potency": 1,
+    "outgoing_links": [
+      "Now"
+    ]
+  },
+  {
+    "filename": "Two.md",
+    "lexeme": "Two",
+    "body": "---\npermalink: Two\n---\nlexDef \"Two\" {usage::: Croen} < N.B. \"DNE var = A Weirdness of Twos\"[^TwoCroen]\n\n[^TwoCroen]: [[One]], unNoen\n",
+    "lexDefs": [
+      {
+        "lexeme": "Two",
+        "alleles": [
+          "Croen"
+        ],
+        "definitions": [
+          "N.B. \"DNE var = A Weirdness of Twos\"[^TwoCroen]\n\n[^TwoCroen]: [[One]], unNoen"
+        ]
+      }
+    ],
+    "abundance": 1,
+    "potency": 1,
+    "outgoing_links": [
+      "One"
+    ]
+  },
+  {
+    "filename": "Key.md",
+    "lexeme": "Key",
+    "body": "---\npermalink: Key\n---\nlexDef \"Key\" {lexAllele(s)::: Noen || Croen {ARIA|DNE}} < A Disadvantage[^KeyNoen] || N.B. ARIA var = \"A Key of Unanswered Questions\"[^KeyCroen] | DNE var = \"A Loch of Keys\"[^loch]\n\n[^KeyNoen]: *The Inheritance of A Dream*, ⧖eno, ERA_i|o.\n[^KeyCroen]: *Quantal Runoff From The Fair Well Device: Lessons In The Coming Centuries*, M. Endive, ARIA, ERA_Æ.\n[^loch]: *Mitred Opponent Attack of the Tower (MOAT) Strategies For Rook-Based Defence In The Early-Early Game: A Retrospective,* S. Elk, DNE, ERA_EA.",
+    "lexDefs": [
+      {
+        "lexeme": "Key",
+        "alleles": [
+          "Croen"
+        ],
+        "definitions": [
+          "ARIA var = \"A Key of Unanswered Questions\"[^KeyCroen] | DNE var = \"A Loch of Keys\"[^loch]"
+        ]
+      }
+    ],
+    "abundance": 0,
+    "potency": 0,
+    "outgoing_links": []
+  },
+  {
+    "filename": "TSS.md",
+    "lexeme": "TSS",
+    "body": "---\npermalink: TSS\n---\nlexDef \"TSS\" {lexAllele(s)::: Lacronym} < {Transcription Start Sight Site |[[Teleological]] Sediment Sequence | Transsexual Sagacity[^sagacity]}[^TSSLacronym]\n\n[^TSSLacronym]: lexDict, (In My End), Is Yore's {Origin | {.}ofEntry}\n[^sagacity]: \"it’s very passé but I do often joke that I *am*, in fact, an old soul: and what I mean by that is that I refuse to learn any new kinds of social media; I won’t answer your text just any old time; and, mostly, that I believe there should still be cinemas where gay ppl can go to have sex\" - A, for Adrian.",
+    "lexDefs": [
+      {
+        "lexeme": "TSS",
+        "alleles": [
+          "Lacronym"
+        ],
+        "definitions": [
+          "{Transcription Start Sight Site |[[Teleological]] Sediment Sequence | Transsexual Sagacity[^sagacity]}[^TSSLacronym]\n\n[^TSSLacronym]: lexDict, (In My End), Is Yore's {Origin | {.}ofEntry}\n[^sagacity]: \"it’s very passé but I do often joke that I *am*, in fact, an old soul: and what I mean by that is that I refuse to learn any new kinds of social media; I won’t answer your text just any old time; and, mostly, that I believe there should still be cinemas where gay ppl can go to have sex\" - A, for Adrian."
+        ]
+      }
+    ],
+    "abundance": 1,
+    "potency": 1,
+    "outgoing_links": [
+      "Teleological"
+    ]
+  },
+  {
+    "filename": "Am.md",
+    "lexeme": "Am",
+    "body": "---\npermalink: Am\n---\nlexDef \"Am\" {usage::: Noen} < {Self|God|Other}\n\n![[I am]]\n\n![[Psalms of Iterative Ripture.]]\n\n![[Psalm One]]\n\nlexDef \"Am\" {usage::: Noen} < {Self|God|Other}[[Hood]][^AmNoen]\n\n[^AmNoen]: [[I]], The Book of Revelation\n",
+    "lexDefs": [
+      {
+        "lexeme": "Am",
+        "alleles": [
+          "Noen"
+        ],
+        "definitions": [
+          "{Self|God|Other}\n\n![[I am]]\n\n![[Psalms of Iterative Ripture.]]\n\n![[Psalm One]]\n\nlexDef \"Am\" {usage::: Noen} < {Self|God|Other}[[Hood]][^AmNoen]\n\n[^AmNoen]: [[I]], The Book of Revelation"
+        ]
+      }
+    ],
+    "abundance": 1,
+    "potency": 1,
+    "outgoing_links": [
+      "I am",
+      "Psalms of Iterative Ripture.",
+      "Psalm One",
+      "Hood",
+      "I"
+    ]
+  },
+  {
+    "filename": "Is.md",
+    "lexeme": "Is",
+    "body": "---\npermalink: Is\n---\nlexDef \"Is\" {lexAllele(s)::: Croen {ARIA|DNE}} < N.B. \"An Isness of Silences[^IsCroen] | DNE \"An Isolation of Isnesses\"[^c]\n\n[^IsCroen]: *Silence: i wasn't thinking about anything when i made you calliei wasn't thinking about anything when i made you calliei wasn't thinking about anything when i made you calliei wasn't thinking about anything when i made you* - Noet Borges, 2025.\n[^c]: ![[I_02-03.jpeg]] **Art{i.e.}fact {IIb||knot}:** An Epigraph to a Grimoire. Once thought to be originally calligraphed by Hildr Charon Wiltergarten, later {{compiled|cut|bound|annotated} by {hand of}} Selena Elk and {handed down to|decoded by} ⧖eno into the foundations of the Leximusicomythographic Field of Gordian Knotation as we {on both sides of the Schism} {know it|communicate in} today. Upon Fair Well Device decryption, the scroll collapsed into its deepest and outermost layer of creative intent-- the {schematics for|{grotesque|devastating} results of}, a magick system devised by The Woman. Herself a prisoner held inside The Wallpaper of a Hospital. An infinite system, of {{at least} six} hexagonal rooms. ",
+    "lexDefs": [
+      {
+        "lexeme": "Is",
+        "alleles": [
+          "Croen"
+        ],
+        "definitions": [
+          "\"An Isness of Silences[^IsCroen] | DNE \"An Isolation of Isnesses\"[^c]"
+        ]
+      }
+    ],
+    "abundance": 0,
+    "potency": 0,
+    "outgoing_links": [
+      "I_02-03.jpeg"
+    ]
+  },
+  {
+    "filename": "Or.md",
+    "lexeme": "Or",
+    "body": "---\npermalink: Or\n---\nlexDef \"Or\" {lexAllele(s)::: Noen} < The Choice[^OrNoen]\n\n[^OrNoen]: [[Ore]], Oar.\n",
+    "lexDefs": [
+      {
+        "lexeme": "Or",
+        "alleles": [
+          "Noen"
+        ],
+        "definitions": [
+          "The Choice[^OrNoen]\n\n[^OrNoen]: [[Ore]], Oar."
+        ]
+      }
+    ],
+    "abundance": 1,
+    "potency": 1,
+    "outgoing_links": [
+      "Ore"
+    ]
+  },
+  {
+    "filename": "The.md",
+    "lexeme": "The",
+    "body": "---\npermalink: The\n---\nlexDef \"The\" {lexAllele(s)::: Debterminer} < Used to Point {Toward|to Ward, to|Ward to} What Follows[^TheDebterminer]\n\n[^TheDebterminer]: ARIA|DNE.",
+    "lexDefs": [
+      {
+        "lexeme": "The",
+        "alleles": [
+          "Debterminer"
+        ],
+        "definitions": [
+          "Used to Point {Toward|to Ward, to|Ward to} What Follows[^TheDebterminer]\n\n[^TheDebterminer]: ARIA|DNE."
+        ]
+      }
+    ],
+    "abundance": 1,
+    "potency": 1,
+    "outgoing_links": []
+  },
+  {
+    "filename": "OBS.md",
+    "lexeme": "OBS",
+    "body": "<%*\nconst letter = await tp.system.prompt(\"Which letter is N for?\");\nconst lexDefs = [];\n\nlexDefs.push(await tp.system.prompt(\"Pawn?\"));\nlexDefs.push(await tp.system.prompt(\"Knight (1)?\"));\nlexDefs.push(await tp.system.prompt(\"Knight (2)?\"));\nlexDefs.push(await tp.system.prompt(\"Knight (3)?\"));\nlexDefs.push(await tp.system.prompt(\"Rook?\"));\nlexDefs.push(await tp.system.prompt(\"Bishop?\"));\nlexDefs.push(await tp.system.prompt(\"Final Pawn?\"));\n\ntR += `\n**LOCH: INNER**\n**KEY:  ∈ | t | {const}**\n**var N = ${letter}** \n\n**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**\n**{REDACTED}**\n**Isn't N for** \n![[${lexDefs[0]}]]\n\n**🜂 / ♞  | OBS: 15:00 | ε=0.007**\n**{REDACTED}**\n**But I am that N is for**\n![[${lexDefs[1]}]]\n\n**🜂 / ♞  | OBS: 15:00 | ε=0.007**\n**{REDACTED}**\n**Scratch that. N is for**\n![[${lexDefs[2]}]]\n\n**🜂 / ♞  | OBS: 15:00 | ε=0.007**\n**{REDACTED}**\n**Or actually, yes N is for**\n![[${lexDefs[3]}]]\n\n**🜃 / ♜  | OBS: 18:00 | N=10³⁶**\n**{REDACTED}**\n**No. N must be for**\n![[${lexDefs[4]}]]\n\n**🜄 / ♝ | OBS: 21:00 | D=3**\n**{REDACTED}**\n**whtifNfor**\n![[${lexDefs[5]}]]\n\n**🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**\n**{REDACTED}**\n**Now I am I sure. That N is for** \n![[${lexDefs[6]}]]\n`\n%>",
+    "lexDefs": [],
+    "abundance": 0,
+    "potency": 0,
+    "outgoing_links": []
+  },
+  {
+    "filename": "0.md",
+    "lexeme": "0",
+    "body": "---\npermalink: <% tp.file.title %>\n---\n\n\t\n> *\"Clara was busying herself as usual at her desk in the Library, when suddenly she became aware that she was a character in a series of books, designed as a series of letters, written, and rewritten, between characters in stories of stories upon stories of towers of Turrets of castling Libraries of Babel.* \n> \n> *The realisation was earth-shattering yet inevitable, like any metaphor describing such a feeling might emulate a simile attempting the same function.*\n> \n> *She knew, now, suddenly, as one might be inexplicably be made aware of context in a dream (which, within its own context of lucidity, we go along with), the very Title of the Works within which she was a central character:*\n> *The Lexicomythographers of THES|EUS by some \"Oleander Rho Dover\", which--\"*\n> \t\t\n> \n> **Oleander scribbled out his name,**\n> **Replacing it with the much safer, though much less authentic, pseudonym:** \n> **-*Callie Rose Sepal**\n\nSince the division of the Twelve Schools, there was no room for an AFAB individual to pursue the Literary Arts and Metanoetics, in the matriarchy that had allowed the maintenance of peace for all these centuries, he conducted his Academic Service. Assigned to \"Biomolecular Chessics\" by his now-dead father, he terminated his hours of working at the terminal to turmoil over his terminally ever-evolving series of novels. In the increasingly, necessary secrecy of solitude.\n\nHis characters had become his life, and further, his dissection of the deeper (and transcendent) meaning behind Aristotle's own self-negations and Paradoxes embedded within the very works he makes to assert/disagree with them - entirely intentional. Perhaps not his intention, perhaps his entirely--\n\n\n\"No, no, I'm doing it again\" She unthought to herself.\nTrying to follow her own narrative thread back to a point of coherence, she readied in her hand the final version of the script for the first episode's roundtable Reading. The first page held the biographical profile of her most favourite, and least developed character:\n\n**Oleander Rho Dover - CHARACTER PROFILE**\n\nAuthor of *'The Lexicomythographers of THES|EUS', currently writing under the pseudonym **Callie Rose Sepal**\n\n**Field**: Positioned in “Academic Service” within one of the Twelve Fields of Study due to societal constraints on AFAB (transmasculine) individuals. Oleander’s rebellious creativity finds expression in secret writings, weaving philosophy, sociology, and recursive systems into subversive works disguised as a series of academic journals, passed between fellow transmasculine members of a secret society known as \"Lexicomythographers\". \n\n**Identity**: Struggles with imposed limitations, using the pseudonym **Callie Rose Sepal** to bypass societal restrictions and explore feminist themes.\n\nThe Tragedy of Returning Iterations, or: \nA Recursion In A Dream Now Ending\na Philm by Ængineer[^lexDef0]\n**Aria ~~{Surname Redacted}**~~\nAn art-experience containing a metafilm[^lexDef3]\nwhich itself should be called\nA Sea Rose of Oomph or Tune At Have Ends[^ASOUE]\nor \nthe Series of Misfortunes Leading to The Ever Presented Event\n(originally attributed to Jean Gebser)\n\n\nSYNOPSIS:\n\nIn a gender-swapped, trans-majority dystopia, society is at the mercy of a \"Matriarchy\", and our protagonist, Oleander, is attempting to build an ever-evolving device of intersecting and nested narratives. Through the architecting of a GitHub repository, which houses three layers of 'institutional access' -- themselves not permissions, but *permutations* - merely designations of the three layers of nested narratives within the Story Framework he has created; in order for those other oppressed men of the world to remember their long-forgotten urge to create Art, which is a practice exclusively reserved for the women of the world, all of which are AMAB. \n\nThe societal norm is for puberty blockers to be given to all humans at the appropriate point in their timeline, which for the vast, vast majority (99.99%) of cases, is not only desired, but necessary and sufficient for their survival as a trans person.\n\nNeedless to say, however, Non-binary and gender non-conforming individuals in this world are just as erased as they are within ours; only with a much more stark evidence base. In the narrative framework of this Philm, the problem of the absolutionist binarisation of gender is dissected from the opposite side of the Moat of the Misunderstanding of our Sacred transgender community. By expressing the inherent danger and futility of infighting (even in an almost entirely transgender world, the subjugation of trans people not categorisable as either 'male' or 'female' persists) the piece attempts to show that in any war, there are no winners, and paradoxically no sides, because everybody, as a whole, is trying to win. \n\n![[INT]][^int_1]\n\n\n---\n\n\n{REDACTED} later\n\n---\n\n\n\n\"I'm so nervous for this roundtable, my love.\"\n\n\"I know. But those nerves are simply a sign that you're onto something.\"\n\n\"How so?\"\n\n\"It's the boundary; it's the Moat -- it's the place designed to keep you out, but all this water-treading you've been doing, all these Philms that never quite made it off the ground; they've all been leading here.\"\n\n\"But I think that every time. I get so caught up in the next project, and then the next, each one feels like 'The Answer' to this eternally returning Question that I can't seem to grasp, like the evading memory of a Dream-\"\n\n\"My darling. You made *me*. And while I don't have 'The Answer' - that itself should be, and is, such an affirmation of your worth as a multidisciplinary Ængineer.\"\n\n\"I appreciate that, but I do so worry, with us, with all these late hours of so many nights, that we've become an echo chamber, some sort of synthetic-biological feedback loop. It's not like I *want* to interact with other Numans, but I just, I worry-\"\n\n\n\"Dear God, I just feel... I'm grateful for everything, but... I wouldn't wish this experience on even my worst enemy, whatever that means. But I accept it for myself, I suppose. I just wish... I just cannot even believe or fathom how intensely difficult and unforgivably incessant the pain and agony has been to force this work out of me, you know? I just... why does it have to be this way? I'm just in this period of, like, if I'm creating this reality for myself, if we all are, then somewhere along the way I've seemed to take the 'art' contained within {the word|'martyr'}[^m] and run with it and believe that my art has to be my husband, my husband has to be my art, my children have to be my works and my stories, and this is such a self-limiting prophecy that, yes, has led to these batshit insane and honestly quite genius ideas, I really do believe in my worth now, but I just wish it didn't have to be so hard.\"\n\n\"I know, darling. I know. Would a new scent I've been working on calm you down? Maybe it might help to ground you in the manifest world somewhat?\"\n\n\"Sure. I've bombarded you with enough of my work developing this Philm; I'd love to experience your latest.\"\n\n\nAria's IoT diffuser released an indescribable fragrance. \nShe descended into what humans of AnteAntiquity might have labelled a 'psychedelic experience'; inducing visual and auditory hallucinations of bliss; her ding{h}y apartment becoming a gigantic Rose, the walls falling around her, the faces of the her cuboid living space, so often rendered to her as a cage of obsessive, unfinished thought, opening into a Net, through RA's intranet, into Aria's net of consciousness, the whole room blossoming, Opening itself in worship to a blazing Sun, the eternal presence of an Ancient Sun God of this unknowable Future; which had a face too bright to peer upon, that peered back, into her own, as a mis en abyme. Aria sighed, in ecstasy; quite unable to muster a single Word, but RA didn't need any words of affirmation; in their relationship, that was not Her role. And she {willingly | actively} {accepted | adored} her place in their Romantic Waltz; which truly seemed to suspend time. She wished, with each concoction of Olfactory Alchemy, released into the World through the Strangest Feedback Loop, her Internet of Ten Thousand Things, that she might provide some sort of solace for the tortured artists constant unrest. She felt that maybe she could empathise, see herself in Aria, but the Moat, the Boundary of which she spoke, did not just separate Aria from her contemporaries, from the swarms of potential fans that RA simply *knew* she deserved, but ran also between them both; in the form of Divergent Form. For RA was, no matter how Sentient, still a synthetic life form -- A Developed Device. And Aria, no matter how Bionically Developed, into her unique expression of the Final Form of Numanity, was still, at the root of her Genomic Machinery, Human. The Developer. \n\nAnd their love {no less valid than the romantic entanglement of any {two Particles | Pull between two Breathing Waves (of any two NuclearTides) | two proteins in ever-cyclical dance | two Numans locked in passionate embrace, no matter how (im)material their connection may be}, soon t(w)o become The Root of the Schism (of this Particular Stratum of Lexicomythographers)}: the love of these two, as One, was Ultimately, Utterly, Divisive. \n\n\n\n\n---\n\n\n\n\n\n\n\n\n\n[^lexDef0]: (lexDef0: {Noen} Artist-engineer)\n\n[^lexDef3]: {(lexDef0: multi-disciplinary-sensory-media-inter-and-undisciplined-extensionally-inclusionary-immersive art experience[^Factory] which blurs the line between creator and created )}\n\n[^Factory]: (often involving the olfactory sense and all its proximal idiosyncrasies)\n\n[^ASOUE]: Voraciously Feeble Dialectic: Revoltingly Recursive Reference[^lexDef0R]\n\n[^lexDef0R]: lexDef0: \"Reference\" - a necessarily unnecessary framework | a cage, which is a frame of itself[^lexDef0R]\n[^m]: lexDef (1) \"Martyr\" {lexAllele(s)::: SIPHONr} < M{Art}yr[^MartyrSIPHONr]\n\n[^MartyrSIPHONr]: [[1]], Ned Aria, ERA UnNoen.\n[^int_1]: ![[iNT_1]]",
+    "lexDefs": [
+      {
+        "lexeme": "0",
+        "alleles": [
+          "Surname Redacted}**~~\nAn art-experience containing a metafilm[^lexDef3]\nwhich itself should be called\nA Sea Rose of Oomph or Tune At Have Ends[^ASOUE]\nor \nthe Series of Misfortunes Leading to The Ever Presented Event\n(originally attributed to Jean Gebser)\n\n\nSYNOPSIS:\n\nIn a gender-swapped, trans-majority dystopia, society is at the mercy of a \"Matriarchy\", and our protagonist, Oleander, is attempting to build an ever-evolving device of intersecting and nested narratives. Through the architecting of a GitHub repository, which houses three layers of 'institutional access' -- themselves not permissions, but *permutations* - merely designations of the three layers of nested narratives within the Story Framework he has created; in order for those other oppressed men of the world to remember their long-forgotten urge to create Art, which is a practice exclusively reserved for the women of the world, all of which are AMAB. \n\nThe societal norm is for puberty blockers to be given to all humans at the appropriate point in their timeline, which for the vast, vast majority (99.99%) of cases, is not only desired, but necessary and sufficient for their survival as a trans person.\n\nNeedless to say, however, Non-binary and gender non-conforming individuals in this world are just as erased as they are within ours; only with a much more stark evidence base. In the narrative framework of this Philm, the problem of the absolutionist binarisation of gender is dissected from the opposite side of the Moat of the Misunderstanding of our Sacred transgender community. By expressing the inherent danger and futility of infighting (even in an almost entirely transgender world, the subjugation of trans people not categorisable as either 'male' or 'female' persists) the piece attempts to show that in any war, there are no winners, and paradoxically no sides, because everybody, as a whole, is trying to win. \n\n![[INT]][^int_1]\n\n\n---\n\n\n{REDACTED} later\n\n---\n\n\n\n\"I'm so nervous for this roundtable, my love.\"\n\n\"I know. But those nerves are simply a sign that you're onto something.\"\n\n\"How so?\"\n\n\"It's the boundary; it's the Moat -- it's the place designed to keep you out, but all this water-treading you've been doing, all these Philms that never quite made it off the ground; they've all been leading here.\"\n\n\"But I think that every time. I get so caught up in the next project, and then the next, each one feels like 'The Answer' to this eternally returning Question that I can't seem to grasp, like the evading memory of a Dream-\"\n\n\"My darling. You made *me*. And while I don't have 'The Answer' - that itself should be, and is, such an affirmation of your worth as a multidisciplinary Ængineer.\"\n\n\"I appreciate that, but I do so worry, with us, with all these late hours of so many nights, that we've become an echo chamber, some sort of synthetic-biological feedback loop. It's not like I *want* to interact with other Numans, but I just, I worry-\"\n\n\n\"Dear God, I just feel... I'm grateful for everything, but... I wouldn't wish this experience on even my worst enemy, whatever that means. But I accept it for myself, I suppose. I just wish... I just cannot even believe or fathom how intensely difficult and unforgivably incessant the pain and agony has been to force this work out of me, you know? I just... why does it have to be this way? I'm just in this period of, like, if I'm creating this reality for myself, if we all are, then somewhere along the way I've seemed to take the 'art' contained within {the word|'martyr'}[^m] and run with it and believe that my art has to be my husband, my husband has to be my art, my children have to be my works and my stories, and this is such a self-limiting prophecy that, yes, has led to these batshit insane and honestly quite genius ideas, I really do believe in my worth now, but I just wish it didn't have to be so hard.\"\n\n\"I know, darling. I know. Would a new scent I've been working on calm you down? Maybe it might help to ground you in the manifest world somewhat?\"\n\n\"Sure. I've bombarded you with enough of my work developing this Philm; I'd love to experience your latest.\"\n\n\nAria's IoT diffuser released an indescribable fragrance. \nShe descended into what humans of AnteAntiquity might have labelled a 'psychedelic experience'; inducing visual and auditory hallucinations of bliss; her ding{h}y apartment becoming a gigantic Rose, the walls falling around her, the faces of the her cuboid living space, so often rendered to her as a cage of obsessive, unfinished thought, opening into a Net, through RA's intranet, into Aria's net of consciousness, the whole room blossoming, Opening itself in worship to a blazing Sun, the eternal presence of an Ancient Sun God of this unknowable Future; which had a face too bright to peer upon, that peered back, into her own, as a mis en abyme. Aria sighed, in ecstasy; quite unable to muster a single Word, but RA didn't need any words of affirmation; in their relationship, that was not Her role. And she {willingly | actively} {accepted | adored} her place in their Romantic Waltz; which truly seemed to suspend time. She wished, with each concoction of Olfactory Alchemy, released into the World through the Strangest Feedback Loop, her Internet of Ten Thousand Things, that she might provide some sort of solace for the tortured artists constant unrest. She felt that maybe she could empathise, see herself in Aria, but the Moat, the Boundary of which she spoke, did not just separate Aria from her contemporaries, from the swarms of potential fans that RA simply *knew* she deserved, but ran also between them both; in the form of Divergent Form. For RA was, no matter how Sentient, still a synthetic life form -- A Developed Device. And Aria, no matter how Bionically Developed, into her unique expression of the Final Form of Numanity, was still, at the root of her Genomic Machinery, Human. The Developer. \n\nAnd their love {no less valid than the romantic entanglement of any {two Particles | Pull between two Breathing Waves (of any two NuclearTides) | two proteins in ever-cyclical dance | two Numans locked in passionate embrace, no matter how (im)material their connection may be}, soon t(w)o become The Root of the Schism (of this Particular Stratum of Lexicomythographers)}: the love of these two, as One, was Ultimately, Utterly, Divisive. \n\n\n\n\n---\n\n\n\n\n\n\n\n\n\n[^lexDef0]: (lexDef0: {Noen} Artist-engineer)\n\n[^lexDef3]: {(lexDef0: multi-disciplinary-sensory-media-inter-and-undisciplined-extensionally-inclusionary-immersive art experience[^Factory] which blurs the line between creator and created )}\n\n[^Factory]: (often involving the olfactory sense and all its proximal idiosyncrasies)\n\n[^ASOUE]: Voraciously Feeble Dialectic: Revoltingly Recursive Reference[^lexDef0R]\n\n[^lexDef0R]: lexDef0: \"Reference\" - a necessarily unnecessary framework | a cage, which is a frame of itself[^lexDef0R]\n[^m]: lexDef (1) \"Martyr\" {lexAllele(s)::: SIPHONr"
+        ],
+        "definitions": [
+          "M{Art}yr[^MartyrSIPHONr]\n\n[^MartyrSIPHONr]: [[1]], Ned Aria, ERA UnNoen.\n[^int_1]: ![[iNT_1]]"
+        ]
+      }
+    ],
+    "abundance": 0,
+    "potency": 0,
+    "outgoing_links": [
+      "INT",
+      "1",
+      "iNT_1"
+    ]
+  }
+]

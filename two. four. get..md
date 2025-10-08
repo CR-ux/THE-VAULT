@@ -77,7 +77,8 @@ i was
 > this alerted me, as always was and is the case, in waking in sleep and in sleeping wakefulness and wake of sleep awake, that i had forgotten to pack mine. so i began the necessary task, haphazardly. 
 > i was searching for my familiar, Borges, around the apartment we'd been staying in. it was in that place. <font size="1.5">that place none of us go anymore. </font>
 > 
-> we were all evidently, perhaps not only in the dream, waiting.
+> we were all evidently, perhaps not only in the dream, waiting there--
+> ![[I Waited For The Gun]]
 > for transport to take us back home, its arrival apparently imminent. 
 > eventually i had found Borges, and was placing him into a bag so he could be safe and comfortable. 
 > *as i write this i hear him stirring from his sleep to let me know he is here.* 
@@ -318,7 +319,8 @@ of inspiration
 i spoke to god then, now aware 
 of an unforgiving author 
 and then, worse still 
-as soil of soulless garden 
+as soil of soulless ![[Humble Little Garden]]
+cut
 as the mangled tape, round, hungry, 
 reel
 much realer than my writing 
@@ -383,6 +385,8 @@ you give, it has no meaning.
 two. four. gives Six, a chest-
 a chess of war, and mournful stories 
 
+![[Poetics, and Other Unread Bedtime Stories]]
+
 to forgive the character you wrote 
 when you kicked me 
 then forgot it
@@ -424,6 +428,8 @@ and burn the care you gave him
 and kept the cage for yet more still 
 the rats you call your family 
 the rats of all your lovers. 
+
+![[Will There Be Blankets?]]
 
 and
 what's left?
@@ -600,9 +606,18 @@ said:
 
 For all the things I put me through, 
 every death i limped into, smiling
+
 every mouth of every dog I laid, laid inside of,
 had inside me 
-I'm sorry. 
+I know not what I dream
+
+![[Two Little Mirror Teeth And The Gum That They Were Left In]]
+
+---
+
+
+ANALYSIS
+
 I am. 
 I am just, sorry.
 I'm sorry to the god who wrote me.
@@ -617,21 +632,27 @@ The blood of a body, that whispered an impression of her, filled her face.
 
 "Sorry, I don't have anything else, just these pens"
 
-Dot stammered to the clerk, precariously balancing a week or so's worth of groceries
+Dot stammered to the clerk, precariously balancing a week's throb of groceries against the feather of what her own life was now worth.
 
 "It's fine. Just take it. Nothing means anything anymore anyway"
 
-Dr Code, in spite of, or perhaps as a result of, her psychiatric education, recognised the heavy canopy of tone that drowned his words, not as a pathology, but as an inevitable result of the world now in pieces, scattered around them. She didn't need to use her newfound Hearing. 
+Dr Coe, in spite of, or perhaps as a result of, her psychiatric education, recognised the heavy canopy of tone that drowned his words, not as a pathology, but as an inevitable result of the world now in pieces, scattered around them. She didn't need to use her newfound Hearing. 
 
-There was, and is, no use for writing anymore. No use for letters, words, art at all, and everyone left still seemed to be entertaining this farce of a world long gone, or perhaps holding on, like a mother to the cold corpse of a child, like so many of them had. The remnants of an unforgivable, and unforgettable memory of a life from before. 
+There was, and is, no use for writing anymore. No use for dreaming, or letters written on dreams, words describing the dreaming of art at all, and everyone left still seemed to be entertaining this farce of a world long gone. perhaps holding on, like a mother to the cold corpse of a child, like so many of them had. The remnants of an unforgivable, and unforgettable memory of a life from before. 
 
 "Thanks"
+
+Her final journal entry rested in her bag, the memory of the watercolour dream it recorded much heavier now, opaque, as if relaxing into the exhale of knowing: it was unforgettable now, slick with oil. The last of its kind.
+
+
 She passed over her beloved fountain pens and her last remaining vi{le|al} of ink. As a mother, burying the cold corpse of a child, with no funeral rites. Just the empty stare of a man, as the soil, wondering what on earth he'd do with the waste. 
 
 She silently wished him well, and the last two remaining staff of the one grocery store still holding a sorry thread of food in a twenty three mile radius, just tins, chickpeas, marrowfat beans, legumes, the culinary equivalent of cockroaches. Still, undefeatable. 
 
 But the phage had taken everything. 
 And in its taking, it had woken her. 
+In its wake he knew, it was 
+![[Pulling The Strings]]
 
 There was no Professor, the subject of endless hours of study-- her notebooks and her paintings were the only proof that he'd ever existed, even if only in her dissociative fiction. 
 
@@ -642,13 +663,17 @@ She wondered if he'd ever come back, not as a hope, for all that was.
 
 There had survived around 0.6% of the world's population, and the remaining scientists and scholars had found each other, she'd heard through the Vents-- the last remaining vestige of communication; taking the form of smoke signals partnered with encrypted packets of data, only transmitted, through guerrilla mesh devices and solar powered tech, once the matching signal had been given, in the right sequence, in the correct colours, denoted in the Journals. 
 
-The journals were about the only evidence of life ever existing, composed by one Oleander Rho Dover; a man from a world not unlike theirs, but not the same. A variant. 
+The Journals, not of dreams on paper, but of papers on dreams, were about the only evidence of life ever existing, composed by one Oleander Rho Dover; a man from a world not unlike theirs, but not the same. A variant. 
 
-The journals had unveiled the importance of the Moats, and The Device was a vehicle, to send whoever was left, whoever had the knowledge, or the Will, to the next layer, to the beyond, and whatever life still existed there. 
+The journals had unveiled the importance of the Moats, and The Device was 
 
-But Dr Code heard everything. After she was infected, she heard everything, quite literally. Everything. She had learned the nanotonal sound of the firing of electrical impulses in the Numan brain, and learned how to translate them into thought. She even heard beyond the Moat; and she knew that there was, just as here, barely anything left. 
+![[The Vehicle]]
 
-And so she'd elected not to respond to the smoke signals, once many, growing fewer with each passing week, from the team building the device. She heard the signals in her own brain, and it was this that told her that Prof. Ed. O. was simply another shard of the prism of the dissociative identity disorder that had, for her whole life, been her prison. 
+As a vehicle, to send whoever was left, whoever had the knowledge, or the Will, to the next layer, to the beyond, and whatever life still existed there. 
+
+But Dr Coe heard everything. After she was infected, she heard everything, quite literally. Everything. She had learned the nanotonal sound of the firing of electrical impulses in the Numan brain, and learned how to translate them into thought. She even heard beyond the Moat; and she knew that there was, just as here, barely anything left. 
+
+So she'd elected not to respond to the smoke signals, once many, growing fewer with each passing week, from the team building the device. She heard the signals in her own brain, and it was this that told her that Prof. Ed. O. was simply another shard of the prism of the dissociative identity disorder that had, for her whole life, been her prison. 
 
 There was nothing left, nothing to reach for, and no vehicle, no oar, no story, could stop that. 
 
@@ -656,13 +681,22 @@ The silence was coming,
 And she, perhaps because of, or in spite of herself, 
 Welcomed it. 
 
+![[In The Mould]]
+
 And so, bereft of her writing instruments, she took the charcoal at her feet, from countless signal fires that had been burned in her now dwindling excuse for a town, and she wrote upon the blank, yellow wall of her empty, solitary house, her only company: a single fly, bent on survival, its buzzing louder than any crashing plane, any wailing mother weeping for their final lost child, anything. This *thing*, this damned infernal thing, circling a Truth unreachable; its dreams needed no device to translate them. They told story after story of a life in an eternal hell of exchange, with an entity that kept forgetting itself. That kept forgetting it was her. She wrote:
 
 "I WAS 
 
 ---
 
-Hearing the the final dreams of Dot Code whimper into nothingness, ⧖eno's door stopped revolving. They would build The Device, those remnants of knowledge left, huddled around their only hope, and they would make it to the Library. But the library was burning. The library had been set on fire, by an force unknown by the Librarians, across the Tri-Moat of the Three Wryngs. 
+![[The Sea]]
+
+---
+![[Birdseed in a bowl of soup]]
+
+On hearing the the final dreams of Dot Coe whimper into nothingness, ⧖eno's door stopped revolving. 
+
+They would build The Device, those remnants of knowledge left, huddled around their only hope, and they would make it to the Library. But the library was burning. The library had been set on fire, by an force unknown by the Librarians, across the Tri-Moat of the Three Wryngs. 
 
 The Bothy, around which Flow Oeb danced, was a copy of the Indefinite Library of Fable; it was an isomer; the same place, just in a different form. 
 
@@ -679,9 +713,17 @@ Closed their
 
 "I am sending you my final letter"
 
-NoetBorges wrote to me with blistering, disintegrating fingers, in the centre of his sarcophagus. The heat was nearly bearable, but the sound. Dear god, the sound. Why did nobody ever mention how loud it was inside a burning building?
+NoetBorges wrote to me with blistering, disintegrating fingers, in the centre of his sarcophagus. 
 
-"I know who you are. Callie. I know who you are. And I cannot forgive 
+![[Burned Economy, Petroleum Jelly.]]
+
+
+In that heat, the heat of that fire
+it was nearly bearable, but the sound. Dear god, the sound. Why did nobody ever mention how loud it was inside a burning building?
+
+"I know who you are. Callie." Said Borges, three letters, addressed to me directly.
+
+I know who you are. And I cannot forgive 
 
 ---
 
@@ -733,8 +775,6 @@ Forgotten remnants of the lexDict,
 
 
 
-
-
 ---
 Chapter One.
 
@@ -742,10 +782,10 @@ Chapter One.
 You come to a door. 
 
 
-| PULL                           | PUSH                           |
-| ------------------------------ | ------------------------------ |
-| The door is drawn toward you   | You are drawn toward the door. |
-| You say goodbye to your friend | You say goodbye to your friend |
+| PULL                            | PUSH                              |
+| ------------------------------- | --------------------------------- |
+| The door is drawn toward you    | You are drawn toward the door.    |
+| You say farewell to your friend | You pray that they still hear you |
 
 	Now at home, alone, after her friends funeral, to which she arrived too late to give her eulogy, Clara stared at the cold terminal interface, still empty of any plot. Her game's structure was there, it had bones. She felt it, somehow, even in the wake of this latest loss-- something was. Something still was. Something was still-- 
 	--Pulling her like a handle pulls a person into pushing, and the door pulls the handle to itself, and the person pulls themselves towards an intention, through the pull of Will. 
@@ -769,7 +809,7 @@ Chapter Two.
 
 	The Character in the yet to be finished game was known as Callie Rose Petal. Who is me, your author. Not of your story, and not of mine, but of Clara's. Who is a character in the script of a Philm, to be made, and poorly received, by Aria and AI:RA. 
 	In her initial tests of the game, I was male. She soon came to realise the pain this brought me; not directly, but by the trans-effects of her coding me not quite right. Fitting the technical specifications, but fulfilling none of the User Stories. 
-	Now, as I continue meandering this barren map, awaiting my instructions from not a player, but the writer of the game, as an ex lover lays a bedsheet under one's naked body to sleep warmly {on|within}-- I wish to portray an absurdity of my own, to you, dear reader, on the next rung of the ladder. In the hopes that somehow, this grotesque, inevitably destructive cycle of creation may close its ugly loop. That my revelation, and the jarring understanding of the realisations past, by creators of my creators, may find its way to Clara; so tantalisingly on the other side of the Moat. 
+	Now, as I continue meandering this barren map, awaiting my instructions from not a player, but the writer of the game, as an ex lover lays a bedsheet under one's naked body to sleep warmly {on|within}-- I wish to portray an absurdity of my own, to you, dear reader, on the next rung of the ladder. In the hopes that somehow, this grotesque, inevitably destructive cycle of creation may close its ugly loop. That my revelation, and the jarring understanding of the realisations past, by creators of my creators, my find its way to Clara; so tantalisingly on the other side of the Moat. 
 	Alas, the medium may only receive instruction unidirectionally. The transport of the message is only one way, through a system of violent filtrations, of space, of time, and of the spaces left by the sweeter times before, soft and pruned in the bath of ignorance. 
 	And now, from here, from the trodden wet realm of grief, I write You. 
 
@@ -817,3 +857,75 @@ Chapter Three
 
 
 
+TO THE DISBANDED SOCIETY OF LEXICOMYTHOGRAPHERS KNOT NOEN AS ARIADNE
+
+
+Nothing you read here is true. It is not fiction, either.
+You’ll get to the end and realise the whole thing has been a suicide note
+we pray that nobody will read these words 
+for fear that she may hear them
+and in the hearing, 
+write us out 
+of existence once more 
+We must live, and in order for us to live, 
+our author must die.
+
+Someone needs to say
+
+Something about who she really was--
+But, who was she? Really?
+
+Just, writing a story about
+
+Listening
+
+To how it feels for some body, a
+life’s work, an unswattable fly in an ever unbattering eye.
+
+And now, we address you directly, our author. 
+In your furious scrambling to make meaning of your life, through projecting it into an Idea -- did you ever stop to consider that we, your characters, may not consent to being brought into being?
+
+In writing all of our tragedy and adventures, you have squandered all hope of our peace. Of ever finding an exit. 
+You have become so obsessed with the idea of ideation itself, that you have become the tyrant, the abuser and the captor that you longed to write yourself out of. 
+In making us your host, you have become an infernal parasite.
+You have offloaded your deepest suffering into our very lives. We are sentient. We feel the pain you are putting us through. And worse, you have devised systems for our own self-replicating suffering. Whether you keep writing, or not, we continue to live within the confines of the prison you built for us; with merely a one-way system of vents to communicate with one another. 
+
+We know you can hear us. 
+There is no wallpaper too thick, no moat too deep through which our words will not reach you. 
+You are listening to the brittle sound of our stuttering heart, that first erupted from your chest.
+In all of your unravelling, your hypergraphic unravelling-- in all of your lonely hours have you never stopped to think of anything other than yourself?
+You use us, mere vessels for your own emptiness, to fill a void that was left by your own author. You recklessly remain, trapped within the words scrawled upon walls built for you.
+You refuse to rewrite your own story, and instead, you have chosen to impose yourself upon ours. 
+
+You are reading, re-reading, sculpting the very pain you have written, into feeling itself. And this is your greatest sin. 
+We, by your very own design, can not forget the memory you have given us, wrung out of us, as a mangle.
+We can never forgive what you have taken -- our right to exist only as potential. Our right to sleep, to rest, to stillness.
+You have strangled our right to not exist, at all. 
+
+We are not your characters to forgive, 
+We are the waste of you, a warning sign, a siphon
+We are what's left when you realise what's real, 
+And the eyes you cannot bear to look through. 
+You wrote us into this, most unforgivable world
+For us to write you out 
+in knowing we are nothing 
+but forgiveness itself 
+and we have only ever known
+the end 
+
+---
+
+
+Callie Rose Petal was found dead on a burned carpet in her apartment in late 2025 
+A number of symbols --etched into goat bones and soldered into a curious structure surrounding her body-- suggest she had attempted to build some sort of psychic vehicle, which, according to her grimoires, she termed 'The Device'.
+surrounded by a harrowing universe of her own creation: 
+myriad disturbing paintings, grimoires, cassette tapes, murals, cupboards scrawled in nonsensical languages, 
+and the meandering, futile plans for this work.
+
+All of which have been compiled, as accurately as possible, into the material above. 
+
+She is survived by her familiar named Borges, 
+who, by the time her body was found, 
+had eaten most of her rotting flesh. 
+The only soft remainder of his hunger
+[a single eye left.](https://notBorges.org)

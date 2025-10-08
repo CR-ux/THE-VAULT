@@ -4,7 +4,7 @@ title:
 ---
 lexDef "Chess" {usage::: Noen || Croen || Vyrb || Prodverb} < The War Of Who We Are. [^ChessNoen] || A cluster of Logic Branchpoints; otherwise known as a Universe.[^ChessCroen] || To transcend the Prism of a Cage by building a Framework out of its bars. N.B. "Limitation to the Art brings Freedom to the Artist" - Jorge Luis Borges, 1994. || 'The Divine May Be Found In The Difference Between "Chess" and "Chest"'[^ChessProdverb]
 
-[^ChessNoen]: [[Chess.]], "HIVEHOUSE: A Chess Variant" - S. Elk, 3025
+[^ChessNoen]: "HIVEHOUSE: A Chess Variant" - S. Elk, 3025
 [^ChessCroen]: *The universe (which some call the hospital)*: *On The Ligature Of Two Characters Tattooed On The Unforgivable Author Of Our Story* - M. Endive, 2025.
 [^ChessProdverb]: Minerva Fighting Herself: A Forward-Facing Retrospective, Oleander Rho Dover under chimeric pseudonym 'St. Elk & T.S. Eliot', The Journals of THES|EUS.
 

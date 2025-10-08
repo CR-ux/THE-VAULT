@@ -10,3 +10,6 @@ permalink: Ritual steps for warming
 5. If this is not possible, and it is impossible that it is not, let me hold you, which is a fire, destined for a box
 6. Keep going.
 
+> [!meta]- -S. Elk, ERA_EA
+> Prologue to 
+> A [[THE GRIMOIRE OF SELENA ELK|Grimoire]]. ERA_EA

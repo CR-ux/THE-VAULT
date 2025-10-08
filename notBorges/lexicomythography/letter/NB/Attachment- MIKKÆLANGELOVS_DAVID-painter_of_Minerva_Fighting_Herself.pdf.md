@@ -6,7 +6,7 @@ ABSTRACT
 
 ---
 
-What follows is an intronic splice from Noet. Borges' *Letters-*
+What follows is an intronic splice from Noet. Borges' *Letters-*[^letter]
 *Essays in Lexicomythographic Ræligious Studies and the Ancient Art of Heartbreak*, 23000BCE. 
 
 METHODOLOGY
@@ -57,4 +57,5 @@ The Indefinite Library of Fable.
 
 [^CM]: lexDef (Xlibris): {lexAllele(s)::: Noen} Quantum Sculpture is the very risky practice of allowing artwork to become aware of itself.
 [^magus]: The cave painting known as “The Sorcerer” was once located in the Cave of the Trois-Frères (_Grotte des Trois-Frères_), situated in Southwestern France. It has since been absorbed through the process of Ligature Teleportation[^LT] to the Magura Caves, Bulgaria, where it sits atop a hexagonal chessboard pattern. Endivean Analysis has unveilled the titular, previously anonymised 'Sorcerer' as 'VIXI'; the Grand {Master|Scape{goat|serpent|pigeon}}. 
-[^LT]:See The *'Why's and 'Whereabouts' of Ligature Teleporation* (⧖eno & N, XXIII_ERA_i|o)
+[^LT]:See *[[PSALM IX|The 'Why's and 'Whereabouts' of Ligature Teleporation]]* (⧖eno & N, XXIII_ERA_i|o)
+[^letter]: **[[G IS FOR|G is for Guide, what you did to the character, and G is for Getting the letter too late.]]**

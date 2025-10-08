@@ -163,7 +163,7 @@ so everyone is, all ways, late.
 [^message]: Which may take the form, or Mode[^mo], of a Letter[^letter]
 [^letter]: Which is a {Character|Means of Communication Between Two Characters|Form of Transport[^mo]|That From Which A Word[^word] Is Formed}
 [^word]: Which is a constituent part of A Letter[^letter] to a Character[^char]
-[^char]: ![[CHARACTER (Φ)]]
+[^char]: ![[Character.]]
 [^Ne]:*A streaming** service***: **A word which here means an alternative but self-similar modality[^mo] of experiencing either music or media, or a river which returns to the sea to be cycled back to the sky to be rained down into as the tears may stream from a human being's face or from an animal forced against its will into traumatic experiments conducted upon them for the frivolous purposes of the synthesis of cosmetic products such as baby shampoo bearing the subtitle: 'no tears!' in a deeply unfortunate series of non-consensual events of animal cruelty
 
 [^ser]:A word which does not here mean 'serving the greater good' but may or may absolutely not mean 'service of worship of a higher power' here

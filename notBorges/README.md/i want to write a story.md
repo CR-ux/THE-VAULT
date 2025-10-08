@@ -66,9 +66,9 @@ permalink: i want to write a story
 <div style="font-size:2.2pt;">think</div>
 <div style="font-size:2.2pt;">ink</div>
 <div style="font-size:2.2pt;">in</div>
-<div style="font-size:2.2pt;">ink</div>
-<div style="font-size:2.2pt;">think</div>
-<div style="font-size:2.2pt;">think callie.</div>
+<div style="font-size:2.2pt;">the ink in i think i have an inkling or i</div>
+<div style="font-size:2.2pt;">think the ink in increments of thinking i am callie</div>
+<div style="font-size:2.2pt;">think in callie.</div>
 <div style="font-size:2.2pt;">i think i am callie</div>
 <div style="font-size:2.8pt;">i think, therefore, callie</div>
 <div style="font-size:2.0pt;">i am</div>

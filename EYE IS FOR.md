@@ -4,7 +4,7 @@
 **🜁  / ♙ | OBS: 12:00 | Q=10⁻⁵**
 ****
 **Isn't N for** 
-![[I]]
+![[notBorges/notBorges/I|I]]
 
 **🜂 / ♞  | OBS: 15:00 | ε=0.007**
 ****

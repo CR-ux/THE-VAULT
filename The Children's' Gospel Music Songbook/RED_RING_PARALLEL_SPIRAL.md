@@ -1,3 +1,11 @@
+---
+cssclass: disappear
+cssclasses: disappear
+---
+
+
+
+
 <div class="depth-0 parallel-mirror">---
 permalink: RED_RING_PARALLEL
 ---</div>
